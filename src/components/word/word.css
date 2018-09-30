@@ -1,16 +1,3 @@
-.word__japanese {
-    padding: 2px;
-    background-color: #eee;
-    border-radius: 3px;
-    color: #cc0000;
-    cursor: pointer;
-}
-
 .word__japanese + .word__japanese {
     margin-left: 5px;
-}
-
-.word__japanese:hover {
-    background-color: #bbb;
-    color: #f00;
 }

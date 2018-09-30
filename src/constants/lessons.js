@@ -443,5 +443,185 @@ export default [
                 transcription: 'akihabara'
             },
         ]
+    },
+    {
+        title: 'Lesson 7',
+        words: [
+            {
+                japanese: 'この',
+                translation: 'этот, та',
+                transcription: 'kono'
+            },
+            {
+                japanese: 'その',
+                translation: 'этот, эта; тот, та',
+                transcription: 'sono'
+            },
+            {
+                japanese: 'あの',
+                translation: 'тот, та',
+                transcription: 'ano'
+            },
+            {
+                japanese: 'どの',
+                translation: 'который, какой',
+                transcription: 'dono'
+            },
+            {
+                japanese: ['このひと', 'あのひと'],
+                translation: 'он, она',
+                transcription: 'konohito'
+            },
+            {
+                japanese: 'どのひと',
+                translation: 'кто, который (из них)',
+                transcription: 'donohito'
+            },
+            {
+                japanese: 'かた',
+                translation: 'лицо, человек',
+                transcription: 'kata'
+            },
+            {
+                japanese: ['このかた', 'あのかた'],
+                translation: 'он, она (вежл.)',
+                transcription: 'konokata'
+            },
+            {
+                japanese: 'どのかた',
+                translation: 'кто, который (из них)',
+                transcription: 'dana kata'
+            },
+            {
+                japanese: 'こちら',
+                translation: 'здесь, эта сторона',
+                transcription: 'kochira'
+            },
+            {
+                japanese: 'そちら',
+                translation: 'здесь, эта сторона; там, та сторона',
+                transcription: 'sochira'
+            },
+            {
+                japanese: 'あちら',
+                translation: 'там, та сторона',
+                transcription: 'achira'
+            },
+            {
+                japanese: 'どちら',
+                translation: 'где, какая сторона',
+                transcription: 'dochira'
+            },
+            {
+                japanese: 'マーク',
+                translation: 'знак, обозначение (mark)',
+                transcription: 'maku'
+            },
+            {
+                japanese: 'だれ',
+                translation: 'кто',
+                transcription: 'dare'
+            },
+            {
+                japanese: 'どなた',
+                translation: 'кто (вежл.)',
+                transcription: 'donata'
+            },
+            {
+                japanese: 'なにじん',
+                translation: 'кто (по национальности)',
+                transcription: 'nanijin'
+            },
+            {
+                japanese: 'にほんじん',
+                translation: 'японец, японка',
+                transcription: 'nihonjin'
+            },
+            {
+                japanese: 'ロシアじん',
+                translation: 'русский, русская',
+                transcription: 'roshiajin'
+            },
+            {
+                japanese: 'フランスじん',
+                translation: 'француз, француженка',
+                transcription: 'furansujin'
+            },
+            {
+                japanese: ['おとこ', 'おとこのひと'],
+                translation: 'мужчина',
+                transcription: 'otoko'
+            },
+            {
+                japanese: ['おんな', 'おんなのひと'],
+                translation: 'женщина',
+                transcription: 'onna'
+            },
+            {
+                japanese: 'こ',
+                translation: 'ребёнок',
+                transcription: 'ko'
+            },
+            {
+                japanese: 'おとこのこ',
+                translation: 'мальчик',
+                transcription: 'otokonoko'
+            },
+            {
+                japanese: 'おんなのこ',
+                translation: 'девочка',
+                transcription: 'onnanoko'
+            },
+            {
+                japanese: 'だいがくせい',
+                translation: 'студент университета',
+                transcription: 'daigakusei'
+            },
+            {
+                japanese: 'こうこうせい',
+                translation: 'ученик средней школы',
+                transcription: 'kokosei'
+            },
+            {
+                japanese: 'どうぞ',
+                translation: 'пожалуйста',
+                transcription: 'dozo'
+            },
+            {
+                japanese: 'はじめまして',
+                translation: 'рад знакомству',
+                transcription: 'hajimemashite'
+            },
+            {
+                japanese: ['どうぞよろしく', 'こちらこそ'],
+                translation: 'Прошу любить и жаловать',
+                transcription: 'dozoyoroshiku'
+            },
+            {
+                japanese: 'どうぞこらちへ',
+                translation: 'пожалуйста, сюда',
+                transcription: 'dozokorachihe'
+            },
+            {
+                japanese: 'ロシア',
+                translation: 'Россия',
+                transcription: 'roshia'
+            },
+            {
+                japanese: 'モスクワ',
+                translation: 'Москва',
+                transcription: 'mosukuwa'
+            },
+            {
+                japanese: 'ペテルブールグ',
+                translation: 'Петербург',
+                transcription: 'peteruburugu'
+            },
+            {
+                japanese: 'しつれいですが',
+                translation: 'прошу прощения',
+                transcription: 'shitsureidesuga'
+            }
+        ]
     }
 ];

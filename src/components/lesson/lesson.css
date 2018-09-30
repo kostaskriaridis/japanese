@@ -1,4 +1,16 @@
 .lesson {
     flex-grow: 1;
-    width: 33%;
+    width: 49%;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 2px solid #eee;
+    border-radius: 5px;
+}
+
+.lesson:nth-child(2n + 2) {
+    margin-left: 2%;
+}
+
+.lesson__title {
+    margin-bottom: 10px;
 }
