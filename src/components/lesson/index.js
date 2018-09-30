@@ -1,5 +1,6 @@
 import React, { PureComponent } from 'react';
 import Word from '../word';
+import './lesson.css';
 
 export default class Lesson extends PureComponent {
     render() {
