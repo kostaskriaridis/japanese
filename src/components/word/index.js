@@ -1,22 +1,42 @@
-import React, { PureComponent } from 'react'
+import React, { PureComponent, Fragment } from 'react'
 import './word.css';
 
 const GOOGGLE_TRANSLATE_ENDPOINT = 'https://translate.google.com/?hl=ru#ja/ru';
 
 export default class Word extends PureComponent {
     render() {
-        const { japanese, translation } = this.props;
+        const { translation } = this.props;
 
         return (
             <div className='word'>
-                <span className='word__japanese' onClick={this.handleClickJapanese}>
-                    {japanese}
-                </span>
-                {' '}
+                {this.renderJapaneseWord()}
+                {' — '}
                 <span className='word__translation'>
                     {translation}
                 </span>
             </div>
+        );
+    }
+
+    renderJapaneseWord() {
+        const { japanese } = this.props;
+
+        if (Array.isArray(japanese)) {
+            return (
+                <Fragment>
+                    {japanese.map(word => (
+                        <span className='word__japanese' onClick={this.handleClickJapanese}>
+                            {word}
+                        </span>
+                    ))}
+                </Fragment>
+            );
+        }
+
+        return (
+            <span className='word__japanese' onClick={this.handleClickJapanese}>
+                {japanese}
+            </span>
         );
     }
 
