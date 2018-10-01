@@ -683,6 +683,11 @@ export default [
                 japanese: 'むずかしすぎます',
                 translation: 'Это слишком сложно',
                 transcription: 'muzukashisugimasu'
+            },
+            {
+                japanese: 'これおかしいでしょ',
+                translation: 'Этого не должно было произойти',
+                transcription: 'koreokashideshyo'
             }
         ]
     }
