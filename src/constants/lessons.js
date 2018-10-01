@@ -838,6 +838,11 @@ export default [
                 japanese: 'リヨン',
                 translation: 'Лион (город во Франции)',
                 transcription: 'riyon'
+            },
+            {
+                japanese: 'しゅっしん',
+                translation: 'Город рождения',
+                transcription: 'shyushin'
             }
         ]
     }
