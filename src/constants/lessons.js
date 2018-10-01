@@ -690,5 +690,155 @@ export default [
                 transcription: 'koreokashideshyo'
             }
         ]
+    },
+    {
+        title: 'Lesson 8',
+        words: [
+            {
+                japanese: 'たてもの',
+                translation: 'здание',
+                transcription: 'tatemono'
+            },
+            {
+                japanese: 'へや',
+                translation: 'комната',
+                transcription: 'heya'
+            },
+            {
+                japanese: 'ガラス',
+                translation: 'стекло',
+                transcription: 'garasu'
+            },
+            {
+                japanese: 'まど',
+                translation: 'окно',
+                transcription: 'mado'
+            },
+            {
+                japanese: 'ひろい',
+                translation: 'просторный, широкий',
+                transcription: 'hiroi'
+            },
+            {
+                japanese: 'せまい',
+                translation: 'узкий, тесный',
+                transcription: 'semai'
+            },
+            {
+                japanese: 'とおい',
+                translation: 'далёкий, дальний',
+                transcription: 'tooi'
+            },
+            {
+                japanese: 'ちかい',
+                translation: 'близкий, ближний (о расстоянии)',
+                transcription: 'chikai'
+            },
+            {
+                japanese: 'はやい',
+                translation: 'рано, ранний; быстрый',
+                transcription: 'hayai'
+            },
+            {
+                japanese: 'おそい',
+                translation: 'поздно, поздний',
+                transcription: 'osoi'
+            },
+            {
+                japanese: 'あかるい',
+                translation: 'светлый, ясный; приветливый',
+                transcription: 'akarui'
+            },
+            {
+                japanese: 'くらい',
+                translation: 'тёмный',
+                transcription: 'kurai'
+            },
+            {
+                japanese: 'やすい',
+                translation: 'дешёвый',
+                transcription: 'yasui'
+            },
+            {
+                japanese: 'みじかい',
+                translation: 'короткий',
+                transcription: 'mijikai'
+            },
+            {
+                japanese: ['にぎやか', 'にぎやかな'],
+                translation: 'оживлённый, людный',
+                transcription: 'nigiyaka'
+            },
+            {
+                japanese: 'うるさい',
+                translation: 'шумный, надоедливый',
+                transcription: 'urusai'
+            },
+            {
+                japanese: 'くろい',
+                translation: 'чёрный',
+                transcription: 'kuroi'
+            },
+            {
+                japanese: 'どんな',
+                translation: 'какой, какая',
+                transcription: 'donna'
+            },
+            {
+                japanese: 'とても',
+                translation: 'очень',
+                transcription: 'totemo'
+            },
+            {
+                japanese: 'あまり',
+                translation: 'не очень (с отриц.); слишком',
+                transcription: 'amari'
+            },
+            {
+                japanese: 'すこし',
+                translation: 'немного, чуть',
+                transcription: 'sukoshi'
+            },
+            {
+                japanese: 'もう',
+                translation: 'уже',
+                transcription: 'moo'
+            },
+            {
+                japanese: 'まだ',
+                translation: 'ещё не',
+                transcription: 'mada'
+            },
+            {
+                japanese: 'クラス',
+                translation: 'класс; группа',
+                transcription: 'kurasu'
+            },
+            {
+                japanese: 'がくせい',
+                translation: 'студент, учащийся',
+                transcription: 'gakusei'
+            },
+            {
+                japanese: 'ええ',
+                translation: 'да',
+                transcription: 'ee'
+            },
+            {
+                japanese: 'おはようございます',
+                translation: 'доброе утро',
+                transcription: 'ohayoogozaimasu'
+            },
+            {
+                japanese: 'きさらず',
+                translation: 'Кисарадзу (город в Японии)',
+                transcription: 'kisaradzu'
+            },
+            {
+                japanese: 'リヨン',
+                translation: 'Лион (город во Франции)',
+                transcription: 'riyon'
+            }
+        ]
     }
 ];

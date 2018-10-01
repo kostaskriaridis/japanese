@@ -26,6 +26,7 @@ export default class Word extends PureComponent {
                     {japanese.map((word, index) => (
                         <WordJapanese
                             key={index}
+                            className='word__japanese'
                             text={word} />
                     ))}
                 </Fragment>

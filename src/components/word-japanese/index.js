@@ -11,13 +11,13 @@ export default class WordJapanese extends PureComponent {
         });
 
         return (
-            <span className={wordClass} onClick={this.handleClickJapanese}>
+            <a
+                href={`${GOOGGLE_TRANSLATE_ENDPOINT}/${text}`}
+                target='_blank'
+                rel='noreferrer noopener'
+                className={wordClass}>
                 {text}
-            </span>
+            </a>
         );
     }
-
-    handleClickJapanese = () => {
-        window.open(`${GOOGGLE_TRANSLATE_ENDPOINT}/${this.props.text}`)
-    };
 }
