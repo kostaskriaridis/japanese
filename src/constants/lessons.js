@@ -626,6 +626,11 @@ export default [
                 japanese: 'わかりました',
                 translation: 'я понимаю',
                 transcription: 'wakarimashita'
+            },
+            {
+                japanese: 'なるほど',
+                translation: 'понимаю',
+                transcription: 'naruhodo'
             }
         ]
     },
