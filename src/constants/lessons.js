@@ -647,56 +647,6 @@ export default [
     },
     */
     {
-        title: 'Complaints',
-        words: [
-            {
-                japanese: 'うるさいです',
-                translation: 'Это шумно',
-                transcription: 'urusaidesu'
-            },
-            {
-                japanese: 'あついです',
-                translation: 'Это горячо',
-                transcription: 'atsuidesu'
-            },
-            {
-                japanese: 'さむいです',
-                translation: 'Это холодно',
-                transcription: 'samuidesu'
-            },
-            {
-                japanese: 'これわたかすげる',
-                translation: 'Это очень дорого',
-                transcription: 'kerowatakasugeru'
-            },
-            {
-                japanese: 'うそでしょ',
-                translation: 'Ты издеваешься?',
-                transcription: 'usodeshyo'
-            },
-            {
-                japanese: 'つかれているんです',
-                translation: 'Я устал',
-                transcription: 'tsukareteirundesu'
-            },
-            {
-                japanese: 'わたしわきにいりません',
-                translation: 'Мне это не нравится',
-                transcription: 'watashiwakiniirimasen'
-            },
-            {
-                japanese: 'むずかしすぎます',
-                translation: 'Это слишком сложно',
-                transcription: 'muzukashisugimasu'
-            },
-            {
-                japanese: 'これおかしいでしょ',
-                translation: 'Этого не должно было произойти',
-                transcription: 'koreokashideshyo'
-            }
-        ]
-    },
-    {
         title: 'Lesson 8',
         words: [
             {
@@ -848,6 +798,66 @@ export default [
                 japanese: 'しゅっしん',
                 translation: 'Город рождения',
                 transcription: 'shyushin'
+            }
+        ]
+    },
+    {
+        title: 'Complaints',
+        words: [
+            {
+                japanese: 'うるさいです',
+                translation: 'Это шумно',
+                transcription: 'urusaidesu'
+            },
+            {
+                japanese: 'あついです',
+                translation: 'Это горячо',
+                transcription: 'atsuidesu'
+            },
+            {
+                japanese: 'さむいです',
+                translation: 'Это холодно',
+                transcription: 'samuidesu'
+            },
+            {
+                japanese: 'これわたかすげる',
+                translation: 'Это очень дорого',
+                transcription: 'kerowatakasugeru'
+            },
+            {
+                japanese: 'うそでしょ',
+                translation: 'Ты издеваешься?',
+                transcription: 'usodeshyo'
+            },
+            {
+                japanese: 'つかれているんです',
+                translation: 'Я устал',
+                transcription: 'tsukareteirundesu'
+            },
+            {
+                japanese: 'わたしわきにいりません',
+                translation: 'Мне это не нравится',
+                transcription: 'watashiwakiniirimasen'
+            },
+            {
+                japanese: 'むずかしすぎます',
+                translation: 'Это слишком сложно',
+                transcription: 'muzukashisugimasu'
+            },
+            {
+                japanese: 'これおかしいでしょ',
+                translation: 'Этого не должно было произойти',
+                transcription: 'koreokashideshyo'
+            }
+        ]
+    },
+    {
+        title: 'Phrases',
+        words: [
+            {
+                japanese: 'すみません、はじめまして、わたしわコスタスです。よろしくおねがいします。',
+                translation: 'Простите, приятно познакомиться, меня зовут Костас. Рад знакомству.',
+                transcription: 'sumimasen'
             }
         ]
     }
