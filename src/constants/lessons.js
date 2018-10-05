@@ -860,5 +860,35 @@ export default [
                 transcription: 'sumimasen'
             }
         ]
+    },
+    {
+        title: 'Japanese pod 101',
+        words: [
+            {
+                japanese: 'めんきょ',
+                translation: 'Лицензия',
+                transcription: 'menkyo'
+            },
+            {
+                japanese: 'つまらない',
+                translation: 'Скучный',
+                transcription: 'tsumaranai'
+            },
+            {
+                japanese: 'うんてん',
+                translation: 'Водить',
+                transcription: 'unten'
+            },
+            {
+                japanese: 'あぶない',
+                translation: 'Опасность',
+                transcription: 'abunai'
+            },
+            {
+                japanese: 'ちょっと',
+                translation: 'Немного',
+                transcription: 'chotto'
+            }
+        ]
     }
 ];
