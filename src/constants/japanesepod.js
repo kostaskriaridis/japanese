@@ -1,5 +1,38 @@
 export default [
     {
+        title: 'In Japan, It\'s All in the Numbers',
+        words: [
+            {
+                japanese: 'かいしゃ',
+                translation: 'Корпорация',
+                transcription: 'kaishya'
+            },
+            {
+                japanese: 'でんわ',
+                translation: 'Телефон',
+                transcription: 'denwa'
+            },
+            {
+                japanese: 'ばんごう',
+                translation: 'Номер',
+                transcription: 'bango'
+            },
+            {
+                japanese: 'ぱそこん',
+                translation: 'Персональный компьютер',
+                transcription: 'pasokon'
+            }
+        ]
+    },
+    // {
+    //     title: '',
+    //     words: [
+    //         {
+
+    //         }
+    //     ]
+    // },
+    {
         title: 'Your Love of Japanese Will Drive You to Common Grounds.',
         words: [
             {

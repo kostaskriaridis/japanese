@@ -1,12 +1,12 @@
 .word-japanese {
     padding: 2px;
     text-decoration: none;
-    background-color: #eee;
+    background-color: #e5ffe5;
     border-radius: 3px;
-    color: #cc0000;
+    color: #009900;
+    font-size: 20px;
 }
 
 .word-japanese:hover {
-    background-color: #d6d6d6;
-    color: #e50000;
+    background-color: #ccffcc;
 }

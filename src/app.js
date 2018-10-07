@@ -23,6 +23,7 @@ export default class App extends PureComponent {
                 <div className='nav'>
                     {pages.map(page => (
                         <Button
+                            key={page.type}
                             active={this.state.lessonsType === page.type}
                             onClick={() => this.handleChangeLessonsType(page.type)}>
                             {page.text}
