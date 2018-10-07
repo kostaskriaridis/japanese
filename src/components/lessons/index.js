@@ -1,8 +1,6 @@
-import React, { PureComponent } from 'react';
+import React, { Fragment, PureComponent } from 'react';
 import Lesson from '../lesson';
-import WordJapanese from '../word-japanese';
-import lessons from '../../constants/lessons';
-import { GOOGGLE_TRANSLATE_ENDPOINT } from '../../constants';
+// import WordJapanese from '../word-japanese';
 import './lessons.css';
 
 export default class Lessons extends PureComponent {
@@ -14,21 +12,15 @@ export default class Lessons extends PureComponent {
         const { value } = this.state;
 
         return (
-            <div className='root'>
+            <Fragment>
                 <input
                     className='input'
                     placeholder='Введите слово'
                     type='text'
                     value={value}
                     onChange={this.handleChangeInput} />
-                <button
-                    className='button'
-                    disabled={!value}
-                    onClick={this.handleClickButton}>
-                    Найти в Google
-                </button>
                 <div className='lessons'>
-                    {lessons.map((lesson, index) =>(
+                    {this.props.lessons.map((lesson, index) =>(
                         <Lesson
                             key={index}
                             value={value}
@@ -36,6 +28,7 @@ export default class Lessons extends PureComponent {
                             words={lesson.words} />
                     ))}
                 </div>
+                {/*
                 <div>
                     <div>
                         Местоимения с <WordJapanese text='こ' /> указывают на то, что принадлежит говорящему или находится рядом с ним. Местоимения с <WordJapanese text='そ' /> указывают на то, что принадлежит собеседнику пли находится рядом с ним.
@@ -53,13 +46,10 @@ export default class Lessons extends PureComponent {
                         При обозначении места, где находятся говорящие (улица, пощать, здание и т.п.), употребляют <WordJapanese text='ここ' />. Удалённое от говорящий место называют <WordJapanese text='あそこ' />.
                     </div>
                 </div>
-            </div>
+                */}
+            </Fragment>
         );
     }
-
-    handleClickButton = () => {
-        window.open(`${GOOGGLE_TRANSLATE_ENDPOINT}/${this.state.value}`);
-    };
 
     handleChangeInput = event => {
         this.setState({

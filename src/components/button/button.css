@@ -1,0 +1,19 @@
+.button {
+    padding: 10px;
+    border-radius: 3px;
+    border: 2px solid #eee;
+    font-size: 14px;
+}
+
+.button + .button {
+    margin-left: 10px;
+}
+
+.button:not(:disabled) {
+    cursor: pointer;
+}
+
+.button_active:not(disabled) {
+    border-color: green;
+    color: green;
+}
