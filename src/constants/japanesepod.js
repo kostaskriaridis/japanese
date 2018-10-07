@@ -122,7 +122,7 @@ export default [
             },
             {
                 japanese: 'いつ',
-                translation: 'Время',
+                translation: 'Когда, время',
                 transcription: 'itsu'
             }
         ]
@@ -138,6 +138,31 @@ export default [
     //     ]
     // },
     {
+        title: 'Do You Remember the Japanese Grammar You\'ve Learned in this Series?',
+        words: [
+            {
+                japanese: ' らいねん',
+                translation: 'В следующем году',
+                transcription: 'rainen'
+            },
+            {
+                japanese: 'どうして',
+                translation: 'Почему',
+                transcription: 'doshite'
+            },
+            {
+                japanese: 'そのあと',
+                translation: 'После этого',
+                transcription: 'sonoato'
+            },
+            {
+                japanese: 'いもうと',
+                translation: 'Сестра',
+                transcription: 'imouto'
+            }
+        ]
+    },
+    {
         title: 'I\'m Sorry, Where Is The Japanese Food I Can Eat?!',
         words: [
             {
@@ -149,6 +174,11 @@ export default [
                 japanese: 'まめ',
                 translation: 'Фасоль',
                 transcription: 'mame'
+            },
+            {
+                japanese: 'すこし',
+                translation: 'Немного',
+                transcription: 'sukoshi'
             }
         ]
     }
