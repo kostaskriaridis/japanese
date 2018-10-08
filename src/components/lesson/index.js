@@ -13,7 +13,9 @@ export default class Lesson extends PureComponent {
 
         return (
             <div className='lesson'>
-                <h1 className='lesson__title'>{title}</h1>
+                <h1 className='lesson__title'>
+                    {Array.isArray(title) ? title.join(' / ') : title}
+                </h1>
                 <div className='lesson__words'>
                     {this.getWords().map((word, index) => (
                         <Word

@@ -127,16 +127,6 @@ export default [
             }
         ]
     },
-    // {
-    //     title: 'What Kind of People Will Japanese Help You Find?.',
-    //     words: [
-    //         {
-    //             japanese: '',
-    //             translation: '',
-    //             transcription: ''
-    //         }
-    //     ]
-    // },
     {
         title: 'Do You Remember the Japanese Grammar You\'ve Learned in this Series?',
         words: [
@@ -159,6 +149,66 @@ export default [
                 japanese: 'いもうと',
                 translation: 'Сестра',
                 transcription: 'imouto'
+            }
+        ]
+    },
+    {
+        title: ['Telling Time in Japanese', 'Missing the Japanese Train', 'Make Time for This Lesson!'],
+        words: [
+            {
+                japanese: 'けいたいでんわ',
+                translation: 'Мобильный телефон',
+                transcription: 'keitaidenwa'
+            },
+            {
+                japanese: 'おひさしぶり',
+                translation: 'Давно не виделись',
+                transcription: 'ohisashiburi'
+            },
+            {
+                japanese: 'ごぜん',
+                translation: 'Время с 00:00 до 12:00 (a.m.)',
+                transcription: 'gozen'
+            },
+            {
+                japanese: 'ごご',
+                translation: 'Время с 12:00 до 24:00 (p.m.)',
+                transcription: 'gogo'
+            },
+            {
+                japanese: 'いつから',
+                translation: 'С какого времени?',
+                transcription: 'itsukara'
+            },
+            {
+                japanese: 'つぎ',
+                translation: 'Следующий',
+                transcription: 'tsugi'
+            },
+            {
+                japanese: 'はん',
+                translation: 'Половина',
+                transcription: 'han'
+            },
+            {
+                japanese: 'にじはん',
+                translation: 'Половина третьего',
+                transcription: 'nijihan'
+            },
+            {
+                japanese: 'じゆうじかん',
+                translation: 'Свободные часы (じかん — счётчик для часов)',
+                transcription: 'jyujikan'
+            },
+            {
+                japanese: 'あした',
+                translation: 'Завтра',
+                transcription: 'ashita'
+            },
+            {
+                japanese: 'いまから',
+                translation: 'С этого момента',
+                transcription: 'imakara'
             }
         ]
     },
