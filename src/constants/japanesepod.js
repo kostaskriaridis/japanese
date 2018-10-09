@@ -24,14 +24,6 @@ export default [
             }
         ]
     },
-    // {
-    //     title: '',
-    //     words: [
-    //         {
-
-    //         }
-    //     ]
-    // },
     {
         title: 'Your Love of Japanese Will Drive You to Common Grounds.',
         words: [
