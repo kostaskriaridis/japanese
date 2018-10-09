@@ -18,7 +18,7 @@ export default [
                 transcription: 'bango'
             },
             {
-                japanese: 'ぱそこん',
+                japanese: 'パソコン',
                 translation: 'Персональный компьютер',
                 transcription: 'pasokon'
             }
@@ -151,6 +151,11 @@ export default [
                 transcription: 'imouto'
             },
             {
+                japanese: 'おとうと',
+                translation: 'Младший брат',
+                transcription: 'otooto'
+            },
+            {
                 japanese: 'けっこんしき',
                 translation: 'Свадебная церемония',
                 transcription: 'kekkonshiki'
@@ -216,9 +221,54 @@ export default [
                 transcription: 'ashita'
             },
             {
+                japanese: 'きのう',
+                translation: 'Вчера',
+                transcription: 'kinou'
+            },
+            {
                 japanese: 'いまから',
                 translation: 'С этого момента',
                 transcription: 'imakara'
+            }
+        ]
+    },
+    {
+        title: 'Using Verbs in Japanese',
+        words: [
+            {
+                japanese: 'はなす',
+                translation: 'Говорить',
+                transcription: 'hanasu'
+            },
+            {
+                japanese: 'のむ',
+                translation: 'Пить',
+                transcription: 'nomu'
+            },
+            {
+                japanese: 'つかう',
+                translation: 'Использовать',
+                transcription: 'tsukau'
+            },
+            {
+                japanese: 'やさし',
+                translation: 'Доброжелательность',
+                transcription: 'yasashi'
+            },
+            {
+                japanese: 'まいにち',
+                translation: 'Каждый день',
+                transcription: 'mainichi'
+            },
+            {
+                japanese: 'おやつ',
+                translation: 'Закуска',
+                transcription: 'oyatsu'
+            },
+            {
+                japanese: 'いつも',
+                translation: 'Обычно, всегда',
+                transcription: 'itsumo'
             }
         ]
     },
