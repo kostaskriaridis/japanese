@@ -147,8 +147,13 @@ export default [
             },
             {
                 japanese: 'いもうと',
-                translation: 'Сестра',
+                translation: 'Младшая сестра',
                 transcription: 'imouto'
+            },
+            {
+                japanese: 'けっこんしき',
+                translation: 'Свадебная церемония',
+                transcription: 'kekkonshiki'
             }
         ]
     },
@@ -184,6 +189,11 @@ export default [
                 japanese: 'つぎ',
                 translation: 'Следующий',
                 transcription: 'tsugi'
+            },
+            {
+                japanese: 'じ',
+                translation: 'Час',
+                transcription: 'ji'
             },
             {
                 japanese: 'はん',
