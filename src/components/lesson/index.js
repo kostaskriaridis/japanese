@@ -36,6 +36,10 @@ export default class Lesson extends PureComponent {
         }
 
         return words.filter(({ transcription }) => {
+            if (!transcription) {
+                return false;
+            }
+
             if (Array.isArray(transcription)) {
                 return transcription.some(item => item.startsWith(value))
             }

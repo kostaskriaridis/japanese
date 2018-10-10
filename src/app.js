@@ -3,12 +3,15 @@ import Lessons from './components/lessons';
 import Button from './components/button';
 import sgurtovaLessons from './constants/sgurtova';
 import japanesepodLessons from './constants/japanesepod';
+import time from './constants/time';
 import './app.css';
 
-const SGURTOVA_LESSONS_PAGE = 'SGURTOVA_LESSONS_PAGE';
 const JAPANESE_POD_LESSONS_PAGE = 'JAPANESE_POD_LESSONS_PAGE';
+const TIME_LESSONS_PAGE = 'TIME_LESSONS_PAGE';
+const SGURTOVA_LESSONS_PAGE = 'SGURTOVA_LESSONS_PAGE';
 const pages = [
     { type: JAPANESE_POD_LESSONS_PAGE, text: 'JapanesePod101' },
+    { type: TIME_LESSONS_PAGE, text: 'Time' },
     { type: SGURTOVA_LESSONS_PAGE, text: 'Sgurtova' }
 ];
 
@@ -47,6 +50,10 @@ export default class App extends PureComponent {
 
             case SGURTOVA_LESSONS_PAGE: {
                 return sgurtovaLessons;
+            }
+
+            case TIME_LESSONS_PAGE: {
+                return time;
             }
 
             default: {

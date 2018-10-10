@@ -1,3 +1,7 @@
+.word + .word {
+    margin-top: 5px;
+}
+
 .word__japanese + .word__japanese {
-    margin-left: 5px;
+    margin-left: 10px;
 }

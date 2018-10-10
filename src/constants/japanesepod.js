@@ -221,6 +221,16 @@ export default [
                 japanese: 'いまから',
                 translation: 'С этого момента',
                 transcription: 'imakara'
+            },
+            {
+                japanese: 'から',
+                translation: 'От',
+                transcription: 'kara'
+            },
+            {
+                japanese: 'まで',
+                translation: 'До',
+                transcription: 'made'
             }
         ]
     },
@@ -243,14 +253,14 @@ export default [
                 transcription: 'tsukau'
             },
             {
+                japanese: 'とる',
+                translation: 'Фотографировать',
+                transcription: 'toru'
+            },
+            {
                 japanese: 'やさし',
                 translation: 'Доброжелательность',
                 transcription: 'yasashi'
-            },
-            {
-                japanese: 'まいにち',
-                translation: 'Каждый день',
-                transcription: 'mainichi'
             },
             {
                 japanese: 'おやつ',
@@ -258,29 +268,19 @@ export default [
                 transcription: 'oyatsu'
             },
             {
+                japanese: 'よく',
+                translation: 'Часто',
+                transcription: 'yoku'
+            },
+            {
                 japanese: 'いつも',
                 translation: 'Обычно, всегда',
                 transcription: 'itsumo'
-            }
-        ]
-    },
-    {
-        title: 'I\'m Sorry, Where Is The Japanese Food I Can Eat?!',
-        words: [
-            {
-                japanese: 'やさい',
-                translation: 'Овощи, салат',
-                transcription: 'yasai'
             },
             {
-                japanese: 'まめ',
-                translation: 'Фасоль',
-                transcription: 'mame'
-            },
-            {
-                japanese: 'すこし',
-                translation: 'Немного',
-                transcription: 'sukoshi'
+                japanese: 'まいにち',
+                translation: 'Каждый день',
+                transcription: 'mainichi'
             }
         ]
     }
