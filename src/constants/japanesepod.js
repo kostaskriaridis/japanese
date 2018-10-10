@@ -303,5 +303,22 @@ export default [
                 transcription: 'atarashii'
             }
         ]
+    },
+    {
+        title: 'How to Ask What Things Are',
+        words: [
+            {
+                japanese: 'おもい',
+                translation: 'Тяжёлый'
+            },
+            {
+                japanese: 'いたい',
+                translation: 'Больно'
+            },
+            {
+                japanese: 'ふつう',
+                translation: 'Обычный'
+            }
+        ]
     }
 ];
