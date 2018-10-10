@@ -263,6 +263,11 @@ export default [
                 transcription: 'toru'
             },
             {
+                japanese: 'しゃしん',
+                translation: 'Фото',
+                transcription: 'shyashin'
+            },
+            {
                 japanese: 'やさし',
                 translation: 'Доброжелательность',
                 transcription: 'yasashi'
@@ -286,6 +291,16 @@ export default [
                 japanese: 'まいにち',
                 translation: 'Каждый день',
                 transcription: 'mainichi'
+            },
+            {
+                japanese: 'はじまります',
+                translation: 'Начинается',
+                transcription: 'hajimarimasu'
+            },
+            {
+                japanese: 'あたらしい',
+                translation: 'Новый',
+                transcription: 'atarashii'
             }
         ]
     }
