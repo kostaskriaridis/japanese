@@ -73,6 +73,11 @@ export default [
                 transcription: 'tanjyobi'
             },
             {
+                japanese: 'あけまして',
+                translation: 'С новым годом',
+                transcription: 'akemashite'
+            },
+            {
                 japanese: 'おめでとうございます',
                 translation: 'Поздравляю',
                 transcription: 'omedetogosaimasu'
