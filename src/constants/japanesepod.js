@@ -320,5 +320,38 @@ export default [
                 translation: 'Обычный'
             }
         ]
+    },
+    {
+        title: 'Is This Your Japanese House?',
+        words: [
+            {
+                japanese: 'おじゃまします',
+                translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)'
+            },
+            {
+                japanese: 'おくさん',
+                translation: 'Жена'
+            },
+            {
+                japanese: 'どうぞ',
+                translation: 'Пожалуйста (проходите)'
+            }
+        ]
+    },
+    {
+        title: [
+            'The Fortunes of Rain in Japan',
+            'Style versus Function in Japan: Whose Umbrella is THAT?!'
+        ],
+        words: [
+            {
+                japanese: 'どこの',
+                translation: 'Откуда?'
+            },
+            {
+                japanese: 'また',
+                translation: 'Также'
+            }
+        ]
     }
 ];
