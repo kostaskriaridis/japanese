@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import Popup from '../popup';
 import Button from '../button';
 import WordJapanese from '../word-japanese';
 import './practice.css';
@@ -15,49 +16,27 @@ export default class Practice extends PureComponent {
         };
     }
 
-    componentDidMount() {
-        document.body.style.overflow = 'hidden';
-    }
-
-    componentWillUnmount() {
-        document.body.style.overflow = '';
-    }
-
     render() {
-        const { index } = this.state;
         const word = this.words[this.state.index];
 
         return (
-            <div className='practice'>
-                <button
-                    className='practice-close'
-                    onClick={this.props.onClose} />
-                <div className='practice-inner'>
-                    <div className='practice-word'>
-                        <WordJapanese
-                            size='xxxl'
-                            text={word.japanese}
-                            onClick={this.handleToggleTranslation} />
-                    </div>
-                    <div className='practice-translation'>
-                        {this.renderTranslation(word)}
-                    </div>
-                    <div className='practice-controls'>
-                        <Button
-                            className='practice-control'
-                            disabled={index === 0}
-                            onClick={this.handlePrevWord}>
-                            Previous
-                        </Button>
-                        <Button
-                            className='practice-control'
-                            disabled={index === this.words.length - 1}
-                            onClick={this.handleNextWord}>
-                            Next
-                        </Button>
-                    </div>
+            <Popup onClose={this.props.onClose}>
+                <div
+                    className='practice-word'>
+                    <WordJapanese
+                        size='xxxl'
+                        text={word.japanese}
+                        onClick={this.handleNextWord} />
                 </div>
-            </div>
+                <div className='practice-controls'>
+                    <Button onClick={this.handleToggleTranslation}>
+                        Translate
+                    </Button>
+                </div>
+                <div className='practice-translation'>
+                    {this.renderTranslation(word)}
+                </div>
+            </Popup>
         );
     }
 
@@ -72,17 +51,16 @@ export default class Practice extends PureComponent {
     }
 
     handleNextWord = () => {
-        this.setState({
-            index: this.state.index + 1,
-            isTranslationDisplayed: false
-        });
-    };
+        const { index } = this.state;
+        const nextState = {};
 
-    handlePrevWord = () => {
-        this.setState({
-            index: this.state.index - 1,
-            isTranslationDisplayed: false
-        });
+        if (index === this.words.length - 1) {
+            nextState.index = 0;
+        } else {
+            nextState.index = index + 1;
+        }
+
+        this.setState(nextState);
     };
 
     handleToggleTranslation = () => {

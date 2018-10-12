@@ -1,0 +1,26 @@
+.popup {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.popup-close {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: url('./resources/close.svg') no-repeat center center;
+    cursor: pointer;
+}
+
+.popup-inner {
+    padding: 20px;
+}
