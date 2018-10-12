@@ -6,6 +6,7 @@
 
 .practice-translation {
     min-height: 40px;
+    margin-bottom: 20px;
     text-align: center;
     font-size: 32px;
     color: rgba(0, 0, 0, .5);
@@ -15,4 +16,10 @@
     display: flex;
     justify-content: center;
     margin-bottom: 20px;
+}
+
+.practice-percentage {
+    text-align: center;
+    font-size: 18px;
+    color: rgba(0, 0, 0, .5);
 }

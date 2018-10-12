@@ -36,7 +36,7 @@ export default class WordJapanese extends PureComponent {
         if (typeof onClick === 'function') {
             onClick();
         } else {
-            window.location.assign(`${GOOGGLE_TRANSLATE_ENDPOINT}/${text}`);
+            window.open(`${GOOGGLE_TRANSLATE_ENDPOINT}/${text}`);
         }
     };
 }

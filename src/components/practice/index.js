@@ -21,6 +21,9 @@ export default class Practice extends PureComponent {
 
         return (
             <Popup onClose={this.props.onClose}>
+                <div className='practice-translation'>
+                    {this.renderTranslation(word)}
+                </div>
                 <div
                     className='practice-word'>
                     <WordJapanese
@@ -33,8 +36,8 @@ export default class Practice extends PureComponent {
                         Translate
                     </Button>
                 </div>
-                <div className='practice-translation'>
-                    {this.renderTranslation(word)}
+                <div className='practice-percentage'>
+                    {this.getPassedWordsPercentage()}%
                 </div>
             </Popup>
         );
@@ -69,8 +72,14 @@ export default class Practice extends PureComponent {
         });
     };
 
+    getPassedWordsPercentage() {
+        return Math.round(this.state.index / this.words.length * 100 * 100) / 100;
+    }
+
     getShuffledWords() {
-        const words = this.getAllWords();
+        const words = this.props.lessons.reduce((result, { words }) => {
+            return result.concat(words);
+        }, []);
 
         for (let i = words.length - 1; i > 0; i -= 1) {
             const j = Math.floor(Math.random() * (i + 1));
@@ -79,11 +88,5 @@ export default class Practice extends PureComponent {
         }
 
         return words;
-    }
-
-    getAllWords() {
-        return this.props.lessons.reduce((result, { words }) => {
-            return result.concat(words);
-        }, []);
     }
 }
