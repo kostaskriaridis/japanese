@@ -143,16 +143,6 @@ export default [
                 transcription: 'sonoato'
             },
             {
-                japanese: 'いもうと',
-                translation: 'Младшая сестра',
-                transcription: 'imouto'
-            },
-            {
-                japanese: 'おとうと',
-                translation: 'Младший брат',
-                transcription: 'otooto'
-            },
-            {
                 japanese: 'けっこんしき',
                 translation: 'Свадебная церемония',
                 transcription: 'kekkonshiki'
@@ -351,6 +341,63 @@ export default [
             {
                 japanese: 'また',
                 translation: 'Также'
+            },
+            {
+                japanese: 'おきゃくさん',
+                translation: 'Посетитель, гость'
+            },
+            {
+                japanese: 'とけい',
+                translation: 'Часы'
+            }
+        ]
+    },
+    {
+        title: 'These Japanese Interjections Aren\'t Impolite!',
+        words: [
+            {
+                japanese: 'かわいい',
+                translation: 'Мило'
+            },
+            {
+                japanese: 'わかい',
+                translation: 'Молодой'
+            },
+            {
+                japanese: 'おとうさん',
+                translation: 'Папа'
+            },
+            {
+                japanese: 'おかあさん',
+                translation: 'Мама'
+            },
+            {
+                japanese: 'おにいさん',
+                translation: 'Старший брат'
+            },
+            {
+                japanese: 'おねえさん',
+                translation: 'Старшая сестра'
+            },
+            {
+                japanese: 'おとうとさん',
+                translation: 'Младший брат'
+            },
+            {
+                japanese: 'いもうとさん',
+                translation: 'Младшая сестра'
+            },
+            {
+                japanese: 'むすこさん',
+                translation: 'Сын'
+            },
+            {
+                japanese: 'むすめさん',
+                translation: 'Дочь'
+            },
+            {
+                japanese: 'まご',
+                translation: 'Внук'
             }
         ]
     }

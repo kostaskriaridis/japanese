@@ -1,0 +1,49 @@
+.practice {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+}
+
+.practice-close {
+    position: absolute;
+    right: 30px;
+    top: 30px;
+    width: 40px;
+    height: 40px;
+    border: none;
+    background: url('./resources/close.svg') no-repeat center center;
+    cursor: pointer;
+}
+
+.practice-inner {
+    padding: 20px;
+}
+
+.practice-word {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+.practice-translation {
+    min-height: 40px;
+    margin-bottom: 20px;
+    text-align: center;
+    font-size: 32px;
+    color: rgba(0, 0, 0, .5);
+}
+
+.practice-controls {
+    display: flex;
+    justify-content: center;
+}
+
+.practice-control {
+    width: 100px;
+}

@@ -1,5 +1,6 @@
 import React, { PureComponent } from 'react';
 import Lessons from './components/lessons';
+import Practice from './components/practice';
 import Button from './components/button';
 import sgurtovaLessons from './constants/sgurtova';
 import japanesepodLessons from './constants/japanesepod';
@@ -17,10 +18,13 @@ const pages = [
 
 export default class App extends PureComponent {
     state = {
-        lessonsType: JAPANESE_POD_LESSONS_PAGE
+        lessonsType: JAPANESE_POD_LESSONS_PAGE,
+        isPracticePopupShown: false
     };
 
     render() {
+        const lessons = this.getLessons();
+
         return (
             <div className='app'>
                 <div className='nav'>
@@ -32,11 +36,33 @@ export default class App extends PureComponent {
                             {page.text}
                         </Button>
                     ))}
+                    <Button onClick={this.handleTogglePracticePopup}>
+                        Practice
+                    </Button>
                 </div>
-                <Lessons lessons={this.getLessons()} />
+                <Lessons lessons={lessons} />
+                {this.renderPracticePopup(lessons)}
             </div>
         );
     }
+
+    renderPracticePopup(lessons) {
+        if (!this.state.isPracticePopupShown) {
+            return null;
+        }
+
+        return (
+            <Practice
+                lessons={lessons}
+                onClose={this.handleTogglePracticePopup} />
+        );
+    }
+
+    handleTogglePracticePopup = () => {
+        this.setState({
+            isPracticePopupShown: !this.state.isPracticePopupShown
+        });
+    };
 
     handleChangeLessonsType = lessonsType => {
         this.setState({ lessonsType });

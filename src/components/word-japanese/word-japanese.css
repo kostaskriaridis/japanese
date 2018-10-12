@@ -1,10 +1,20 @@
 .word-japanese {
-    padding: 2px;
     text-decoration: none;
     background-color: #e5ffe5;
     border-radius: 3px;
+    border: none;
     color: #009900;
     font-size: 20px;
+    cursor: pointer;
+}
+
+.word-japanese_m {
+    padding: 2px;
+}
+
+.word-japanese_xxxl {
+    padding: 5px;
+    font-size: 60px;
 }
 
 .word-japanese:hover {
