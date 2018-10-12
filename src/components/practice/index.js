@@ -1,6 +1,5 @@
 import React, { PureComponent } from 'react';
 import Popup from '../popup';
-import Button from '../button';
 import WordJapanese from '../word-japanese';
 import './practice.css';
 
@@ -21,37 +20,44 @@ export default class Practice extends PureComponent {
 
         return (
             <Popup onClose={this.props.onClose}>
-                <div className='practice-translation'>
-                    {this.renderTranslation(word)}
-                </div>
                 <div
-                    className='practice-word'>
+                    className='practice-word'
+                    onMouseEnter={this.handleMouseEnter}
+                    onMouseLeave={this.handleMouseLeave}>
                     <WordJapanese
                         size='xxxl'
                         text={word.japanese}
                         onClick={this.handleNextWord} />
                 </div>
-                <div className='practice-controls'>
-                    <Button onClick={this.handleToggleTranslation}>
-                        Translate
-                    </Button>
-                </div>
                 <div className='practice-percentage'>
                     {this.getPassedWordsPercentage()}%
+                </div>
+                <div className='practice-translation'>
+                    {this.renderTranscription(word)}
                 </div>
             </Popup>
         );
     }
 
-    renderTranslation(word) {
+    renderTranscription(word) {
         if (!this.state.isTranslationDisplayed) {
             return null;
         }
 
-        return (
-            <div>{word.translation}</div>
-        );
+        return word.translation;
     }
+
+    handleMouseEnter = () => {
+        this.setState({
+            isTranslationDisplayed: false
+        });
+    };
+
+    handleMouseLeave = () => {
+        this.setState({
+            isTranslationDisplayed: true
+        });
+    };
 
     handleNextWord = () => {
         const { index } = this.state;
@@ -64,12 +70,6 @@ export default class Practice extends PureComponent {
         }
 
         this.setState(nextState);
-    };
-
-    handleToggleTranslation = () => {
-        this.setState({
-            isTranslationDisplayed: !this.state.isTranslationDisplayed
-        });
     };
 
     getPassedWordsPercentage() {

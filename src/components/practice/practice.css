@@ -12,13 +12,8 @@
     color: rgba(0, 0, 0, .5);
 }
 
-.practice-controls {
-    display: flex;
-    justify-content: center;
-    margin-bottom: 20px;
-}
-
 .practice-percentage {
+    margin-bottom: 20px;
     text-align: center;
     font-size: 18px;
     color: rgba(0, 0, 0, .5);
