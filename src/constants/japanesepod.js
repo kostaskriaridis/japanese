@@ -203,6 +203,23 @@ export default [
         ]
     },
     {
+        title: 'How to Ask What Things Are',
+        words: [
+            {
+                japanese: 'おもい',
+                translation: 'Тяжёлый'
+            },
+            {
+                japanese: 'いたい',
+                translation: 'Больно'
+            },
+            {
+                japanese: 'ふつう',
+                translation: 'Обычный'
+            }
+        ]
+    },
+    {
         title: ['Telling Time in Japanese', 'Missing the Japanese Train', 'Make Time for This Lesson!'],
         words: [
             {
@@ -348,23 +365,6 @@ export default [
                 japanese: 'あたらしい',
                 translation: 'Новый',
                 transcription: 'atarashii'
-            }
-        ]
-    },
-    {
-        title: 'How to Ask What Things Are',
-        words: [
-            {
-                japanese: 'おもい',
-                translation: 'Тяжёлый'
-            },
-            {
-                japanese: 'いたい',
-                translation: 'Больно'
-            },
-            {
-                japanese: 'ふつう',
-                translation: 'Обычный'
             }
         ]
     },
