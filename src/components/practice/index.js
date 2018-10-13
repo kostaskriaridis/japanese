@@ -10,8 +10,7 @@ export default class Practice extends PureComponent {
         this.words = this.getShuffledWords();
 
         this.state = {
-            index: 0,
-            isTranslationDisplayed: false
+            index: 0
         };
     }
 
@@ -20,44 +19,21 @@ export default class Practice extends PureComponent {
 
         return (
             <Popup onClose={this.props.onClose}>
-                <div
-                    className='practice-word'
-                    onMouseEnter={this.handleMouseEnter}
-                    onMouseLeave={this.handleMouseLeave}>
+                <div className='practice-word'>
                     <WordJapanese
                         size='xxxl'
                         text={word.japanese}
                         onClick={this.handleNextWord} />
                 </div>
+                <div className='practice-translation'>
+                    {word.translation}
+                </div>
                 <div className='practice-percentage'>
                     {this.getPassedWordsPercentage()}%
-                </div>
-                <div className='practice-translation'>
-                    {this.renderTranscription(word)}
                 </div>
             </Popup>
         );
     }
-
-    renderTranscription(word) {
-        if (!this.state.isTranslationDisplayed) {
-            return null;
-        }
-
-        return word.translation;
-    }
-
-    handleMouseEnter = () => {
-        this.setState({
-            isTranslationDisplayed: false
-        });
-    };
-
-    handleMouseLeave = () => {
-        this.setState({
-            isTranslationDisplayed: true
-        });
-    };
 
     handleNextWord = () => {
         const { index } = this.state;

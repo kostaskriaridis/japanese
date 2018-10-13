@@ -65,6 +65,59 @@ export default [
         ]
     },
     {
+        title: 'What Kind of People Will Japanese Help You Find?',
+        words: [
+            {
+                japanese: 'どんな',
+                translation: 'Какие'
+            },
+            {
+                japanese: 'あたま',
+                translation: 'Голова'
+            },
+            {
+                japanese: 'かみ',
+                translation: 'Волосы, причёска'
+            },
+            {
+                japanese: 'ながい',
+                translation: 'Длинный'
+            },
+            {
+                japanese: 'たかい',
+                translation: 'Высокий'
+            },
+            {
+                japanese: 'みじかい',
+                translation: 'Короткий'
+            },
+            {
+                japanese: 'それとも',
+                translation: 'Или'
+            },
+            {
+                japanese: 'つよい',
+                translation: 'Сильный'
+            },
+            {
+                japanese: 'よわい',
+                translation: 'Слабый'
+            },
+            {
+                japanese: 'こえ',
+                translation: 'Голос'
+            },
+            {
+                japanese: 'き',
+                translation: 'Чувство'
+            },
+            {
+                japanese: 'ちいさい',
+                translation: 'Небольшой'
+            }
+        ]
+    },
+    {
         title: 'Talking About Dates.',
         words: [
             {
@@ -211,6 +264,10 @@ export default [
                 japanese: 'きのう',
                 translation: 'Вчера',
                 transcription: 'kinou'
+            },
+            {
+                japanese: 'しゅう',
+                translation: 'Неделя'
             },
             {
                 japanese: 'いまから',
