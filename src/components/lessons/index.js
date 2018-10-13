@@ -10,6 +10,7 @@ export default class Lessons extends PureComponent {
 
     render() {
         const { value } = this.state;
+        const { lessons, onClickPractice } = this.props;
 
         return (
             <Fragment>
@@ -20,33 +21,16 @@ export default class Lessons extends PureComponent {
                     value={value}
                     onChange={this.handleChangeInput} />
                 <div className='lessons'>
-                    {this.props.lessons.map((lesson, index) =>(
+                    {lessons.map((lesson, index) =>(
                         <Lesson
                             key={index}
+                            index={index}
                             value={value}
                             title={lesson.title}
-                            words={lesson.words} />
+                            words={lesson.words}
+                            onClickPractice={onClickPractice} />
                     ))}
                 </div>
-                {/*
-                <div>
-                    <div>
-                        Местоимения с <WordJapanese text='こ' /> указывают на то, что принадлежит говорящему или находится рядом с ним. Местоимения с <WordJapanese text='そ' /> указывают на то, что принадлежит собеседнику пли находится рядом с ним.
-                    </div>
-                    <div>
-                        Местоимения с <WordJapanese text='あ' /> указывают на то, что удалено от собеседников, но видно им.
-                    </div>
-                    <div>
-                        Предмет, одинаково удалённый, собеседники называют <WordJapanese text='あれ' />.
-                    </div>
-                    <div>
-                        Предмет, находящийся между собеседниками, или крупный предмет, возле которого находятся собеседники, обозначается <WordJapanese text='これ' />.
-                    </div>
-                    <div>
-                        При обозначении места, где находятся говорящие (улица, пощать, здание и т.п.), употребляют <WordJapanese text='ここ' />. Удалённое от говорящий место называют <WordJapanese text='あそこ' />.
-                    </div>
-                </div>
-                */}
             </Fragment>
         );
     }

@@ -53,9 +53,7 @@ export default class Practice extends PureComponent {
     }
 
     getShuffledWords() {
-        const words = this.props.lessons.reduce((result, { words }) => {
-            return result.concat(words);
-        }, []);
+        const { words } = this.props;
 
         for (let i = words.length - 1; i > 0; i -= 1) {
             const j = Math.floor(Math.random() * (i + 1));

@@ -1,0 +1,10 @@
+.icon {
+    display: block;
+}
+
+.icon_practice {
+    width: 20px;
+    height: 20px;
+    background: url('./resources/practice.svg') no-repeat center center;
+    background-size: contain;
+}

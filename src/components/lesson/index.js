@@ -1,5 +1,7 @@
 import React, { PureComponent } from 'react';
 import Word from '../word';
+import Button from '../button';
+import Icon from '../icon';
 import './lesson.css';
 
 export default class Lesson extends PureComponent {
@@ -13,6 +15,11 @@ export default class Lesson extends PureComponent {
 
         return (
             <div className='lesson'>
+                <Button
+                    className='lesson__practice-button'
+                    onClick={this.handleClickPracticeButton}>
+                    <Icon type='practice' />
+                </Button>
                 <h1 className='lesson__title'>
                     {Array.isArray(title) ? title.join(' / ') : title}
                 </h1>
@@ -27,6 +34,10 @@ export default class Lesson extends PureComponent {
             </div>
         );
     }
+
+    handleClickPracticeButton = () => {
+        this.props.onClickPractice(this.props.index);
+    };
 
     getWords() {
         const { words, value } = this.props;

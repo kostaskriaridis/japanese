@@ -2,6 +2,7 @@ import React, { PureComponent } from 'react';
 import Lessons from './components/lessons';
 import Practice from './components/practice';
 import Button from './components/button';
+import Icon from './components/icon';
 import sgurtovaLessons from './constants/sgurtova';
 import japanesepodLessons from './constants/japanesepod';
 import time from './constants/time';
@@ -19,6 +20,7 @@ const pages = [
 export default class App extends PureComponent {
     state = {
         lessonsType: JAPANESE_POD_LESSONS_PAGE,
+        lessonIndex: null,
         isPracticePopupShown: false
     };
 
@@ -36,36 +38,58 @@ export default class App extends PureComponent {
                             {page.text}
                         </Button>
                     ))}
-                    <Button onClick={this.handleTogglePracticePopup}>
-                        Practice
+                    <Button onClick={this.handleShowPracticePopup}>
+                        <Icon type='practice' />
                     </Button>
                 </div>
-                <Lessons lessons={lessons} />
+                <Lessons
+                    lessons={lessons}
+                    onClickPractice={this.handleClickPractice} />
                 {this.renderPracticePopup(lessons)}
             </div>
         );
     }
 
     renderPracticePopup(lessons) {
-        if (!this.state.isPracticePopupShown) {
+        const { lessonIndex, isPracticePopupShown } = this.state;
+
+        if (!isPracticePopupShown) {
             return null;
+        }
+
+        if (lessonIndex !== null) {
+            lessons = [lessons[lessonIndex]];
         }
 
         return (
             <Practice
-                lessons={lessons}
-                onClose={this.handleTogglePracticePopup} />
+                words={this.getWords(lessons)}
+                onClose={this.handleClosePracticePopup} />
         );
     }
 
-    handleTogglePracticePopup = () => {
+    handleShowPracticePopup = () => {
         this.setState({
-            isPracticePopupShown: !this.state.isPracticePopupShown
+            isPracticePopupShown: true
         });
+    };
+
+    handleClosePracticePopup = () => {
+        this.setState({
+            isPracticePopupShown: false,
+            lessonIndex: null
+        })
     };
 
     handleChangeLessonsType = lessonsType => {
         this.setState({ lessonsType });
+    };
+
+    handleClickPractice = index => {
+        this.setState({
+            isPracticePopupShown: true,
+            lessonIndex: index
+        });
     };
 
     getLessons() {
@@ -86,5 +110,11 @@ export default class App extends PureComponent {
                 return [];
             }
         }
+    }
+
+    getWords(lessons) {
+        return lessons.reduce((result, { words }) => {
+            return result.concat(words);
+        }, []);
     }
 }
