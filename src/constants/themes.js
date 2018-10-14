@@ -70,63 +70,51 @@ export default [
         words: [
             {
                 japanese: 'はなす',
-                translation: 'Говорить',
-                type: 'verb'
+                translation: 'Говорить'
             },
             {
                 japanese: 'のむ',
-                translation: 'Пить',
-                type: 'verb'
+                translation: 'Пить'
             },
             {
                 japanese: 'つかう',
-                translation: 'Использовать',
-                type: 'verb'
+                translation: 'Использовать'
             },
             {
                 japanese: 'とる',
-                translation: 'Фотографировать',
-                type: 'verb'
+                translation: 'Фотографировать'
             },
             {
                 japanese: 'あいます',
-                translation: 'Встретить',
-                type: 'verb'
+                translation: 'Встретить'
             },
             {
                 japanese: 'いきます',
-                translation: 'Идти',
-                type: 'verb'
+                translation: 'Идти'
             },
             {
                 japanese: 'まちます',
-                translation: 'Ждать',
-                type: 'verb'
+                translation: 'Ждать'
             },
             {
                 japanese: 'のります',
-                translation: 'Ездить',
-                type: 'verb'
+                translation: 'Ездить'
             },
             {
                 japanese: 'します',
-                translation: 'Делать',
-                type: 'verb'
+                translation: 'Делать'
             },
             {
                 japanese: 'きます',
-                translation: 'Приходить',
-                type: 'verb'
+                translation: 'Приходить'
             },
             {
                 japanese: 'はじまります',
-                translation: 'Начинается',
-                type: 'verb'
+                translation: 'Начинается'
             },
             {
                 japanese: 'きんちょうする',
-                translation: 'Нервничать',
-                type: 'verb'
+                translation: 'Нервничать'
             },
         ]
     },

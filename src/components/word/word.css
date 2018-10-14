@@ -5,7 +5,3 @@
 .word__japanese + .word__japanese {
     margin-left: 10px;
 }
-
-.word__type {
-    margin-left: 5px;
-}
