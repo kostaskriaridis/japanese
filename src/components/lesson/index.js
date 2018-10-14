@@ -27,8 +27,7 @@ export default class Lesson extends PureComponent {
                     {this.getWords().map((word, index) => (
                         <Word
                             key={index}
-                            japanese={word.japanese}
-                            translation={word.translation} />
+                            {...word} />
                     ))}
                 </div>
             </div>
@@ -46,16 +45,10 @@ export default class Lesson extends PureComponent {
             return this.props.words;
         }
 
-        return words.filter(({ transcription }) => {
-            if (!transcription) {
-                return false;
-            }
-
-            if (Array.isArray(transcription)) {
-                return transcription.some(item => item.startsWith(value))
-            }
-
-            return transcription.startsWith(value);
+        return words.filter(({ translation }) => {
+            return translation
+                .toLowerCase()
+                .startsWith(value.toLowerCase());
         });
     }
 }

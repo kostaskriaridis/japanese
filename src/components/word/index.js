@@ -1,40 +1,35 @@
-import React, { PureComponent, Fragment } from 'react'
+import React, { PureComponent } from 'react'
 import WordJapanese from '../word-japanese';
+import Tag from '../tag';
 import './word.css';
 
 export default class Word extends PureComponent {
     render() {
-        const { translation } = this.props;
+        const { japanese, translation } = this.props;
 
         return (
             <div className='word'>
-                {this.renderJapaneseWord()}
+                <WordJapanese text={japanese} />
                 {' — '}
                 <span className='word__translation'>
                     {translation}
                 </span>
+                {this.renderTag()}
             </div>
         );
     }
 
-    renderJapaneseWord() {
-        const { japanese } = this.props;
+    renderTag() {
+        switch (this.props.type) {
+            case 'verb': {
+                return (
+                    <Tag className='word__type'>verb</Tag>
+                );
+            }
 
-        if (Array.isArray(japanese)) {
-            return (
-                <Fragment>
-                    {japanese.map((word, index) => (
-                        <WordJapanese
-                            key={index}
-                            className='word__japanese'
-                            text={word} />
-                    ))}
-                </Fragment>
-            );
+            default: {
+                return null;
+            }
         }
-
-        return (
-            <WordJapanese text={japanese} />
-        );
     }
 }

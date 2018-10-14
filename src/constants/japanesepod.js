@@ -4,23 +4,19 @@ export default [
         words: [
             {
                 japanese: 'かいしゃ',
-                translation: 'Корпорация',
-                transcription: 'kaishya'
+                translation: 'Корпорация'
             },
             {
                 japanese: 'でんわ',
-                translation: 'Телефон',
-                transcription: 'denwa'
+                translation: 'Телефон'
             },
             {
                 japanese: 'ばんごう',
-                translation: 'Номер',
-                transcription: 'bango'
+                translation: 'Номер'
             },
             {
                 japanese: 'パソコン',
-                translation: 'Персональный компьютер',
-                transcription: 'pasokon'
+                translation: 'Персональный компьютер'
             }
         ]
     },
@@ -29,38 +25,31 @@ export default [
         words: [
             {
                 japanese: 'めんきょ',
-                translation: 'Лицензия, уроки',
-                transcription: 'menkyo'
+                translation: 'Лицензия, уроки'
             },
             {
                 japanese: 'つまらない',
-                translation: 'Скучный',
-                transcription: 'tsumaranai'
+                translation: 'Скучный'
             },
             {
                 japanese: 'うんてん',
-                translation: 'Водить',
-                transcription: 'unten'
+                translation: 'Водить'
             },
             {
                 japanese: 'あぶない',
-                translation: 'Опасность',
-                transcription: 'abunai'
+                translation: 'Опасность'
             },
             {
                 japanese: 'ちょっと',
-                translation: 'Немного',
-                transcription: 'chotto'
+                translation: 'Немного'
             },
             {
                 japanese: 'きれい',
-                translation: 'Красивый',
-                transcription: 'kirei'
+                translation: 'Красивый'
             },
             {
                 japanese: 'しつれいな',
-                translation: 'Неприличный, грубый',
-                transcription: 'shitsureina'
+                translation: 'Неприличный, грубый'
             }
         ]
     },
@@ -122,58 +111,68 @@ export default [
         words: [
             {
                 japanese: 'たんじょうび',
-                translation: 'День рождения',
-                transcription: 'tanjyobi'
+                translation: 'День рождения'
             },
             {
                 japanese: 'あけまして',
-                translation: 'С новым годом',
-                transcription: 'akemashite'
+                translation: 'С новым годом'
             },
             {
                 japanese: 'おめでとうございます',
-                translation: 'Поздравляю',
-                transcription: 'omedetogosaimasu'
+                translation: 'Поздравляю'
             },
             {
                 japanese: 'がつ',
-                translation: 'Месяц',
-                transcription: 'gatsu'
+                translation: 'Месяц'
             },
             {
                 japanese: 'にち',
-                translation: 'День',
-                transcription: 'nichi'
+                translation: 'День'
             },
             {
                 japanese: 'なのか',
-                translation: 'Седьмой',
-                transcription: 'nanoka'
+                translation: 'Седьмой'
             },
             {
                 japanese: 'うれしい',
-                translation: 'Рад',
-                transcription: 'ureshii'
+                translation: 'Рад'
             },
             {
                 japanese: 'きょう',
-                translation: 'Сегодня',
-                transcription: 'kyou'
+                translation: 'Сегодня'
             },
             {
                 japanese: 'いま',
-                translation: 'Сейчас',
-                transcription: 'ima'
+                translation: 'Сейчас'
             },
             {
                 japanese: 'やすみ',
-                translation: 'Отпуск',
-                transcription: 'yasumi'
+                translation: 'Отпуск'
             },
             {
                 japanese: 'いつ',
-                translation: 'Когда, время',
-                transcription: 'itsu'
+                translation: 'Когда, время'
+            }
+        ]
+    },
+    {
+        title: 'The Japanese that Might Score You a Date!',
+        words: [
+            {
+                japanese: 'きんちょうする',
+                translation: 'Нервничать'
+            },
+            {
+                japanese: 'とりあえず',
+                translation: 'Для начала / в настоящее время'
+            },
+            {
+                japanese: 'どちら',
+                translation: 'Который'
+            },
+            {
+                japanese: 'いらっしゃいませ',
+                translation: 'Как я могу вам помочь?'
             }
         ]
     },
@@ -182,23 +181,19 @@ export default [
         words: [
             {
                 japanese: ' らいねん',
-                translation: 'В следующем году',
-                transcription: 'rainen'
+                translation: 'В следующем году'
             },
             {
                 japanese: 'どうして',
-                translation: 'Почему',
-                transcription: 'doshite'
+                translation: 'Почему'
             },
             {
                 japanese: 'そのあと',
-                translation: 'После этого',
-                transcription: 'sonoato'
+                translation: 'После этого'
             },
             {
                 japanese: 'けっこんしき',
-                translation: 'Свадебная церемония',
-                transcription: 'kekkonshiki'
+                translation: 'Свадебная церемония'
             }
         ]
     },
@@ -224,63 +219,51 @@ export default [
         words: [
             {
                 japanese: 'けいたいでんわ',
-                translation: 'Мобильный телефон',
-                transcription: 'keitaidenwa'
+                translation: 'Мобильный телефон'
             },
             {
                 japanese: 'おひさしぶり',
-                translation: 'Давно не виделись',
-                transcription: 'ohisashiburi'
+                translation: 'Давно не виделись'
             },
             {
                 japanese: 'ごぜん',
-                translation: 'Время с 00:00 до 12:00 (a.m.)',
-                transcription: 'gozen'
+                translation: 'Время с 00:00 до 12:00 (a.m.)'
             },
             {
                 japanese: 'ごご',
-                translation: 'Время с 12:00 до 24:00 (p.m.)',
-                transcription: 'gogo'
+                translation: 'Время с 12:00 до 24:00 (p.m.)'
             },
             {
                 japanese: 'いつから',
-                translation: 'С какого времени?',
-                transcription: 'itsukara'
+                translation: 'С какого времени?'
             },
             {
                 japanese: 'つぎ',
-                translation: 'Следующий',
-                transcription: 'tsugi'
+                translation: 'Следующий'
             },
             {
                 japanese: 'じ',
-                translation: 'Час',
-                transcription: 'ji'
+                translation: 'Час'
             },
             {
                 japanese: 'はん',
-                translation: 'Половина',
-                transcription: 'han'
+                translation: 'Половина'
             },
             {
                 japanese: 'にじはん',
-                translation: 'Половина третьего',
-                transcription: 'nijihan'
+                translation: 'Половина третьего'
             },
             {
                 japanese: 'じゆうじかん',
-                translation: 'Свободные часы (じかん — счётчик для часов)',
-                transcription: 'jyujikan'
+                translation: 'Свободные часы (じかん — счётчик для часов)'
             },
             {
                 japanese: 'あした',
-                translation: 'Завтра',
-                transcription: 'ashita'
+                translation: 'Завтра'
             },
             {
                 japanese: 'きのう',
-                translation: 'Вчера',
-                transcription: 'kinou'
+                translation: 'Вчера'
             },
             {
                 japanese: 'しゅう',
@@ -288,18 +271,15 @@ export default [
             },
             {
                 japanese: 'いまから',
-                translation: 'С этого момента',
-                transcription: 'imakara'
+                translation: 'С этого момента'
             },
             {
                 japanese: 'から',
-                translation: 'От',
-                transcription: 'kara'
+                translation: 'От'
             },
             {
                 japanese: 'まで',
-                translation: 'До',
-                transcription: 'made'
+                translation: 'До'
             }
         ]
     },
@@ -309,62 +289,81 @@ export default [
             {
                 japanese: 'はなす',
                 translation: 'Говорить',
-                transcription: 'hanasu'
+                type: 'verb'
             },
             {
                 japanese: 'のむ',
                 translation: 'Пить',
-                transcription: 'nomu'
+                type: 'verb'
             },
             {
                 japanese: 'つかう',
                 translation: 'Использовать',
-                transcription: 'tsukau'
+                type: 'verb'
             },
             {
                 japanese: 'とる',
                 translation: 'Фотографировать',
-                transcription: 'toru'
+                type: 'verb'
             },
             {
-                japanese: 'しゃしん',
-                translation: 'Фото',
-                transcription: 'shyashin'
+                japanese: 'あいます',
+                translation: 'Встретить',
+                type: 'verb'
             },
             {
-                japanese: 'やさし',
-                translation: 'Доброжелательность',
-                transcription: 'yasashi'
+                japanese: 'いきます',
+                translation: 'Идти',
+                type: 'verb'
             },
             {
-                japanese: 'おやつ',
-                translation: 'Закуска',
-                transcription: 'oyatsu'
+                japanese: 'まちます',
+                translation: 'Ждать',
+                type: 'verb'
             },
             {
-                japanese: 'よく',
-                translation: 'Часто',
-                transcription: 'yoku'
+                japanese: 'のります',
+                translation: 'Ездить',
+                type: 'verb'
             },
             {
-                japanese: 'いつも',
-                translation: 'Обычно, всегда',
-                transcription: 'itsumo'
+                japanese: 'します',
+                translation: 'Делать',
+                type: 'verb'
             },
             {
-                japanese: 'まいにち',
-                translation: 'Каждый день',
-                transcription: 'mainichi'
+                japanese: 'きます',
+                translation: 'Приходить',
+                type: 'verb'
             },
             {
                 japanese: 'はじまります',
                 translation: 'Начинается',
-                transcription: 'hajimarimasu'
+                type: 'verb'
+            },
+            {
+                japanese: 'しゃしん',
+                translation: 'Фото'
+            },
+            {
+                japanese: 'やさし',
+                translation: 'Доброжелательность'
+            },
+            {
+                japanese: 'よく',
+                translation: 'Часто'
+            },
+            {
+                japanese: 'いつも',
+                translation: 'Обычно, всегда'
+            },
+            {
+                japanese: 'まいにち',
+                translation: 'Каждый день'
             },
             {
                 japanese: 'あたらしい',
-                translation: 'Новый',
-                transcription: 'atarashii'
+                translation: 'Новый'
             }
         ]
     },
