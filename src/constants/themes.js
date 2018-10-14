@@ -4,11 +4,11 @@ export default [
         words: [
             {
                 japanese: 'どんな',
-                translation: 'Какие'
+                translation: 'Какие?'
             },
             {
                 japanese: 'どちら',
-                translation: 'Который'
+                translation: 'Который?'
             },
             {
                 japanese: 'どこの',
@@ -16,52 +16,32 @@ export default [
             },
             {
                 japanese: 'どうして',
-                translation: 'Почему'
+                translation: 'Почему?'
             },
         ]
     },
     {
-        title: 'Relations',
+        title: 'Technical',
         words: [
             {
-                japanese: 'おとうさん',
-                translation: 'Папа'
+                japanese: 'かいしゃ',
+                translation: 'Корпорация'
             },
             {
-                japanese: 'おかあさん',
-                translation: 'Мама'
+                japanese: 'でんわ',
+                translation: 'Телефон'
             },
             {
-                japanese: 'おにいさん',
-                translation: 'Старший брат'
+                japanese: 'ばんごう',
+                translation: 'Номер'
             },
             {
-                japanese: 'おねえさん',
-                translation: 'Старшая сестра'
+                japanese: 'パソコン',
+                translation: 'Персональный компьютер'
             },
             {
-                japanese: 'おとうとさん',
-                translation: 'Младший брат'
-            },
-            {
-                japanese: 'いもうとさん',
-                translation: 'Младшая сестра'
-            },
-            {
-                japanese: 'むすこさん',
-                translation: 'Сын'
-            },
-            {
-                japanese: 'むすめさん',
-                translation: 'Дочь'
-            },
-            {
-                japanese: 'まご',
-                translation: 'Внук'
-            },
-            {
-                japanese: 'おくさん',
-                translation: 'Жена'
+                japanese: 'けいたいでんわ',
+                translation: 'Мобильный телефон'
             }
         ]
     },
@@ -119,67 +99,47 @@ export default [
         ]
     },
     {
-        title: 'Dates',
+        title: 'Relations',
         words: [
             {
-                japanese: 'たんじょうび',
-                translation: 'День рождения'
+                japanese: 'おとうさん',
+                translation: 'Папа'
             },
             {
-                japanese: 'あけまして',
-                translation: 'С новым годом'
+                japanese: 'おかあさん',
+                translation: 'Мама'
             },
             {
-                japanese: 'おめでとうございます',
-                translation: 'Поздравляю'
+                japanese: 'おにいさん',
+                translation: 'Старший брат'
             },
             {
-                japanese: 'がつ',
-                translation: 'Месяц'
+                japanese: 'おねえさん',
+                translation: 'Старшая сестра'
             },
             {
-                japanese: 'にち',
-                translation: 'День'
+                japanese: 'おとうとさん',
+                translation: 'Младший брат'
             },
             {
-                japanese: 'なのか',
-                translation: 'Седьмой'
+                japanese: 'いもうとさん',
+                translation: 'Младшая сестра'
             },
             {
-                japanese: 'きょう',
-                translation: 'Сегодня'
+                japanese: 'むすこさん',
+                translation: 'Сын'
             },
             {
-                japanese: 'いま',
-                translation: 'Сейчас'
+                japanese: 'むすめさん',
+                translation: 'Дочь'
             },
             {
-                japanese: 'やすみ',
-                translation: 'Отпуск'
+                japanese: 'まご',
+                translation: 'Внук'
             },
             {
-                japanese: 'いつ',
-                translation: 'Когда, время'
-            },
-            {
-                japanese: 'らいねん',
-                translation: 'В следующем году'
-            },
-            {
-                japanese: 'あした',
-                translation: 'Завтра'
-            },
-            {
-                japanese: 'きのう',
-                translation: 'Вчера'
-            },
-            {
-                japanese: 'しゅうかん',
-                translation: 'Неделя'
-            },
-            {
-                japanese: 'そのあと',
-                translation: 'После этого'
+                japanese: 'おくさん',
+                translation: 'Жена'
             }
         ]
     },
@@ -253,48 +213,128 @@ export default [
         ]
     },
     {
-        title: 'Technical',
+        title: 'Dates',
         words: [
             {
-                japanese: 'かいしゃ',
-                translation: 'Корпорация'
+                japanese: 'たんじょうび',
+                translation: 'День рождения'
             },
             {
-                japanese: 'でんわ',
-                translation: 'Телефон'
+                japanese: 'あけまして',
+                translation: 'С новым годом'
             },
             {
-                japanese: 'ばんごう',
-                translation: 'Номер'
+                japanese: 'おめでとうございます',
+                translation: 'Поздравляю'
             },
             {
-                japanese: 'パソコン',
-                translation: 'Персональный компьютер'
+                japanese: 'がつ',
+                translation: 'Месяц'
             },
             {
-                japanese: 'けいたいでんわ',
-                translation: 'Мобильный телефон'
+                japanese: 'にち',
+                translation: 'День'
+            },
+            {
+                japanese: 'なのか',
+                translation: 'Седьмой'
+            },
+            {
+                japanese: 'きょう',
+                translation: 'Сегодня'
+            },
+            {
+                japanese: 'いま',
+                translation: 'Сейчас'
+            },
+            {
+                japanese: 'やすみ',
+                translation: 'Отпуск'
+            },
+            {
+                japanese: 'いつ',
+                translation: 'Когда, время'
+            },
+            {
+                japanese: 'らいねん',
+                translation: 'В следующем году'
+            },
+            {
+                japanese: 'あした',
+                translation: 'Завтра'
+            },
+            {
+                japanese: 'きのう',
+                translation: 'Вчера'
+            },
+            {
+                japanese: 'しゅうかん',
+                translation: 'Неделя'
+            },
+            {
+                japanese: 'そのあと',
+                translation: 'После этого'
             }
         ]
     },
     {
-        title: 'Body parts',
+        title: 'Nouns',
         words: [
             {
-                japanese: 'あたま',
-                translation: 'Голова'
+                japanese: 'めんきょ',
+                translation: 'Лицензия, уроки'
             },
             {
-                japanese: 'かみ',
-                translation: 'Волосы, причёска'
+                japanese: 'うんてん',
+                translation: 'Вождение'
             },
             {
-                japanese: 'こえ',
-                translation: 'Голос'
+                japanese: 'あぶない',
+                translation: 'Опасность'
             },
             {
-                japanese: 'き',
-                translation: 'Чувство'
+                japanese: 'しゃしん',
+                translation: 'Фото'
+            },
+            {
+                japanese: 'やさし',
+                translation: 'Доброжелательность'
+            },
+            {
+                japanese: 'けっこんしき',
+                translation: 'Свадебная церемония'
+            },
+            {
+                japanese: 'どうぞ',
+                translation: 'Пожалуйста (проходите)'
+            },
+            {
+                japanese: 'おきゃくさん',
+                translation: 'Посетитель, гость'
+            },
+            {
+                japanese: 'たいざい',
+                translation: 'Пребывание'
+            },
+            {
+                japanese: 'もくてき',
+                translation: 'Цель'
+            },
+            {
+                japanese: 'きかん',
+                translation: 'Продолжительность'
+            },
+            {
+                japanese: 'たいざいきかん',
+                translation: 'Продолжительность пребывания'
+            },
+            {
+                japanese: 'たいざいもくてき',
+                translation: 'Цель пребывания'
+            },
+            {
+                japanese: 'かんこう',
+                translation: 'Осмотр достопримечательностей'
             }
         ]
     },
@@ -381,63 +421,23 @@ export default [
         ]
     },
     {
-        title: 'Nouns',
+        title: 'Body parts',
         words: [
             {
-                japanese: 'めんきょ',
-                translation: 'Лицензия, уроки'
+                japanese: 'あたま',
+                translation: 'Голова'
             },
             {
-                japanese: 'うんてん',
-                translation: 'Вождение'
+                japanese: 'かみ',
+                translation: 'Волосы, причёска'
             },
             {
-                japanese: 'あぶない',
-                translation: 'Опасность'
+                japanese: 'こえ',
+                translation: 'Голос'
             },
             {
-                japanese: 'しゃしん',
-                translation: 'Фото'
-            },
-            {
-                japanese: 'やさし',
-                translation: 'Доброжелательность'
-            },
-            {
-                japanese: 'けっこんしき',
-                translation: 'Свадебная церемония'
-            },
-            {
-                japanese: 'どうぞ',
-                translation: 'Пожалуйста (проходите)'
-            },
-            {
-                japanese: 'おきゃくさん',
-                translation: 'Посетитель, гость'
-            },
-            {
-                japanese: 'たいざい',
-                translation: 'Пребывание'
-            },
-            {
-                japanese: 'もくてき',
-                translation: 'Цель'
-            },
-            {
-                japanese: 'きかん',
-                translation: 'Продолжительность'
-            },
-            {
-                japanese: 'たいざいきかん',
-                translation: 'Продолжительность пребывания'
-            },
-            {
-                japanese: 'たいざいもくてき',
-                translation: 'Цель пребывания'
-            },
-            {
-                japanese: 'かんこう',
-                translation: 'Осмотр достопримечательностей'
+                japanese: 'き',
+                translation: 'Чувство'
             }
         ]
     },

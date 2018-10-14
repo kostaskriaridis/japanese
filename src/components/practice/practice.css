@@ -10,6 +10,11 @@
     text-align: center;
     font-size: 32px;
     color: rgba(0, 0, 0, .5);
+    transition: opacity .2s;
+}
+
+.practice-translation_hidden {
+    opacity: 0;
 }
 
 .practice-percentage {
