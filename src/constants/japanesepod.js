@@ -164,7 +164,7 @@ export default [
             },
             {
                 japanese: 'とりあえず',
-                translation: 'Для начала / в настоящее время'
+                translation: 'Для начала'
             },
             {
                 japanese: 'どちら',
@@ -242,10 +242,6 @@ export default [
                 translation: 'Следующий'
             },
             {
-                japanese: 'じ',
-                translation: 'Час'
-            },
-            {
                 japanese: 'はん',
                 translation: 'Половина'
             },
@@ -255,7 +251,7 @@ export default [
             },
             {
                 japanese: 'じゆうじかん',
-                translation: 'Свободные часы (じかん — счётчик для часов)'
+                translation: 'Свободные часы'
             },
             {
                 japanese: 'あした',
@@ -266,7 +262,7 @@ export default [
                 translation: 'Вчера'
             },
             {
-                japanese: 'しゅう',
+                japanese: 'しゅうかん',
                 translation: 'Неделя'
             },
             {
@@ -368,47 +364,6 @@ export default [
         ]
     },
     {
-        title: 'Is This Your Japanese House?',
-        words: [
-            {
-                japanese: 'おじゃまします',
-                translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)'
-            },
-            {
-                japanese: 'おくさん',
-                translation: 'Жена'
-            },
-            {
-                japanese: 'どうぞ',
-                translation: 'Пожалуйста (проходите)'
-            }
-        ]
-    },
-    {
-        title: [
-            'The Fortunes of Rain in Japan',
-            'Style versus Function in Japan: Whose Umbrella is THAT?!'
-        ],
-        words: [
-            {
-                japanese: 'どこの',
-                translation: 'Откуда?'
-            },
-            {
-                japanese: 'また',
-                translation: 'Также'
-            },
-            {
-                japanese: 'おきゃくさん',
-                translation: 'Посетитель, гость'
-            },
-            {
-                japanese: 'とけい',
-                translation: 'Часы'
-            }
-        ]
-    },
-    {
         title: 'These Japanese Interjections Aren\'t Impolite!',
         words: [
             {
@@ -454,6 +409,76 @@ export default [
             {
                 japanese: 'まご',
                 translation: 'Внук'
+            }
+        ]
+    },
+    {
+        title: 'Is This Your Japanese House?',
+        words: [
+            {
+                japanese: 'おじゃまします',
+                translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)'
+            },
+            {
+                japanese: 'おくさん',
+                translation: 'Жена'
+            },
+            {
+                japanese: 'どうぞ',
+                translation: 'Пожалуйста (проходите)'
+            }
+        ]
+    },
+    {
+        title: [
+            'The Fortunes of Rain in Japan',
+            'Style versus Function in Japan: Whose Umbrella is THAT?!'
+        ],
+        words: [
+            {
+                japanese: 'どこの',
+                translation: 'Откуда?'
+            },
+            {
+                japanese: 'また',
+                translation: 'Также'
+            },
+            {
+                japanese: 'おきゃくさん',
+                translation: 'Посетитель, гость'
+            },
+            {
+                japanese: 'とけい',
+                translation: 'Часы'
+            }
+        ]
+    },
+    {
+        title: 'How to Navigate Passport Control in Japanese',
+        words: [
+            {
+                japanese: 'たいざい',
+                translation: 'Пребывание'
+            },
+            {
+                japanese: 'もくてき',
+                translation: 'Цель'
+            },
+            {
+                japanese: 'きかん',
+                translation: 'Продолжительность'
+            },
+            {
+                japanese: 'たいざいきかん',
+                translation: 'Продолжительность пребывания'
+            },
+            {
+                japanese: 'たいざいもくてき',
+                translation: 'Цель пребывания'
+            },
+            {
+                japanese: 'かんこう',
+                translation: 'Осмотр достопримечательностей'
             }
         ]
     }
