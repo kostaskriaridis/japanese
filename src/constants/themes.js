@@ -417,6 +417,14 @@ export default [
             {
                 japanese: 'また',
                 translation: 'Также'
+            },
+            {
+                japanese: 'だめ',
+                translation: 'Нехорошо'
+            },
+            {
+                japanese: 'たぶん',
+                translation: 'Вероятно, возможно'
             }
         ]
     },
@@ -460,6 +468,19 @@ export default [
             {
                 japanese: 'おじゃまします',
                 translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)'
+            }
+        ]
+    },
+    {
+        title: 'Medicine',
+        words: [
+            {
+                japanese: 'くすり',
+                translation: 'Медицина'
+            },
+            {
+                japanese: 'かぜ',
+                translation: 'Простуда'
             }
         ]
     }
