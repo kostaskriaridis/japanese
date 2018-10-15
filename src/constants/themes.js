@@ -450,6 +450,47 @@ export default [
         ]
     },
     {
+        title: 'Numbers',
+        words: [
+            {
+                japanese: 'ひゃく',
+                translation: '100'
+            },
+            {
+                japanese: 'にひゃく',
+                translation: '200'
+            },
+            {
+                japanese: 'さんびゃく',
+                translation: '300'
+            },
+            {
+                japanese: 'よんひゃく',
+                translation: '400'
+            },
+            {
+                japanese: 'ごひゃく',
+                translation: '500'
+            },
+            {
+                japanese: 'ろっぴゃく',
+                translation: '600'
+            },
+            {
+                japanese: 'ななひゃく',
+                translation: '700'
+            },
+            {
+                japanese: 'はっぴゃく',
+                translation: '800'
+            },
+            {
+                japanese: 'きゅうひゃく',
+                translation: '900'
+            }
+        ]
+    },
+    {
         title: 'Combinations',
         words: [
             {
