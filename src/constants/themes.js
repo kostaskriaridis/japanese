@@ -313,32 +313,32 @@ export default [
                 translation: '9'
             },
             {
-                 japanese: 'とおか',
-                 translation: '10'
+                japanese: 'とおか',
+                translation: '10'
             },
             {
-                 japanese: 'じゅういちにち',
-                 translation: '11'
+                japanese: 'じゅういちにち',
+                translation: '11'
             },
             {
-                 japanese: 'じゅうににち',
-                 translation: '12'
+                japanese: 'じゅうににち',
+                translation: '12'
             },
             {
-                 japanese: 'じゅうさんにち',
-                 translation: '13'
+                japanese: 'じゅうさんにち',
+                translation: '13'
             },
             {
-                 japanese: 'じゅうよっか',
-                 translation: '14'
+                japanese: 'じゅうよっか',
+                translation: '14'
             },
             {
-                 japanese: 'じゅうごにち',
-                 translation: '15'
+                japanese: 'じゅうごにち',
+                translation: '15'
             },
             {
-                 japanese: 'じゅうろくにち',
-                 translation: '16'
+                japanese: 'じゅうろくにち',
+                translation: '16'
             },
             {
                 japanese: 'じゅうななにち',
