@@ -278,127 +278,127 @@ export default [
         words: [
             {
                 japanese: 'ついたち',
-                translation: '1'
+                translation: '1 число'
             },
             {
                 japanese: 'ふつか',
-                translation: '2'
+                translation: '2 число'
             },
             {
                 japanese: 'みっか',
-                translation: '3'
+                translation: '3 число'
             },
             {
                 japanese: 'よっか',
-                translation: '4'
+                translation: '4 число'
             },
             {
                 japanese: 'いつか',
-                translation: '5'
+                translation: '5 число'
             },
             {
                 japanese: 'むいか',
-                translation: '6'
+                translation: '6 число'
             },
             {
                 japanese: 'なのか',
-                translation: '7'
+                translation: '7 число'
             },
             {
                 japanese: 'ようか',
-                translation: '8'
+                translation: '8 число'
             },
             {
                 japanese: 'ここのか',
-                translation: '9'
+                translation: '9 число'
             },
             {
                 japanese: 'とおか',
-                translation: '10'
+                translation: '10 число'
             },
             {
                 japanese: 'じゅういちにち',
-                translation: '11'
+                translation: '11 число'
             },
             {
                 japanese: 'じゅうににち',
-                translation: '12'
+                translation: '12 число'
             },
             {
                 japanese: 'じゅうさんにち',
-                translation: '13'
+                translation: '13 число'
             },
             {
                 japanese: 'じゅうよっか',
-                translation: '14'
+                translation: '14 число'
             },
             {
                 japanese: 'じゅうごにち',
-                translation: '15'
+                translation: '15 число'
             },
             {
                 japanese: 'じゅうろくにち',
-                translation: '16'
+                translation: '16 число'
             },
             {
                 japanese: 'じゅうななにち',
-                translation: '17'
+                translation: '17 число'
             },
             {
                 japanese: 'じゅうはちにち',
-                translation: '18'
+                translation: '18 число'
             },
             {
                 japanese: 'じゅうくにち',
-                translation: '19'
+                translation: '19 число'
             },
             {
                 japanese: 'はつか',
-                translation: '20'
+                translation: '20 число'
             },
             {
                 japanese: 'にじゅういちにち',
-                translation: '21'
+                translation: '21 число'
             },
             {
                 japanese: 'にじゅうににち',
-                translation: '22'
+                translation: '22 число'
             },
             {
                 japanese: 'にじゅうさんにち',
-                translation: '23'
+                translation: '23 число'
             },
             {
                 japanese: 'にじゅうよんにち',
-                translation: '24'
+                translation: '24 число'
             },
             {
                 japanese: 'にじゅうごにち',
-                translation: '25'
+                translation: '25 число'
             },
             {
                 japanese: 'にじゅうろくにち',
-                translation: '26'
+                translation: '26 число'
             },
             {
                 japanese: 'にじゅうななにち',
-                translation: '27'
+                translation: '27 число'
             },
             {
                 japanese: 'にじゅうはちにち',
-                translation: '28'
+                translation: '28 число'
             },
             {
                 japanese: 'にじゅうくにち',
-                translation: '29'
+                translation: '29 число'
             },
             {
                 japanese: 'さんじゅうにち',
-                translation: '30'
+                translation: '30 число'
             },
             {
                 japanese: 'さんじゅういちにち',
-                translation: '31'
+                translation: '31 число'
             }
         ]
     },
