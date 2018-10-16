@@ -22,12 +22,13 @@ export default class Lesson extends PureComponent {
                     <Icon type='practice' />
                 </Button>
                 <h1 className='lesson__title'>
-                    {Array.isArray(title) ? title.join(' / ') : title}
+                    {title}
                 </h1>
                 <div className='lesson__words'>
-                    {this.getWords().map((word, index) => (
+                    {words.map((word, index) => (
                         <Word
                             key={index}
+                            isLast={index === words.length - 1}
                             {...word} />
                     ))}
                 </div>
