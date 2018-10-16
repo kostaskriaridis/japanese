@@ -578,6 +578,10 @@ export default [
             {
                 japanese: 'もちろん',
                 translation: 'Конечно'
+            },
+            {
+                japanese: 'やさしく',
+                translation: 'Осторожно'
             }
         ]
     },

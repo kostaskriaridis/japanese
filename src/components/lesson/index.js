@@ -13,6 +13,8 @@ export default class Lesson extends PureComponent {
             return null;
         }
 
+        const lastWordIndex = words.length - 1;
+
         return (
             <div className='lesson'>
                 <Button
@@ -28,7 +30,7 @@ export default class Lesson extends PureComponent {
                     {words.map((word, index) => (
                         <Word
                             key={index}
-                            isLast={index === words.length - 1}
+                            isLast={index === lastWordIndex}
                             {...word} />
                     ))}
                 </div>
