@@ -17,6 +17,7 @@ export default class Lesson extends PureComponent {
             <div className='lesson'>
                 <Button
                     className='lesson__practice-button'
+                    size='s'
                     onClick={this.handleClickPracticeButton}>
                     <Icon type='practice' />
                 </Button>

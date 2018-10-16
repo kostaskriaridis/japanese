@@ -313,6 +313,10 @@ export default [
                 translation: 'Посетитель, гость'
             },
             {
+                japanese: 'てんいん',
+                translation: 'Работник, клерк'
+            },
+            {
                 japanese: 'たいざい',
                 translation: 'Пребывание'
             },
@@ -450,7 +454,7 @@ export default [
         ]
     },
     {
-        title: 'Numbers',
+        title: 'Numbers Hundred',
         words: [
             {
                 japanese: 'ひゃく',
@@ -491,6 +495,133 @@ export default [
         ]
     },
     {
+        title: 'Numbers Thousands',
+        words: [
+            {
+                japanese: 'せん',
+                translation: '1 000'
+            },
+            {
+                japanese: 'にせん',
+                translation: '2 000'
+            },
+            {
+                japanese: 'さんぜん',
+                translation: '3 000'
+            },
+            {
+                japanese: 'よんせん',
+                translation: '4 000'
+            },
+            {
+                japanese: 'ごせん',
+                translation: '5 000'
+            },
+            {
+                japanese: 'ろくせん',
+                translation: '6 000'
+            },
+            {
+                japanese: 'ななせん',
+                translation: '7 000'
+            },
+            {
+                japanese: 'はっせん',
+                translation: '8 000'
+            },
+            {
+                japanese: 'きゅうせん',
+                translation: '9 000'
+            }
+        ]
+    },
+    {
+        title: 'Numbers Tens of Thousands',
+        words: [
+            {
+                japanese: 'いちまん',
+                translation: '10 000'
+            },
+            {
+                japanese: 'にまん',
+                translation: '20 000'
+            },
+            {
+                japanese: 'さんまん',
+                translation: '30 000'
+            },
+            {
+                japanese: 'よんまん',
+                translation: '40 000'
+            },
+            {
+                japanese: 'ごまん',
+                translation: '50 000'
+            },
+            {
+                japanese: 'ろくまん',
+                translation: '60 000'
+            },
+            {
+                japanese: 'ななまん',
+                translation: '70 000'
+            },
+            {
+                japanese: 'はちまん',
+                translation: '80 000'
+            },
+            {
+                japanese: 'きゅうまん',
+                translation: '90 000'
+            }
+        ]
+    },
+    {
+        title: 'Numbers Hundreds of Thousands',
+        words: [
+            {
+                japanese: 'じゅうまん',
+                translation: '100 000'
+            },
+            {
+                japanese: 'にじゅうまん',
+                translation: '200 000'
+            },
+            {
+                japanese: 'さんじゅうまん',
+                translation: '300 000'
+            },
+            {
+                japanese: 'よんじゅうまん',
+                translation: '400 000'
+            },
+            {
+                japanese: 'ごじゅうまん',
+                translation: '500 000'
+            },
+            {
+                japanese: 'ろくじゅうまん',
+                translation: '600 000'
+            },
+            {
+                japanese: 'ななじゅうまん',
+                translation: '700 000'
+            },
+            {
+                japanese: 'はちじゅうまん',
+                translation: '800 000'
+            },
+            {
+                japanese: 'きゅうじゅうまん',
+                translation: '900 000'
+            },
+            {
+                japanese: 'ひゃくまん',
+                translation: '1 000 000'
+            }
+        ]
+    },
+    {
         title: 'Combinations',
         words: [
             {
@@ -522,6 +653,19 @@ export default [
             {
                 japanese: 'かぜ',
                 translation: 'Простуда'
+            }
+        ]
+    },
+    {
+        title: 'Money',
+        words: [
+            {
+                japanese: 'ぜい',
+                translation: 'Налог'
+            },
+            {
+                japanese: 'ぜいこみ',
+                translation: 'Налог включён'
             }
         ]
     }
