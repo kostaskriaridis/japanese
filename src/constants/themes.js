@@ -236,10 +236,6 @@ export default [
                 translation: 'День'
             },
             {
-                japanese: 'なのか',
-                translation: 'Седьмой'
-            },
-            {
                 japanese: 'きょう',
                 translation: 'Сегодня'
             },

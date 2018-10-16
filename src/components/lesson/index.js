@@ -46,10 +46,13 @@ export default class Lesson extends PureComponent {
             return this.props.words;
         }
 
-        return words.filter(({ translation }) => {
-            return translation
-                .toLowerCase()
-                .startsWith(value.toLowerCase());
+        return words.filter(({ japanese, translation }) => {
+            const lowerCasedValue = value.toLowerCase();
+
+            return (
+                japanese.toLowerCase().startsWith(lowerCasedValue) ||
+                translation.toLowerCase().startsWith(lowerCasedValue)
+            );
         });
     }
 }
