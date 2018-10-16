@@ -95,7 +95,7 @@ export default [
             {
                 japanese: 'きんちょうする',
                 translation: 'Нервничать'
-            },
+            }
         ]
     },
     {
@@ -278,6 +278,135 @@ export default [
         ]
     },
     {
+        title: 'Month Dates',
+        words: [
+            {
+                japanese: 'ついたち',
+                translation: '1'
+            },
+            {
+                japanese: 'ふつか',
+                translation: '2'
+            },
+            {
+                japanese: 'みっか',
+                translation: '3'
+            },
+            {
+                japanese: 'よっか',
+                translation: '4'
+            },
+            {
+                japanese: 'いつか',
+                translation: '5'
+            },
+            {
+                japanese: 'むいか',
+                translation: '6'
+            },
+            {
+                japanese: 'なのか',
+                translation: '7'
+            },
+            {
+                japanese: 'ようか',
+                translation: '8'
+            },
+            {
+                japanese: 'ここのか',
+                translation: '9'
+            },
+            {
+                 japanese: 'とおか',
+                 translation: '10'
+            },
+            {
+                 japanese: 'じゅういちにち',
+                 translation: '11'
+            },
+            {
+                 japanese: 'じゅうににち',
+                 translation: '12'
+            },
+            {
+                 japanese: 'じゅうさんにち',
+                 translation: '13'
+            },
+            {
+                 japanese: 'じゅうよっか',
+                 translation: '14'
+            },
+            {
+                 japanese: 'じゅうごにち',
+                 translation: '15'
+            },
+            {
+                 japanese: 'じゅうろくにち',
+                 translation: '16'
+            },
+            {
+                japanese: 'じゅうななにち',
+                translation: '17'
+            },
+            {
+                japanese: 'じゅうはちにち',
+                translation: '18'
+            },
+            {
+                japanese: 'じゅうくにち',
+                translation: '19'
+            },
+            {
+                japanese: 'はつか',
+                translation: '20'
+            },
+            {
+                japanese: 'にじゅういちにち',
+                translation: '21'
+            },
+            {
+                japanese: 'にじゅうににち',
+                translation: '22'
+            },
+            {
+                japanese: 'にじゅうさんにち',
+                translation: '23'
+            },
+            {
+                japanese: 'にじゅうよんにち',
+                translation: '24'
+            },
+            {
+                japanese: 'にじゅうごにち',
+                translation: '25'
+            },
+            {
+                japanese: 'にじゅうろくにち',
+                translation: '26'
+            },
+            {
+                japanese: 'にじゅうななにち',
+                translation: '27'
+            },
+            {
+                japanese: 'にじゅうはちにち',
+                translation: '28'
+            },
+            {
+                japanese: 'にじゅうくにち',
+                translation: '29'
+            },
+            {
+                japanese: 'さんじゅうにち',
+                translation: '30'
+            },
+            {
+                japanese: 'さんじゅういちにち',
+                translation: '31'
+            }
+        ]
+    },
+    {
         title: 'Nouns',
         words: [
             {
@@ -400,6 +529,22 @@ export default [
             {
                 japanese: 'あたらしい',
                 translation: 'Новый'
+            },
+            {
+                japanese: 'しずか',
+                translation: 'Спокойный'
+            },
+            {
+                japanese: 'とくべつ',
+                translation: 'Особенный'
+            },
+            {
+                japanese: 'まっすぐ',
+                translation: 'Прямой'
+            },
+            {
+                japanese: 'おなじ',
+                translation: 'Такой же'
             }
         ]
     },
@@ -429,6 +574,14 @@ export default [
             {
                 japanese: 'たぶん',
                 translation: 'Вероятно, возможно'
+            },
+            {
+                japanese: 'だけ',
+                translation: 'Только'
+            },
+            {
+                japanese: 'もちろん',
+                translation: 'Конечно'
             }
         ]
     },

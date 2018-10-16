@@ -3,17 +3,14 @@ import Lessons from './components/lessons';
 import Practice from './components/practice';
 import Button from './components/button';
 import Icon from './components/icon';
-import japanesepodLessons from './constants/japanesepod';
 import themes from './constants/themes';
 import time from './constants/time';
 import './app.css';
 
-const JAPANESE_POD_LESSONS_PAGE = 'JAPANESE_POD_LESSONS_PAGE';
 const TIME_LESSONS_PAGE = 'TIME_LESSONS_PAGE';
 const THEMES_LESSONS_PAGE = 'THEMES_LESSONS_PAGE';
 const pages = [
     { type: THEMES_LESSONS_PAGE, text: 'Themes' },
-    { type: JAPANESE_POD_LESSONS_PAGE, text: 'JapanesePod101' },
     { type: TIME_LESSONS_PAGE, text: 'Time' }
 ];
 
@@ -94,10 +91,6 @@ export default class App extends PureComponent {
 
     getLessons() {
         switch (this.state.lessonsType) {
-            case JAPANESE_POD_LESSONS_PAGE: {
-                return japanesepodLessons;
-            }
-
             case TIME_LESSONS_PAGE: {
                 return time;
             }
