@@ -36,16 +36,16 @@ export default [
                 translation: 'Телефон'
             },
             {
-                japanese: 'ばんごう',
-                translation: 'Номер'
-            },
-            {
                 japanese: 'パソコン',
                 translation: 'Персональный компьютер'
             },
             {
                 japanese: 'けいたいでんわ',
                 translation: 'Мобильный телефон'
+            },
+            {
+                japanese: 'ばんごう',
+                translation: 'Номер'
             }
         ]
     },
@@ -578,6 +578,14 @@ export default [
             {
                 japanese: 'おなじ',
                 translation: 'Такой же'
+            },
+            {
+                japanese: 'すずしい',
+                translation: 'Прохладый (о погоде)'
+            },
+            {
+                japanese: 'あたたかい',
+                translation: 'Тёплый (о погоде)'
             }
         ]
     },
