@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "babel-register": "^6.26.0",
     "classnames": "^2.2.6",
     "react": "^16.5.2",
     "react-dom": "^16.5.2",
@@ -12,6 +13,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test --env=jsdom",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "generate": "node ./utils/generate-md.js"
   }
 }
