@@ -609,6 +609,10 @@ export default [
                 translation: 'Также'
             },
             {
+                japanese: 'ちょうど',
+                translation: 'Точно'
+            },
+            {
                 japanese: 'だめ',
                 translation: 'Нехорошо'
             },
