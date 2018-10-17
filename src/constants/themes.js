@@ -18,6 +18,10 @@ export default [
                 japanese: 'どうして',
                 translation: 'Почему?'
             },
+            {
+                japanese: 'だれの',
+                translation: 'Чьё?'
+            }
         ]
     },
     {
@@ -42,6 +46,31 @@ export default [
             {
                 japanese: 'けいたいでんわ',
                 translation: 'Мобильный телефон'
+            }
+        ]
+    },
+    {
+        title: 'Pronouns',
+        words: [
+            {
+                japanese: 'かれの',
+                translation: 'Его'
+            },
+            {
+                japanese: 'かのじょの',
+                translation: 'Её'
+            },
+            {
+                japanese: 'わたしたちの',
+                translation: 'Наше'
+            },
+            {
+                japanese: 'かれらの',
+                translation: 'Их'
+            },
+            {
+                japanese: 'あなたたちの',
+                translation: 'Ваше (мн. число)'
             }
         ]
     },
@@ -93,8 +122,16 @@ export default [
                 translation: 'Начинается'
             },
             {
-                japanese: 'きんちょうする',
+                japanese: 'きんちょうします',
                 translation: 'Нервничать'
+            },
+            {
+                japanese: 'わすれます',
+                translation: 'Забывать'
+            },
+            {
+                japanese: 'わすれもの',
+                translation: 'Забыт'
             }
         ]
     },
