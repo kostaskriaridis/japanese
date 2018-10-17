@@ -4,11 +4,11 @@ require('babel-register')({
 
 const fs = require('fs');
 const themes = require('../src/constants/themes').default;
-
 const md = themes
     .map(theme => {
         return [
             `#### ${theme.title}`,
+            `| Japanese | Translation |`,
             '| ------ | ------ |',
             ...theme.words.map(word => {
                 return `| \`${word.japanese}\` | ${word.translation} |`;
