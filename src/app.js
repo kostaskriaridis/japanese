@@ -18,11 +18,13 @@ export default class App extends PureComponent {
     state = {
         lessonsType: THEMES_LESSONS_PAGE,
         lessonIndex: null,
-        isPracticePopupShown: false
+        isPracticePopupShown: false,
+        isPracticeInversed: false
     };
 
     render() {
         const lessons = this.getLessons();
+        const { lessonsType, isPracticeInversed } = this.state;
 
         return (
             <div className='app'>
@@ -30,11 +32,16 @@ export default class App extends PureComponent {
                     {pages.map(page => (
                         <Button
                             key={page.type}
-                            active={this.state.lessonsType === page.type}
+                            active={lessonsType === page.type}
                             onClick={() => this.handleChangeLessonsType(page.type)}>
                             {page.text}
                         </Button>
                     ))}
+                    <Button
+                        active={isPracticeInversed}
+                        onClick={this.handleTogglePractice}>
+                        Practice Inversed
+                    </Button>
                     <Button onClick={this.handleShowPracticePopup}>
                         <Icon type='practice' />
                     </Button>
@@ -48,7 +55,7 @@ export default class App extends PureComponent {
     }
 
     renderPracticePopup(lessons) {
-        const { lessonIndex, isPracticePopupShown } = this.state;
+        const { lessonIndex, isPracticePopupShown, isPracticeInversed } = this.state;
 
         if (!isPracticePopupShown) {
             return null;
@@ -61,7 +68,8 @@ export default class App extends PureComponent {
         return (
             <Practice
                 words={this.getWords(lessons)}
-                onClose={this.handleClosePracticePopup} />
+                onClose={this.handleClosePracticePopup}
+                inverse={isPracticeInversed} />
         );
     }
 
@@ -75,7 +83,13 @@ export default class App extends PureComponent {
         this.setState({
             isPracticePopupShown: false,
             lessonIndex: null
-        })
+        });
+    };
+
+    handleTogglePractice = () => {
+        this.setState({
+            isPracticeInversed: !this.state.isPracticeInversed
+        });
     };
 
     handleChangeLessonsType = lessonsType => {

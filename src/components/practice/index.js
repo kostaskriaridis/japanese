@@ -1,4 +1,5 @@
 import React, { PureComponent } from 'react';
+import PropTypes from 'prop-types';
 import classNames from 'classnames';
 import Popup from '../popup';
 import WordJapanese from '../word-japanese';
@@ -10,6 +11,15 @@ const LEFT_KEY_CODE = 37;
 const RIGHT_KEY_CODE = 39;
 
 export default class Practice extends PureComponent {
+    static propTypes = {
+        onClose: PropTypes.func.isRequired,
+        words: PropTypes.arrayOf(PropTypes.shape({
+            japanese: PropTypes.string.isRequired,
+            translation: PropTypes.string.isRequired
+        })),
+        inverse: PropTypes.bool
+    };
+
     constructor(props) {
         super(props);
 
@@ -17,7 +27,7 @@ export default class Practice extends PureComponent {
 
         this.state = {
             index: 0,
-            isTranscriptionDisplayed: false
+            isAnswerDisplayed: false
         };
     }
 
@@ -30,17 +40,18 @@ export default class Practice extends PureComponent {
     }
 
     render() {
-        const word = this.words[this.state.index];
+        const { inverse, onClose } = this.props;
+        const { japanese, translation } = this.words[this.state.index];
 
         return (
-            <Popup onClose={this.props.onClose}>
+            <Popup onClose={onClose}>
                 <div className='practice-word'>
                     <WordJapanese
                         size='xxxl'
-                        text={word.japanese}
+                        text={inverse ? translation : japanese}
                         onClick={this.handleNextWord} />
                 </div>
-                {this.renderTranslation(word)}
+                {this.renderAnswer(inverse ? japanese : translation)}
                 <div className='practice-percentage'>
                     {this.getPassedWordsPercentage()}%
                 </div>
@@ -48,14 +59,14 @@ export default class Practice extends PureComponent {
         );
     }
 
-    renderTranslation(word) {
-        const translationClass = classNames('practice-translation', {
-            'practice-translation_hidden': !this.state.isTranscriptionDisplayed
+    renderAnswer(answer) {
+        const answerClass = classNames('practice-answer', {
+            'practice-answer_hidden': !this.state.isAnswerDisplayed
         });
 
         return (
-            <div className={translationClass}>
-                {word.translation}
+            <div className={answerClass}>
+                {answer}
             </div>
         );
     }
@@ -86,16 +97,16 @@ export default class Practice extends PureComponent {
         this.setState(nextState);
     };
 
-    handleToggleTranslation = () => {
+    handleToggleAnswer = () => {
         this.setState({
-            isTranscriptionDisplayed: !this.state.isTranscriptionDisplayed
+            isAnswerDisplayed: !this.state.isAnswerDisplayed
         });
     };
 
     handleKeyDown = event => {
         switch (event.keyCode) {
             case SPACE_KEY_CODE: {
-                this.handleToggleTranslation();
+                this.handleToggleAnswer();
                 break;
             }
 
