@@ -39,6 +39,15 @@
 | `きんちょうします` | Нервничать |
 | `わすれます` | Забывать |
 | `わすれもの` | Забыт |
+#### Present, Progressive, Past
+| Japanese | Translation |
+| ------ | ------ |
+| `たべます` | To eat |
+| `たべません` | I don't eat |
+| `たべています` | I'm eating |
+| `たべていません` | I'm not eating |
+| `たべました` | I ate |
+| `たべませんでした` | I didn't eat |
 #### Relations
 | Japanese | Translation |
 | ------ | ------ |
