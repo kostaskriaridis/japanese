@@ -1,6 +1,6 @@
 export default [
     {
-        title: 'Questions',
+        title: 'Questions / Places',
         words: [
             {
                 japanese: 'どんな',
@@ -21,6 +21,18 @@ export default [
             {
                 japanese: 'だれの',
                 translation: 'Чьё?'
+            },
+            {
+                japanese: 'どっち',
+                translation: 'Где?'
+            },
+            {
+                japanese: 'こっち',
+                translation: 'Здесь'
+            },
+            {
+                japanese: 'そっち',
+                translation: 'Там'
             }
         ]
     },
@@ -46,6 +58,10 @@ export default [
             {
                 japanese: 'ばんごう',
                 translation: 'Номер'
+            },
+            {
+                japanese: 'おかね',
+                translation: 'Деньги'
             }
         ]
     },
@@ -132,6 +148,10 @@ export default [
             {
                 japanese: 'わすれもの',
                 translation: 'Забыт'
+            },
+            {
+                japanese: 'しんぱいします',
+                translation: 'Беспокоиться'
             }
         ]
     },
@@ -206,6 +226,10 @@ export default [
             {
                 japanese: 'おくさん',
                 translation: 'Жена'
+            },
+            {
+                japanese: 'きょうだい',
+                translation: 'Братья и сёстры'
             }
         ]
     },
@@ -469,6 +493,63 @@ export default [
         ]
     },
     {
+        title: 'Age Numbers',
+        words: [
+            {
+                japanese: 'いっさい',
+                translation: '1 год'
+            },
+            {
+                japanese: 'にさい',
+                translation: '2 года'
+            },
+            {
+                japanese: 'さんさい',
+                translation: '3 года'
+            },
+            {
+                japanese: 'よんさい',
+                translation: '4 года'
+            },
+            {
+                japanese: 'ごさい',
+                translation: '5 лет'
+            },
+            {
+                japanese: 'ろくさい',
+                translation: '6 лет'
+            },
+            {
+                japanese: 'ななさい',
+                translation: '7 лет'
+            },
+            {
+                japanese: 'はっさい',
+                translation: '8 лет'
+            },
+            {
+                japanese: 'きゅうさい',
+                translation: '9 лет'
+            },
+            {
+                japanese: 'じゅっさい.',
+                translation: '10 лет'
+            },
+            {
+                japanese: 'じゅいっさい.',
+                translation: '11 лет'
+            },
+            {
+                japanese: 'はたち',
+                translation: '20 лет'
+            },
+            {
+                japanese: 'にじゅうっさい',
+                translation: '21 год'
+            }
+        ]
+    },
+    {
         title: 'Nouns',
         words: [
             {
@@ -530,6 +611,10 @@ export default [
             {
                 japanese: 'かんこう',
                 translation: 'Осмотр достопримечательностей'
+            },
+            {
+                japanese: 'よてい',
+                translation: 'План'
             }
         ]
     },
@@ -561,12 +646,20 @@ export default [
                 translation: 'Небольшой'
             },
             {
+                japanese: 'はやい',
+                translation: 'Быстрый'
+            },
+            {
                 japanese: 'かわいい',
                 translation: 'Милый'
             },
             {
                 japanese: 'わかい',
                 translation: 'Молодой'
+            },
+            {
+                japanese: 'ふるい',
+                translation: 'Старый'
             },
             {
                 japanese: 'つまらない',
@@ -615,6 +708,22 @@ export default [
             {
                 japanese: 'あたたかい',
                 translation: 'Тёплый (о погоде)'
+            },
+            {
+                japanese: 'やすい',
+                translation: 'Дешёвый'
+            },
+            {
+                japanese: 'ひま',
+                translation: 'Свободный'
+            },
+            {
+                japanese: 'たのしい',
+                translation: 'Весёлый'
+            },
+            {
+                japanese: 'ゆうめい',
+                translation: 'Известный'
             }
         ]
     },

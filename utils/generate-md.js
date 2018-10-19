@@ -17,8 +17,4 @@ const md = themes
     })
     .join('\n')
 
-fs.writeFile('WORDS.md', md, 'utf-8', err => {
-    if (err) {
-        throw err;
-    }
-}); 
+fs.writeFileSync('WORDS.md', md, 'utf-8'); 
