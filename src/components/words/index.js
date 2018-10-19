@@ -1,5 +1,5 @@
 import React, { PureComponent, Fragment } from 'react';
-import Lessons from '../lessons';
+import Lesson from '../lesson';
 import Practice from '../practice';
 import Button from '../button';
 import Icon from '../icon';
@@ -26,9 +26,16 @@ export default class Words extends PureComponent {
                         <Icon type='practice' />
                     </Button>
                 </div>
-                <Lessons
-                    lessons={themes}
-                    onClickPractice={this.handleClickPractice} />
+                <div className='lessons'>
+                    {themes.map((lesson, index) =>(
+                        <Lesson
+                            key={index}
+                            index={index}
+                            title={lesson.title}
+                            words={lesson.words}
+                            onClickPractice={this.handleClickPractice.bind(index)} />
+                    ))}
+                </div>
                 {this.renderPracticePopup()}
             </Fragment>
         );
