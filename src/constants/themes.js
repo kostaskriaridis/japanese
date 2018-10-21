@@ -658,7 +658,7 @@ export default [
                 translation: 'Молодой'
             },
             {
-                japanese: 'ふるい',
+                japanese: 'ふるい (な)',
                 translation: 'Старый'
             },
             {
@@ -682,7 +682,7 @@ export default [
                 translation: 'Обычный'
             },
             {
-                japanese: 'あたらしい',
+                japanese: 'あたらしい (な)',
                 translation: 'Новый'
             },
             {
@@ -724,6 +724,14 @@ export default [
             {
                 japanese: 'ゆうめい',
                 translation: 'Известный'
+            },
+            {
+                japanese: 'おいしい',
+                translation: 'Вкусный'
+            },
+            {
+                japanese: 'かんたん',
+                translation: 'Простой'
             }
         ]
     },
