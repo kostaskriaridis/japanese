@@ -4,7 +4,7 @@ export default [
         words: [
             {
                 japanese: 'どんな',
-                translation: 'Какие?'
+                translation: 'Какие? Какого типа?'
             },
             {
                 japanese: 'どちら',
@@ -21,7 +21,8 @@ export default [
             {
                 japanese: 'だれの',
                 translation: 'Чьё?'
-            },
+            }
+            /*
             {
                 japanese: 'どっち',
                 translation: 'Где?'
@@ -34,6 +35,7 @@ export default [
                 japanese: 'そっち',
                 translation: 'Там'
             }
+            */
         ]
     },
     {
@@ -66,27 +68,63 @@ export default [
         ]
     },
     {
-        title: 'Pronouns',
+        title: 'Relations',
         words: [
             {
-                japanese: 'かれの',
-                translation: 'Его'
+                japanese: 'おとうさん',
+                translation: 'Папа'
             },
             {
-                japanese: 'かのじょの',
-                translation: 'Её'
+                japanese: 'おかあさん',
+                translation: 'Мама'
             },
             {
-                japanese: 'わたしたちの',
-                translation: 'Наше'
+                japanese: 'おにいさん',
+                translation: 'Старший брат'
             },
             {
-                japanese: 'かれらの',
-                translation: 'Их'
+                japanese: 'おねえさん',
+                translation: 'Старшая сестра'
             },
             {
-                japanese: 'あなたたちの',
-                translation: 'Ваше (мн. число)'
+                japanese: 'おとうとさん',
+                translation: 'Младший брат'
+            },
+            {
+                japanese: 'いもうとさん',
+                translation: 'Младшая сестра'
+            },
+            {
+                japanese: 'むすこさん',
+                translation: 'Сын'
+            },
+            {
+                japanese: 'むすめさん',
+                translation: 'Дочь'
+            },
+            {
+                japanese: 'まご',
+                translation: 'Внук'
+            },
+            {
+                japanese: 'だんなさん',
+                translation: 'Муж'
+            },
+            {
+                japanese: 'おくさん',
+                translation: 'Жена'
+            },
+            {
+                japanese: 'きょうだい',
+                translation: 'Братья и сёстры'
+            },
+            {
+                japanese: 'そぼ',
+                translation: 'Бабушка'
+            },
+            {
+                japanese: 'そふ',
+                translation: 'Дедушка'
             }
         ]
     },
@@ -98,7 +136,7 @@ export default [
                 translation: 'Говорить'
             },
             {
-                japanese: 'のむ',
+                japanese: 'のみます',
                 translation: 'Пить'
             },
             {
@@ -152,6 +190,14 @@ export default [
             {
                 japanese: 'しんぱいします',
                 translation: 'Беспокоиться'
+            },
+            {
+                japanese: 'もうします',
+                translation: 'Называйте меня'
+            },
+            {
+                japanese: 'よみます',
+                translation: 'Читать'
             }
         ]
     },
@@ -185,51 +231,27 @@ export default [
         ]
     },
     {
-        title: 'Relations',
+        title: 'Pronouns',
         words: [
             {
-                japanese: 'おとうさん',
-                translation: 'Папа'
+                japanese: 'かれの',
+                translation: 'Его'
             },
             {
-                japanese: 'おかあさん',
-                translation: 'Мама'
+                japanese: 'かのじょの',
+                translation: 'Её'
             },
             {
-                japanese: 'おにいさん',
-                translation: 'Старший брат'
+                japanese: 'わたしたちの',
+                translation: 'Наше'
             },
             {
-                japanese: 'おねえさん',
-                translation: 'Старшая сестра'
+                japanese: 'かれらの',
+                translation: 'Их'
             },
             {
-                japanese: 'おとうとさん',
-                translation: 'Младший брат'
-            },
-            {
-                japanese: 'いもうとさん',
-                translation: 'Младшая сестра'
-            },
-            {
-                japanese: 'むすこさん',
-                translation: 'Сын'
-            },
-            {
-                japanese: 'むすめさん',
-                translation: 'Дочь'
-            },
-            {
-                japanese: 'まご',
-                translation: 'Внук'
-            },
-            {
-                japanese: 'おくさん',
-                translation: 'Жена'
-            },
-            {
-                japanese: 'きょうだい',
-                translation: 'Братья и сёстры'
+                japanese: 'あなたたちの',
+                translation: 'Ваше (мн. число)'
             }
         ]
     },
@@ -615,6 +637,22 @@ export default [
             {
                 japanese: 'よてい',
                 translation: 'План'
+            },
+            {
+                japanese: 'もの',
+                translation: 'Вещь'
+            },
+            {
+                japanese: 'うち',
+                translation: 'Дом / моя семья / моя'
+            },
+            {
+                japanese: 'うそつき',
+                translation: 'Лжец'
+            },
+            {
+                japanese: 'おさけ',
+                translation: 'Алкоголь'
             }
         ]
     },
@@ -732,6 +770,10 @@ export default [
             {
                 japanese: 'かんたん',
                 translation: 'Простой'
+            },
+            {
+                japanese: 'つめたい',
+                translation: 'Холодный (на ощупь)'
             }
         ]
     },
@@ -777,6 +819,14 @@ export default [
             {
                 japanese: 'やさしく',
                 translation: 'Осторожно'
+            },
+            {
+                japanese: 'あまり',
+                translation: 'Не так много / Чуть-чуть'
+            },
+            {
+                japanese: 'ぜんぜん',
+                translation: 'Вовсе нет'
             }
         ]
     },
@@ -1014,6 +1064,27 @@ export default [
             {
                 japanese: 'ぜいこみ',
                 translation: 'Налог включён'
+            }
+        ]
+    },
+    {
+        title: 'Food',
+        words: [
+            {
+                japanese: 'もちかえり',
+                translation: 'Взять с собой'
+            },
+            {
+                japanese: 'てんない',
+                translation: 'В магазине'
+            },
+            {
+                japanese: 'かしこまりました',
+                translation: 'Да, сэр'
+            },
+            {
+                japanese: 'とうにゅう',
+                translation: 'Соевое молоко'
             }
         ]
     }
