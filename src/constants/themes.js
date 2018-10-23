@@ -768,12 +768,20 @@ export default [
                 translation: 'Вкусный'
             },
             {
-                japanese: 'かんたん',
+                japanese: 'かんたん (な)',
                 translation: 'Простой'
             },
             {
                 japanese: 'つめたい',
                 translation: 'Холодный (на ощупь)'
+            },
+            {
+                japanese: 'いそがしい',
+                translation: 'Занят'
+            },
+            {
+                japanese: 'べんり (な)',
+                translation: 'Удобный'
             }
         ]
     },
@@ -1025,6 +1033,10 @@ export default [
             {
                 japanese: 'それとも',
                 translation: 'Или'
+            },
+            {
+                japanese: 'それから',
+                translation: 'И / И затем'
             }
         ]
     },
