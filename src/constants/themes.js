@@ -782,6 +782,14 @@ export default [
             {
                 japanese: 'べんり (な)',
                 translation: 'Удобный'
+            },
+            {
+                japanese: 'ちかい',
+                translation: 'Близкий'
+            },
+            {
+                japanese: 'とおい',
+                translation: 'Далёкий'
             }
         ]
     },
