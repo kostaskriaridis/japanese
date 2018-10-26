@@ -576,95 +576,6 @@ export default [
         ]
     },
     {
-        title: 'Nouns',
-        words: [
-            {
-                japanese: 'めんきょ',
-                translation: 'Лицензия, уроки'
-            },
-            {
-                japanese: 'うんてん',
-                translation: 'Вождение'
-            },
-            {
-                japanese: 'しゃしん',
-                translation: 'Фото'
-            },
-            {
-                japanese: 'やさしい',
-                translation: 'Доброжелательность'
-            },
-            {
-                japanese: 'けっこんしき',
-                translation: 'Свадебная церемония'
-            },
-            {
-                japanese: 'どうぞ',
-                translation: 'Пожалуйста (проходите)'
-            },
-            {
-                japanese: 'おきゃくさん',
-                translation: 'Посетитель, гость'
-            },
-            {
-                japanese: 'てんいん',
-                translation: 'Работник, клерк'
-            },
-            {
-                japanese: 'たいざい',
-                translation: 'Пребывание'
-            },
-            {
-                japanese: 'もくてき',
-                translation: 'Цель'
-            },
-            {
-                japanese: 'きかん',
-                translation: 'Продолжительность'
-            },
-            {
-                japanese: 'たいざいきかん',
-                translation: 'Продолжительность пребывания'
-            },
-            {
-                japanese: 'たいざいもくてき',
-                translation: 'Цель пребывания'
-            },
-            {
-                japanese: 'かんこう',
-                translation: 'Осмотр достопримечательностей'
-            },
-            {
-                japanese: 'よてい',
-                translation: 'План'
-            },
-            {
-                japanese: 'もの',
-                translation: 'Вещь'
-            },
-            {
-                japanese: 'うち',
-                translation: 'Дом / моя семья / моя'
-            },
-            {
-                japanese: 'うそつき',
-                translation: 'Лжец'
-            },
-            {
-                japanese: 'おさけ',
-                translation: 'Алкоголь'
-            },
-            {
-                japanese: 'りょうり',
-                translation: 'Еда'
-            },
-            {
-                japanese: 'まち',
-                translation: 'Город'
-            }
-        ]
-    },
-    {
         title: 'Adjectives (い)',
         words: [
             {
@@ -923,6 +834,95 @@ export default [
             {
                 japanese: 'ゆうめい (な)',
                 translation: 'Известный'
+            }
+        ]
+    },
+    {
+        title: 'Nouns',
+        words: [
+            {
+                japanese: 'めんきょ',
+                translation: 'Лицензия, уроки'
+            },
+            {
+                japanese: 'うんてん',
+                translation: 'Вождение'
+            },
+            {
+                japanese: 'しゃしん',
+                translation: 'Фото'
+            },
+            {
+                japanese: 'やさしい',
+                translation: 'Доброжелательность'
+            },
+            {
+                japanese: 'けっこんしき',
+                translation: 'Свадебная церемония'
+            },
+            {
+                japanese: 'どうぞ',
+                translation: 'Пожалуйста (проходите)'
+            },
+            {
+                japanese: 'おきゃくさん',
+                translation: 'Посетитель, гость'
+            },
+            {
+                japanese: 'てんいん',
+                translation: 'Работник, клерк'
+            },
+            {
+                japanese: 'たいざい',
+                translation: 'Пребывание'
+            },
+            {
+                japanese: 'もくてき',
+                translation: 'Цель'
+            },
+            {
+                japanese: 'きかん',
+                translation: 'Продолжительность'
+            },
+            {
+                japanese: 'たいざいきかん',
+                translation: 'Продолжительность пребывания'
+            },
+            {
+                japanese: 'たいざいもくてき',
+                translation: 'Цель пребывания'
+            },
+            {
+                japanese: 'かんこう',
+                translation: 'Осмотр достопримечательностей'
+            },
+            {
+                japanese: 'よてい',
+                translation: 'План'
+            },
+            {
+                japanese: 'もの',
+                translation: 'Вещь'
+            },
+            {
+                japanese: 'うち',
+                translation: 'Дом / моя семья / моя'
+            },
+            {
+                japanese: 'うそつき',
+                translation: 'Лжец'
+            },
+            {
+                japanese: 'おさけ',
+                translation: 'Алкоголь'
+            },
+            {
+                japanese: 'りょうり',
+                translation: 'Еда'
+            },
+            {
+                japanese: 'まち',
+                translation: 'Город'
             }
         ]
     },
