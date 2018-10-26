@@ -923,6 +923,10 @@ export default [
             {
                 japanese: 'まち',
                 translation: 'Город'
+            },
+            {
+                japanese: 'まくら',
+                translation: 'Подушка'
             }
         ]
     },
