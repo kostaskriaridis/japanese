@@ -927,6 +927,18 @@ export default [
             {
                 japanese: 'まくら',
                 translation: 'Подушка'
+            },
+            {
+                japanese: 'かばん',
+                translation: 'Сумка'
+            },
+            {
+                japanese: 'てんき',
+                translation: 'Погода'
+            },
+            {
+                japanese: 'いい / よくない',
+                translation: 'Хороший / Нехороший'
             }
         ]
     },
@@ -1173,7 +1185,7 @@ export default [
             },
             {
                 japanese: 'それから',
-                translation: 'И / И затем'
+                translation: 'И / И потом'
             }
         ]
     },
