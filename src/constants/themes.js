@@ -198,6 +198,10 @@ export default [
             {
                 japanese: 'よみます',
                 translation: 'Читать'
+            },
+            {
+                japanese: 'かいます',
+                translation: 'Купить'
             }
         ]
     },
@@ -583,15 +587,11 @@ export default [
                 translation: 'Вождение'
             },
             {
-                japanese: 'あぶない',
-                translation: 'Опасность'
-            },
-            {
                 japanese: 'しゃしん',
                 translation: 'Фото'
             },
             {
-                japanese: 'やさし',
+                japanese: 'やさしい',
                 translation: 'Доброжелательность'
             },
             {
@@ -653,11 +653,19 @@ export default [
             {
                 japanese: 'おさけ',
                 translation: 'Алкоголь'
+            },
+            {
+                japanese: 'りょうり',
+                translation: 'Еда'
+            },
+            {
+                japanese: 'まち',
+                translation: 'Город'
             }
         ]
     },
     {
-        title: 'Adjectives',
+        title: 'Adjectives (い)',
         words: [
             {
                 japanese: 'ながい',
@@ -696,20 +704,12 @@ export default [
                 translation: 'Молодой'
             },
             {
-                japanese: 'ふるい (な)',
+                japanese: 'ふるい',
                 translation: 'Старый'
             },
             {
                 japanese: 'つまらない',
                 translation: 'Скучный'
-            },
-            {
-                japanese: 'きれい',
-                translation: 'Красивый'
-            },
-            {
-                japanese: 'しつれいな',
-                translation: 'Неприличный, грубый'
             },
             {
                 japanese: 'おもい',
@@ -720,16 +720,8 @@ export default [
                 translation: 'Обычный'
             },
             {
-                japanese: 'あたらしい (な)',
+                japanese: 'あたらしい',
                 translation: 'Новый'
-            },
-            {
-                japanese: 'しずか',
-                translation: 'Спокойный'
-            },
-            {
-                japanese: 'とくべつ',
-                translation: 'Особенный'
             },
             {
                 japanese: 'まっすぐ',
@@ -752,24 +744,12 @@ export default [
                 translation: 'Дешёвый'
             },
             {
-                japanese: 'ひま',
-                translation: 'Свободный'
-            },
-            {
                 japanese: 'たのしい',
                 translation: 'Весёлый'
             },
             {
-                japanese: 'ゆうめい',
-                translation: 'Известный'
-            },
-            {
                 japanese: 'おいしい',
                 translation: 'Вкусный'
-            },
-            {
-                japanese: 'かんたん (な)',
-                translation: 'Простой'
             },
             {
                 japanese: 'つめたい',
@@ -780,10 +760,6 @@ export default [
                 translation: 'Занят'
             },
             {
-                japanese: 'べんり (な)',
-                translation: 'Удобный'
-            },
-            {
                 japanese: 'ちかい',
                 translation: 'Близкий'
             },
@@ -792,8 +768,161 @@ export default [
                 translation: 'Далёкий'
             },
             {
+                japanese: 'いたい',
+                translation: 'Больно'
+            },
+            {
+                japanese: 'おもしろい',
+                translation: 'Интересный'
+            },
+            {
+                japanese: 'ただしい',
+                translation: 'Правильный'
+            },
+            {
+                japanese: 'すっぱい',
+                translation: 'Кислый'
+            },
+            {
+                japanese: 'せまい',
+                translation: 'Узкий'
+            },
+            {
+                japanese: 'おそい',
+                translation: 'Медленный, поздний'
+            },
+            {
+                japanese: 'おおい',
+                translation: 'Много'
+            },
+            {
+                japanese: 'くらい',
+                translation: 'Тёмный'
+            },
+            {
+                japanese: 'きたない',
+                translation: 'Грязный'
+            },
+            {
+                japanese: 'かるい',
+                translation: 'Светлый'
+            },
+            {
+                japanese: 'からい',
+                translation: 'Горячий, острый'
+            },
+            {
+                japanese: 'ひろい',
+                translation: 'Широкий'
+            },
+            {
+                japanese: 'ひくい',
+                translation: 'Низкий'
+            },
+            {
+                japanese: 'あかるい',
+                translation: 'Яркий'
+            },
+            {
+                japanese: 'あぶない',
+                translation: 'Опасный'
+            },
+            {
+                japanese: 'わるい',
+                translation: 'Плохой'
+            }
+        ]
+    },
+    {
+        title: 'Adjectives (な)',
+        words: [
+            {
+                japanese: 'きれい (な)',
+                translation: 'Красивый'
+            },
+            {
+                japanese: 'しずか (な)',
+                translation: 'Спокойный'
+            },
+            {
+                japanese: 'とくべつ (な)',
+                translation: 'Особенный'
+            },
+            {
+                japanese: 'かんたん (な)',
+                translation: 'Простой'
+            },
+            {
+                japanese: 'べんり (な)',
+                translation: 'Удобный'
+            },
+            {
                 japanese: 'すてき (な)',
                 translation: 'Хороший, крутой, фантастический'
+            },
+            {
+                japanese: 'あんぜん (な)',
+                translation: 'Безопасный'
+            },
+            {
+                japanese: 'だいじ (な)',
+                translation: 'Важный'
+            },
+            {
+                japanese: 'だめ (な)',
+                translation: 'Нехороший'
+            },
+            {
+                japanese: 'ふべん (な)',
+                translation: 'Неудобный'
+            },
+            {
+                japanese: 'ふしんせつ (な)',
+                translation: 'Недобрый'
+            },
+            {
+                japanese: 'げんき (な)',
+                translation: 'Хороший'
+            },
+            {
+                japanese: 'へた (な)',
+                translation: 'Неумелый'
+            },
+            {
+                japanese: 'ひま (な)',
+                translation: 'Свободный'
+            },
+            {
+                japanese: 'いろいろ (な)',
+                translation: 'Различный'
+            },
+            {
+                japanese: 'じょうず (な)',
+                translation: 'Умелый'
+            },
+            {
+                japanese: 'すき (な)',
+                translation: 'Нравится'
+            },
+            {
+                japanese: 'きらい (な)',
+                translation: 'Несимпатичный (не нравится)'
+            },
+            {
+                japanese: 'にぎやか (な)',
+                translation: 'Живой'
+            },
+            {
+                japanese: 'しんせつ (な)',
+                translation: 'Добрый'
+            },
+            {
+                japanese: 'しつれい (な)',
+                translation: 'Грубый'
+            },
+            {
+                japanese: 'ゆうめい (な)',
+                translation: 'Известный'
             }
         ]
     },
@@ -803,10 +932,6 @@ export default [
             {
                 japanese: 'ちょっと',
                 translation: 'Немного'
-            },
-            {
-                japanese: 'いたい',
-                translation: 'Больно'
             },
             {
                 japanese: 'うれしい',
@@ -819,10 +944,6 @@ export default [
             {
                 japanese: 'ちょうど',
                 translation: 'Точно'
-            },
-            {
-                japanese: 'だめ',
-                translation: 'Нехорошо'
             },
             {
                 japanese: 'たぶん',
@@ -1065,7 +1186,7 @@ export default [
             },
             {
                 japanese: 'どういたしまして',
-                translation: 'Пожалуйста / Не за что'
+                translation: 'Пожалуйста / Не за что (после благодарности)'
             }
         ]
     },
