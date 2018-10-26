@@ -790,6 +790,10 @@ export default [
             {
                 japanese: 'とおい',
                 translation: 'Далёкий'
+            },
+            {
+                japanese: 'すてき (な)',
+                translation: 'Хороший, крутой, фантастический'
             }
         ]
     },
@@ -1058,6 +1062,10 @@ export default [
             {
                 japanese: 'おじゃまします',
                 translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)'
+            },
+            {
+                japanese: 'どういたしまして',
+                translation: 'Пожалуйста / Не за что'
             }
         ]
     },
