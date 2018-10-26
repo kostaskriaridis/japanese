@@ -1185,7 +1185,7 @@ export default [
             },
             {
                 japanese: 'それから',
-                translation: 'И / И потом'
+                translation: 'И / И также'
             }
         ]
     },

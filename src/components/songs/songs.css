@@ -1,0 +1,11 @@
+.song + .song {
+    margin-top: 20px;
+}
+
+.song-title {
+    margin-bottom: 5px;
+}
+
+.song-link {
+    margin-bottom: 10px;
+}
