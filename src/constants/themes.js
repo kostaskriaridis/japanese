@@ -141,7 +141,12 @@ export default [
             { japanese: 'あした', translation: 'Завтра' },
             { japanese: 'きのう', translation: 'Вчера' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
-            { japanese: 'そのあと', translation: 'После этого' },
+            { japanese: 'そのあと', translation: 'После этого' }
+        ]
+    },
+    {
+        title: 'Дни недели',
+        words: [
             { japanese: 'げつようび', translation: 'Понедельник' },
             { japanese: 'かようび', translation: 'Вторник' },
             { japanese: 'すいようび', translation: 'Среда' },
