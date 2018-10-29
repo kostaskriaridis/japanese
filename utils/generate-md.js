@@ -20,7 +20,7 @@ class MD {
     renderTheme(theme) {
         return [
             `#### ${theme.title}`,
-            `| Japanese | Translation |`,
+            '| Japanese | Translation |',
             '| ------ | ------ |',
             ...this.renderWords(theme.words)
         ].join('\n');
