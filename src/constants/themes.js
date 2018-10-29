@@ -329,6 +329,55 @@ export default [
         ]
     },
     {
+        title: 'Minutes',
+        words: [
+            {
+                japanese: 'いっぷん',
+                translation: '1 минута'
+            },
+            {
+                japanese: 'にふん',
+                translation: '2 минуты'
+            },
+            {
+                japanese: 'さんぷん',
+                translation: '3 минуты'
+            },
+            {
+                japanese: 'よんぷん',
+                translation: '4 минуты'
+            },
+            {
+                japanese: 'ごふん',
+                translation: '5 минут'
+            },
+            {
+                japanese: 'ろっぷん',
+                translation: '6 минут'
+            },
+            {
+                japanese: 'ななふん',
+                translation: '7 минут'
+            },
+            {
+                japanese: 'はちふん',
+                translation: '8 минут'
+            },
+            {
+                japanese: 'きゅうふん',
+                translation: '9 минут'
+            },
+            {
+                japanese: 'じゅっぷん',
+                translation: '10 минут'
+            },
+            {
+                japanese: 'なんぷん',
+                translation: 'Сколько минут?'
+            }
+        ]
+    },
+    {
         title: 'Dates',
         words: [
             {
@@ -386,6 +435,38 @@ export default [
             {
                 japanese: 'そのあと',
                 translation: 'После этого'
+            },
+            {
+                japanese: 'げつようび',
+                translation: 'Понедельник'
+            },
+            {
+                japanese: 'かようび',
+                translation: 'Вторник'
+            },
+            {
+                japanese: 'すいようび',
+                translation: 'Среда'
+            },
+            {
+                japanese: 'もくようび',
+                translation: 'Четверг'
+            },
+            {
+                japanese: 'きんようび',
+                translation: 'Пятница'
+            },
+            {
+                japanese: 'どようび',
+                translation: 'Суббота'
+            },
+            {
+                japanese: 'にちようび',
+                translation: 'Воскресенье'
+            },
+            {
+                japanese: 'なんようび',
+                translation: 'Какой день недели?'
             }
         ]
     },
@@ -404,6 +485,7 @@ export default [
                 japanese: 'みっか',
                 translation: '3 число'
             },
+            /*
             {
                 japanese: 'よっか',
                 translation: '4 число'
@@ -516,6 +598,7 @@ export default [
                 japanese: 'さんじゅういちにち',
                 translation: '31 число'
             }
+            */
         ]
     },
     {
@@ -849,6 +932,10 @@ export default [
                 translation: 'Вождение'
             },
             {
+                japanese: 'うんてんしゅ',
+                translation: 'Водитель'
+            },
+            {
                 japanese: 'しゃしん',
                 translation: 'Фото'
             },
@@ -939,6 +1026,14 @@ export default [
             {
                 japanese: 'いい / よくない',
                 translation: 'Хороший / Нехороший'
+            },
+            {
+                japanese: 'ほんとう',
+                translation: 'Правда'
+            },
+            {
+                japanese: 'うそ',
+                translation: 'Ложь'
             }
         ]
     },
@@ -984,6 +1079,10 @@ export default [
             {
                 japanese: 'ぜんぜん',
                 translation: 'Вовсе нет'
+            },
+            {
+                japanese: 'ぐらい',
+                translation: 'Примерно'
             }
         ]
     },
