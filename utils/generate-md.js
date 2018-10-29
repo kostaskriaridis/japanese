@@ -3,18 +3,36 @@ require('babel-register')({
 });
 
 const fs = require('fs');
-const themes = require('../src/constants/themes').default;
-const md = themes
-    .map(theme => {
+
+class MD {
+    constructor() {
+        this.themes = require('../src/constants/themes').default;
+
+        fs.writeFileSync('WORDS.md', this.renderThemes(), 'utf-8');
+    }
+
+    renderThemes() {
+        return this.themes
+            .map(this.renderTheme, this)
+            .join('\n');
+    }
+
+    renderTheme(theme) {
         return [
             `#### ${theme.title}`,
             `| Japanese | Translation |`,
             '| ------ | ------ |',
-            ...theme.words.map(word => {
-                return `| \`${word.japanese}\` | ${word.translation} |`;
-            })
+            ...this.renderWords(theme.words)
         ].join('\n');
-    })
-    .join('\n')
+    }
 
-fs.writeFileSync('WORDS.md', md, 'utf-8'); 
+    renderWords(words) {
+        return words.map(this.renderWord, this);
+    }
+
+    renderWord(word) {
+        return `| \`${word.japanese}\` | ${word.translation} |`;
+    }
+}
+
+new MD();
