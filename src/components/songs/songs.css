@@ -1,5 +1,16 @@
-.song + .song {
-    margin-top: 20px;
+.songs {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.song {
+    flex-grow: 1;
+    width: 49%;
+    margin-bottom: 20px;
+}
+
+.song:nth-child(2n + 2) {
+    margin-left: 2%;
 }
 
 .song-title {
