@@ -5,12 +5,12 @@
 
 .song {
     flex-grow: 1;
-    width: 49%;
+    width: 49.5%;
     margin-bottom: 20px;
 }
 
 .song:nth-child(2n + 2) {
-    margin-left: 2%;
+    margin-left: 1%;
 }
 
 .song-title {
