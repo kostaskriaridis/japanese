@@ -49,8 +49,8 @@ export default [
         words: [
             { japanese: 'はなす', translation: 'Говорить' },
             { japanese: 'のみます', translation: 'Пить' },
-            { japanese: 'つかう', translation: 'Использовать' },
-            { japanese: 'とる', translation: 'Фотографировать' },
+            { japanese: 'つかいます', translation: 'Использовать' },
+            { japanese: 'とります', translation: 'Фотографировать' },
             { japanese: 'あいます', translation: 'Встретить' },
             { japanese: 'いきます', translation: 'Идти' },
             { japanese: 'まちます', translation: 'Ждать' },
@@ -64,7 +64,27 @@ export default [
             { japanese: 'しんぱいします', translation: 'Беспокоиться' },
             { japanese: 'もうします', translation: 'Называйте меня' },
             { japanese: 'よみます', translation: 'Читать' },
-            { japanese: 'かいます', translation: 'Купить' }
+            { japanese: 'かいます', translation: 'Покупать' },
+            { japanese: 'かきます', translation: 'Писать' },
+            { japanese: 'つけます', translation: 'Включить' },
+            { japanese: 'けします', translation: 'Выключать' },
+            { japanese: 'ききます', translation: 'Слушать' },
+            { japanese: 'まがります', translation: 'Поворачивать' },
+            { japanese: 'もちます', translation: 'Иметь' },
+            { japanese: 'もらいます', translation: 'Принимать' },
+            { japanese: 'おくります', translation: 'Отправлять' },
+            { japanese: 'おします', translation: 'Толкать' },
+            { japanese: 'すいます', translation: 'Курить' },
+            { japanese: 'つくります', translation: 'Производить, делать' },
+            { japanese: 'うります', translation: 'Продавать' },
+            { japanese: 'あげます', translation: 'Давать' },
+            { japanese: 'あけます', translation: 'Открывать' },
+            { japanese: 'でます', translation: 'Оставлять' },
+            { japanese: 'みせます', translation: 'Показывать' },
+            { japanese: 'おります', translation: 'Выходить' },
+            { japanese: 'おしえます', translation: 'Учить' },
+            { japanese: 'しめます', translation: 'Закрывать' },
+            { japanese: 'とめます', translation: 'Остановиться, припарковаться' }
         ]
     },
     {
@@ -141,7 +161,11 @@ export default [
             { japanese: 'あした', translation: 'Завтра' },
             { japanese: 'きのう', translation: 'Вчера' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
-            { japanese: 'そのあと', translation: 'После этого' }
+            { japanese: 'そのあと', translation: 'После этого' },
+            { japanese: 'あさ', translation: 'Утро' },
+            { japanese: 'ひる', translation: 'День' },
+            { japanese: 'ばん', translation: 'Вечер' },
+            { japanese: 'よる', translation: 'Ночь' }
         ]
     },
     {
@@ -275,7 +299,7 @@ export default [
             { japanese: 'ふしんせつ (な)', translation: 'Недобрый' },
             { japanese: 'げんき (な)', translation: 'Хороший' },
             { japanese: 'へた (な)', translation: 'Неумелый' },
-            { japanese: 'ひま (な)', translation: 'Свободный' },
+            { japanese: 'ひま (な)', translation: 'Свободный (время)' },
             { japanese: 'いろいろ (な)', translation: 'Различный' },
             { japanese: 'じょうず (な)', translation: 'Умелый' },
             { japanese: 'すき (な)', translation: 'Нравится' },
@@ -316,7 +340,9 @@ export default [
             { japanese: 'てんき', translation: 'Погода' },
             { japanese: 'いい / よくない', translation: 'Хороший / Нехороший' },
             { japanese: 'ほんとう', translation: 'Правда' },
-            { japanese: 'うそ', translation: 'Ложь' }
+            { japanese: 'うそ', translation: 'Ложь' },
+            { japanese: 'くうこう', translation: 'Аэропорт' },
+            { japanese: 'おんがく', translation: 'Музыка' }
         ]
     },
     {
