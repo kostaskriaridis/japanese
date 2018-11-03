@@ -21,8 +21,7 @@ export default [
             { japanese: 'でんわ', translation: 'Телефон' },
             { japanese: 'パソコン', translation: 'Персональный компьютер' },
             { japanese: 'けいたいでんわ', translation: 'Мобильный телефон' },
-            { japanese: 'ばんごう', translation: 'Номер' },
-            { japanese: 'おかね', translation: 'Деньги' }
+            { japanese: 'ばんごう', translation: 'Номер' }
         ]
     },
     {
@@ -40,8 +39,8 @@ export default [
             { japanese: 'だんなさん', translation: 'Муж' },
             { japanese: 'おくさん', translation: 'Жена' },
             { japanese: 'きょうだい', translation: 'Братья и сёстры' },
-            { japanese: 'そぼ', translation: 'Бабушка' },
-            { japanese: 'そふ', translation: 'Дедушка' }
+            { japanese: 'そふ', translation: 'Дедушка' },
+            { japanese: 'そぼ', translation: 'Бабушка' }
         ]
     },
     {
@@ -463,7 +462,8 @@ export default [
         title: 'Money',
         words: [
             { japanese: 'ぜい', translation: 'Налог' },
-            { japanese: 'ぜいこみ', translation: 'Налог включён' }
+            { japanese: 'ぜいこみ', translation: 'Налог включён' },
+            { japanese: 'おかね', translation: 'Деньги' }
         ]
     },
     {
