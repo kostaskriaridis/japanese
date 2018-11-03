@@ -8,7 +8,7 @@ class MD {
     constructor() {
         this.themes = require('../src/constants/themes').default;
 
-        fs.writeFileSync('WORDS.md', this.renderThemes(), 'utf-8');
+        fs.writeFileSync('README.md', `# Table of japanese words to learn\n${this.renderThemes()}`, 'utf-8');
     }
 
     renderThemes() {
