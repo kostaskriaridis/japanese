@@ -84,7 +84,8 @@ export default [
             { japanese: 'おります', translation: 'Выходить' },
             { japanese: 'おしえます', translation: 'Учить' },
             { japanese: 'しめます', translation: 'Закрывать' },
-            { japanese: 'とめます', translation: 'Остановиться, припарковаться' }
+            { japanese: 'とめます', translation: 'Остановиться, припарковаться' },
+            { japanese: 'べんきょうします', translation: 'Учиться' }
         ]
     },
     {
@@ -342,7 +343,16 @@ export default [
             { japanese: 'ほんとう', translation: 'Правда' },
             { japanese: 'うそ', translation: 'Ложь' },
             { japanese: 'くうこう', translation: 'Аэропорт' },
-            { japanese: 'おんがく', translation: 'Музыка' }
+            { japanese: 'おんがく', translation: 'Музыка' },
+            { japanese: 'しんぶん', translation: 'Газета' },
+            { japanese: 'どうぶつえん', translation: 'Зоопарк' },
+            { japanese: 'どうぶつ', translation: 'Животное' },
+            { japanese: 'おんがく', translation: 'Музыка' },
+            { japanese: 'へや', translation: 'Комната' },
+            { japanese: 'いす', translation: 'Стул' },
+            { japanese: 'ひこうき', translation: 'Самолёт' },
+            { japanese: 'おみやげ', translation: 'Сувенир' },
+            { japanese: 'ひるごはん', translation: 'Обед' }
         ]
     },
     {
