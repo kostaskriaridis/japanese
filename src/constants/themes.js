@@ -46,7 +46,7 @@ export default [
     {
         title: 'Verbs',
         words: [
-            { japanese: 'はなす', translation: 'Говорить' },
+            { japanese: 'はなします', translation: 'Говорить' },
             { japanese: 'のみます', translation: 'Пить' },
             { japanese: 'つかいます', translation: 'Использовать' },
             { japanese: 'とります', translation: 'Фотографировать' },
@@ -84,7 +84,8 @@ export default [
             { japanese: 'おしえます', translation: 'Учить' },
             { japanese: 'しめます', translation: 'Закрывать' },
             { japanese: 'とめます', translation: 'Остановиться, припарковаться' },
-            { japanese: 'べんきょうします', translation: 'Учиться' }
+            { japanese: 'べんきょうします', translation: 'Учиться' },
+            { japanese: 'かえります', translation: 'Возвращаться' }
         ]
     },
     {
@@ -351,7 +352,8 @@ export default [
             { japanese: 'いす', translation: 'Стул' },
             { japanese: 'ひこうき', translation: 'Самолёт' },
             { japanese: 'おみやげ', translation: 'Сувенир' },
-            { japanese: 'ひるごはん', translation: 'Обед' }
+            { japanese: 'ひるごはん', translation: 'Обед' },
+            { japanese: 'おと', translation: 'Звук' }
         ]
     },
     {
@@ -448,7 +450,8 @@ export default [
         words: [
             { japanese: 'いらっしゃいませ', translation: 'Как я могу вам помочь?' },
             { japanese: 'おじゃまします', translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)' },
-            { japanese: 'どういたしまして', translation: 'Пожалуйста / Не за что (после благодарности)' }
+            { japanese: 'どういたしまして', translation: 'Пожалуйста / Не за что (после благодарности)' },
+            { japanese: 'おまたせしました', translation: 'Простите, что заставили ждать' }
         ]
     },
     {

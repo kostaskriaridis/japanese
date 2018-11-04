@@ -7,14 +7,17 @@ const fs = require('fs');
 class MD {
     constructor() {
         this.themes = require('../src/constants/themes').default;
+        this.counter = 0;
 
         fs.writeFileSync('README.md', this.renderMd(), 'utf-8');
     }
 
     renderMd() {
+        const themes = this.renderThemes();
+
         return [
-            '# Table of japanese words to learn',
-            this.renderThemes()
+            `# Table of japanese words to learn: ${this.counter}`,
+            themes
         ].join('\n');
     }
 
@@ -34,6 +37,8 @@ class MD {
     }
 
     renderWords(words) {
+        this.counter += words.length;
+
         return words.map(this.renderWord, this);
     }
 
