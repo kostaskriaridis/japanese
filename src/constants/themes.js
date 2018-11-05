@@ -353,7 +353,11 @@ export default [
             { japanese: 'ひこうき', translation: 'Самолёт' },
             { japanese: 'おみやげ', translation: 'Сувенир' },
             { japanese: 'ひるごはん', translation: 'Обед' },
-            { japanese: 'おと', translation: 'Звук' }
+            { japanese: 'おと', translation: 'Звук' },
+            { japanese: 'しゃこ', translation: 'Гараж' },
+            { japanese: 'ちかてつ', translation: 'Метро' },
+            { japanese: 'さいしゅう', translation: 'Последний' },
+            { japanese: 'しゅうでん', translation: 'Последний поезд' }
         ]
     },
     {
