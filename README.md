@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 319
+# Table of japanese words to learn: 320
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -378,6 +378,7 @@
 | `おじゃまします` | Жаль беспокоить вас (когда входишь или покидаешь чужой дом) |
 | `どういたしまして` | Пожалуйста / Не за что (после благодарности) |
 | `おまたせしました` | Простите, что заставили ждать |
+| `こちそうさまでした` | Спасибо за еду |
 #### Medicine
 | Japanese | Translation |
 | ------ | ------ |
