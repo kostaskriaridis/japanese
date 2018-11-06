@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 320
+# Table of japanese words to learn: 321
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -75,6 +75,7 @@
 | `とめます` | Остановиться, припарковаться |
 | `べんきょうします` | Учиться |
 | `かえります` | Возвращаться |
+| `おなかがすきます` | Быть голодным |
 #### Present, Progressive, Past
 | Japanese | Translation |
 | ------ | ------ |

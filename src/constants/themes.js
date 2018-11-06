@@ -85,7 +85,8 @@ export default [
             { japanese: 'しめます', translation: 'Закрывать' },
             { japanese: 'とめます', translation: 'Остановиться, припарковаться' },
             { japanese: 'べんきょうします', translation: 'Учиться' },
-            { japanese: 'かえります', translation: 'Возвращаться' }
+            { japanese: 'かえります', translation: 'Возвращаться' },
+            { japanese: 'おなかがすきます', translation: 'Быть голодным' }
         ]
     },
     {
