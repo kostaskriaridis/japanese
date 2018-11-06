@@ -86,7 +86,8 @@ export default [
             { japanese: 'とめます', translation: 'Остановиться, припарковаться' },
             { japanese: 'べんきょうします', translation: 'Учиться' },
             { japanese: 'かえります', translation: 'Возвращаться' },
-            { japanese: 'おなかがすきます', translation: 'Быть голодным' }
+            { japanese: 'おなかがすきます', translation: 'Быть голодным' },
+            { japanese: 'ぬぎます', translation: 'Снимать одежду' }
         ]
     },
     {
@@ -160,6 +161,7 @@ export default [
             { japanese: 'やすみ', translation: 'Отпуск' },
             { japanese: 'いつ', translation: 'Когда, время' },
             { japanese: 'らいねん', translation: 'В следующем году' },
+            { japanese: 'ことしも', translation: 'В этом году' },
             { japanese: 'あした', translation: 'Завтра' },
             { japanese: 'きのう', translation: 'Вчера' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
@@ -351,7 +353,7 @@ export default [
             { japanese: 'おんがく', translation: 'Музыка' },
             { japanese: 'へや', translation: 'Комната' },
             { japanese: 'いす', translation: 'Стул' },
-            { japanese: 'ひこうき', translation: 'Самолёт' },
+            { japanese: 'ひこうき', translation: 'Рейс' },
             { japanese: 'おみやげ', translation: 'Сувенир' },
             { japanese: 'ひるごはん', translation: 'Обед' },
             { japanese: 'おと', translation: 'Звук' },
@@ -384,7 +386,8 @@ export default [
             { japanese: 'あたま', translation: 'Голова' },
             { japanese: 'かみ', translation: 'Волосы, причёска' },
             { japanese: 'こえ', translation: 'Голос' },
-            { japanese: 'き', translation: 'Чувство' }
+            { japanese: 'き', translation: 'Чувство' },
+            { japanese: 'かお', translation: 'Лицо' }
         ]
     },
     {
@@ -458,7 +461,9 @@ export default [
             { japanese: 'おじゃまします', translation: 'Жаль беспокоить вас (когда входишь или покидаешь чужой дом)' },
             { japanese: 'どういたしまして', translation: 'Пожалуйста / Не за что (после благодарности)' },
             { japanese: 'おまたせしました', translation: 'Простите, что заставили ждать' },
-            { japanese: 'こちそうさまでした', translation: 'Спасибо за еду' }
+            { japanese: 'こちそうさまでした', translation: 'Спасибо за еду' },
+            { japanese: 'ただいま', translation: 'Я дома' },
+            { japanese: 'おかえりなさい', translation: 'С возвращением' }
         ]
     },
     {
