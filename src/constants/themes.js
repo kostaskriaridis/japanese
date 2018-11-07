@@ -85,7 +85,9 @@ export default [
             { japanese: 'しめます', translation: 'Закрывать' },
             { japanese: 'とめます', translation: 'Остановиться, припарковаться' },
             { japanese: 'べんきょうします', translation: 'Учиться' },
-            { japanese: 'かえります', translation: 'Возвращаться' }
+            { japanese: 'かえります', translation: 'Возвращаться' },
+            { japanese: 'ささえます', translation: 'Поддерживать' },
+            { japanese: 'おわります', translation: 'Заканчивать' }
         ]
     },
     {
@@ -357,7 +359,8 @@ export default [
             { japanese: 'しゃこ', translation: 'Гараж' },
             { japanese: 'ちかてつ', translation: 'Метро' },
             { japanese: 'さいしゅう', translation: 'Последний' },
-            { japanese: 'しゅうでん', translation: 'Последний поезд' }
+            { japanese: 'しゅうでん', translation: 'Последний поезд' },
+            { japanese: 'ふくしゅう', translation: 'Месть' }
         ]
     },
     {
