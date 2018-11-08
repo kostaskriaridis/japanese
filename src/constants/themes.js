@@ -89,7 +89,8 @@ export default [
             { japanese: 'ささえます', translation: 'Поддерживать' },
             { japanese: 'おわります', translation: 'Заканчивать' },
             { japanese: 'おなかがすきます', translation: 'Быть голодным' },
-            { japanese: 'ぬぎます', translation: 'Снимать одежду' }
+            { japanese: 'ぬぎます', translation: 'Снимать одежду' },
+            { japanese: 'なります ', translation: 'Становиться' }
         ]
     },
     {
