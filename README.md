@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 330
+# Table of japanese words to learn: 331
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -303,6 +303,7 @@
 | `しゅうでん` | Последний поезд |
 | `ふくしゅう` | Месть |
 | `おかし` | Конфета |
+| `まちがい` | Ошибка |
 #### Adverbs
 | Japanese | Translation |
 | ------ | ------ |

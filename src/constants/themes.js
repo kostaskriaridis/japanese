@@ -365,7 +365,8 @@ export default [
             { japanese: 'さいしゅう', translation: 'Последний' },
             { japanese: 'しゅうでん', translation: 'Последний поезд' },
             { japanese: 'ふくしゅう', translation: 'Месть' },
-            { japanese: 'おかし', translation: 'Конфета' }
+            { japanese: 'おかし', translation: 'Конфета' },
+            { japanese: 'まちがい', translation: 'Ошибка' }
         ]
     },
     {
