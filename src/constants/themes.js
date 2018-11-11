@@ -90,7 +90,12 @@ export default [
             { japanese: 'おわります', translation: 'Заканчивать' },
             { japanese: 'おなかがすきます', translation: 'Быть голодным' },
             { japanese: 'ぬぎます', translation: 'Снимать одежду' },
-            { japanese: 'なります ', translation: 'Становиться' }
+            { japanese: 'なります', translation: 'Становиться' },
+            { japanese: 'ねます', translation: 'Ложиться спать' },
+            { japanese: 'まぜます', translation: 'Смешать' },
+            { japanese: 'あるきます', translation: 'Ходить' },
+            { japanese: 'とびます', translation: 'Лететь' },
+            { japanese: 'わたります', translation: 'Пересекать' }
         ]
     },
     {
@@ -165,6 +170,7 @@ export default [
             { japanese: 'いつ', translation: 'Когда, время' },
             { japanese: 'らいねん', translation: 'В следующем году' },
             { japanese: 'ことしも', translation: 'В этом году' },
+            { japanese: 'らいしゅう', translation: 'На следующей неделе' },
             { japanese: 'あした', translation: 'Завтра' },
             { japanese: 'きのう', translation: 'Вчера' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
@@ -224,6 +230,38 @@ export default [
             { japanese: 'さんじゅうにち', translation: '30 число' },
             { japanese: 'さんじゅういちにち', translation: '31 число' }
             */
+        ]
+    },
+    {
+        title: 'Counters. General',
+        words: [
+            { japanese: 'ひとつ', translation: 'Один' },
+            { japanese: 'ふたつ', translation: 'Два' },
+            { japanese: 'みっつ', translation: 'Три' },
+            { japanese: 'よっつ', translation: 'Четыре' },
+            { japanese: 'いつつ', translation: 'Пять' },
+            { japanese: 'むっつ', translation: 'Шесть' },
+            { japanese: 'ななつ', translation: 'Семь' },
+            { japanese: 'やっつ', translation: 'Восемь' },
+            { japanese: 'ここのつ', translation: 'Девять' },
+            { japanese: 'とお', translation: 'Десять' },
+            { japanese: 'いくつ', translation: 'Сколько?' }
+        ]
+    },
+    {
+        title: 'Counters. People',
+        words: [
+            { japanese: 'ひとり', translation: 'Один человек' },
+            { japanese: 'ふたり', translation: 'Два человека' },
+            { japanese: 'さんにん', translation: 'Три человека' },
+            { japanese: 'よにん', translation: 'Четыре человека' },
+            { japanese: 'ごにん', translation: 'Пять человек' },
+            { japanese: 'ろくにん', translation: 'Шесть человек' },
+            { japanese: 'ななにん', translation: 'Семь человек' },
+            { japanese: 'はちにん', translation: 'Восемь человек' },
+            { japanese: 'きゅうにん', translation: 'Девять человек' },
+            { japanese: 'じゅうにん', translation: 'Десять человек' },
+            { japanese: 'なんにん', translation: 'Сколько человек?' }
         ]
     },
     {
@@ -314,7 +352,8 @@ export default [
             { japanese: 'にぎやか (な)', translation: 'Живой' },
             { japanese: 'しんせつ (な)', translation: 'Добрый' },
             { japanese: 'しつれい (な)', translation: 'Грубый' },
-            { japanese: 'ゆうめい (な)', translation: 'Известный' }
+            { japanese: 'ゆうめい (な)', translation: 'Известный' },
+            { japanese: 'むり (な)', translation: 'Невозможный' }
         ]
     },
     {
@@ -349,7 +388,6 @@ export default [
             { japanese: 'ほんとう', translation: 'Правда' },
             { japanese: 'うそ', translation: 'Ложь' },
             { japanese: 'くうこう', translation: 'Аэропорт' },
-            { japanese: 'おんがく', translation: 'Музыка' },
             { japanese: 'しんぶん', translation: 'Газета' },
             { japanese: 'どうぶつえん', translation: 'Зоопарк' },
             { japanese: 'どうぶつ', translation: 'Животное' },
@@ -366,7 +404,16 @@ export default [
             { japanese: 'しゅうでん', translation: 'Последний поезд' },
             { japanese: 'ふくしゅう', translation: 'Месть' },
             { japanese: 'おかし', translation: 'Конфета' },
-            { japanese: 'まちがい', translation: 'Ошибка' }
+            { japanese: 'まちがい', translation: 'Ошибка' },
+            { japanese: 'やさい', translation: 'Овощи' },
+            { japanese: 'ぐうぜん', translation: 'Совпадение' },
+            { japanese: 'じっか', translation: 'Родительский дом' },
+            { japanese: 'きず', translation: 'Царапина' },
+            { japanese: 'ようじ', translation: 'Задачи' },
+            { japanese: 'ざっし', translation: 'Журнал' },
+            { japanese: 'おみせ', translation: 'Магазин' },
+            { japanese: 'ちゅうもん', translation: 'Заказ' },
+            { japanese: 'おにぎり', translation: 'Рисовый шарик' }
         ]
     },
     {
@@ -382,7 +429,13 @@ export default [
             { japanese: 'やさしく', translation: 'Осторожно' },
             { japanese: 'あまり', translation: 'Не так много / Чуть-чуть' },
             { japanese: 'ぜんぜん', translation: 'Вовсе нет' },
-            { japanese: 'ぐらい', translation: 'Примерно' }
+            { japanese: 'ぐらい', translation: 'Примерно' },
+            { japanese: 'あとで', translation: 'Позже / Потом' },
+            { japanese: 'むりょう', translation: 'Бесплатно' },
+            { japanese: 'した', translation: 'Под / Ниже' },
+            { japanese: 'だって', translation: 'Потому что' },
+            { japanese: 'まだ', translation: 'Всё ещё (still)' },
+            { japanese: 'たとえば', translation: 'Например' }
         ]
     },
     {
@@ -468,7 +521,10 @@ export default [
             { japanese: 'おまたせしました', translation: 'Простите, что заставили ждать' },
             { japanese: 'こちそうさまでした', translation: 'Спасибо за еду' },
             { japanese: 'ただいま', translation: 'Я дома' },
-            { japanese: 'おかえりなさい', translation: 'С возвращением' }
+            { japanese: 'おかえりなさい', translation: 'С возвращением' },
+            { japanese: 'かんけいない', translation: 'Не имеет значения' },
+            { japanese: 'おつかれさま', translation: 'Спасибо / Достаточно на сегодня / Привет (на работе)' },
+            { japanese: 'これでいい', translation: 'Это хорошо' }
         ]
     },
     {
@@ -493,6 +549,21 @@ export default [
             { japanese: 'てんない', translation: 'В магазине' },
             { japanese: 'かしこまりました', translation: 'Да, сэр' },
             { japanese: 'とうにゅう', translation: 'Соевое молоко' }
+        ]
+    },
+    {
+        title: 'Sentences',
+        words: [
+            { japanese: 'わたしはよくえいがをみます。', translation: 'Я часто смотрю фильмы' },
+            { japanese: 'わたしはあまりえいがをみません。', translation: 'Я не так много смотрю фильмы' },
+            { japanese: 'わたしわぜんぜんえいがをみません。', translation: 'Я вообще не смотрю фильмы' },
+            { japanese: 'よくコーヒーにいきますか。', translation: 'Часто водишь в кафе?' },
+            { japanese: 'きょうのよる（こんや）ひまですか。', translation: 'Свободен сегодня вечером?' },
+            { japanese: 'ときょうでデートーをします。', translation: 'Будет свидание в Токио' },
+            { japanese: 'わたしはかれしとカラオケをします', translation: 'Я пойду петь караоке с парнем' },
+            { japanese: 'わたしはしろいのくるまがほしいです。', translation: 'Я хочу белую машину' },
+            { japanese: 'わたしはラーメンがたべたいです。', translation: 'Я хочу поесть рамен' },
+            { japanese: 'わたしはみずがのみたいです。', translation: 'Я хочу попить воды' }
         ]
     }
 ];
