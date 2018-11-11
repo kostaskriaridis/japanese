@@ -200,7 +200,6 @@ export default [
             { japanese: 'ついたち', translation: '1 число' },
             { japanese: 'ふつか', translation: '2 число' },
             { japanese: 'みっか', translation: '3 число' },
-            /*
             { japanese: 'よっか', translation: '4 число' },
             { japanese: 'いつか', translation: '5 число' },
             { japanese: 'むいか', translation: '6 число' },
@@ -208,6 +207,7 @@ export default [
             { japanese: 'ようか', translation: '8 число' },
             { japanese: 'ここのか', translation: '9 число' },
             { japanese: 'とおか', translation: '10 число' },
+            /*
             { japanese: 'じゅういちにち', translation: '11 число' },
             { japanese: 'じゅうににち', translation: '12 число' },
             { japanese: 'じゅうさんにち', translation: '13 число' },

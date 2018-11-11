@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 387
+# Table of japanese words to learn: 394
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -175,6 +175,13 @@
 | `ついたち` | 1 число |
 | `ふつか` | 2 число |
 | `みっか` | 3 число |
+| `よっか` | 4 число |
+| `いつか` | 5 число |
+| `むいか` | 6 число |
+| `なのか` | 7 число |
+| `ようか` | 8 число |
+| `ここのか` | 9 число |
+| `とおか` | 10 число |
 #### Counters. General
 | Japanese | Translation |
 | ------ | ------ |
