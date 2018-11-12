@@ -95,7 +95,8 @@ export default [
             { japanese: 'まぜます', translation: 'Смешать' },
             { japanese: 'あるきます', translation: 'Ходить' },
             { japanese: 'とびます', translation: 'Лететь' },
-            { japanese: 'わたります', translation: 'Пересекать' }
+            { japanese: 'わたります', translation: 'Пересекать' },
+            { japanese: 'だきしめます', translation: 'Обнимать' }
         ]
     },
     {
