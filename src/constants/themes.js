@@ -414,7 +414,9 @@ export default [
             { japanese: 'ざっし', translation: 'Журнал' },
             { japanese: 'おみせ', translation: 'Магазин' },
             { japanese: 'ちゅうもん', translation: 'Заказ' },
-            { japanese: 'おにぎり', translation: 'Рисовый шарик' }
+            { japanese: 'おにぎり', translation: 'Рисовый шарик' },
+            { japanese: 'にもつ', translation: 'Багаж' },
+            { japanese: 'しゅっぱつ', translation: 'Отправление / Выезд' }
         ]
     },
     {
