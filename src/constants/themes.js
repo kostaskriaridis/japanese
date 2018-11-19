@@ -15,6 +15,39 @@ export default [
         ]
     },
     {
+        title: 'Locations',
+        words: [
+            { japanese: 'うえ', translation: 'Сверху / вверх' },
+            { japanese: 'した', translation: 'Снизу / под' },
+            { japanese: 'なか', translation: 'Внутри' },
+            { japanese: 'そと', translation: 'Снаружи' },
+            { japanese: 'まえ', translation: 'Перед' },
+            { japanese: 'となり', translation: 'Рядом / соседний' },
+            { japanese: 'ちかく', translation: 'Поблизости' },
+            { japanese: 'よこ', translation: 'Сторона' },
+            { japanese: 'きた', translation: 'Север' },
+            { japanese: 'みなみ', translation: 'Юг' },
+            { japanese: 'にし', translation: 'Запад' },
+            { japanese: 'ひがし', translation: 'Восток' },
+            { japanese: 'いりぐち', translation: 'Вход' },
+            { japanese: 'でぐち', translation: 'Выход' },
+        ]
+    },
+    {
+        title: 'Spots around town',
+        words: [
+            { japanese: 'がっこう', translation: 'Школа' },
+            { japanese: 'ぎんこう', translation: 'Банк' },
+            { japanese: 'くうこう', translation: 'Аэропорт' },
+            { japanese: 'こうえん', translation: 'Парк' },
+            { japanese: 'スーパー', translation: 'Супермаркет' },
+            { japanese: 'だいがく', translation: 'Университет' },
+            { japanese: 'ちゅうしゃじょう', translation: 'Автостоянка' },
+            { japanese: 'ばすてい', translation: 'Автобусная астоновка' },
+            { japanese: 'びょういん', translation: 'Больница' }
+        ]
+    },
+    {
         title: 'Technical',
         words: [
             { japanese: 'かいしゃ', translation: 'Корпорация' },
@@ -354,7 +387,8 @@ export default [
             { japanese: 'しんせつ (な)', translation: 'Добрый' },
             { japanese: 'しつれい (な)', translation: 'Грубый' },
             { japanese: 'ゆうめい (な)', translation: 'Известный' },
-            { japanese: 'むり (な)', translation: 'Невозможный' }
+            { japanese: 'むり (な)', translation: 'Невозможный' },
+            { japanese: 'しょうじき (な)', translation: 'Честный' }
         ]
     },
     {
@@ -388,7 +422,6 @@ export default [
             { japanese: 'いい / よくない', translation: 'Хороший / Нехороший' },
             { japanese: 'ほんとう', translation: 'Правда' },
             { japanese: 'うそ', translation: 'Ложь' },
-            { japanese: 'くうこう', translation: 'Аэропорт' },
             { japanese: 'しんぶん', translation: 'Газета' },
             { japanese: 'どうぶつえん', translation: 'Зоопарк' },
             { japanese: 'どうぶつ', translation: 'Животное' },
@@ -415,8 +448,13 @@ export default [
             { japanese: 'おみせ', translation: 'Магазин' },
             { japanese: 'ちゅうもん', translation: 'Заказ' },
             { japanese: 'おにぎり', translation: 'Рисовый шарик' },
+            { japanese: 'しゅっぱつ', translation: 'Выезд' },
+            { japanese: 'とうちゃく', translation: 'Приезд' },
             { japanese: 'にもつ', translation: 'Багаж' },
-            { japanese: 'しゅっぱつ', translation: 'Отправление / Выезд' }
+            { japanese: 'ちず', translation: 'Карта' },
+            { japanese: 'てら', translation: 'Храм' },
+            { japanese: 'ところ', translation: 'Место' },
+            { japanese: 'きょうみ', translation: 'Интерес' }
         ]
     },
     {
