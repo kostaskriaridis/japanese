@@ -17,8 +17,8 @@ export default [
     {
         title: 'Locations',
         words: [
-            { japanese: 'うえ', translation: 'Сверху / вверх' },
-            { japanese: 'した', translation: 'Снизу / под' },
+            { japanese: 'うえ', translation: 'Сверху / вверх / выше' },
+            { japanese: 'した', translation: 'Снизу / под / ниже' },
             { japanese: 'なか', translation: 'Внутри' },
             { japanese: 'そと', translation: 'Снаружи' },
             { japanese: 'まえ', translation: 'Перед' },
@@ -129,7 +129,9 @@ export default [
             { japanese: 'あるきます', translation: 'Ходить' },
             { japanese: 'とびます', translation: 'Лететь' },
             { japanese: 'わたります', translation: 'Пересекать' },
-            { japanese: 'だきしめます', translation: 'Обнимать' }
+            { japanese: 'だきしめます', translation: 'Обнимать' },
+            { japanese: 'しゅっぱつします', translation: 'Уходить' },
+            { japanese: 'とうちゃくします', translation: 'Приезжать' },
         ]
     },
     {
@@ -350,7 +352,6 @@ export default [
             { japanese: 'すっぱい', translation: 'Кислый' },
             { japanese: 'せまい', translation: 'Узкий' },
             { japanese: 'おそい', translation: 'Медленный, поздний' },
-            { japanese: 'おおい', translation: 'Много' },
             { japanese: 'くらい', translation: 'Тёмный' },
             { japanese: 'きたない', translation: 'Грязный' },
             { japanese: 'かるい', translation: 'Светлый' },
@@ -454,7 +455,10 @@ export default [
             { japanese: 'ちず', translation: 'Карта' },
             { japanese: 'てら', translation: 'Храм' },
             { japanese: 'ところ', translation: 'Место' },
-            { japanese: 'きょうみ', translation: 'Интерес' }
+            { japanese: 'きょうみ', translation: 'Интерес' },
+            { japanese: 'におい', translation: 'Запах' },
+            { japanese: 'しあわせ', translation: 'Счастье' },
+            { japanese: 'つくえ', translation: 'Парта' }
         ]
     },
     {
@@ -476,7 +480,8 @@ export default [
             { japanese: 'した', translation: 'Под / Ниже' },
             { japanese: 'だって', translation: 'Потому что' },
             { japanese: 'まだ', translation: 'Всё ещё (still)' },
-            { japanese: 'たとえば', translation: 'Например' }
+            { japanese: 'たとえば', translation: 'Например' },
+            { japanese: 'たくさん', translation: 'Много' }
         ]
     },
     {
@@ -486,7 +491,9 @@ export default [
             { japanese: 'かみ', translation: 'Волосы, причёска' },
             { japanese: 'こえ', translation: 'Голос' },
             { japanese: 'き', translation: 'Чувство' },
-            { japanese: 'かお', translation: 'Лицо' }
+            { japanese: 'かお', translation: 'Лицо' },
+            { japanese: 'うで', translation: 'Рука' },
+            { japanese: 'あし', translation: 'Нога' }
         ]
     },
     {
@@ -565,7 +572,8 @@ export default [
             { japanese: 'おかえりなさい', translation: 'С возвращением' },
             { japanese: 'かんけいない', translation: 'Не имеет значения' },
             { japanese: 'おつかれさま', translation: 'Спасибо / Достаточно на сегодня / Привет (на работе)' },
-            { japanese: 'これでいい', translation: 'Это хорошо' }
+            { japanese: 'これでいい', translation: 'Это хорошо' },
+            { japanese: 'どうしましたか', translation: 'Что случилось?' }
         ]
     },
     {
@@ -604,7 +612,12 @@ export default [
             { japanese: 'わたしはかれしとカラオケをします', translation: 'Я пойду петь караоке с парнем' },
             { japanese: 'わたしはしろいのくるまがほしいです。', translation: 'Я хочу белую машину' },
             { japanese: 'わたしはラーメンがたべたいです。', translation: 'Я хочу поесть рамен' },
-            { japanese: 'わたしはみずがのみたいです。', translation: 'Я хочу попить воды' }
+            { japanese: 'わたしはみずがのみたいです。', translation: 'Я хочу попить воды' },
+            { japanese: 'えきのまえにほんやがあります', translation: 'Перед станцией находится книжный магазин' },
+            { japanese: 'かいしゃのとなりにレストランがあります。', translation: 'По соседству с офисом находится ресторан' },
+            { japanese: 'とけいのうしろにともだちがいます。', translation: 'За часами находится мой друг' },
+            { japanese: 'いすのうえにねこがいます。', translation: 'На стуле находится кошка' },
+            { japanese: 'しこくはひろしまのみなみにあります。', translation: 'Щикоку находится на юге от Хиросимы' }
         ]
     }
 ];
