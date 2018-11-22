@@ -132,6 +132,7 @@ export default [
             { japanese: 'だきしめます', translation: 'Обнимать' },
             { japanese: 'しゅっぱつします', translation: 'Уходить' },
             { japanese: 'とうちゃくします', translation: 'Приезжать' },
+            { japanese: 'つかれます', translation: 'Уставать' }
         ]
     },
     {
@@ -204,8 +205,9 @@ export default [
             { japanese: 'いま', translation: 'Сейчас' },
             { japanese: 'やすみ', translation: 'Отпуск' },
             { japanese: 'いつ', translation: 'Когда, время' },
-            { japanese: 'らいねん', translation: 'В следующем году' },
             { japanese: 'ことしも', translation: 'В этом году' },
+            { japanese: 'らいねん', translation: 'В следующем году' },
+            { japanese: 'らいげつ', translation: 'В следующем месяце' },
             { japanese: 'らいしゅう', translation: 'На следующей неделе' },
             { japanese: 'あした', translation: 'Завтра' },
             { japanese: 'きのう', translation: 'Вчера' },
@@ -629,7 +631,11 @@ export default [
             { japanese: 'かいしゃのとなりにレストランがあります。', translation: 'По соседству с офисом находится ресторан' },
             { japanese: 'とけいのうしろにともだちがいます。', translation: 'За часами находится мой друг' },
             { japanese: 'いすのうえにねこがいます。', translation: 'На стуле находится кошка' },
-            { japanese: 'しこくはひろしまのみなみにあります。', translation: 'Щикоку находится на юге от Хиросимы' }
+            { japanese: 'しこくはひろしまのみなみにあります。', translation: 'Щикоку находится на юге от Хиросимы' },
+            { japanese: 'わたしはうちでわあさごはんをたべませんが、しごとでわまいにちあさごはんをたべます。', translation: 'Я дома не ем завтрак, но на работе ем его каждый день' },
+            { japanese: 'らいねんわたしはフランスえはいきませんが、にほんえはいきます。', translation: 'В следующем году я не поеду во францию, но поеду в Японию' },
+            { japanese: 'どよびにはかいしゃえいきます。でも、にちよびにはかいしゃえいきません。', translation: 'Я хожу на работу по субботам, но я не хожу на работу по воскресеньям' },
+            { japanese: 'わたしはみなみさんとえいがえいきます。でも、しゅうさんとはいきません。', translation: 'Я пойду в кино с Минами сан, но с Щю сан не пойду' }
         ]
     }
 ];
