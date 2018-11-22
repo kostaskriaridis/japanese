@@ -132,7 +132,8 @@ export default [
             { japanese: 'だきしめます', translation: 'Обнимать' },
             { japanese: 'しゅっぱつします', translation: 'Уходить' },
             { japanese: 'とうちゃくします', translation: 'Приезжать' },
-            { japanese: 'つかれます', translation: 'Уставать' }
+            { japanese: 'つかれます', translation: 'Уставать' },
+            { japanese: 'えらびます', translation: 'Выбирать' }
         ]
     },
     {
@@ -538,7 +539,6 @@ export default [
             { japanese: 'きゅうせん', translation: '9 000' }
         ]
     },
-    */
     {
         title: 'Numbers Tens of Thousands',
         words: [
@@ -568,6 +568,7 @@ export default [
             { japanese: 'ひゃくまん', translation: '1 000 000' }
         ]
     },
+    */
     {
         title: 'Combinations',
         words: [
