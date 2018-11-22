@@ -492,8 +492,20 @@ export default [
             { japanese: 'こえ', translation: 'Голос' },
             { japanese: 'き', translation: 'Чувство' },
             { japanese: 'かお', translation: 'Лицо' },
-            { japanese: 'うで', translation: 'Рука' },
-            { japanese: 'あし', translation: 'Нога' }
+            { japanese: 'うで', translation: 'Рука (arm)' },
+            { japanese: 'て', translation: 'Кисть руки (hand)' },
+            { japanese: 'あし', translation: 'Нога' },
+            { japanese: 'はな', translation: 'Нос' },
+            { japanese: 'くち', translation: 'Рот' },
+            { japanese: 'は', translation: 'Зуб' },
+            { japanese: 'のど', translation: 'Горло' },
+            { japanese: 'くび', translation: 'Шея' },
+            { japanese: 'かた', translation: 'Плечо' },
+            { japanese: 'せなか', translation: 'Спина' },
+            { japanese: 'おなか', translation: 'Живот, желудок' },
+            { japanese: 'むね', translation: 'Грудь' },
+            { japanese: 'ひざ', translation: 'Колено' },
+            { japanese: 'ゆび', translation: 'Палец' }
         ]
     },
     {
