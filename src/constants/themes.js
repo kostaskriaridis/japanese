@@ -404,7 +404,6 @@ export default [
             { japanese: 'しゃしん', translation: 'Фото' },
             { japanese: 'やさしい', translation: 'Доброжелательность' },
             { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
-            { japanese: 'どうぞ', translation: 'Пожалуйста (проходите)' },
             { japanese: 'おきゃくさん', translation: 'Посетитель, гость' },
             { japanese: 'てんいん', translation: 'Работник, клерк' },
             { japanese: 'たいざい', translation: 'Пребывание' },

@@ -1,9 +1,9 @@
 .word-japanese {
     text-decoration: none;
-    background-color: #e5ffe5;
+    background-color: rgba(0, 255, 0, .1);
     border-radius: 3px;
     border: none;
-    color: #009900;
+    color: rgba(0, 255, 0, .5);
     font-size: 20px;
     cursor: pointer;
 }
@@ -18,5 +18,5 @@
 }
 
 .word-japanese:hover {
-    background-color: #ccffcc;
+    background-color: rgba(0, 255, 0, .2);
 }

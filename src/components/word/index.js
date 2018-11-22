@@ -20,8 +20,8 @@ export default class Word extends PureComponent {
         return (
             <div className={wordClass}>
                 <WordJapanese text={japanese} />
-                {' — '}
                 <span className='word__translation'>
+                    {' — '}
                     {translation}
                 </span>
             </div>

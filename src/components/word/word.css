@@ -9,3 +9,7 @@
 .word__japanese + .word__japanese {
     margin-left: 10px;
 }
+
+.word__translation {
+    color: rgba(255, 255, 255, .5);
+}

@@ -1,7 +1,9 @@
 .button {
     border-radius: 3px;
-    border: 2px solid #ccc;
+    border: 2px solid rgba(255, 255, 255, .5);
     font-size: 14px;
+    color: rgba(255, 255, 255, .8);
+    background-color: rgba(255, 255, 255, .1);
 }
 
 .button_m {
@@ -21,6 +23,6 @@
 }
 
 .button_active:not(disabled) {
-    border-color: green;
-    color: green;
+    border-color: rgba(0, 255, 0, .5);
+    color: rgba(0, 255, 0, .5);
 }
