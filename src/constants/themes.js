@@ -17,8 +17,8 @@ export default [
     {
         title: 'Locations',
         words: [
-            { japanese: 'うえ', translation: 'Сверху / вверх / выше' },
-            { japanese: 'した', translation: 'Снизу / под / ниже' },
+            { japanese: 'うえ', translation: 'Сверху / Вверх / Выше' },
+            { japanese: 'した', translation: 'Снизу / Под / Ниже' },
             { japanese: 'なか', translation: 'Внутри' },
             { japanese: 'そと', translation: 'Снаружи' },
             { japanese: 'まえ', translation: 'Перед' },
