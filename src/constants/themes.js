@@ -22,7 +22,7 @@ export default [
             { japanese: 'なか', translation: 'Внутри' },
             { japanese: 'そと', translation: 'Снаружи' },
             { japanese: 'まえ', translation: 'Перед' },
-            { japanese: 'となり', translation: 'Рядом / соседний' },
+            { japanese: 'となり', translation: 'Соседний' },
             { japanese: 'ちかく', translation: 'Поблизости' },
             { japanese: 'よこ', translation: 'Сторона' },
             { japanese: 'きた', translation: 'Север' },
