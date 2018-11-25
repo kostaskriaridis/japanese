@@ -133,7 +133,8 @@ export default [
             { japanese: 'しゅっぱつします', translation: 'Уходить' },
             { japanese: 'とうちゃくします', translation: 'Приезжать' },
             { japanese: 'つかれます', translation: 'Уставать' },
-            { japanese: 'えらびます', translation: 'Выбирать' }
+            { japanese: 'えらびます', translation: 'Выбирать' },
+            { japanese: 'とまります', translation: 'Оставаться в' }
         ]
     },
     {
@@ -460,7 +461,8 @@ export default [
             { japanese: 'きょうみ', translation: 'Интерес' },
             { japanese: 'におい', translation: 'Запах' },
             { japanese: 'しあわせ', translation: 'Счастье' },
-            { japanese: 'つくえ', translation: 'Парта' }
+            { japanese: 'つくえ', translation: 'Парта' },
+            { japanese: 'いろ', translation: 'Цвет' }
         ]
     },
     {
@@ -506,7 +508,8 @@ export default [
             { japanese: 'おなか', translation: 'Живот, желудок' },
             { japanese: 'むね', translation: 'Грудь' },
             { japanese: 'ひざ', translation: 'Колено' },
-            { japanese: 'ゆび', translation: 'Палец' }
+            { japanese: 'ゆび', translation: 'Палец' },
+            { japanese: 'からだ', translation: 'Тело' }
         ]
     },
     /*
