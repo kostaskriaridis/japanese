@@ -364,7 +364,7 @@ export default [
             { japanese: 'ちかい', translation: 'Близкий' },
             { japanese: 'とおい', translation: 'Далёкий' },
             { japanese: 'いたい', translation: 'Больно' },
-            { japanese: 'おもしろい', translation: 'Интересный' },
+            { japanese: 'おもしろい', translation: 'Интересный / Забавный' },
             { japanese: 'ただしい', translation: 'Правильный' },
             { japanese: 'すっぱい', translation: 'Кислый' },
             { japanese: 'せまい', translation: 'Узкий' },
@@ -408,7 +408,8 @@ export default [
             { japanese: 'しつれい (な)', translation: 'Грубый' },
             { japanese: 'ゆうめい (な)', translation: 'Известный' },
             { japanese: 'むり (な)', translation: 'Невозможный' },
-            { japanese: 'しょうじき (な)', translation: 'Честный' }
+            { japanese: 'しょうじき (な)', translation: 'Честный' },
+            { japanese: 'しんせん (な)', translation: 'Свежий' }
         ]
     },
     {
