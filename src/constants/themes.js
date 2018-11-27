@@ -102,7 +102,6 @@ export default [
             { japanese: 'けします', translation: 'Выключать' },
             { japanese: 'ききます', translation: 'Слушать' },
             { japanese: 'まがります', translation: 'Поворачивать' },
-            { japanese: 'もちます', translation: 'Иметь' },
             { japanese: 'もらいます', translation: 'Принимать' },
             { japanese: 'おくります', translation: 'Отправлять' },
             { japanese: 'おします', translation: 'Толкать' },
@@ -478,7 +477,10 @@ export default [
             { japanese: 'てがみ', translation: 'Письмо' },
             { japanese: 'かんがえ', translation: 'Мысль' },
             { japanese: 'ゆかた', translation: 'Кимоно (летнее)' },
-            { japanese: 'かしゅ', translation: 'Певец' }
+            { japanese: 'かしゅ', translation: 'Певец' },
+            { japanese: 'おまつり', translation: 'Фестиваль' },
+            { japanese: 'じんせい', translation: 'Жизнь' },
+            { japanese: 'みずうみ', translation: 'Озеро' }
         ]
     },
     {
@@ -717,6 +719,14 @@ export default [
             {
                 japanese: 'わたしはみなみさんとえいがえいきます。でも、しゅうさんとはいきません。',
                 translation: 'Я пойду в кино с Минами сан, но с Щю сан не пойду'
+            },
+            {
+                japanese: 'このゆかたはデザインがかわいいです。',
+                translation: 'Дизайн этого кимоно милый'
+            },
+            {
+                japanese: 'ハワイはうみがきれいです。',
+                translation: 'На Гавайях океан очень красивое'
             }
         ]
     }
