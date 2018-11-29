@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 447
+# Table of japanese words to learn: 448
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -132,6 +132,7 @@
 | `きります` | Резать |
 | `さきます` | Расцвести |
 | `しょうたいします` | Пригласить |
+| `つかまえます` | Поймать |
 #### Present, Progressive, Past
 | Japanese | Translation |
 | ------ | ------ |

@@ -146,7 +146,8 @@ export default [
             { japanese: 'おきます', translation: 'Просыпаться' },
             { japanese: 'きります', translation: 'Резать' },
             { japanese: 'さきます', translation: 'Расцвести' },
-            { japanese: 'しょうたいします', translation: 'Пригласить' }
+            { japanese: 'しょうたいします', translation: 'Пригласить' },
+            { japanese: 'つかまえます', translation: 'Поймать' }
         ]
     },
     {
