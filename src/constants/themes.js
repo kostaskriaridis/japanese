@@ -147,7 +147,8 @@ export default [
             { japanese: 'きります', translation: 'Резать' },
             { japanese: 'さきます', translation: 'Расцвести' },
             { japanese: 'しょうたいします', translation: 'Пригласить' },
-            { japanese: 'つかまえます', translation: 'Поймать' }
+            { japanese: 'つかまえます', translation: 'Поймать' },
+            { japanese: 'みつけます ', translation: 'Найти' }
         ]
     },
     {
@@ -168,7 +169,8 @@ export default [
             { japanese: 'かのじょの', translation: 'Её' },
             { japanese: 'わたしたちの', translation: 'Наше' },
             { japanese: 'かれらの', translation: 'Их' },
-            { japanese: 'あなたたちの', translation: 'Ваше (мн. число)' }
+            { japanese: 'あなたたちの', translation: 'Ваше (мн. число)' },
+            { japanese: 'いっしょに', translation: 'Вместе' }
         ]
     },
     {
@@ -482,7 +484,8 @@ export default [
             { japanese: 'かしゅ', translation: 'Певец' },
             { japanese: 'おまつり', translation: 'Фестиваль' },
             { japanese: 'じんせい', translation: 'Жизнь' },
-            { japanese: 'みずうみ', translation: 'Озеро' }
+            { japanese: 'みずうみ', translation: 'Озеро' },
+            { japanese: 'くちびる', translation: 'Губы' }
         ]
     },
     {
