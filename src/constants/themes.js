@@ -186,6 +186,7 @@ export default [
             { japanese: 'まで', translation: 'До' },
             { japanese: 'いつから', translation: 'С какого времени?' },
             { japanese: 'いまから', translation: 'С этого момента' },
+            { japanese: 'いつでも', translation: 'В любое время' },
             { japanese: 'よく', translation: 'Часто' },
             { japanese: 'まいにち', translation: 'Каждый день' },
             { japanese: 'おひさしぶり', translation: 'Давно не виделись' },

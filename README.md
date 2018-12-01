@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 451
+# Table of japanese words to learn: 452
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -165,6 +165,7 @@
 | `まで` | До |
 | `いつから` | С какого времени? |
 | `いまから` | С этого момента |
+| `いつでも` | В любое время |
 | `よく` | Часто |
 | `まいにち` | Каждый день |
 | `おひさしぶり` | Давно не виделись |
