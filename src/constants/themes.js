@@ -492,7 +492,8 @@ export default [
             { japanese: 'ゆめ', translation: 'Сон' },
             { japanese: 'じゅうしょ', translation: 'Адрес' },
             { japanese: 'かわ', translation: 'Река, кожа' },
-            { japanese: 'おかわり', translation: 'Добавка' }
+            { japanese: 'おかわり', translation: 'Добавка' },
+            { japanese: 'かいだん', translation: 'Ступеньки' }
         ]
     },
     {

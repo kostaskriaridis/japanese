@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 465
+# Table of japanese words to learn: 466
 #### Questions / Places
 | Japanese | Translation |
 | ------ | ------ |
@@ -429,6 +429,7 @@
 | `じゅうしょ` | Адрес |
 | `かわ` | Река, кожа |
 | `おかわり` | Добавка |
+| `かいだん` | Ступеньки |
 #### Adverbs
 | Japanese | Translation |
 | ------ | ------ |
