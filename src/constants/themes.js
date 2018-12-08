@@ -150,7 +150,7 @@ export default [
             { japanese: 'つかまえます', translation: 'Поймать' },
             { japanese: 'みつけます', translation: 'Найти' },
             { japanese: 'おとします', translation: 'Уронить, падать' },
-            { japanese: '', translation: '' },
+            { japanese: 'こたえます ', translation: 'Отвечать' }
         ]
     },
     {
