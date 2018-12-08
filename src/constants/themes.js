@@ -121,7 +121,8 @@ export default [
             { japanese: 'ささえます', translation: 'Поддерживать' },
             { japanese: 'おわります', translation: 'Заканчивать' },
             { japanese: 'おなかがすきます', translation: 'Быть голодным' },
-            { japanese: 'ぬぎます', translation: 'Снимать одежду' },
+            { japanese: 'ぬぎます', translation: 'Раздеваться' },
+            { japanese: 'きかざります', translation: 'Одеваться' },
             { japanese: 'なります', translation: 'Становиться' },
             { japanese: 'ねます', translation: 'Ложиться спать' },
             { japanese: 'まぜます', translation: 'Смешать' },
@@ -151,7 +152,8 @@ export default [
             { japanese: 'みつけます', translation: 'Найти' },
             { japanese: 'おとします', translation: 'Уронить, падать' },
             { japanese: 'こたえます', translation: 'Отвечать' },
-            { japanese: 'さわります', translation: 'Трогать' }
+            { japanese: 'さわります', translation: 'Трогать' },
+            { japanese: 'なくします', translation: 'Потерять' }
         ]
     },
     {
@@ -495,6 +497,12 @@ export default [
             { japanese: 'かわ', translation: 'Река, кожа' },
             { japanese: 'おかわり', translation: 'Добавка' },
             { japanese: 'かいだん', translation: 'Ступеньки' }
+        ]
+    },
+    {
+        title: 'Professions',
+        words: [
+            { japanese: 'けいさつかん', translation: 'Офицер полиции' }
         ]
     },
     {
