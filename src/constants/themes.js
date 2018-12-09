@@ -446,6 +446,7 @@ export default [
             { japanese: 'おさけ', translation: 'Алкоголь' },
             { japanese: 'りょうり', translation: 'Еда' },
             { japanese: 'まち', translation: 'Город' },
+            { japanese: 'くに', translation: 'Страна' },
             { japanese: 'まくら', translation: 'Подушка' },
             { japanese: 'かばん', translation: 'Сумка' },
             { japanese: 'てんき', translation: 'Погода' },
@@ -756,6 +757,10 @@ export default [
             {
                 japanese: 'ハワイはうみがきれいです。',
                 translation: 'На Гавайях океан очень красивое'
+            },
+            {
+                japanese: 'そのかばんのなかになにがありますか。',
+                translation: 'Что находится внутри этой сумки?'
             }
         ]
     }
