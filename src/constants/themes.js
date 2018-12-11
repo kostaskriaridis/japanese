@@ -154,7 +154,8 @@ export default [
             { japanese: 'こたえます', translation: 'Отвечать' },
             { japanese: 'さわります', translation: 'Трогать' },
             { japanese: 'なくします', translation: 'Потерять' },
-            { japanese: 'しにます', translation: 'Умереть' }
+            { japanese: 'しにます', translation: 'Умереть' },
+            { japanese: 'きえます', translation: 'Исчезнуть' }
         ]
     },
     {
