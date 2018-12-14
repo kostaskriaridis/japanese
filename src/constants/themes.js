@@ -156,7 +156,8 @@ export default [
             { japanese: 'なくします', translation: 'Потерять' },
             { japanese: 'しにます', translation: 'Умереть' },
             { japanese: 'きえます', translation: 'Исчезнуть' },
-            { japanese: 'うちます', translation: 'Бить, ударить' }
+            { japanese: 'うちます', translation: 'Бить, ударить' },
+            { japanese: 'まけます', translation: 'Проиграть' }
         ]
     },
     {
@@ -501,7 +502,8 @@ export default [
             { japanese: 'かわ', translation: 'Река, кожа' },
             { japanese: 'おかわり', translation: 'Добавка' },
             { japanese: 'かいだん', translation: 'Ступеньки' },
-            { japanese: 'きぼう', translation: 'Надежда' }
+            { japanese: 'きぼう', translation: 'Надежда' },
+            { japanese: 'れつ', translation: 'Очередь' }
         ]
     },
     {
@@ -532,7 +534,8 @@ export default [
             { japanese: 'たくさん', translation: 'Много' },
             { japanese: 'ちょう', translation: 'Супер' },
             { japanese: 'さいこう', translation: 'Лучший' },
-            { japanese: 'さいてい', translation: 'Худший' }
+            { japanese: 'さいてい', translation: 'Худший' },
+            { japanese: 'ぜったいに', translation: 'Определённо / безоговорочно' },
         ]
     },
     {
