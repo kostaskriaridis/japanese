@@ -530,7 +530,8 @@ export default [
             { japanese: 'まだ', translation: 'Всё ещё (still)' },
             { japanese: 'たとえば', translation: 'Например' },
             { japanese: 'たくさん', translation: 'Много' },
-            { japanese: 'ちょう', translation: 'Супер' }
+            { japanese: 'ちょう', translation: 'Супер' },
+            { japanese: 'さいこう', translation: 'Лучший' }
         ]
     },
     {
