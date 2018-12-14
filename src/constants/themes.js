@@ -531,7 +531,8 @@ export default [
             { japanese: 'たとえば', translation: 'Например' },
             { japanese: 'たくさん', translation: 'Много' },
             { japanese: 'ちょう', translation: 'Супер' },
-            { japanese: 'さいこう', translation: 'Лучший' }
+            { japanese: 'さいこう', translation: 'Лучший' },
+            { japanese: 'さいてい', translation: 'Худший' }
         ]
     },
     {
@@ -766,6 +767,10 @@ export default [
             {
                 japanese: 'そのかばんのなかになにがありますか。',
                 translation: 'Что находится внутри этой сумки?'
+            },
+            {
+                japanese: 'すみません、ぱんのおかわりおねがいします。',
+                translation: 'Прошу прощения, дайте, пожалуйста, добавку хлеба'
             }
         ]
     }
