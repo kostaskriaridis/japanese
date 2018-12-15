@@ -1,82 +1,5 @@
 export default [
     {
-        title: 'Questions / Places',
-        words: [
-            { japanese: 'どんな', translation: 'Какие? Какого типа?' },
-            { japanese: 'どちら', translation: 'Который?' },
-            { japanese: 'どこの', translation: 'Откуда?' },
-            { japanese: 'どうして', translation: 'Почему?' },
-            { japanese: 'だれの', translation: 'Чьё?' }
-            /*
-            { japanese: 'どっち', translation: 'Где?' },
-            { japanese: 'こっち', translation: 'Здесь' },
-            { japanese: 'そっち', translation: 'Там' }
-            */
-        ]
-    },
-    {
-        title: 'Locations',
-        words: [
-            { japanese: 'うえ', translation: 'Сверху / Вверх / Выше' },
-            { japanese: 'した', translation: 'Снизу / Под / Ниже' },
-            { japanese: 'なか', translation: 'Внутри' },
-            { japanese: 'そと', translation: 'Снаружи' },
-            { japanese: 'まえ', translation: 'Перед' },
-            { japanese: 'となり', translation: 'Соседний' },
-            { japanese: 'ちかく', translation: 'Поблизости' },
-            { japanese: 'よこ', translation: 'Сторона' },
-            { japanese: 'きた', translation: 'Север' },
-            { japanese: 'みなみ', translation: 'Юг' },
-            { japanese: 'にし', translation: 'Запад' },
-            { japanese: 'ひがし', translation: 'Восток' },
-            { japanese: 'いりぐち', translation: 'Вход' },
-            { japanese: 'でぐち', translation: 'Выход' },
-        ]
-    },
-    {
-        title: 'Spots around town',
-        words: [
-            { japanese: 'がっこう', translation: 'Школа' },
-            { japanese: 'ぎんこう', translation: 'Банк' },
-            { japanese: 'くうこう', translation: 'Аэропорт' },
-            { japanese: 'こうえん', translation: 'Парк' },
-            { japanese: 'スーパー', translation: 'Супермаркет' },
-            { japanese: 'だいがく', translation: 'Университет' },
-            { japanese: 'ちゅうしゃじょう', translation: 'Автостоянка' },
-            { japanese: 'ばすてい', translation: 'Автобусная астоновка' },
-            { japanese: 'びょういん', translation: 'Больница' }
-        ]
-    },
-    {
-        title: 'Technical',
-        words: [
-            { japanese: 'かいしゃ', translation: 'Корпорация' },
-            { japanese: 'でんわ', translation: 'Телефон' },
-            { japanese: 'パソコン', translation: 'Персональный компьютер' },
-            { japanese: 'けいたいでんわ', translation: 'Мобильный телефон' },
-            { japanese: 'ばんごう', translation: 'Номер' }
-        ]
-    },
-    {
-        title: 'Relations',
-        words: [
-            { japanese: 'おとうさん', translation: 'Папа' },
-            { japanese: 'おかあさん', translation: 'Мама' },
-            { japanese: 'おにいさん', translation: 'Старший брат' },
-            { japanese: 'おねえさん', translation: 'Старшая сестра' },
-            { japanese: 'おとうとさん', translation: 'Младший брат' },
-            { japanese: 'いもうとさん', translation: 'Младшая сестра' },
-            { japanese: 'むすこさん', translation: 'Сын' },
-            { japanese: 'むすめさん', translation: 'Дочь' },
-            { japanese: 'まご', translation: 'Внук' },
-            { japanese: 'だんなさん', translation: 'Муж' },
-            { japanese: 'おくさん', translation: 'Жена' },
-            { japanese: 'きょうだい', translation: 'Братья и сёстры' },
-            { japanese: 'そふ', translation: 'Дедушка' },
-            { japanese: 'そぼ', translation: 'Бабушка' }
-        ]
-    },
-    {
         title: 'Verbs',
         words: [
             { japanese: 'はなします', translation: 'Говорить' },
@@ -158,6 +81,338 @@ export default [
             { japanese: 'きえます', translation: 'Исчезнуть' },
             { japanese: 'うちます', translation: 'Бить, ударить' },
             { japanese: 'まけます', translation: 'Проиграть' }
+        ]
+    },
+    {
+        title: 'Adjectives (い)',
+        words: [
+            { japanese: 'ながい', translation: 'Длинный' },
+            { japanese: 'たかい', translation: 'Высокий' },
+            { japanese: 'みじかい', translation: 'Короткий' },
+            { japanese: 'つよい', translation: 'Сильный' },
+            { japanese: 'よわい', translation: 'Слабый' },
+            { japanese: 'ちいさい', translation: 'Небольшой' },
+            { japanese: 'はやい', translation: 'Быстрый' },
+            { japanese: 'かわいい', translation: 'Милый' },
+            { japanese: 'わかい', translation: 'Молодой' },
+            { japanese: 'ふるい', translation: 'Старый' },
+            { japanese: 'つまらない', translation: 'Скучный' },
+            { japanese: 'おもい', translation: 'Тяжёлый' },
+            { japanese: 'ふつう', translation: 'Обычный' },
+            { japanese: 'あたらしい', translation: 'Новый' },
+            { japanese: 'まっすぐ', translation: 'Прямой' },
+            { japanese: 'おなじ', translation: 'Такой же' },
+            { japanese: 'すずしい', translation: 'Прохладый (о погоде)' },
+            { japanese: 'あたたかい', translation: 'Тёплый (о погоде)' },
+            { japanese: 'やすい', translation: 'Дешёвый' },
+            { japanese: 'たのしい', translation: 'Весёлый' },
+            { japanese: 'おいしい', translation: 'Вкусный' },
+            { japanese: 'つめたい', translation: 'Холодный (на ощупь)' },
+            { japanese: 'いそがしい', translation: 'Занят' },
+            { japanese: 'ちかい', translation: 'Близкий' },
+            { japanese: 'とおい', translation: 'Далёкий' },
+            { japanese: 'いたい', translation: 'Больно' },
+            { japanese: 'おもしろい', translation: 'Интересный / Забавный' },
+            { japanese: 'ただしい', translation: 'Правильный' },
+            { japanese: 'すっぱい', translation: 'Кислый' },
+            { japanese: 'にがい', translation: 'Горький' },
+            { japanese: 'せまい', translation: 'Узкий' },
+            { japanese: 'おそい', translation: 'Медленный, поздний' },
+            { japanese: 'くらい', translation: 'Тёмный' },
+            { japanese: 'きたない', translation: 'Грязный' },
+            { japanese: 'かるい', translation: 'Светлый' },
+            { japanese: 'からい', translation: 'Горячий, острый' },
+            { japanese: 'ひろい', translation: 'Широкий' },
+            { japanese: 'ひくい', translation: 'Низкий' },
+            { japanese: 'あかるい', translation: 'Яркий' },
+            { japanese: 'あぶない', translation: 'Опасный' },
+            { japanese: 'わるい', translation: 'Плохой' },
+            { japanese: 'ほそい', translation: 'Худой / Тонкий' },
+            { japanese: 'ほしい', translation: 'Хотеть' }
+        ]
+    },
+    {
+        title: 'Adjectives (な)',
+        words: [
+            { japanese: 'きれい (な)', translation: 'Красивый' },
+            { japanese: 'しずか (な)', translation: 'Спокойный' },
+            { japanese: 'とくべつ (な)', translation: 'Особенный' },
+            { japanese: 'かんたん (な)', translation: 'Простой' },
+            { japanese: 'べんり (な)', translation: 'Удобный' },
+            { japanese: 'すてき (な)', translation: 'Хороший, крутой, фантастический' },
+            { japanese: 'あんぜん (な)', translation: 'Безопасный' },
+            { japanese: 'だいじ (な)', translation: 'Важный' },
+            { japanese: 'だめ (な)', translation: 'Нехороший' },
+            { japanese: 'ふべん (な)', translation: 'Неудобный' },
+            { japanese: 'ふしんせつ (な)', translation: 'Недобрый' },
+            { japanese: 'げんき (な)', translation: 'Хороший' },
+            { japanese: 'へた (な)', translation: 'Неумелый' },
+            { japanese: 'ひま (な)', translation: 'Свободный (время)' },
+            { japanese: 'いろいろ (な)', translation: 'Различный' },
+            { japanese: 'じょうず (な)', translation: 'Умелый' },
+            { japanese: 'すき (な)', translation: 'Нравится' },
+            { japanese: 'きらい (な)', translation: 'Несимпатичный (не нравится)' },
+            { japanese: 'にぎやか (な)', translation: 'Живой' },
+            { japanese: 'しんせつ (な)', translation: 'Добрый' },
+            { japanese: 'しつれい (な)', translation: 'Грубый' },
+            { japanese: 'ゆうめい (な)', translation: 'Известный' },
+            { japanese: 'むり (な)', translation: 'Невозможный' },
+            { japanese: 'しょうじき (な)', translation: 'Честный' },
+            { japanese: 'しんせん (な)', translation: 'Свежий' }
+        ]
+    },
+    {
+        title: 'Nouns',
+        words: [
+            { japanese: 'めんきょ', translation: 'Лицензия, уроки' },
+            { japanese: 'うんてん', translation: 'Вождение' },
+            { japanese: 'うんてんしゅ', translation: 'Водитель' },
+            { japanese: 'しゃしん', translation: 'Фото' },
+            { japanese: 'やさしい', translation: 'Доброжелательность' },
+            { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
+            { japanese: 'おきゃくさん', translation: 'Посетитель, гость' },
+            { japanese: 'てんいん', translation: 'Работник, клерк' },
+            { japanese: 'たいざい', translation: 'Пребывание' },
+            { japanese: 'もくてき', translation: 'Цель' },
+            { japanese: 'きかん', translation: 'Продолжительность' },
+            { japanese: 'たいざいきかん', translation: 'Продолжительность пребывания' },
+            { japanese: 'たいざいもくてき', translation: 'Цель пребывания' },
+            { japanese: 'かんこう', translation: 'Осмотр достопримечательностей' },
+            { japanese: 'よてい', translation: 'План' },
+            { japanese: 'もの', translation: 'Вещь' },
+            { japanese: 'うち', translation: 'Дом / моя семья / моя' },
+            { japanese: 'うそつき', translation: 'Лжец' },
+            { japanese: 'おさけ', translation: 'Алкоголь' },
+            { japanese: 'りょうり', translation: 'Еда' },
+            { japanese: 'まち', translation: 'Город' },
+            { japanese: 'くに', translation: 'Страна' },
+            { japanese: 'まくら', translation: 'Подушка' },
+            { japanese: 'かばん', translation: 'Сумка' },
+            { japanese: 'てんき', translation: 'Погода' },
+            { japanese: 'いい / よくない', translation: 'Хороший / Нехороший' },
+            { japanese: 'ほんとう', translation: 'Правда' },
+            { japanese: 'うそ', translation: 'Ложь' },
+            { japanese: 'しんぶん', translation: 'Газета' },
+            { japanese: 'どうぶつえん', translation: 'Зоопарк' },
+            { japanese: 'どうぶつ', translation: 'Животное' },
+            { japanese: 'おんがく', translation: 'Музыка' },
+            { japanese: 'へや', translation: 'Комната' },
+            { japanese: 'いす', translation: 'Стул' },
+            { japanese: 'ひこうき', translation: 'Рейс' },
+            { japanese: 'おみやげ', translation: 'Сувенир' },
+            { japanese: 'おと', translation: 'Звук' },
+            { japanese: 'しゃこ', translation: 'Гараж' },
+            { japanese: 'ちかてつ', translation: 'Метро' },
+            { japanese: 'さいしゅう', translation: 'Последний' },
+            { japanese: 'しゅうでん', translation: 'Последний поезд' },
+            { japanese: 'ふくしゅう', translation: 'Месть' },
+            { japanese: 'まちがい', translation: 'Ошибка' },
+            { japanese: 'ぐうぜん', translation: 'Совпадение' },
+            { japanese: 'じっか', translation: 'Родительский дом' },
+            { japanese: 'きず', translation: 'Царапина' },
+            { japanese: 'ようじ', translation: 'Задачи' },
+            { japanese: 'ざっし', translation: 'Журнал' },
+            { japanese: 'おみせ', translation: 'Магазин' },
+            { japanese: 'ちゅうもん', translation: 'Заказ' },
+            { japanese: 'しゅっぱつ', translation: 'Выезд' },
+            { japanese: 'とうちゃく', translation: 'Приезд' },
+            { japanese: 'にもつ', translation: 'Багаж' },
+            { japanese: 'ちず', translation: 'Карта' },
+            { japanese: 'てら', translation: 'Храм' },
+            { japanese: 'ところ', translation: 'Место' },
+            { japanese: 'きょうみ', translation: 'Интерес' },
+            { japanese: 'におい', translation: 'Запах' },
+            { japanese: 'しあわせ', translation: 'Счастье' },
+            { japanese: 'つくえ', translation: 'Парта' },
+            { japanese: 'いろ', translation: 'Цвет' },
+            { japanese: 'てがみ', translation: 'Письмо' },
+            { japanese: 'かんがえ', translation: 'Мысль' },
+            { japanese: 'ゆかた', translation: 'Кимоно (летнее)' },
+            { japanese: 'かしゅ', translation: 'Певец' },
+            { japanese: 'おまつり', translation: 'Фестиваль' },
+            { japanese: 'じんせい', translation: 'Жизнь' },
+            { japanese: 'みずうみ', translation: 'Озеро' },
+            { japanese: 'ゆめ', translation: 'Сон' },
+            { japanese: 'じゅうしょ', translation: 'Адрес' },
+            { japanese: 'かわ', translation: 'Река, кожа' },
+            { japanese: 'おかわり', translation: 'Добавка' },
+            { japanese: 'かいだん', translation: 'Ступеньки' },
+            { japanese: 'きぼう', translation: 'Надежда' },
+            { japanese: 'れつ', translation: 'Очередь' }
+        ]
+    },
+    {
+        title: 'Sentences',
+        words: [
+            {
+                japanese: 'わたしはよくえいがをみます。',
+                translation: 'Я часто смотрю фильмы'
+            },
+            {
+                japanese: 'わたしはあまりえいがをみません。',
+                translation: 'Я не так много смотрю фильмы'
+            },
+            {
+                japanese: 'わたしわぜんぜんえいがをみません。',
+                translation: 'Я вообще не смотрю фильмы'
+            },
+            {
+                japanese: 'よくコーヒーにいきますか。',
+                translation: 'Часто водишь в кафе?'
+            },
+            {
+                japanese: 'きょうのよる（こんや）ひまですか。',
+                translation: 'Свободен сегодня вечером?'
+            },
+            {
+                japanese: 'ときょうでデートーをします。',
+                translation: 'Будет свидание в Токио'
+            },
+            {
+                japanese: 'わたしはかれしとカラオケをします',
+                translation: 'Я пойду петь караоке с парнем'
+            },
+            {
+                japanese: 'わたしはしろいのくるまがほしいです。',
+                translation: 'Я хочу белую машину'
+            },
+            {
+                japanese: 'わたしはラーメンがたべたいです。',
+                translation: 'Я хочу поесть рамен'
+            },
+            {
+                japanese: 'わたしはみずがのみたいです。',
+                translation: 'Я хочу попить воды'
+            },
+            {
+                japanese: 'えきのまえにほんやがあります',
+                translation: 'Перед станцией находится книжный магазин'
+            },
+            {
+                japanese: 'かいしゃのとなりにレストランがあります。',
+                translation: 'По соседству с офисом находится ресторан'
+            },
+            {
+                japanese: 'とけいのうしろにともだちがいます。',
+                translation: 'За часами находится мой друг'
+            },
+            {
+                japanese: 'いすのうえにねこがいます。',
+                translation: 'На стуле находится кошка'
+            },
+            {
+                japanese: 'しこくはひろしまのみなみにあります。',
+                translation: 'Щикоку находится на юге от Хиросимы'
+            },
+            {
+                japanese: 'わたしはうちでわあさごはんをたべませんが、しごとでわまいにちあさごはんをたべます。',
+                translation: 'Я дома не ем завтрак, но на работе ем его каждый день'
+            },
+            {
+                japanese: 'らいねんわたしはフランスえはいきませんが、にほんえはいきます。',
+                translation: 'В следующем году я не поеду во францию, но поеду в Японию'
+            },
+            {
+                japanese: 'どよびにはかいしゃえいきます。でも、にちよびにはかいしゃえいきません。',
+                translation: 'Я хожу на работу по субботам, но я не хожу на работу по воскресеньям'
+            },
+            {
+                japanese: 'わたしはみなみさんとえいがえいきます。でも、しゅうさんとはいきません。',
+                translation: 'Я пойду в кино с Минами сан, но с Щю сан не пойду'
+            },
+            {
+                japanese: 'このゆかたはデザインがかわいいです。',
+                translation: 'Дизайн этого кимоно милый'
+            },
+            {
+                japanese: 'ハワイはうみがきれいです。',
+                translation: 'На Гавайях океан очень красивое'
+            },
+            {
+                japanese: 'そのかばんのなかになにがありますか。',
+                translation: 'Что находится внутри этой сумки?'
+            },
+            {
+                japanese: 'すみません、ぱんのおかわりおねがいします。',
+                translation: 'Прошу прощения, дайте, пожалуйста, добавку хлеба'
+            }
+        ]
+    },
+    {
+        title: 'Questions / Places',
+        words: [
+            { japanese: 'どんな', translation: 'Какие? Какого типа?' },
+            { japanese: 'どちら', translation: 'Который?' },
+            { japanese: 'どこの', translation: 'Откуда?' },
+            { japanese: 'どうして', translation: 'Почему?' },
+            { japanese: 'だれの', translation: 'Чьё?' }
+            /*
+            { japanese: 'どっち', translation: 'Где?' },
+            { japanese: 'こっち', translation: 'Здесь' },
+            { japanese: 'そっち', translation: 'Там' }
+            */
+        ]
+    },
+    {
+        title: 'Locations',
+        words: [
+            { japanese: 'うえ', translation: 'Сверху / Вверх / Выше' },
+            { japanese: 'した', translation: 'Снизу / Под / Ниже' },
+            { japanese: 'なか', translation: 'Внутри' },
+            { japanese: 'そと', translation: 'Снаружи' },
+            { japanese: 'まえ', translation: 'Перед' },
+            { japanese: 'となり', translation: 'Соседний' },
+            { japanese: 'ちかく', translation: 'Поблизости' },
+            { japanese: 'よこ', translation: 'Сторона' },
+            { japanese: 'きた', translation: 'Север' },
+            { japanese: 'みなみ', translation: 'Юг' },
+            { japanese: 'にし', translation: 'Запад' },
+            { japanese: 'ひがし', translation: 'Восток' },
+            { japanese: 'いりぐち', translation: 'Вход' },
+            { japanese: 'でぐち', translation: 'Выход' },
+        ]
+    },
+    {
+        title: 'Spots around town',
+        words: [
+            { japanese: 'がっこう', translation: 'Школа' },
+            { japanese: 'ぎんこう', translation: 'Банк' },
+            { japanese: 'くうこう', translation: 'Аэропорт' },
+            { japanese: 'こうえん', translation: 'Парк' },
+            { japanese: 'スーパー', translation: 'Супермаркет' },
+            { japanese: 'だいがく', translation: 'Университет' },
+            { japanese: 'ちゅうしゃじょう', translation: 'Автостоянка' },
+            { japanese: 'ばすてい', translation: 'Автобусная астоновка' },
+            { japanese: 'びょういん', translation: 'Больница' }
+        ]
+    },
+    {
+        title: 'Technical',
+        words: [
+            { japanese: 'かいしゃ', translation: 'Корпорация' },
+            { japanese: 'でんわ', translation: 'Телефон' },
+            { japanese: 'パソコン', translation: 'Персональный компьютер' },
+            { japanese: 'けいたいでんわ', translation: 'Мобильный телефон' },
+            { japanese: 'ばんごう', translation: 'Номер' }
+        ]
+    },
+    {
+        title: 'Relations',
+        words: [
+            { japanese: 'おとうさん', translation: 'Папа' },
+            { japanese: 'おかあさん', translation: 'Мама' },
+            { japanese: 'おにいさん', translation: 'Старший брат' },
+            { japanese: 'おねえさん', translation: 'Старшая сестра' },
+            { japanese: 'おとうとさん', translation: 'Младший брат' },
+            { japanese: 'いもうとさん', translation: 'Младшая сестра' },
+            { japanese: 'むすこさん', translation: 'Сын' },
+            { japanese: 'むすめさん', translation: 'Дочь' },
+            { japanese: 'まご', translation: 'Внук' },
+            { japanese: 'だんなさん', translation: 'Муж' },
+            { japanese: 'おくさん', translation: 'Жена' },
+            { japanese: 'きょうだい', translation: 'Братья и сёстры' },
+            { japanese: 'そふ', translation: 'Дедушка' },
+            { japanese: 'そぼ', translation: 'Бабушка' }
         ]
     },
     {
@@ -349,164 +604,6 @@ export default [
         ]
     },
     {
-        title: 'Adjectives (い)',
-        words: [
-            { japanese: 'ながい', translation: 'Длинный' },
-            { japanese: 'たかい', translation: 'Высокий' },
-            { japanese: 'みじかい', translation: 'Короткий' },
-            { japanese: 'つよい', translation: 'Сильный' },
-            { japanese: 'よわい', translation: 'Слабый' },
-            { japanese: 'ちいさい', translation: 'Небольшой' },
-            { japanese: 'はやい', translation: 'Быстрый' },
-            { japanese: 'かわいい', translation: 'Милый' },
-            { japanese: 'わかい', translation: 'Молодой' },
-            { japanese: 'ふるい', translation: 'Старый' },
-            { japanese: 'つまらない', translation: 'Скучный' },
-            { japanese: 'おもい', translation: 'Тяжёлый' },
-            { japanese: 'ふつう', translation: 'Обычный' },
-            { japanese: 'あたらしい', translation: 'Новый' },
-            { japanese: 'まっすぐ', translation: 'Прямой' },
-            { japanese: 'おなじ', translation: 'Такой же' },
-            { japanese: 'すずしい', translation: 'Прохладый (о погоде)' },
-            { japanese: 'あたたかい', translation: 'Тёплый (о погоде)' },
-            { japanese: 'やすい', translation: 'Дешёвый' },
-            { japanese: 'たのしい', translation: 'Весёлый' },
-            { japanese: 'おいしい', translation: 'Вкусный' },
-            { japanese: 'つめたい', translation: 'Холодный (на ощупь)' },
-            { japanese: 'いそがしい', translation: 'Занят' },
-            { japanese: 'ちかい', translation: 'Близкий' },
-            { japanese: 'とおい', translation: 'Далёкий' },
-            { japanese: 'いたい', translation: 'Больно' },
-            { japanese: 'おもしろい', translation: 'Интересный / Забавный' },
-            { japanese: 'ただしい', translation: 'Правильный' },
-            { japanese: 'すっぱい', translation: 'Кислый' },
-            { japanese: 'にがい', translation: 'Горький' },
-            { japanese: 'せまい', translation: 'Узкий' },
-            { japanese: 'おそい', translation: 'Медленный, поздний' },
-            { japanese: 'くらい', translation: 'Тёмный' },
-            { japanese: 'きたない', translation: 'Грязный' },
-            { japanese: 'かるい', translation: 'Светлый' },
-            { japanese: 'からい', translation: 'Горячий, острый' },
-            { japanese: 'ひろい', translation: 'Широкий' },
-            { japanese: 'ひくい', translation: 'Низкий' },
-            { japanese: 'あかるい', translation: 'Яркий' },
-            { japanese: 'あぶない', translation: 'Опасный' },
-            { japanese: 'わるい', translation: 'Плохой' },
-            { japanese: 'ほそい', translation: 'Худой / Тонкий' },
-            { japanese: 'ほしい', translation: 'Хотеть' }
-        ]
-    },
-    {
-        title: 'Adjectives (な)',
-        words: [
-            { japanese: 'きれい (な)', translation: 'Красивый' },
-            { japanese: 'しずか (な)', translation: 'Спокойный' },
-            { japanese: 'とくべつ (な)', translation: 'Особенный' },
-            { japanese: 'かんたん (な)', translation: 'Простой' },
-            { japanese: 'べんり (な)', translation: 'Удобный' },
-            { japanese: 'すてき (な)', translation: 'Хороший, крутой, фантастический' },
-            { japanese: 'あんぜん (な)', translation: 'Безопасный' },
-            { japanese: 'だいじ (な)', translation: 'Важный' },
-            { japanese: 'だめ (な)', translation: 'Нехороший' },
-            { japanese: 'ふべん (な)', translation: 'Неудобный' },
-            { japanese: 'ふしんせつ (な)', translation: 'Недобрый' },
-            { japanese: 'げんき (な)', translation: 'Хороший' },
-            { japanese: 'へた (な)', translation: 'Неумелый' },
-            { japanese: 'ひま (な)', translation: 'Свободный (время)' },
-            { japanese: 'いろいろ (な)', translation: 'Различный' },
-            { japanese: 'じょうず (な)', translation: 'Умелый' },
-            { japanese: 'すき (な)', translation: 'Нравится' },
-            { japanese: 'きらい (な)', translation: 'Несимпатичный (не нравится)' },
-            { japanese: 'にぎやか (な)', translation: 'Живой' },
-            { japanese: 'しんせつ (な)', translation: 'Добрый' },
-            { japanese: 'しつれい (な)', translation: 'Грубый' },
-            { japanese: 'ゆうめい (な)', translation: 'Известный' },
-            { japanese: 'むり (な)', translation: 'Невозможный' },
-            { japanese: 'しょうじき (な)', translation: 'Честный' },
-            { japanese: 'しんせん (な)', translation: 'Свежий' }
-        ]
-    },
-    {
-        title: 'Nouns',
-        words: [
-            { japanese: 'めんきょ', translation: 'Лицензия, уроки' },
-            { japanese: 'うんてん', translation: 'Вождение' },
-            { japanese: 'うんてんしゅ', translation: 'Водитель' },
-            { japanese: 'しゃしん', translation: 'Фото' },
-            { japanese: 'やさしい', translation: 'Доброжелательность' },
-            { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
-            { japanese: 'おきゃくさん', translation: 'Посетитель, гость' },
-            { japanese: 'てんいん', translation: 'Работник, клерк' },
-            { japanese: 'たいざい', translation: 'Пребывание' },
-            { japanese: 'もくてき', translation: 'Цель' },
-            { japanese: 'きかん', translation: 'Продолжительность' },
-            { japanese: 'たいざいきかん', translation: 'Продолжительность пребывания' },
-            { japanese: 'たいざいもくてき', translation: 'Цель пребывания' },
-            { japanese: 'かんこう', translation: 'Осмотр достопримечательностей' },
-            { japanese: 'よてい', translation: 'План' },
-            { japanese: 'もの', translation: 'Вещь' },
-            { japanese: 'うち', translation: 'Дом / моя семья / моя' },
-            { japanese: 'うそつき', translation: 'Лжец' },
-            { japanese: 'おさけ', translation: 'Алкоголь' },
-            { japanese: 'りょうり', translation: 'Еда' },
-            { japanese: 'まち', translation: 'Город' },
-            { japanese: 'くに', translation: 'Страна' },
-            { japanese: 'まくら', translation: 'Подушка' },
-            { japanese: 'かばん', translation: 'Сумка' },
-            { japanese: 'てんき', translation: 'Погода' },
-            { japanese: 'いい / よくない', translation: 'Хороший / Нехороший' },
-            { japanese: 'ほんとう', translation: 'Правда' },
-            { japanese: 'うそ', translation: 'Ложь' },
-            { japanese: 'しんぶん', translation: 'Газета' },
-            { japanese: 'どうぶつえん', translation: 'Зоопарк' },
-            { japanese: 'どうぶつ', translation: 'Животное' },
-            { japanese: 'おんがく', translation: 'Музыка' },
-            { japanese: 'へや', translation: 'Комната' },
-            { japanese: 'いす', translation: 'Стул' },
-            { japanese: 'ひこうき', translation: 'Рейс' },
-            { japanese: 'おみやげ', translation: 'Сувенир' },
-            { japanese: 'おと', translation: 'Звук' },
-            { japanese: 'しゃこ', translation: 'Гараж' },
-            { japanese: 'ちかてつ', translation: 'Метро' },
-            { japanese: 'さいしゅう', translation: 'Последний' },
-            { japanese: 'しゅうでん', translation: 'Последний поезд' },
-            { japanese: 'ふくしゅう', translation: 'Месть' },
-            { japanese: 'まちがい', translation: 'Ошибка' },
-            { japanese: 'ぐうぜん', translation: 'Совпадение' },
-            { japanese: 'じっか', translation: 'Родительский дом' },
-            { japanese: 'きず', translation: 'Царапина' },
-            { japanese: 'ようじ', translation: 'Задачи' },
-            { japanese: 'ざっし', translation: 'Журнал' },
-            { japanese: 'おみせ', translation: 'Магазин' },
-            { japanese: 'ちゅうもん', translation: 'Заказ' },
-            { japanese: 'しゅっぱつ', translation: 'Выезд' },
-            { japanese: 'とうちゃく', translation: 'Приезд' },
-            { japanese: 'にもつ', translation: 'Багаж' },
-            { japanese: 'ちず', translation: 'Карта' },
-            { japanese: 'てら', translation: 'Храм' },
-            { japanese: 'ところ', translation: 'Место' },
-            { japanese: 'きょうみ', translation: 'Интерес' },
-            { japanese: 'におい', translation: 'Запах' },
-            { japanese: 'しあわせ', translation: 'Счастье' },
-            { japanese: 'つくえ', translation: 'Парта' },
-            { japanese: 'いろ', translation: 'Цвет' },
-            { japanese: 'てがみ', translation: 'Письмо' },
-            { japanese: 'かんがえ', translation: 'Мысль' },
-            { japanese: 'ゆかた', translation: 'Кимоно (летнее)' },
-            { japanese: 'かしゅ', translation: 'Певец' },
-            { japanese: 'おまつり', translation: 'Фестиваль' },
-            { japanese: 'じんせい', translation: 'Жизнь' },
-            { japanese: 'みずうみ', translation: 'Озеро' },
-            { japanese: 'ゆめ', translation: 'Сон' },
-            { japanese: 'じゅうしょ', translation: 'Адрес' },
-            { japanese: 'かわ', translation: 'Река, кожа' },
-            { japanese: 'おかわり', translation: 'Добавка' },
-            { japanese: 'かいだん', translation: 'Ступеньки' },
-            { japanese: 'きぼう', translation: 'Надежда' },
-            { japanese: 'れつ', translation: 'Очередь' }
-        ]
-    },
-    {
         title: 'Professions',
         words: [
             { japanese: 'けいさつかん', translation: 'Офицер полиции' }
@@ -678,103 +775,6 @@ export default [
             { japanese: 'おかし', translation: 'Конфета' },
             { japanese: 'やさい', translation: 'Овощи' },
             { japanese: 'さしみ', translation: 'Порезанная рыба' }
-        ]
-    },
-    {
-        title: 'Sentences',
-        words: [
-            {
-                japanese: 'わたしはよくえいがをみます。',
-                translation: 'Я часто смотрю фильмы'
-            },
-            {
-                japanese: 'わたしはあまりえいがをみません。',
-                translation: 'Я не так много смотрю фильмы'
-            },
-            {
-                japanese: 'わたしわぜんぜんえいがをみません。',
-                translation: 'Я вообще не смотрю фильмы'
-            },
-            {
-                japanese: 'よくコーヒーにいきますか。',
-                translation: 'Часто водишь в кафе?'
-            },
-            {
-                japanese: 'きょうのよる（こんや）ひまですか。',
-                translation: 'Свободен сегодня вечером?'
-            },
-            {
-                japanese: 'ときょうでデートーをします。',
-                translation: 'Будет свидание в Токио'
-            },
-            {
-                japanese: 'わたしはかれしとカラオケをします',
-                translation: 'Я пойду петь караоке с парнем'
-            },
-            {
-                japanese: 'わたしはしろいのくるまがほしいです。',
-                translation: 'Я хочу белую машину'
-            },
-            {
-                japanese: 'わたしはラーメンがたべたいです。',
-                translation: 'Я хочу поесть рамен'
-            },
-            {
-                japanese: 'わたしはみずがのみたいです。',
-                translation: 'Я хочу попить воды'
-            },
-            {
-                japanese: 'えきのまえにほんやがあります',
-                translation: 'Перед станцией находится книжный магазин'
-            },
-            {
-                japanese: 'かいしゃのとなりにレストランがあります。',
-                translation: 'По соседству с офисом находится ресторан'
-            },
-            {
-                japanese: 'とけいのうしろにともだちがいます。',
-                translation: 'За часами находится мой друг'
-            },
-            {
-                japanese: 'いすのうえにねこがいます。',
-                translation: 'На стуле находится кошка'
-            },
-            {
-                japanese: 'しこくはひろしまのみなみにあります。',
-                translation: 'Щикоку находится на юге от Хиросимы'
-            },
-            {
-                japanese: 'わたしはうちでわあさごはんをたべませんが、しごとでわまいにちあさごはんをたべます。',
-                translation: 'Я дома не ем завтрак, но на работе ем его каждый день'
-            },
-            {
-                japanese: 'らいねんわたしはフランスえはいきませんが、にほんえはいきます。',
-                translation: 'В следующем году я не поеду во францию, но поеду в Японию'
-            },
-            {
-                japanese: 'どよびにはかいしゃえいきます。でも、にちよびにはかいしゃえいきません。',
-                translation: 'Я хожу на работу по субботам, но я не хожу на работу по воскресеньям'
-            },
-            {
-                japanese: 'わたしはみなみさんとえいがえいきます。でも、しゅうさんとはいきません。',
-                translation: 'Я пойду в кино с Минами сан, но с Щю сан не пойду'
-            },
-            {
-                japanese: 'このゆかたはデザインがかわいいです。',
-                translation: 'Дизайн этого кимоно милый'
-            },
-            {
-                japanese: 'ハワイはうみがきれいです。',
-                translation: 'На Гавайях океан очень красивое'
-            },
-            {
-                japanese: 'そのかばんのなかになにがありますか。',
-                translation: 'Что находится внутри этой сумки?'
-            },
-            {
-                japanese: 'すみません、ぱんのおかわりおねがいします。',
-                translation: 'Прошу прощения, дайте, пожалуйста, добавку хлеба'
-            }
         ]
     }
 ];
