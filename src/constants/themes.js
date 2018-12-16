@@ -80,7 +80,8 @@ export default [
             { japanese: 'しにます', translation: 'Умереть' },
             { japanese: 'きえます', translation: 'Исчезнуть' },
             { japanese: 'うちます', translation: 'Бить, ударить' },
-            { japanese: 'まけます', translation: 'Проиграть' }
+            { japanese: 'まけます', translation: 'Проиграть' },
+            { japanese: 'こわれます', translation: 'Сломать' }
         ]
     },
     {
@@ -238,7 +239,35 @@ export default [
             { japanese: 'おかわり', translation: 'Добавка' },
             { japanese: 'かいだん', translation: 'Ступеньки' },
             { japanese: 'きぼう', translation: 'Надежда' },
-            { japanese: 'れつ', translation: 'Очередь' }
+            { japanese: 'れつ', translation: 'Очередь' },
+            { japanese: 'さいこう', translation: 'Лучший' },
+            { japanese: 'さいてい', translation: 'Худший' },
+            { japanese: 'うわさ', translation: 'Слухи' }
+        ]
+    },
+    {
+        title: 'Adverbs',
+        words: [
+            { japanese: 'ちょっと', translation: 'Немного' },
+            { japanese: 'うれしい', translation: 'Рад' },
+            { japanese: 'また', translation: 'Также' },
+            { japanese: 'ちょうど', translation: 'Точно' },
+            { japanese: 'たぶん', translation: 'Вероятно, возможно' },
+            { japanese: 'だけ', translation: 'Только' },
+            { japanese: 'もちろん', translation: 'Конечно' },
+            { japanese: 'やさしく', translation: 'Осторожно' },
+            { japanese: 'あまり', translation: 'Не так много / Чуть-чуть' },
+            { japanese: 'ぜんぜん', translation: 'Вовсе нет' },
+            { japanese: 'ぐらい', translation: 'Примерно' },
+            { japanese: 'あとで', translation: 'Позже / Потом' },
+            { japanese: 'むりょう', translation: 'Бесплатно' },
+            { japanese: 'だって', translation: 'Потому что' },
+            { japanese: 'まだ', translation: 'Всё ещё (still)' },
+            { japanese: 'たとえば', translation: 'Например' },
+            { japanese: 'たくさん', translation: 'Много' },
+            { japanese: 'ちょう', translation: 'Супер' },
+            { japanese: 'ぜったいに', translation: 'Определённо / безоговорочно' },
+            { japanese: 'おかしい', translation: 'Странно' }
         ]
     },
     {
@@ -333,8 +362,20 @@ export default [
                 translation: 'Что находится внутри этой сумки?'
             },
             {
-                japanese: 'すみません、ぱんのおかわりおねがいします。',
-                translation: 'Прошу прощения, дайте, пожалуйста, добавку хлеба'
+                japanese: 'パンのお代わり いかがですか。',
+                translation: 'Не хотите хлеба добавки?'
+            },
+            {
+                japanese: 'すみません、パンのおかわりおねがいします。',
+                translation: 'Прошу прощения, дайте, пожалуйста, хлеба добавки'
+            },
+            {
+                japanese: 'このパンは、おいしくて ゆうめいです.',
+                translation: 'Этот хлеб вкусный, за что известный'
+            },
+            {
+                japanese: 'このかいだんはながくてゆうめいです。',
+                translation: 'Эта лестница длинная, за что известная.'
             }
         ]
     },
@@ -610,32 +651,6 @@ export default [
         ]
     },
     {
-        title: 'Adverbs',
-        words: [
-            { japanese: 'ちょっと', translation: 'Немного' },
-            { japanese: 'うれしい', translation: 'Рад' },
-            { japanese: 'また', translation: 'Также' },
-            { japanese: 'ちょうど', translation: 'Точно' },
-            { japanese: 'たぶん', translation: 'Вероятно, возможно' },
-            { japanese: 'だけ', translation: 'Только' },
-            { japanese: 'もちろん', translation: 'Конечно' },
-            { japanese: 'やさしく', translation: 'Осторожно' },
-            { japanese: 'あまり', translation: 'Не так много / Чуть-чуть' },
-            { japanese: 'ぜんぜん', translation: 'Вовсе нет' },
-            { japanese: 'ぐらい', translation: 'Примерно' },
-            { japanese: 'あとで', translation: 'Позже / Потом' },
-            { japanese: 'むりょう', translation: 'Бесплатно' },
-            { japanese: 'だって', translation: 'Потому что' },
-            { japanese: 'まだ', translation: 'Всё ещё (still)' },
-            { japanese: 'たとえば', translation: 'Например' },
-            { japanese: 'たくさん', translation: 'Много' },
-            { japanese: 'ちょう', translation: 'Супер' },
-            { japanese: 'さいこう', translation: 'Лучший' },
-            { japanese: 'さいてい', translation: 'Худший' },
-            { japanese: 'ぜったいに', translation: 'Определённо / безоговорочно' },
-        ]
-    },
-    {
         title: 'Body parts',
         words: [
             { japanese: 'あたま', translation: 'Голова' },
@@ -775,6 +790,32 @@ export default [
             { japanese: 'おかし', translation: 'Конфета' },
             { japanese: 'やさい', translation: 'Овощи' },
             { japanese: 'さしみ', translation: 'Порезанная рыба' }
+        ]
+    },
+    {
+        title: 'Class 1 verbs. When ます is preceded by -i',
+        words: [
+            { japanese: 'あいます', translation: 'あう' },
+            { japanese: 'いきます', translation: 'いく' },
+            { japanese: 'はなします', translation: 'はなす' },
+            { japanese: 'のみます', translation: 'のむ' },
+            { japanese: 'まちます', translation: 'まつ' },
+            { japanese: 'あります', translation: 'ある' }
+        ]
+    },
+    {
+        title: 'Class 2 verbs. When ます is preceded by -e or a one syllable sound',
+        words: [
+            { japanese: 'たべます', translation: 'たべる' },
+            { japanese: 'みます', translation: 'みる' },
+            { japanese: 'ねます', translation: 'ねる' }
+        ]
+    },
+    {
+        title: 'Class 3 verbs.',
+        words: [
+            { japanese: 'します', translation: 'する' },
+            { japanese: 'きます', translation: 'くる' }
         ]
     }
 ];
