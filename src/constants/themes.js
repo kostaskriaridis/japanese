@@ -57,6 +57,7 @@ export default [
             { japanese: 'とうちゃくします', translation: 'Приезжать' },
             { japanese: 'つかれます', translation: 'Уставать' },
             { japanese: 'えらびます', translation: 'Выбирать' },
+            { japanese: 'きめます', translation: 'Решить (decide)' },
             { japanese: 'とまります', translation: 'Оставаться в' },
             { japanese: 'およぎます', translation: 'Плавать' },
             { japanese: 'のぼります', translation: 'Подниматься / Забираться' },
@@ -81,7 +82,9 @@ export default [
             { japanese: 'きえます', translation: 'Исчезнуть' },
             { japanese: 'うちます', translation: 'Бить, ударить' },
             { japanese: 'まけます', translation: 'Проиграть' },
-            { japanese: 'こわれます', translation: 'Сломать' }
+            { japanese: 'こわれます', translation: 'Сломать' },
+            { japanese: 'やきます', translation: 'Печь' },
+            { japanese: 'さがします', translation: 'Искать' }
         ]
     },
     {
@@ -129,7 +132,8 @@ export default [
             { japanese: 'あぶない', translation: 'Опасный' },
             { japanese: 'わるい', translation: 'Плохой' },
             { japanese: 'ほそい', translation: 'Худой / Тонкий' },
-            { japanese: 'ほしい', translation: 'Хотеть' }
+            { japanese: 'ほしい', translation: 'Хотеть' },
+            { japanese: 'いっぱい', translation: 'Полный' }
         ]
     },
     {
@@ -173,6 +177,7 @@ export default [
             { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
             { japanese: 'おきゃくさん', translation: 'Посетитель, гость' },
             { japanese: 'てんいん', translation: 'Работник, клерк' },
+            { japanese: 'りょこう', translation: 'Поездка' },
             { japanese: 'たいざい', translation: 'Пребывание' },
             { japanese: 'もくてき', translation: 'Цель' },
             { japanese: 'きかん', translation: 'Продолжительность' },
@@ -220,7 +225,8 @@ export default [
             { japanese: 'にもつ', translation: 'Багаж' },
             { japanese: 'ちず', translation: 'Карта' },
             { japanese: 'てら', translation: 'Храм' },
-            { japanese: 'ところ', translation: 'Место' },
+            { japanese: 'ところ', translation: 'Место (formal)' },
+            { japanese: 'ばしょ', translation: 'Место (casual)' },
             { japanese: 'きょうみ', translation: 'Интерес' },
             { japanese: 'におい', translation: 'Запах' },
             { japanese: 'しあわせ', translation: 'Счастье' },
@@ -242,7 +248,15 @@ export default [
             { japanese: 'れつ', translation: 'Очередь' },
             { japanese: 'さいこう', translation: 'Лучший' },
             { japanese: 'さいてい', translation: 'Худший' },
-            { japanese: 'うわさ', translation: 'Слухи' }
+            { japanese: 'うわさ', translation: 'Слухи' },
+            { japanese: 'こじん', translation: 'Личный' },
+            { japanese: 'たな', translation: 'Полка' },
+            { japanese: 'かいもの', translation: 'Покупки' },
+            { japanese: 'しあい', translation: 'Матч / Игра' },
+            { japanese: 'しつもん', translation: 'Вопросы' },
+            { japanese: 'ふく', translation: 'Одежда' },
+            { japanese: 'あかちゃん', translation: 'Грудничковый ребёнок' },
+            { japanese: 'おいわい', translation: 'Поздравление' }
         ]
     },
     {
@@ -258,8 +272,10 @@ export default [
             { japanese: 'やさしく', translation: 'Осторожно' },
             { japanese: 'あまり', translation: 'Не так много / Чуть-чуть' },
             { japanese: 'ぜんぜん', translation: 'Вовсе нет' },
-            { japanese: 'ぐらい', translation: 'Примерно' },
+            { japanese: 'ぐらい', translation: 'Примерно (после подсчёта)' },
+            { japanese: 'だいたい', translation: 'Примерно (перед подсчётом)' },
             { japanese: 'あとで', translation: 'Позже / Потом' },
+            { japanese: 'そして', translation: 'Потом' },
             { japanese: 'むりょう', translation: 'Бесплатно' },
             { japanese: 'だって', translation: 'Потому что' },
             { japanese: 'まだ', translation: 'Всё ещё (still)' },
@@ -267,7 +283,7 @@ export default [
             { japanese: 'たくさん', translation: 'Много' },
             { japanese: 'ちょう', translation: 'Супер' },
             { japanese: 'ぜったいに', translation: 'Определённо / безоговорочно' },
-            { japanese: 'おかしい', translation: 'Странно' }
+            { japanese: 'おかしい', translation: 'Странно' },
         ]
     },
     {
@@ -375,7 +391,11 @@ export default [
             },
             {
                 japanese: 'このかいだんはながくてゆうめいです。',
-                translation: 'Эта лестница длинная, за что известная.'
+                translation: 'Эта лестница длинная, за что известная'
+            },
+            {
+                japanese: 'またあえてよかったです。',
+                translation: 'Хорошо, что я увидел вас снова'
             }
         ]
     },
@@ -385,7 +405,7 @@ export default [
             { japanese: 'どんな', translation: 'Какие? Какого типа?' },
             { japanese: 'どちら', translation: 'Который?' },
             { japanese: 'どこの', translation: 'Откуда?' },
-            { japanese: 'どうして', translation: 'Почему?' },
+            { japanese: 'どうして', translation: 'Почему? Как?' },
             { japanese: 'だれの', translation: 'Чьё?' }
             /*
             { japanese: 'どっち', translation: 'Где?' },
@@ -451,6 +471,7 @@ export default [
             { japanese: 'まご', translation: 'Внук' },
             { japanese: 'だんなさん', translation: 'Муж' },
             { japanese: 'おくさん', translation: 'Жена' },
+            { japanese: 'つま', translation: 'Моя жена' },
             { japanese: 'きょうだい', translation: 'Братья и сёстры' },
             { japanese: 'そふ', translation: 'Дедушка' },
             { japanese: 'そぼ', translation: 'Бабушка' }
@@ -459,12 +480,12 @@ export default [
     {
         title: 'Present, Progressive, Past',
         words: [
-            { japanese: 'たべます', translation: 'To eat' }, // ['たべる', 'たべます']
-            { japanese: 'たべません', translation: 'I don\'t eat' }, // ['たべない', 'たべません']
-            { japanese: 'たべています', translation: 'I\'m eating' }, // ['たべている', 'たべています'],
-            { japanese: 'たべていません', translation: 'I\'m not eating' }, // ['たべていない', 'たべていません']
-            { japanese: 'たべました', translation: 'I ate' }, // ['たべた', 'たべました']
-            { japanese: 'たべませんでした', translation: 'I didn\'t eat' } // ['たべなかった', 'たべませんでした']
+            { japanese: 'たべます', translation: 'To eat' }, // たべる
+            { japanese: 'たべません', translation: 'I don\'t eat' }, // たべない
+            { japanese: 'たべています', translation: 'I\'m eating' }, // たべている
+            { japanese: 'たべていません', translation: 'I\'m not eating' }, // たべていない
+            { japanese: 'たべました', translation: 'I ate' }, // たべた
+            { japanese: 'たべませんでした', translation: 'I didn\'t eat' } // たべなかった
         ]
     },
     {
@@ -534,6 +555,7 @@ export default [
             { japanese: 'らいげつ', translation: 'В следующем месяце' },
             { japanese: 'らいしゅう', translation: 'На следующей неделе' },
             { japanese: 'あした', translation: 'Завтра' },
+            { japanese: 'あさって', translation: 'Послезавтра' },
             { japanese: 'きのう', translation: 'Вчера' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
             { japanese: 'そのあと', translation: 'После этого' },
@@ -569,6 +591,7 @@ export default [
             { japanese: 'ようか', translation: '8 число' },
             { japanese: 'ここのか', translation: '9 число' },
             { japanese: 'とおか', translation: '10 число' },
+            { japanese: 'はつか', translation: '20 число' }
             /*
             { japanese: 'じゅういちにち', translation: '11 число' },
             { japanese: 'じゅうににち', translation: '12 число' },
@@ -761,7 +784,8 @@ export default [
             { japanese: 'おあがりください', translation: 'Пожалуйста, поднимайтесь' },
             { japanese: 'おはいりください', translation: 'Пожалуйста, проходите' },
             { japanese: 'おかげさまで', translation: 'Благодарен вам' },
-            { japanese: 'いかが / どう', translation: 'Как насчёт?' }
+            { japanese: 'いかが / どう', translation: 'Как насчёт?' },
+            { japanese: 'こちらこそ', translation: 'То же самое и я' }
         ]
     },
     {
