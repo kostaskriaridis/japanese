@@ -591,7 +591,6 @@ export default [
             { japanese: 'ようか', translation: '8 число' },
             { japanese: 'ここのか', translation: '9 число' },
             { japanese: 'とおか', translation: '10 число' },
-            { japanese: 'はつか', translation: '20 число' }
             /*
             { japanese: 'じゅういちにち', translation: '11 число' },
             { japanese: 'じゅうににち', translation: '12 число' },
@@ -602,7 +601,9 @@ export default [
             { japanese: 'じゅうななにち', translation: '17 число' },
             { japanese: 'じゅうはちにち', translation: '18 число' },
             { japanese: 'じゅうくにち', translation: '19 число' },
+            */
             { japanese: 'はつか', translation: '20 число' },
+            /*
             { japanese: 'にじゅういちにち', translation: '21 число' },
             { japanese: 'にじゅうににち', translation: '22 число' },
             { japanese: 'にじゅうさんにち', translation: '23 число' },
