@@ -58,7 +58,7 @@ export default [
         youtube: 'https://www.youtube.com/watch?v=fqyH5rHe6kE'
     },
     {
-        title: 'Hikaru No Go. Shela — Days',
+        title: 'Hikaru No Go. Shela Days',
         body: [
             [
                 '明日あした を 夢見ゆめみ て',
@@ -112,7 +112,7 @@ export default [
         youtube: 'https://www.youtube.com/watch?v=n5eoJyrPjWQ'
     },
     {
-        title: 'NHK ni Youkoso! - Puzzle',
+        title: 'NHK ni Youkoso! Puzzle',
         body: [
             [
                 '少し見上げた空',

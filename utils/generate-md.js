@@ -6,23 +6,58 @@ const fs = require('fs');
 
 class MD {
     constructor() {
-        this.themes = require('../src/constants/themes').default;
         this.counter = 0;
 
         this.renderReadme();
+        this.renderSongs();
+    }
+
+    renderSongs() {
+        const songs = require('../src/constants/songs').default;
+        const songsPath = './songs';
+
+        if (!fs.existsSync(songsPath)) {
+            fs.mkdirSync(songsPath);
+        }
+
+        songs.forEach(song => {
+            const fileName = song.title.toLowerCase().split(' ').join('-');
+
+            fs.writeFileSync(`${songsPath}/${fileName}.md`, this.renderSong(song), 'utf-8');
+        });
+    }
+
+    renderSong(song) {
+        const { title, body, youtube } = song;
+
+        return [
+            `#### [${title}](${youtube})`,
+            this.renderSongText(body)
+        ].join('\n');
+    }
+
+    renderSongText(body) {
+        return body
+            .map(paragraph =>
+                paragraph.join('\n')
+            )
+            .join('\n\n');
     }
 
     renderReadme() {
+        const themes = this.renderThemes();
         const content = [
             `# Table of japanese words to learn: ${this.counter}`,
-            this.renderThemes()
+            themes
         ].join('\n');
 
         fs.writeFileSync('README.md', content, 'utf-8');
     }
 
     renderThemes() {
-        return this.themes
+        const themes = require('../src/constants/themes').default;
+
+        return themes
             .map(this.renderTheme, this)
             .join('\n');
     }

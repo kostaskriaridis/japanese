@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 0
+# Table of japanese words to learn: 514
 #### Verbs
 | Japanese | Translation |
 | ------ | ------ |
