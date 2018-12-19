@@ -9,16 +9,16 @@ class MD {
         this.themes = require('../src/constants/themes').default;
         this.counter = 0;
 
-        fs.writeFileSync('README.md', this.renderMd(), 'utf-8');
+        this.renderReadme();
     }
 
-    renderMd() {
-        const themes = this.renderThemes();
-
-        return [
+    renderReadme() {
+        const content = [
             `# Table of japanese words to learn: ${this.counter}`,
-            themes
+            this.renderThemes()
         ].join('\n');
+
+        fs.writeFileSync('README.md', content, 'utf-8');
     }
 
     renderThemes() {

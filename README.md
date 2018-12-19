@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 513
+# Table of japanese words to learn: 0
 #### Verbs
 | Japanese | Translation |
 | ------ | ------ |
@@ -85,6 +85,7 @@
 | `こわれます` | Сломать |
 | `やきます` | Печь |
 | `さがします` | Искать |
+| `かわります` | Менять |
 #### Nouns
 | Japanese | Translation |
 | ------ | ------ |
