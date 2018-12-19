@@ -85,7 +85,8 @@ export default [
             { japanese: 'こわれます', translation: 'Сломать' },
             { japanese: 'やきます', translation: 'Печь' },
             { japanese: 'さがします', translation: 'Искать' },
-            { japanese: 'かわります', translation: 'Менять' }
+            { japanese: 'かわります', translation: 'Менять' },
+            { japanese: 'いのります', translation: 'Молиться, желать' }
         ]
     },
     {
