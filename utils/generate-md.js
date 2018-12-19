@@ -33,15 +33,15 @@ class MD {
         return [
             `#### [${title}](${youtube})`,
             this.renderSongText(body)
-        ].join('\\');
+        ].join('  \n');
     }
 
     renderSongText(body) {
         return body
             .map(paragraph =>
-                paragraph.join('\\')
+                paragraph.join('  \n')
             )
-            .join('\\\\');
+            .join('  \n\n');
     }
 
     renderReadme() {
