@@ -229,7 +229,8 @@ export default [
             { japanese: 'わるい', translation: 'Плохой' },
             { japanese: 'ほそい', translation: 'Худой / Тонкий' },
             { japanese: 'ほしい', translation: 'Хотеть' },
-            { japanese: 'いっぱい', translation: 'Полный' }
+            { japanese: 'いっぱい', translation: 'Полный' },
+            { japanese: 'こわい', translation: 'Страшный' }
         ]
     },
     {
@@ -259,7 +260,8 @@ export default [
             { japanese: 'ゆうめい (な)', translation: 'Известный' },
             { japanese: 'むり (な)', translation: 'Невозможный' },
             { japanese: 'しょうじき (な)', translation: 'Честный' },
-            { japanese: 'しんせん (な)', translation: 'Свежий' }
+            { japanese: 'しんせん (な)', translation: 'Свежий' },
+            { japanese: 'しんけん (な)', translation: 'Серьёзный' }
         ]
     },
     {
@@ -268,6 +270,7 @@ export default [
             { japanese: 'ちょっと', translation: 'Немного' },
             { japanese: 'うれしい', translation: 'Рад' },
             { japanese: 'また', translation: 'Также' },
+            { japanese: 'こんなふうに', translation: 'Также (like this)' },
             { japanese: 'ちょうど', translation: 'Точно' },
             { japanese: 'たぶん', translation: 'Вероятно, возможно' },
             { japanese: 'だけ', translation: 'Только' },
