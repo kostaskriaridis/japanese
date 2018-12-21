@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 515
+# Table of japanese words to learn: 516
 #### Verbs
 | Japanese | Translation |
 | ------ | ------ |
@@ -178,6 +178,7 @@
 | `ふく` | Одежда |
 | `あかちゃん` | Грудничковый ребёнок |
 | `おいわい` | Поздравление |
+| `じょうだん` | Шутка |
 #### Adjectives (い)
 | Japanese | Translation |
 | ------ | ------ |

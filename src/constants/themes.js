@@ -179,7 +179,8 @@ export default [
             { japanese: 'しつもん', translation: 'Вопросы' },
             { japanese: 'ふく', translation: 'Одежда' },
             { japanese: 'あかちゃん', translation: 'Грудничковый ребёнок' },
-            { japanese: 'おいわい', translation: 'Поздравление' }
+            { japanese: 'おいわい', translation: 'Поздравление' },
+            { japanese: 'じょうだん', translation: 'Шутка' }
         ]
     },
     {
