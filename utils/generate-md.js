@@ -63,8 +63,10 @@ class MD {
     }
 
     renderTheme(theme) {
+        this.counter += theme.words.length;
+
         return [
-            `#### ${theme.title}`,
+            `#### ${theme.title} (${theme.words.length})`,
             '| Japanese | Translation |',
             '| ------ | ------ |',
             ...this.renderWords(theme.words)
@@ -72,8 +74,6 @@ class MD {
     }
 
     renderWords(words) {
-        this.counter += words.length;
-
         return words.map(this.renderWord, this);
     }
 
