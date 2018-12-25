@@ -63,22 +63,22 @@ class MD {
     }
 
     renderTheme(theme) {
-        this.counter += theme.words.length;
+        const { title, words } = theme;
+
+        this.counter += words.length;
 
         return [
-            `#### ${theme.title} (${theme.words.length})`,
+            `#### ${title} (${words.length})`,
             '| Japanese | Translation |',
             '| ------ | ------ |',
-            ...this.renderWords(theme.words)
+            ...this.renderWords(words)
         ].join('\n');
     }
 
     renderWords(words) {
-        return words.map(this.renderWord, this);
-    }
-
-    renderWord(word) {
-        return `| \`${word.japanese}\` | ${word.translation} |`;
+        return words.map(word => {
+            return `| \`${word.japanese}\` | ${word.translation} |`;
+        });
     }
 }
 
