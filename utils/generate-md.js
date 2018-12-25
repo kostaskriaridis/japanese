@@ -21,7 +21,7 @@ class MD {
         }
 
         songs.forEach(song => {
-            const fileName = song.title.toLowerCase().split(' ').join('-');
+            const fileName = song.title.toLowerCase().replace(/[^a-z0-9]/gi, '-');
 
             fs.writeFileSync(`${songsPath}/${fileName}.md`, this.renderSong(song), 'utf-8');
         });
