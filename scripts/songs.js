@@ -1,7 +1,7 @@
 const fs = require('fs');
 
 /**
- * Rendering songs in .md format
+ * Rendering songs in `.md` format
  * @param {Array} themes
  */
 export function renderSongs(songs) {
@@ -18,19 +18,28 @@ export function renderSongs(songs) {
     });
 }
 
-function renderSong(song) {
-    const { title, body, youtube } = song;
-
+/**
+ * Rendering song
+ * @param {Object} song
+ * @param {string} song.title
+ * @param {Array} song
+ * @param {string} youtube
+ * @returns {string}
+ */
+function renderSong({ title, body, youtube }) {
     return [
         `#### [${title}](${youtube})`,
         renderSongText(body)
     ].join('  \n');
 }
 
+/**
+ * Rendering song text
+ * @param {Array} body
+ * @returns {string}
+ */
 function renderSongText(body) {
     return body
-        .map(paragraph =>
-            paragraph.join('  \n')
-        )
+        .map(paragraph => paragraph.join('  \n'))
         .join('  \n\n');
 }

@@ -1,15 +1,13 @@
 const fs = require('fs');
-let counter = 0;
 
 /**
- * Rendering README.md
+ * Rendering `README.md`
  * @param {Array} themes
  */
 export function renderReadme(themes) {
-    themes = renderThemes(themes);
     const content = [
-        `# Table of japanese words to learn: ${counter}`,
-        themes
+        `# Table of japanese words to learn: ${getWordsCount(themes)}`,
+        renderThemes(themes)
     ].join('\n');
 
     fs.writeFileSync('README.md', content, 'utf-8');
@@ -29,13 +27,11 @@ function renderThemes(themes) {
 /**
  * Rendering theme
  * @param {Object} theme
+ * @param {string} theme.title
+ * @param {Array} theme.words
  * @returns {string} theme markdown string
  */
-function renderTheme(theme) {
-    const { title, words } = theme;
-
-    counter += words.length;
-
+function renderTheme({ title, words }) {
     return [
         `#### ${title} (${words.length})`,
         '| Japanese | Translation |',
@@ -50,7 +46,19 @@ function renderTheme(theme) {
  * @returns {string} words markdown string
  */
 function renderWords(words) {
-    return words.map(word => {
-        return `| \`${word.japanese}\` | ${word.translation} |`;
+    return words.map(({ japanese, translation }) => {
+        return `| \`${japanese}\` | ${translation} |`;
     });
+}
+
+/**
+ * Get words total count
+ * @param {Array} themes
+ * @returns {number}
+ */
+function getWordsCount(themes) {
+    return themes.reduce((sum, theme) => {
+        sum += theme.words.length;
+        return sum;
+    }, 0);
 }
