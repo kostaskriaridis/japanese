@@ -20,6 +20,7 @@ export default [
             { japanese: 'もうします', translation: 'Называйте меня' },
             { japanese: 'よみます', translation: 'Читать' },
             { japanese: 'かいます', translation: 'Покупать' },
+            { japanese: 'はらえます', translation: 'Платить' },
             { japanese: 'かきます', translation: 'Писать' },
             { japanese: 'つけます', translation: 'Включить' },
             { japanese: 'けします', translation: 'Выключать' },
@@ -89,7 +90,8 @@ export default [
             { japanese: 'いのります', translation: 'Молиться, желать' },
             { japanese: 'ちかいます', translation: 'Клясться' },
             { japanese: 'とどきます', translation: 'Достичь' },
-            { japanese: 'おどろきます', translation: 'Удивлять' }
+            { japanese: 'おどろきます', translation: 'Удивлять' },
+            { japanese: 'あたためます', translation: 'Согреть' }
         ]
     },
     {
@@ -186,7 +188,8 @@ export default [
             { japanese: 'みらい', translation: 'Будущее' },
             { japanese: 'じょうだん', translation: 'Шутка' },
             { japanese: 'はんぶん', translation: 'Половина' },
-            { japanese: 'にんき', translation: 'Популярность' }
+            { japanese: 'にんき', translation: 'Популярность' },
+            { japanese: 'しんこう', translation: 'Вера / доверие' }
         ]
     },
     {
