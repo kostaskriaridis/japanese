@@ -2,8 +2,9 @@ export default [
     {
         title: 'Verbs',
         words: [
-            { japanese: 'はなします', translation: 'Говорить' },
+            { japanese: 'はなします', translation: 'Говорить', kanji: '話します' },
             { japanese: 'のみます', translation: 'Пить' },
+            { japanese: 'みます', translation: 'Смотреть', kanji: '見ます' },
             { japanese: 'つかいます', translation: 'Использовать' },
             { japanese: 'とります', translation: 'Фотографировать' },
             { japanese: 'あいます', translation: 'Встретить' },
@@ -24,7 +25,7 @@ export default [
             { japanese: 'かきます', translation: 'Писать' },
             { japanese: 'つけます', translation: 'Включить' },
             { japanese: 'けします', translation: 'Выключать' },
-            { japanese: 'ききます', translation: 'Слушать' },
+            { japanese: 'ききます', translation: 'Слушать', kanji: '聞きます' },
             { japanese: 'まがります', translation: 'Поворачивать' },
             { japanese: 'もらいます', translation: 'Принимать' },
             { japanese: 'おくります', translation: 'Отправлять' },
@@ -189,7 +190,9 @@ export default [
             { japanese: 'じょうだん', translation: 'Шутка' },
             { japanese: 'はんぶん', translation: 'Половина' },
             { japanese: 'にんき', translation: 'Популярность' },
-            { japanese: 'しんこう', translation: 'Вера / доверие' }
+            { japanese: 'しんこう', translation: 'Вера / доверие' },
+            { japanese: 'ひかり', translation: 'Свет', kanji: '光' },
+            { japanese: 'もと', translation: 'Происхождение / фундамент', kanji: '元' }
         ]
     },
     {
@@ -204,13 +207,13 @@ export default [
             { japanese: 'はやい', translation: 'Быстрый' },
             { japanese: 'かわいい', translation: 'Милый' },
             { japanese: 'わかい', translation: 'Молодой' },
-            { japanese: 'ふるい', translation: 'Старый' },
+            { japanese: 'ふるい', translation: 'Старый', kanji: '古い' },
             { japanese: 'つまらない', translation: 'Скучный' },
             { japanese: 'おもい', translation: 'Тяжёлый' },
             { japanese: 'ふつう', translation: 'Обычный' },
             { japanese: 'あたらしい', translation: 'Новый' },
             { japanese: 'まっすぐ', translation: 'Прямой' },
-            { japanese: 'おなじ', translation: 'Такой же' },
+            { japanese: 'おなじ', translation: 'Такой же', kanji: '同じ' },
             { japanese: 'すずしい', translation: 'Прохладый (о погоде)' },
             { japanese: 'あたたかい', translation: 'Тёплый (о погоде)' },
             { japanese: 'やすい', translation: 'Дешёвый' },
@@ -439,7 +442,7 @@ export default [
     {
         title: 'Locations',
         words: [
-            { japanese: 'うえ', translation: 'Сверху / Вверх / Выше' },
+            { japanese: 'うえ', translation: 'Сверху / Вверх / Выше', kanji: '上' },
             { japanese: 'した', translation: 'Снизу / Под / Ниже' },
             { japanese: 'なか', translation: 'Внутри' },
             { japanese: 'そと', translation: 'Снаружи' },
@@ -485,7 +488,7 @@ export default [
         words: [
             { japanese: 'おとうさん', translation: 'Папа' },
             { japanese: 'おかあさん', translation: 'Мама' },
-            { japanese: 'おにいさん', translation: 'Старший брат' },
+            { japanese: 'おにいさん', translation: 'Старший брат', kanji: '兄' },
             { japanese: 'おねえさん', translation: 'Старшая сестра' },
             { japanese: 'おとうとさん', translation: 'Младший брат' },
             { japanese: 'いもうとさん', translation: 'Младшая сестра' },
@@ -609,7 +612,7 @@ export default [
             { japanese: 'ふつか', translation: '2 число' },
             { japanese: 'みっか', translation: '3 число' },
             { japanese: 'よっか', translation: '4 число' },
-            { japanese: 'いつか', translation: '5 число' },
+            { japanese: 'いつか', translation: '5 число', kanji: '五日' },
             { japanese: 'むいか', translation: '6 число' },
             { japanese: 'なのか', translation: '7 число' },
             { japanese: 'ようか', translation: '8 число' },
@@ -649,7 +652,7 @@ export default [
             { japanese: 'ふたつ', translation: 'Два' },
             { japanese: 'みっつ', translation: 'Три' },
             { japanese: 'よっつ', translation: 'Четыре' },
-            { japanese: 'いつつ', translation: 'Пять' },
+            { japanese: 'いつつ', translation: 'Пять', kanji: '五つ' },
             { japanese: 'むっつ', translation: 'Шесть' },
             { japanese: 'ななつ', translation: 'Семь' },
             { japanese: 'やっつ', translation: 'Восемь' },
