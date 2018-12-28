@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 548
+# Table of japanese words to learn: 549
 #### Verbs (92)
 | Japanese | Translation |
 | ------ | ------ |
@@ -609,7 +609,7 @@
 | `おかね` | Деньги |
 | `げんきん` | Наличные |
 | `かかく` | Цена |
-#### Food (8)
+#### Food (9)
 | Japanese | Translation |
 | ------ | ------ |
 | `もちかえり` | Взять с собой |
@@ -620,6 +620,7 @@
 | `やさい` | Овощи |
 | `さしみ` | Порезанная рыба |
 | `しお` | Соль |
+| `さら` | Тарелка |
 #### Class 1 verbs. When ます is preceded by -i (6)
 | Japanese | Translation |
 | ------ | ------ |

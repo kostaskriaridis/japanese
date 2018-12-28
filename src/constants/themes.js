@@ -835,7 +835,8 @@ export default [
             { japanese: 'おかし', translation: 'Конфета' },
             { japanese: 'やさい', translation: 'Овощи' },
             { japanese: 'さしみ', translation: 'Порезанная рыба' },
-            { japanese: 'しお', translation: 'Соль' }
+            { japanese: 'しお', translation: 'Соль' },
+            { japanese: 'さら', translation: 'Тарелка', kanji: '皿' }
         ]
     },
     {
