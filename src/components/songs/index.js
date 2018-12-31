@@ -10,12 +10,11 @@ export default class Songs extends PureComponent {
             <div className='songs'>
                 {songs.map((song, songIndex) => (
                     <div key={songIndex} className='song'>
-                        <h1 className='song-title'>{song.title}</h1>
-                        <div className='song-link'>
+                        <h1 className='song-title'>
                             <Link href={song.youtube} target='_blank'>
-                                youtube link
+                                {song.title}
                             </Link>
-                        </div>
+                        </h1>
                         <SongText>
                             {song.body.map((paragraph, paragraphIndex) => (
                                 <SongText.Paragraph key={paragraphIndex}>

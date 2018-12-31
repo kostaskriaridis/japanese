@@ -16,7 +16,6 @@ export default [
             { japanese: 'はじまります', translation: 'Начинается' },
             { japanese: 'きんちょうします', translation: 'Нервничать' },
             { japanese: 'わすれます', translation: 'Забывать' },
-            { japanese: 'わすれもの', translation: 'Забыт' },
             { japanese: 'しんぱいします', translation: 'Беспокоиться' },
             { japanese: 'もうします', translation: 'Называйте меня' },
             { japanese: 'よみます', translation: 'Читать' },
@@ -93,7 +92,8 @@ export default [
             { japanese: 'とどきます', translation: 'Достичь' },
             { japanese: 'おどろきます', translation: 'Удивлять' },
             { japanese: 'あたためます', translation: 'Согреть' },
-            { japanese: 'おくれます', translation: 'Опоздать / задержаться', kanji: '遅れます' }
+            { japanese: 'おくれます', translation: 'Опоздать / задержаться', kanji: '遅れます' },
+            { japanese: 'ふざけます', translation: 'Шутить / насмехаться', kanji: '巫山戯ます' }
         ]
     },
     {
@@ -155,8 +155,7 @@ export default [
             { japanese: 'にもつ', translation: 'Багаж' },
             { japanese: 'ちず', translation: 'Карта' },
             { japanese: 'てら', translation: 'Храм' },
-            { japanese: 'ところ', translation: 'Место (formal)' },
-            { japanese: 'ばしょ', translation: 'Место (casual)' },
+            { japanese: 'ところ', translation: 'Место' },
             { japanese: 'きょうみ', translation: 'Интерес' },
             { japanese: 'におい', translation: 'Запах' },
             { japanese: 'しあわせ', translation: 'Счастье' },
@@ -321,7 +320,7 @@ export default [
                 translation: 'Я не так много смотрю фильмы'
             },
             {
-                japanese: 'わたしわぜんぜんえいがをみません。',
+                japanese: 'わたしはぜんぜんえいがをみません。',
                 translation: 'Я вообще не смотрю фильмы'
             },
             {
