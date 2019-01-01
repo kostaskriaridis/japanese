@@ -7,7 +7,13 @@ const fs = require('fs');
 export function renderSongs(songs) {
     const songsPath = './songs';
 
-    if (!fs.existsSync(songsPath)) {
+    if (fs.existsSync(songsPath)) {
+        const files = fs.readdirSync(songsPath);
+
+        files.forEach(fileName => {
+            console.log(`rm ${songsPath}/${fileName}`);
+        });
+    } else {
         fs.mkdirSync(songsPath);
     }
 
@@ -22,8 +28,8 @@ export function renderSongs(songs) {
  * Rendering song
  * @param {Object} song
  * @param {string} song.title
- * @param {Array} song
- * @param {string} youtube
+ * @param {Array} song.body
+ * @param {string} song.youtube
  * @returns {string}
  */
 function renderSong({ title, body, youtube }) {
