@@ -7,7 +7,6 @@ import './lesson.css';
 export default class Lesson extends PureComponent {
     render() {
         const { words, title } = this.props;
-        const lastWordIndex = words.length - 1;
 
         return (
             <div className='lesson'>
@@ -18,13 +17,12 @@ export default class Lesson extends PureComponent {
                     <Icon type='practice' />
                 </Button>
                 <h1 className='lesson__title'>
-                    {title}
+                    {title} ({words.length})
                 </h1>
                 <div className='lesson__words'>
                     {words.map((word, index) => (
                         <Word
                             key={index}
-                            isLast={index === lastWordIndex}
                             {...word} />
                     ))}
                 </div>

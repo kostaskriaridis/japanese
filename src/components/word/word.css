@@ -2,10 +2,6 @@
     margin-top: 5px;
 }
 
-.word_last {
-    padding-right: 40px;
-}
-
 .word__japanese + .word__japanese {
     margin-left: 10px;
 }

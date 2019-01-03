@@ -128,7 +128,7 @@ export default [
             { japanese: 'まくら', translation: 'Подушка' },
             { japanese: 'かばん', translation: 'Сумка' },
             { japanese: 'てんき', translation: 'Погода' },
-            { japanese: 'いい , よくない', translation: 'Хороший, нехороший' },
+            { japanese: 'いい、よくない', translation: 'Хороший, нехороший' },
             { japanese: 'ほんとう', translation: 'Правда' },
             { japanese: 'うそ', translation: 'Ложь' },
             { japanese: 'しんぶん', translation: 'Газета' },
@@ -268,11 +268,11 @@ export default [
             { japanese: 'とくべつ (な)', translation: 'Особенный' },
             { japanese: 'かんたん (な)', translation: 'Простой' },
             { japanese: 'べんり (な)', translation: 'Удобный' },
+            { japanese: 'ふべん (な)', translation: 'Неудобный' },
             { japanese: 'すてき (な)', translation: 'Хороший, крутой, фантастический' },
             { japanese: 'あんぜん (な)', translation: 'Безопасный' },
             { japanese: 'だいじ (な)', translation: 'Важный' },
             { japanese: 'だめ (な)', translation: 'Нехороший' },
-            { japanese: 'ふべん (な)', translation: 'Неудобный' },
             { japanese: 'ふしんせつ (な)', translation: 'Недобрый' },
             { japanese: 'げんき (な)', translation: 'Хороший' },
             { japanese: 'じょうず (な)', translation: 'Умелый' },
@@ -633,7 +633,7 @@ export default [
         ]
     },
     {
-        title: 'Дни недели',
+        title: 'Week Days',
         words: [
             { japanese: 'げつようび', translation: 'Понедельник' },
             { japanese: 'かようび', translation: 'Вторник' },
@@ -699,6 +699,24 @@ export default [
             { japanese: 'ここのつ', translation: 'Девять' },
             { japanese: 'とお', translation: 'Десять' },
             { japanese: 'いくつ', translation: 'Сколько?' }
+        ]
+    },
+    {
+        title: 'Counters. Floors',
+        words: [
+            { japanese: 'いっかい', translation: '1 этаж', kanji: '一階' },
+            { japanese: 'にかい', translation: '2 этаж', kanji: '二階' },
+            { japanese: 'さんかい、さんがい', translation: '3 этаж', kanji: '三階' },
+            { japanese: 'よんかい', translation: '4 этаж', kanji: '四階' },
+            { japanese: 'ごかい', translation: '5 этаж', kanji: '五階' },
+            { japanese: 'ろっかい', translation: '6 этаж', kanji: '六階' },
+            { japanese: 'ななかい', translation: '7 этаж', kanji: '七階' },
+            { japanese: 'はっかい', translation: '8 этаж', kanji: '八階' },
+            { japanese: 'きゅうかい', translation: '9 этаж', kanji: '九階' },
+            { japanese: 'じゅうかい', translation: '10 этаж', kanji: '十階' },
+            { japanese: 'じゅういっかい', translation: '11 этаж', kanji: '十一階' },
+            { japanese: 'じゅうにかい', translation: '12 этаж', kanji: '十二階' },
+            { japanese: 'なんかい、なんがい', translation: 'Какой этаж?', kanji: '何階' }
         ]
     },
     {

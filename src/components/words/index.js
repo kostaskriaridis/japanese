@@ -2,14 +2,12 @@ import React, { PureComponent, Fragment } from 'react';
 import Lesson from '../lesson';
 import Practice from '../practice';
 import Button from '../button';
-import Icon from '../icon';
 import themes from '../../constants/themes';
 import './words.css';
 
 export default class Words extends PureComponent {
     state = {
         lessonIndex: null,
-        isPracticePopupShown: false,
         isPracticeInversed: false
     };
 
@@ -21,9 +19,6 @@ export default class Words extends PureComponent {
                         active={this.state.isPracticeInversed}
                         onClick={this.handleTogglePractice}>
                         Practice Inversed
-                    </Button>
-                    <Button onClick={this.handleShowPracticePopup}>
-                        <Icon type='practice' />
                     </Button>
                 </div>
                 <div className='lessons'>
@@ -42,34 +37,24 @@ export default class Words extends PureComponent {
     }
 
     renderPracticePopup() {
-        const { lessonIndex, isPracticePopupShown, isPracticeInversed } = this.state;
-        let lessons = themes;
+        const { lessonIndex, isPracticeInversed } = this.state;
 
-        if (!isPracticePopupShown) {
+        if (lessonIndex === null) {
             return null;
         }
 
-        if (lessonIndex !== null) {
-            lessons = [themes[lessonIndex]];
-        }
+        const lessons = themes[lessonIndex].words;
 
         return (
             <Practice
-                words={this.getWords(lessons)}
+                words={lessons}
                 onClose={this.handleClosePracticePopup}
                 inverse={isPracticeInversed} />
         );
     }
 
-    handleShowPracticePopup = () => {
-        this.setState({
-            isPracticePopupShown: true
-        });
-    };
-
     handleClosePracticePopup = () => {
         this.setState({
-            isPracticePopupShown: false,
             lessonIndex: null
         });
     };
@@ -80,20 +65,9 @@ export default class Words extends PureComponent {
         });
     };
 
-    handleChangeLessonsType = lessonsType => {
-        this.setState({ lessonsType });
-    };
-
     handleClickPractice = index => {
         this.setState({
-            isPracticePopupShown: true,
             lessonIndex: index
         });
     };
-
-    getWords(lessons) {
-        return lessons.reduce((result, { words }) => {
-            return result.concat(words);
-        }, []);
-    }
 }
