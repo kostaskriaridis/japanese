@@ -11,7 +11,7 @@ export function renderSongs(songs) {
         const files = fs.readdirSync(songsPath);
 
         files.forEach(fileName => {
-            console.log(`rm ${songsPath}/${fileName}`);
+            fs.unlinkSync(`${songsPath}/${fileName}`);
         });
     } else {
         fs.mkdirSync(songsPath);

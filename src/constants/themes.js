@@ -95,8 +95,7 @@ export default [
             { japanese: 'おくれます', translation: 'Опоздать, задержаться', kanji: '遅れます' },
             { japanese: 'ふざけます', translation: 'Шутить, насмехаться', kanji: '巫山戯ます' },
             { japanese: 'かんがえります', translation: 'Думать' },
-            { japanese: 'かぞえります', translation: 'Считать' },
-            { japanese: 'はえります', translation: '(проверить)' }
+            { japanese: 'かぞえります', translation: 'Считать' }
         ]
     },
     {
@@ -198,7 +197,7 @@ export default [
             { japanese: 'もと', translation: 'Происхождение, фундамент', kanji: '元' },
             { japanese: 'じゅぎょう', translation: 'Урок' },
             { japanese: 'ないしょ', translation: 'Секрет, тайна', kanji: '内緒' },
-            { japanese: 'しゅみ (проверить)', translation: 'Хобби', kanji: '趣味' },
+            { japanese: 'しゅみ', translation: 'Хобби', kanji: '趣味' },
             { japanese: 'ちから', translation: 'Сила', kanji: '力' },
             { japanese: 'かぎ', translation: 'Ключ', kanji: '鍵' },
             { japanese: 'おふろ', translation: 'Ванна', kanji: 'お風呂' },
@@ -872,7 +871,7 @@ export default [
             { japanese: 'さら', translation: 'Тарелка', kanji: '皿' },
             { japanese: 'からあげ', translation: 'Жареная курица' },
             { japanese: 'かつどん', translation: 'Жареная свинина в панировке и рис' },
-            { japanese: 'ていしょく', translation: 'Set meal (проверить)', kanji: '定食' },
+            { japanese: 'ていしょく', translation: 'Комплексное блюдо дня', kanji: '定食' },
             { japanese: 'おおもり', translation: 'Большая порция', kanji: '大盛り' }
         ]
     },
