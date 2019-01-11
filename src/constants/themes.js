@@ -214,7 +214,9 @@ export default [
             { japanese: 'つき', translation: 'Луна', kanji: '月' },
             { japanese: 'うけつけ', translation: 'Ресепшен', kanji: '受付' },
             { japanese: 'みず', translation: 'Вода', kanji: '水' },
-            { japanese: 'うた', translation: 'Песня', kanji: '歌' }
+            { japanese: 'うた', translation: 'Песня', kanji: '歌' },
+            { japanese: 'かべ', translation: 'Стена', kanji: '壁' },
+            { japanese: 'ほこり', translation: 'Гордость', kanji: '誇り' }
         ]
     },
     {

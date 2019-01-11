@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 597
+# Table of japanese words to learn: 599
 #### Verbs (99)
 | Japanese | Translation |
 | ------ | ------ |
@@ -101,7 +101,7 @@
 | `そうじします` | Чистить |
 | `ふきます` | Протирать |
 | `うたいます` | Петь |
-#### Nouns (109)
+#### Nouns (111)
 | Japanese | Translation |
 | ------ | ------ |
 | `めんきょ` | Лицензия, уроки |
@@ -213,6 +213,8 @@
 | `うけつけ` | Ресепшен |
 | `みず` | Вода |
 | `うた` | Песня |
+| `かべ` | Стена |
+| `ほこり` | Гордость |
 #### Adjectives (い) (48)
 | Japanese | Translation |
 | ------ | ------ |
