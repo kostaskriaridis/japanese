@@ -801,15 +801,15 @@ export default [
     {
         title: 'Numbers Tens of Thousands',
         words: [
-            { japanese: 'いちまん', translation: '10 000' },
-            { japanese: 'にまん', translation: '20 000' },
-            { japanese: 'さんまん', translation: '30 000' },
-            { japanese: 'よんまん', translation: '40 000' },
-            { japanese: 'ごまん', translation: '50 000' },
-            { japanese: 'ろくまん', translation: '60 000' },
-            { japanese: 'ななまん', translation: '70 000' },
-            { japanese: 'はちまん', translation: '80 000' },
-            { japanese: 'きゅうまん', translation: '90 000' }
+            { japanese: 'いちまん', translation: '10 000', kanji: '一万' },
+            { japanese: 'にまん', translation: '20 000', , kanji: 'ニ万' },
+            { japanese: 'さんまん', translation: '30 000', kanji: '三万' },
+            { japanese: 'よんまん', translation: '40 000', kanji: '四万' },
+            { japanese: 'ごまん', translation: '50 000', kanji: '五万' },
+            { japanese: 'ろくまん', translation: '60 000', kanji: '六万' },
+            { japanese: 'ななまん', translation: '70 000', kanji: '七万' },
+            { japanese: 'はちまん', translation: '80 000', kanji: '八万' },
+            { japanese: 'きゅうまん', translation: '90 000', kanji: '九万' }
         ]
     },
     {
@@ -872,7 +872,9 @@ export default [
             { japanese: 'おかね', translation: 'Деньги' },
             { japanese: 'げんきん', translation: 'Наличные' },
             { japanese: 'かかく', translation: 'Цена', kanji: '価格' },
-            { japanese: 'かいけい', translation: 'Счёт, чек', kanji: '会計' }
+            { japanese: 'かいけい', translation: 'Счёт, чек', kanji: '会計' },
+            { japanese: 'たま', translation: 'Монета, мячик', kanji: '玉' },
+            { japanese: 'さつ', translation: 'Банкнота', kanji: '札' }
         ]
     },
     {

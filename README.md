@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 595
+# Table of japanese words to learn: 597
 #### Verbs (99)
 | Japanese | Translation |
 | ------ | ------ |
@@ -645,7 +645,7 @@
 | ------ | ------ |
 | `くすり` | Медицина |
 | `かぜ` | Простуда |
-#### Money (6)
+#### Money (8)
 | Japanese | Translation |
 | ------ | ------ |
 | `ぜい` | Налог |
@@ -654,6 +654,8 @@
 | `げんきん` | Наличные |
 | `かかく` | Цена |
 | `かいけい` | Счёт, чек |
+| `たま` | Монета, мячик |
+| `さつ` | Банкнота |
 #### Food (13)
 | Japanese | Translation |
 | ------ | ------ |
