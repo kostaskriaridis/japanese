@@ -4,6 +4,7 @@ export default [
         words: [
             { japanese: 'はなします', translation: 'Говорить', kanji: '話します' },
             { japanese: 'わかります', translation: 'Понимать', kanji: '分かります' },
+            { japanese: 'しります', translation: 'Знать', kanji: '知ります' },
             { japanese: 'のみます', translation: 'Пить' },
             { japanese: 'みます', translation: 'Смотреть', kanji: '見ます' },
             { japanese: 'つかいます', translation: 'Использовать' },
@@ -100,7 +101,9 @@ export default [
             { japanese: 'かぞえります', translation: 'Считать' },
             { japanese: 'そうじします', translation: 'Чистить', kanji: '掃除します' },
             { japanese: 'ふきます', translation: 'Протирать', kanji: '拭きます' },
-            { japanese: 'うたいます', translation: 'Петь', kanji: '歌います' }
+            { japanese: 'うたいます', translation: 'Петь', kanji: '歌います' },
+            { japanese: 'なきます', translation: 'Плакать', kanji: '泣きます' },
+            { japanese: 'しんじます ', translation: 'Верить', kanji: '信じます' }
         ]
     },
     {
@@ -269,7 +272,8 @@ export default [
             { japanese: 'ほしい', translation: 'Хотеть' },
             { japanese: 'いっぱい', translation: 'Полный' },
             { japanese: 'こわい', translation: 'Страшный' },
-            { japanese: 'むしあつい', translation: 'Влажный (погода)', kanji: '蒸し暑い' }
+            { japanese: 'むしあつい', translation: 'Влажный (погода)', kanji: '蒸し暑い' },
+            { japanese: 'ふかい', translation: 'Глубокий', kanji: '深い' }
         ]
     },
     {
