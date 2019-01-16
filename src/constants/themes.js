@@ -656,14 +656,14 @@ export default [
     {
         title: 'Week Days',
         words: [
-            { japanese: 'げつようび', translation: 'Понедельник' },
-            { japanese: 'かようび', translation: 'Вторник' },
-            { japanese: 'すいようび', translation: 'Среда' },
-            { japanese: 'もくようび', translation: 'Четверг' },
-            { japanese: 'きんようび', translation: 'Пятница' },
-            { japanese: 'どようび', translation: 'Суббота' },
-            { japanese: 'にちようび', translation: 'Воскресенье' },
-            { japanese: 'なんようび', translation: 'Какой день недели?' }
+            { japanese: 'げつようび', translation: 'Понедельник', kanji: '月曜日' },
+            { japanese: 'かようび', translation: 'Вторник', kanji: '火曜日' },
+            { japanese: 'すいようび', translation: 'Среда', kanji: '水曜日' },
+            { japanese: 'もくようび', translation: 'Четверг', kanji: '木曜日' },
+            { japanese: 'きんようび', translation: 'Пятница', kanji: '金曜日' },
+            { japanese: 'どようび', translation: 'Суббота', kanji: '土曜日' },
+            { japanese: 'にちようび', translation: 'Воскресенье', kanji: '日曜日' },
+            { japanese: 'なんようび', translation: 'Какой день недели?', kanji: '何曜日' }
         ]
     },
     {
