@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 603
-#### Verbs (102)
+# Table of japanese words to learn: 604
+#### Verbs (103)
 | Japanese | Translation |
 | ------ | ------ |
 | `はなします` | Говорить |
@@ -103,7 +103,8 @@
 | `ふきます` | Протирать |
 | `うたいます` | Петь |
 | `なきます` | Плакать |
-| `しんじます ` | Верить |
+| `しんじます` | Верить |
+| `わらいます` | Смеяться |
 #### Nouns (111)
 | Japanese | Translation |
 | ------ | ------ |
