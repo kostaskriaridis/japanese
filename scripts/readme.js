@@ -34,8 +34,8 @@ function renderThemes(themes) {
 function renderTheme({ title, words }) {
     return [
         `#### ${title} (${words.length})`,
-        '| Japanese | Translation |',
-        '| ------ | ------ |',
+        '| Japanese | Translation | Kanji |',
+        '| ------ | ------ | ------ |',
         ...renderWords(words)
     ].join('\n');
 }
@@ -46,8 +46,10 @@ function renderTheme({ title, words }) {
  * @returns {string} words markdown string
  */
 function renderWords(words) {
-    return words.map(({ japanese, translation }) => {
-        return `| \`${japanese}\` | ${translation} |`;
+    return words.map(({ japanese, translation, kanji }) => {
+        kanji = kanji ? `\`${kanji}\`` : '—';
+
+        return `| \`${japanese}\` | ${translation} | ${kanji} |`;
     });
 }
 
