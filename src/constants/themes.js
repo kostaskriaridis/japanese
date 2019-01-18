@@ -227,7 +227,7 @@ export default [
         title: 'Adjectives (い)',
         words: [
             { japanese: 'ながい', translation: 'Длинный' },
-            { japanese: 'たかい', translation: 'Высокий' },
+            { japanese: 'たかい', translation: 'Высокий', kanji: '高い' },
             { japanese: 'みじかい', translation: 'Короткий' },
             { japanese: 'つよい', translation: 'Сильный' },
             { japanese: 'よわい', translation: 'Слабый' },
@@ -265,7 +265,7 @@ export default [
             { japanese: 'かるい', translation: 'Светлый' },
             { japanese: 'からい', translation: 'Горячий, острый' },
             { japanese: 'ひろい', translation: 'Широкий' },
-            { japanese: 'ひくい', translation: 'Низкий' },
+            { japanese: 'ひくい', translation: 'Низкий', kanji: '低い' },
             { japanese: 'あかるい', translation: 'Яркий' },
             { japanese: 'あぶない', translation: 'Опасный' },
             { japanese: 'わるい', translation: 'Плохой' },
