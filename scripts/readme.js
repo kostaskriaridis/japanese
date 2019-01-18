@@ -5,10 +5,13 @@ const fs = require('fs');
  * @param {Array} themes
  */
 export function renderReadme(themes) {
+    const wordsCount = getWordsCount(themes);
     const content = [
-        `# Table of japanese words to learn: ${getWordsCount(themes)}`,
+        `# Table of japanese words to learn: ${wordsCount}`,
         renderThemes(themes)
     ].join('\n');
+
+    console.log(`Kanji coverage is ${getKanjiPercentage(themes, wordsCount)} %`);
 
     fs.writeFileSync('README.md', content, 'utf-8');
 }
@@ -63,4 +66,24 @@ function getWordsCount(themes) {
         sum += theme.words.length;
         return sum;
     }, 0);
+}
+
+/**
+ * Get kanji coverage percent
+ * @param {Array} themes
+ * @param {number} wordsCount
+ * @returns {string}
+ */
+function getKanjiPercentage(themes, wordsCount) {
+    const kanjiCount = themes.reduce((kanjiSum, theme) => {
+        theme.words.forEach(word => {
+            if (word.kanji) {
+                kanjiSum += 1;
+            }
+        });
+
+        return kanjiSum;
+    }, 0);
+
+    return (kanjiCount * 100 / wordsCount).toFixed(2);
 }
