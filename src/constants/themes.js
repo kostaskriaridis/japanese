@@ -10,7 +10,7 @@ export default [
             { japanese: 'つかいます', translation: 'Использовать' },
             { japanese: 'とります', translation: 'Фотографировать' },
             { japanese: 'あいます', translation: 'Встретить' },
-            { japanese: 'いきます', translation: 'Идти' },
+            { japanese: 'いきます', translation: 'Идти', kanji: '行きます' },
             { japanese: 'まちます', translation: 'Ждать' },
             { japanese: 'のります', translation: 'Ездить' },
             { japanese: 'します', translation: 'Делать' },
@@ -169,6 +169,7 @@ export default [
             { japanese: 'ところ', translation: 'Место' },
             { japanese: 'きょうみ', translation: 'Интерес' },
             { japanese: 'におい', translation: 'Запах' },
+            { japanese: 'あじ', translation: 'Вкус', kanji: '味' },
             { japanese: 'しあわせ', translation: 'Счастье' },
             { japanese: 'つくえ', translation: 'Парта' },
             { japanese: 'いろ', translation: 'Цвет' },
@@ -213,6 +214,7 @@ export default [
             { japanese: 'でんき', translation: 'Электричество, свет', kanji: '電気' },
             { japanese: 'ごうしつ', translation: 'Счётчик для комнат', kanji: '号室' },
             { japanese: 'かい', translation: 'Счётчик для происшествий', kanji: '回' },
+            { japanese: 'まい', translation: 'Счётчик для тонких плоских вещей', kanji: '枚' },
             { japanese: 'むし', translation: 'Насекомое', kanji: '虫' },
             { japanese: 'はいります', translation: 'Войти, зайти в', kanji: '入ります' },
             { japanese: 'つき', translation: 'Луна', kanji: '月' },
@@ -220,7 +222,11 @@ export default [
             { japanese: 'みず', translation: 'Вода', kanji: '水' },
             { japanese: 'うた', translation: 'Песня', kanji: '歌' },
             { japanese: 'かべ', translation: 'Стена', kanji: '壁' },
-            { japanese: 'ほこり', translation: 'Гордость', kanji: '誇り' }
+            { japanese: 'ほこり', translation: 'Гордость', kanji: '誇り' },
+            { japanese: 'きっぷ', translation: 'Билет (поезд)', kanji: '切符' },
+            { japanese: 'じゆうせき', translation: 'Незарезервированные места (поезд)', kanji: '自由席' },
+            { japanese: 'していせき', translation: 'Зарезервированные места (поезд)', kanji: '指定席' },
+            { japanese: 'おとな', translation: 'Взрослый (человек)', kanji: '大人' }
         ]
     },
     {
@@ -336,7 +342,8 @@ export default [
             { japanese: 'ぜったいに', translation: 'Определённо, безоговорочно' },
             { japanese: 'おかしい', translation: 'Странно' },
             { japanese: 'そろそろ', translation: 'Медленно' },
-            { japanese: 'すぐ', translation: 'Немедленно' }
+            { japanese: 'すぐ', translation: 'Немедленно' },
+            { japanese: 'まず', translation: 'Прежде всего' }
         ]
     },
     {
@@ -622,8 +629,8 @@ export default [
             { japanese: 'たんじょうび', translation: 'День рождения' },
             { japanese: 'あけまして', translation: 'С новым годом' },
             { japanese: 'おめでとうございます', translation: 'Поздравляю' },
-            { japanese: 'がつ', translation: 'Месяц' },
-            { japanese: 'にち', translation: 'День' },
+            { japanese: 'がつ', translation: 'Месяц', kanji: '月' },
+            { japanese: 'にち', translation: 'День', kanji: '日' },
 
             { japanese: 'いま', translation: 'Сейчас' },
             { japanese: 'やすみ', translation: 'Отпуск' },
@@ -787,7 +794,7 @@ export default [
             { japanese: 'かお', translation: 'Лицо' },
             { japanese: 'うで', translation: 'Рука (arm)' },
             { japanese: 'て', translation: 'Кисть руки (hand)', kanji: '手' },
-            { japanese: 'あし', translation: 'Нога' },
+            { japanese: 'あし', translation: 'Нога', kanji: '足' },
             { japanese: 'はな', translation: 'Нос' },
             { japanese: 'くち', translation: 'Рот' },
             { japanese: 'くちびる', translation: 'Губы' },
