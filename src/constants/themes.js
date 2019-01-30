@@ -226,7 +226,9 @@ export default [
             { japanese: 'きっぷ', translation: 'Билет (поезд)', kanji: '切符' },
             { japanese: 'じゆうせき', translation: 'Незарезервированные места (поезд)', kanji: '自由席' },
             { japanese: 'していせき', translation: 'Зарезервированные места (поезд)', kanji: '指定席' },
-            { japanese: 'おとな', translation: 'Взрослый (человек)', kanji: '大人' }
+            { japanese: 'おとな', translation: 'Взрослый (человек)', kanji: '大人' },
+            { japanese: 'かふんしょう', translation: 'Аллергия на пыльцу', kanji: '花粉症' },
+            { japanese: 'ほこり', translation: 'Грязь, пыль', kanji: '埃' }
         ]
     },
     {
@@ -312,7 +314,8 @@ export default [
             { japanese: 'しょうじき (な)', translation: 'Честный' },
             { japanese: 'しんせん (な)', translation: 'Свежий' },
             { japanese: 'しんけん (な)', translation: 'Серьёзный' },
-            { japanese: 'たいへん (な)', translation: 'Трудный, тяжёлый' }
+            { japanese: 'たいへん (な)', translation: 'Трудный, тяжёлый' },
+            { japanese: 'かわいそう (な)', translation: 'Бедный, жалкий', kanji: '可哀相' }
         ]
     },
     {
