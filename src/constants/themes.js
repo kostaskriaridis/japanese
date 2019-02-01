@@ -104,7 +104,8 @@ export default [
             { japanese: 'うたいます', translation: 'Петь', kanji: '歌います' },
             { japanese: 'なきます', translation: 'Плакать', kanji: '泣きます' },
             { japanese: 'しんじます', translation: 'Верить', kanji: '信じます' },
-            { japanese: 'わらいます', translation: 'Смеяться', kanji: '笑います' }
+            { japanese: 'わらいます', translation: 'Смеяться', kanji: '笑います' },
+            { japanese: 'うまれます', translation: 'Родиться', kanji: '生まれます' }
         ]
     },
     {
