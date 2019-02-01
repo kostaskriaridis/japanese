@@ -11,7 +11,10 @@ export function renderReadme(themes) {
         renderThemes(themes)
     ].join('\n');
 
+    console.log('######')
+    console.log(`Words count is ${wordsCount}`);
     console.log(`Kanji coverage is ${getKanjiPercentage(themes, wordsCount)} %`);
+    console.log('######')
 
     fs.writeFileSync('README.md', content, 'utf-8');
 }
