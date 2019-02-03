@@ -119,7 +119,7 @@ export default [
             { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
             { japanese: 'おきゃくさん', translation: 'Посетитель, гость', kanji: 'お客さん' },
             { japanese: 'てんいん', translation: 'Работник, клерк' },
-            { japanese: 'りょこう', translation: 'Поездка' },
+            { japanese: 'りょこう', translation: 'Поездка', kanji: '旅行' },
             { japanese: 'たいざい', translation: 'Пребывание' },
             { japanese: 'もくてき', translation: 'Цель' },
             { japanese: 'きかん', translation: 'Продолжительность' },
@@ -229,7 +229,10 @@ export default [
             { japanese: 'していせき', translation: 'Зарезервированные места (поезд)', kanji: '指定席' },
             { japanese: 'おとな', translation: 'Взрослый (человек)', kanji: '大人' },
             { japanese: 'かふんしょう', translation: 'Аллергия на пыльцу', kanji: '花粉症' },
-            { japanese: 'ほこり', translation: 'Грязь, пыль', kanji: '埃' }
+            { japanese: 'ほこり', translation: 'Грязь, пыль', kanji: '埃' },
+            { japanese: 'にわ', translation: 'Сад', kanji: '庭' },
+            { japanese: 'じこしょうかい', translation: 'Self introduction', kanji: '自己紹介' },
+            { japanese: 'あんない', translation: 'Информация, руководство', kanji: '案内' }
         ]
     },
     {
@@ -638,7 +641,7 @@ export default [
             { japanese: 'にち', translation: 'День', kanji: '日' },
 
             { japanese: 'いま', translation: 'Сейчас' },
-            { japanese: 'やすみ', translation: 'Отпуск' },
+            { japanese: 'やすみ', translation: 'Отпуск', kanji: '休み' },
             { japanese: 'いつ', translation: 'Когда, время' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
 
@@ -660,8 +663,8 @@ export default [
             { japanese: 'らいねん', translation: 'В следующем году', kanji: '来年' },
 
             { japanese: 'そのあと', translation: 'После этого' },
-            { japanese: 'あさ', translation: 'Утро' },
-            { japanese: 'ひる', translation: 'День' },
+            { japanese: 'あさ', translation: 'Утро', kanji: '朝' },
+            { japanese: 'ひる', translation: 'День', kanji: 'ひる' },
             { japanese: 'ばん', translation: 'Вечер' },
             { japanese: 'よる', translation: 'Ночь' }
         ]
@@ -676,7 +679,8 @@ export default [
             { japanese: 'きんようび', translation: 'Пятница', kanji: '金曜日' },
             { japanese: 'どようび', translation: 'Суббота', kanji: '土曜日' },
             { japanese: 'にちようび', translation: 'Воскресенье', kanji: '日曜日' },
-            { japanese: 'なんようび', translation: 'Какой день недели?', kanji: '何曜日' }
+            { japanese: 'なんようび', translation: 'Какой день недели?', kanji: '何曜日' },
+            { japanese: 'へいじつ', translation: 'Будние дни', kanji: '平日' }
         ]
     },
     {
@@ -880,7 +884,8 @@ export default [
         title: 'Medicine',
         words: [
             { japanese: 'くすり', translation: 'Медицина', kanji: '薬' },
-            { japanese: 'かぜ', translation: 'Простуда' }
+            { japanese: 'かぜ', translation: 'Простуда' },
+            { japanese: 'しんさつ', translation: 'Медицинская консультация', kanji: '診察' }
         ]
     },
     {
