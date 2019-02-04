@@ -232,7 +232,10 @@ export default [
             { japanese: 'ほこり', translation: 'Грязь, пыль', kanji: '埃' },
             { japanese: 'にわ', translation: 'Сад', kanji: '庭' },
             { japanese: 'じこしょうかい', translation: 'Self introduction', kanji: '自己紹介' },
-            { japanese: 'あんない', translation: 'Информация, руководство', kanji: '案内' }
+            { japanese: 'あんない', translation: 'Информация, руководство', kanji: '案内' },
+            { japanese: 'かんごし', translation: 'Медсестра, медбрат', kanji: '看護師' },
+            { japanese: 'よやく', translation: 'Бронирование, встреча', kanji: '予約' },
+            { japanese: 'ほけんしょう', translation: 'Страховая карта', kanji: '保険証' }
         ]
     },
     {
@@ -536,7 +539,7 @@ export default [
             { japanese: 'だいがく', translation: 'Университет', kanji: '大学' },
             { japanese: 'ちゅうしゃじょう', translation: 'Автостоянка' },
             { japanese: 'ばすてい', translation: 'Автобусная астоновка' },
-            { japanese: 'びょういん', translation: 'Больница' },
+            { japanese: 'びょういん', translation: 'Больница', kanji: '病院' },
             { japanese: 'みち', translation: 'Дорога, улица', kanji: '道' }
         ]
     },
@@ -609,6 +612,7 @@ export default [
             { japanese: 'いつでも', translation: 'В любое время' },
             { japanese: 'よく', translation: 'Часто' },
             { japanese: 'まいにち', translation: 'Каждый день' },
+            { japanese: 'さっき', translation: 'Недавно', kanji: 'さっき' },
             { japanese: 'おひさしぶり', translation: 'Давно не виделись' },
             { japanese: 'いつも', translation: 'Обычно, всегда' },
             { japanese: 'とけい', translation: 'Часы' },
@@ -640,7 +644,7 @@ export default [
             { japanese: 'がつ', translation: 'Месяц', kanji: '月' },
             { japanese: 'にち', translation: 'День', kanji: '日' },
 
-            { japanese: 'いま', translation: 'Сейчас' },
+            { japanese: 'いま', translation: 'Сейчас', kanji: '今' },
             { japanese: 'やすみ', translation: 'Отпуск', kanji: '休み' },
             { japanese: 'いつ', translation: 'Когда, время' },
             { japanese: 'しゅうかん', translation: 'Неделя' },
