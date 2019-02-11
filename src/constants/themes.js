@@ -148,7 +148,7 @@ export default [
             { japanese: 'いす', translation: 'Стул' },
             { japanese: 'ひこうき', translation: 'Рейс' },
             { japanese: 'おみやげ', translation: 'Сувенир', kanji: 'お土産' },
-            { japanese: 'おと', translation: 'Звук' },
+            { japanese: 'おと', translation: 'Звук', kanji: '音' },
             { japanese: 'しゃこ', translation: 'Гараж' },
             { japanese: 'ちかてつ', translation: 'Метро' },
             { japanese: 'さいしゅう', translation: 'Последний' },
@@ -235,7 +235,8 @@ export default [
             { japanese: 'あんない', translation: 'Информация, руководство', kanji: '案内' },
             { japanese: 'かんごし', translation: 'Медсестра, медбрат', kanji: '看護師' },
             { japanese: 'よやく', translation: 'Бронирование, встреча', kanji: '予約' },
-            { japanese: 'ほけんしょう', translation: 'Страховая карта', kanji: '保険証' }
+            { japanese: 'ほけんしょう', translation: 'Страховая карта', kanji: '保険証' },
+            { japanese: 'かたち', translation: 'Форма', kanji: '形' }
         ]
     },
     {
@@ -821,7 +822,8 @@ export default [
             { japanese: 'ひざ', translation: 'Колено' },
             { japanese: 'ゆび', translation: 'Палец' },
             { japanese: 'からだ', translation: 'Тело' },
-            { japanese: 'せ', translation: 'Рост' }
+            { japanese: 'せ', translation: 'Рост' },
+            { japanese: 'みみ', translation: 'Ухо', kanji: '耳' }
         ]
     },
     /*
