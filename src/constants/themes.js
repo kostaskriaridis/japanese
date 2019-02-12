@@ -236,7 +236,8 @@ export default [
             { japanese: 'かんごし', translation: 'Медсестра, медбрат', kanji: '看護師' },
             { japanese: 'よやく', translation: 'Бронирование, встреча', kanji: '予約' },
             { japanese: 'ほけんしょう', translation: 'Страховая карта', kanji: '保険証' },
-            { japanese: 'かたち', translation: 'Форма', kanji: '形' }
+            { japanese: 'かたち', translation: 'Форма', kanji: '形' },
+            { japanese: 'えいぎょう', translation: 'Бизнес, торговля, продажи', kanji: '営業' }
         ]
     },
     {
@@ -262,7 +263,7 @@ export default [
             { japanese: 'おなじ', translation: 'Такой же', kanji: '同じ' },
             { japanese: 'すずしい', translation: 'Прохладый (о погоде)' },
             { japanese: 'あたたかい', translation: 'Тёплый (о погоде)' },
-            { japanese: 'やすい', translation: 'Дешёвый' },
+            { japanese: 'やすい', translation: 'Дешёвый', kanji: '安い' },
             { japanese: 'たのしい', translation: 'Весёлый' },
             { japanese: 'おいしい', translation: 'Вкусный' },
             { japanese: 'つめたい', translation: 'Холодный (на ощупь)' },
@@ -492,6 +493,10 @@ export default [
             {
                 japanese: 'むしがじぶんのかおをふいている。',
                 translation: 'Насекомое протирает своё лицо'
+            },
+            {
+                japanese: 'えいぎょうは何時から何時までですか。',
+                translation: 'Со скольки до скольки вы работаете?'
             }
         ]
     },
@@ -669,9 +674,9 @@ export default [
 
             { japanese: 'そのあと', translation: 'После этого' },
             { japanese: 'あさ', translation: 'Утро', kanji: '朝' },
-            { japanese: 'ひる', translation: 'День', kanji: 'ひる' },
+            { japanese: 'ひる', translation: 'День', kanji: '昼' },
             { japanese: 'ばん', translation: 'Вечер' },
-            { japanese: 'よる', translation: 'Ночь' }
+            { japanese: 'よる', translation: 'Ночь', kanji: '夜' }
         ]
     },
     {
@@ -801,24 +806,24 @@ export default [
     {
         title: 'Body parts',
         words: [
-            { japanese: 'あたま', translation: 'Голова' },
+            { japanese: 'あたま', translation: 'Голова', kanji: '頭' },
             { japanese: 'かみ', translation: 'Волосы, причёска' },
             { japanese: 'こえ', translation: 'Голос', kanji: '声' },
             { japanese: 'き', translation: 'Чувство' },
             { japanese: 'かお', translation: 'Лицо' },
-            { japanese: 'うで', translation: 'Рука (arm)' },
+            { japanese: 'うで', translation: 'Рука (arm)', kanji: '腕' },
             { japanese: 'て', translation: 'Кисть руки (hand)', kanji: '手' },
             { japanese: 'あし', translation: 'Нога', kanji: '足' },
-            { japanese: 'はな', translation: 'Нос' },
-            { japanese: 'くち', translation: 'Рот' },
+            { japanese: 'はな', translation: 'Нос', kanji: '鼻' },
+            { japanese: 'くち', translation: 'Рот', kanji: '口' },
             { japanese: 'くちびる', translation: 'Губы' },
-            { japanese: 'は', translation: 'Зуб' },
-            { japanese: 'のど', translation: 'Горло' },
+            { japanese: 'は', translation: 'Зуб', kanji: '歯' },
+            { japanese: 'のど', translation: 'Горло', kanji: 'のど' },
             { japanese: 'くび', translation: 'Шея', kanji: '首' },
-            { japanese: 'かた', translation: 'Плечо' },
-            { japanese: 'せなか', translation: 'Спина' },
-            { japanese: 'おなか', translation: 'Живот' },
-            { japanese: 'むね', translation: 'Грудь' },
+            { japanese: 'かた', translation: 'Плечо', kanji: '肩' },
+            { japanese: 'せなか', translation: 'Спина', kanji: '背中' },
+            { japanese: 'おなか', translation: 'Живот', kanji: 'お腹' },
+            { japanese: 'むね', translation: 'Грудь', kanji: '胸' },
             { japanese: 'ひざ', translation: 'Колено' },
             { japanese: 'ゆび', translation: 'Палец' },
             { japanese: 'からだ', translation: 'Тело' },
@@ -891,7 +896,10 @@ export default [
         words: [
             { japanese: 'くすり', translation: 'Медицина', kanji: '薬' },
             { japanese: 'かぜ', translation: 'Простуда' },
-            { japanese: 'しんさつ', translation: 'Медицинская консультация', kanji: '診察' }
+            { japanese: 'しんさつ', translation: 'Медицинская консультация', kanji: '診察' },
+            { japanese: 'はきけ', translation: 'Тошнота', kanji: '吐き気' },
+            { japanese: 'ねつ', translation: 'Зной, температура', kanji: '熱' },
+            { japanese: 'ど', translation: 'Степень, температура', kanji: '度' }
         ]
     },
     {
@@ -904,7 +912,10 @@ export default [
             { japanese: 'かかく', translation: 'Цена', kanji: '価格' },
             { japanese: 'かいけい', translation: 'Счёт, чек', kanji: '会計' },
             { japanese: 'たま', translation: 'Монета, мячик', kanji: '玉' },
-            { japanese: 'さつ', translation: 'Банкнота', kanji: '札' }
+            { japanese: 'さつ', translation: 'Банкнота', kanji: '札' },
+            { japanese: 'りょうしゅうしょ', translation: 'Квитанция', kanji: '領収書' },
+            { japanese: 'おつり', translation: 'Сдача', kanji: 'おつり' },
+            { japanese: 'しょほうせん', translation: 'Рецепт', kanji: '処方箋' }
         ]
     },
     {
