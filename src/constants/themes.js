@@ -14,7 +14,7 @@ export default [
             { japanese: 'まちます', translation: 'Ждать', kanji: '待ちます' },
             { japanese: 'のります', translation: 'Зайти в поезд, автобус', kanji: '乗ります' },
             { japanese: 'します', translation: 'Делать' },
-            { japanese: 'きます', translation: 'Приходить' },
+            { japanese: 'きます', translation: 'Приходить', kanji: '来ます' },
             { japanese: 'はじまります', translation: 'Начинается', kanji: '始まります' },
             { japanese: 'きんちょうします', translation: 'Нервничать', kanji: '緊張します' },
             { japanese: 'わすれます', translation: 'Забывать', kanji: '忘れます' },
@@ -106,7 +106,8 @@ export default [
             { japanese: 'しんじます', translation: 'Верить', kanji: '信じます' },
             { japanese: 'わらいます', translation: 'Смеяться', kanji: '笑います' },
             { japanese: 'うまれます', translation: 'Родиться', kanji: '生まれます' },
-            { japanese: 'かかります', translation: 'Стоить, занять', kanji: 'かかります' }
+            { japanese: 'かかります', translation: 'Стоить, занять', kanji: 'かかります' },
+            { japanese: 'おぼえます', translation: 'Запомнить', kanji: '覚えます' }
         ]
     },
     {
@@ -120,7 +121,7 @@ export default [
             { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
             { japanese: 'おきゃくさん', translation: 'Посетитель, гость', kanji: 'お客さん' },
             { japanese: 'てんいん', translation: 'Работник, клерк' },
-            { japanese: 'りょこう', translation: 'Поездка', kanji: '旅行' },
+            { japanese: 'りょこう', translation: 'Поездка, путешествие', kanji: '旅行' },
             { japanese: 'たいざい', translation: 'Пребывание', kanji: '滞在' },
             { japanese: 'もくてき', translation: 'Цель', kanji: '目的' },
             { japanese: 'きかん', translation: 'Продолжительность' },
@@ -237,7 +238,9 @@ export default [
             { japanese: 'よやく', translation: 'Бронирование, встреча', kanji: '予約' },
             { japanese: 'ほけんしょう', translation: 'Страховая карта', kanji: '保険証' },
             { japanese: 'かたち', translation: 'Форма', kanji: '形' },
-            { japanese: 'えいぎょう', translation: 'Бизнес, торговля, продажи', kanji: '営業' }
+            { japanese: 'えいぎょう', translation: 'Бизнес, торговля, продажи', kanji: '営業' },
+            { japanese: 'はつおん', translation: 'Произношение', kanji: '発音' },
+            { japanese: 'れんらく', translation: 'Общение, контакт', kanji: '連絡' }
         ]
     },
     {
@@ -287,45 +290,47 @@ export default [
             { japanese: 'あぶない', translation: 'Опасный', kanji: '危ない' },
             { japanese: 'わるい', translation: 'Плохой', kanji: '悪い' },
             { japanese: 'ほそい', translation: 'Худой, тонкий', kanji: '細い' },
-            { japanese: 'ほしい', translation: 'Хотеть' },
-            { japanese: 'いっぱい', translation: 'Полный' },
+            { japanese: 'ほしい', translation: 'Желаемый', kanji: '欲しい' },
+            { japanese: 'いっぱい', translation: 'Полный', kanji: '一杯' },
             { japanese: 'こわい', translation: 'Страшный', kanji: '怖い' },
             { japanese: 'むしあつい', translation: 'Влажный (погода)', kanji: '蒸し暑い' },
-            { japanese: 'ふかい', translation: 'Глубокий', kanji: '深い' }
+            { japanese: 'ふかい', translation: 'Глубокий', kanji: '深い' },
+            { japanese: 'おとなしい', translation: 'Тихий', kanji: 'おとなしい' }
         ]
     },
     {
         title: 'Adjectives (な)',
         words: [
-            { japanese: 'きれい (な)', translation: 'Красивый' },
-            { japanese: 'しずか (な)', translation: 'Спокойный' },
+            { japanese: 'きれい (な)', translation: 'Красивый', kanji: '綺麗 (な)' },
+            { japanese: 'しずか (な)', translation: 'Спокойный', kanji: '静か (な)' },
             { japanese: 'とくべつ (な)', translation: 'Особенный' },
-            { japanese: 'かんたん (な)', translation: 'Простой' },
-            { japanese: 'べんり (な)', translation: 'Удобный' },
-            { japanese: 'ふべん (な)', translation: 'Неудобный' },
-            { japanese: 'すてき (な)', translation: 'Хороший, крутой, фантастический' },
-            { japanese: 'あんぜん (な)', translation: 'Безопасный' },
-            { japanese: 'だいじ (な)', translation: 'Важный' },
-            { japanese: 'だめ (な)', translation: 'Нехороший' },
+            { japanese: 'かんたん (な)', translation: 'Простой', kanji: '簡単 (な)' },
+            { japanese: 'べんり (な)', translation: 'Удобный', kanji: '便利 (な)' },
+            { japanese: 'ふべん (な)', translation: 'Неудобный', kanji: '不便 (な)' },
+            { japanese: 'すてき (な)', translation: 'Хороший, фантастический', kanji: '素敵 (な)' },
+            { japanese: 'あんぜん (な)', translation: 'Безопасный', kanji: '安全 (な)' },
+            { japanese: 'だいじ (な)', translation: 'Важный', kanji: '大事 (な)' },
+            { japanese: 'だめ (な)', translation: 'Нехороший', kanji: '駄目 (な)' },
             { japanese: 'ふしんせつ (な)', translation: 'Недобрый' },
-            { japanese: 'げんき (な)', translation: 'Хороший' },
+            { japanese: 'げんき (な)', translation: 'Хороший', kanji: '元気 (な)' },
             { japanese: 'じょうず (な)', translation: 'Умелый', kanji: '上手 (な)' },
             { japanese: 'へた (な)', translation: 'Неумелый', kanji: '下手 (な)' },
             { japanese: 'ひま (な)', translation: 'Свободный (время)' },
             { japanese: 'いろいろ (な)', translation: 'Различный' },
-            { japanese: 'すき (な)', translation: 'Нравится' },
-            { japanese: 'きらい (な)', translation: 'Несимпатичный (не нравится)' },
+            { japanese: 'すき (な)', translation: 'Нравится', kanji: '好き (な)' },
+            { japanese: 'きらい (な)', translation: 'Несимпатичный (не нравится)', kanji: '嫌い (な)' },
             { japanese: 'にぎやか (な)', translation: 'Живой' },
             { japanese: 'しんせつ (な)', translation: 'Добрый' },
-            { japanese: 'しつれい (な)', translation: 'Грубый' },
-            { japanese: 'ゆうめい (な)', translation: 'Известный' },
+            { japanese: 'しつれい (な)', translation: 'Грубый', kanji: '失礼 (な)' },
+            { japanese: 'ゆうめい (な)', translation: 'Известный', kanji: '有名 (な)' },
             { japanese: 'むり (な)', translation: 'Невозможный' },
             { japanese: 'しょうじき (な)', translation: 'Честный' },
             { japanese: 'しんせん (な)', translation: 'Свежий' },
             { japanese: 'しんけん (な)', translation: 'Серьёзный' },
             { japanese: 'たいへん (な)', translation: 'Трудный, тяжёлый' },
             { japanese: 'かわいそう (な)', translation: 'Бедный, жалкий', kanji: '可哀相 (な)' },
-            { japanese: 'おしゃれ (な)', translation: 'Стильный', kanji: '御洒落 (な)' }
+            { japanese: 'おしゃれ (な)', translation: 'Стильный', kanji: '御洒落 (な)' },
+            { japanese: 'ていねい (な)', translation: 'Вежливый', kanji: '丁寧 (な)' }
         ]
     },
     {
@@ -559,7 +564,7 @@ export default [
         title: 'Technical',
         words: [
             { japanese: 'かいしゃ', translation: 'Корпорация' },
-            { japanese: 'でんわ', translation: 'Телефон' },
+            { japanese: 'でんわ', translation: 'Телефон', kanji: '電話' },
             { japanese: 'パソコン', translation: 'Персональный компьютер' },
             { japanese: 'けいたいでんわ', translation: 'Мобильный телефон', kanji: '携帯電話' },
             { japanese: 'ばんごう', translation: 'Номер' }
