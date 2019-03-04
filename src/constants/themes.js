@@ -365,7 +365,8 @@ export default [
             { japanese: 'まず', translation: 'Прежде всего' },
             { japanese: 'じつは', translation: 'На самом деле', kanji: '実は' },
             { japanese: 'いっしょに', translation: 'Вместе', kanji: '⼀緒に' },
-            { japanese: 'むかし', translation: 'Давно', kanji: '昔' }
+            { japanese: 'むかし', translation: 'Давно', kanji: '昔' },
+            { japanese: 'かわりに', translation: 'Вместо', kanji: '代わりに' }
         ]
     },
     {
