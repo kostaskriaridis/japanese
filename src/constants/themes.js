@@ -107,7 +107,8 @@ export default [
             { japanese: 'わらいます', translation: 'Смеяться', kanji: '笑います' },
             { japanese: 'うまれます', translation: 'Родиться', kanji: '生まれます' },
             { japanese: 'かかります', translation: 'Стоить, занять', kanji: 'かかります' },
-            { japanese: 'おぼえます', translation: 'Запомнить', kanji: '覚えます' }
+            { japanese: 'おぼえます', translation: 'Запомнить', kanji: '覚えます' },
+            { japanese: 'おぼれます', translation: 'Утонуть', kanji: '溺れます' }
         ]
     },
     {
@@ -323,7 +324,7 @@ export default [
             { japanese: 'しんせつ (な)', translation: 'Добрый' },
             { japanese: 'しつれい (な)', translation: 'Грубый', kanji: '失礼 (な)' },
             { japanese: 'ゆうめい (な)', translation: 'Известный', kanji: '有名 (な)' },
-            { japanese: 'むり (な)', translation: 'Невозможный' },
+            { japanese: 'むり (な)', translation: 'Невозможный', kanji: '無理 (な)' },
             { japanese: 'しょうじき (な)', translation: 'Честный' },
             { japanese: 'しんせん (な)', translation: 'Свежий' },
             { japanese: 'しんけん (な)', translation: 'Серьёзный' },
@@ -362,7 +363,8 @@ export default [
             { japanese: 'そろそろ', translation: 'Медленно' },
             { japanese: 'すぐ', translation: 'Немедленно' },
             { japanese: 'まず', translation: 'Прежде всего' },
-            { japanese: 'じつは', translation: 'На самом деле', kanji: '実は' }
+            { japanese: 'じつは', translation: 'На самом деле', kanji: '実は' },
+            { japanese: 'いっしょに', translation: 'Вместе', kanji: '⼀緒に' }
         ]
     },
     {
@@ -633,7 +635,8 @@ export default [
             { japanese: 'おひさしぶり', translation: 'Давно не виделись' },
             { japanese: 'いつも', translation: 'Обычно, всегда' },
             { japanese: 'とけい', translation: 'Часы' },
-            { japanese: 'とりあえず', translation: 'Для начала' }
+            { japanese: 'とりあえず', translation: 'Для начала' },
+            { japanese: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' }
         ]
     },
     {
