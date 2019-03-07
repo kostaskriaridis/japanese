@@ -219,6 +219,7 @@ export default [
             { japanese: 'ごうしつ', translation: 'Счётчик для комнат', kanji: '号室' },
             { japanese: 'かい', translation: 'Счётчик для происшествий', kanji: '回' },
             { japanese: 'まい', translation: 'Счётчик для тонких плоских вещей', kanji: '枚' },
+            { japanese: 'めい', translation: 'Счётчик для людей', kanji: '名' },
             { japanese: 'むし', translation: 'Насекомое', kanji: '虫' },
             { japanese: 'はいります', translation: 'Войти, зайти в', kanji: '入ります' },
             { japanese: 'つき', translation: 'Луна', kanji: '月' },
@@ -561,7 +562,8 @@ export default [
             { japanese: 'ちゅうしゃじょう', translation: 'Автостоянка' },
             { japanese: 'ばすてい', translation: 'Автобусная астоновка' },
             { japanese: 'びょういん', translation: 'Больница', kanji: '病院' },
-            { japanese: 'みち', translation: 'Дорога, улица', kanji: '道' }
+            { japanese: 'みち', translation: 'Дорога, улица', kanji: '道' },
+            { japanese: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' }
         ]
     },
     {
