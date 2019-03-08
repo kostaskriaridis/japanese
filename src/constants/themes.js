@@ -525,11 +525,12 @@ export default [
         title: 'Locations',
         words: [
             { japanese: 'うえ', translation: 'Сверху, вверх, выше', kanji: '上' },
-            { japanese: 'した', translation: 'Снизу, под, ниже' },
-            { japanese: 'なか', translation: 'Внутри' },
+            { japanese: 'した', translation: 'Снизу, под, ниже', kanji: '下' },
+            { japanese: 'なか', translation: 'Внутри', kanji: '中' },
             { japanese: 'そと', translation: 'Снаружи' },
-            { japanese: 'まえ', translation: 'Перед' },
-            { japanese: 'となり', translation: 'Соседний' },
+            { japanese: 'まえ', translation: 'Перед', kanji: '前' },
+            { japanese: 'うしろ', translation: 'Сзади', kanji: '後ろ' },
+            { japanese: 'となり', translation: 'Соседний', kanji: '隣' },
             { japanese: 'ちかく', translation: 'Поблизости', kanji: '近く' },
             { japanese: 'よこ', translation: 'Сторона' },
             { japanese: 'きた', translation: 'Север' },
@@ -537,7 +538,7 @@ export default [
             { japanese: 'にし', translation: 'Запад' },
             { japanese: 'ひがし', translation: 'Восток' },
             { japanese: 'いりぐち', translation: 'Вход' },
-            { japanese: 'でぐち', translation: 'Выход' },
+            { japanese: 'でぐち', translation: 'Выход' }
         ]
     },
     {
