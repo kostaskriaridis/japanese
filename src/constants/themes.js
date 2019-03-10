@@ -108,7 +108,8 @@ export default [
             { japanese: 'うまれます', translation: 'Родиться', kanji: '生まれます' },
             { japanese: 'かかります', translation: 'Стоить, занять', kanji: 'かかります' },
             { japanese: 'おぼえます', translation: 'Запомнить', kanji: '覚えます' },
-            { japanese: 'おぼれます', translation: 'Утонуть', kanji: '溺れます' }
+            { japanese: 'おぼれます', translation: 'Утонуть', kanji: '溺れます' },
+            { japanese: 'おごります', translation: 'Угощать', kanji: 'おごります' }
         ]
     },
     {
@@ -121,14 +122,14 @@ export default [
             { japanese: 'やさしい', translation: 'Доброжелательность' },
             { japanese: 'けっこんしき', translation: 'Свадебная церемония' },
             { japanese: 'おきゃくさん', translation: 'Посетитель, гость', kanji: 'お客さん' },
-            { japanese: 'てんいん', translation: 'Работник, клерк' },
+            { japanese: 'てんいん', translation: 'Работник, клерк', kanji: '店員' },
             { japanese: 'りょこう', translation: 'Поездка, путешествие', kanji: '旅行' },
             { japanese: 'たいざい', translation: 'Пребывание', kanji: '滞在' },
             { japanese: 'もくてき', translation: 'Цель', kanji: '目的' },
             { japanese: 'きかん', translation: 'Продолжительность' },
             { japanese: 'たいざいきかん', translation: 'Продолжительность пребывания' },
             { japanese: 'たいざいもくてき', translation: 'Цель пребывания' },
-            { japanese: 'かんこう', translation: 'Осмотр достопримечательностей' },
+            { japanese: 'かんこう', translation: 'Осмотр достопримечательностей', kanji: '観光' },
             { japanese: 'よてい', translation: 'План', kanji: '予定' },
             { japanese: 'もの', translation: 'Вещь', kanji: '物' },
             { japanese: 'うち', translation: 'Дом, моя семья, моя' },
@@ -220,6 +221,7 @@ export default [
             { japanese: 'かい', translation: 'Счётчик для происшествий', kanji: '回' },
             { japanese: 'まい', translation: 'Счётчик для тонких плоских вещей', kanji: '枚' },
             { japanese: 'めい', translation: 'Счётчик для людей', kanji: '名' },
+            { japanese: '～ぬき', translation: 'Постфикс для фразы "Без ... (чего-нибудь)"', kanji: '～抜き' },
             { japanese: 'むし', translation: 'Насекомое', kanji: '虫' },
             { japanese: 'はいります', translation: 'Войти, зайти в', kanji: '入ります' },
             { japanese: 'つき', translation: 'Луна', kanji: '月' },
@@ -242,7 +244,9 @@ export default [
             { japanese: 'かたち', translation: 'Форма', kanji: '形' },
             { japanese: 'えいぎょう', translation: 'Бизнес, торговля, продажи', kanji: '営業' },
             { japanese: 'はつおん', translation: 'Произношение', kanji: '発音' },
-            { japanese: 'れんらく', translation: 'Общение, контакт', kanji: '連絡' }
+            { japanese: 'れんらく', translation: 'Общение, контакт', kanji: '連絡' },
+            { japanese: 'わりかん', translation: 'Разделение стоимости', kanji: '割り勘' },
+            { japanese: 'おすすめ', translation: 'Рекоммендация', kanji: 'おすすめ' }
         ]
     },
     {
@@ -366,6 +370,7 @@ export default [
             { japanese: 'まず', translation: 'Прежде всего' },
             { japanese: 'じつは', translation: 'На самом деле', kanji: '実は' },
             { japanese: 'いっしょに', translation: 'Вместе', kanji: '⼀緒に' },
+            { japanese: 'べつべつ', translation: 'Раздельно', kanji: '別々' },
             { japanese: 'むかし', translation: 'Давно', kanji: '昔' },
             { japanese: 'かわりに', translation: 'Вместо', kanji: '代わりに' }
         ]
@@ -908,7 +913,8 @@ export default [
             { japanese: 'おはいりください', translation: 'Пожалуйста, проходите' },
             { japanese: 'おかげさまで', translation: 'Благодарен вам' },
             { japanese: 'いかが, どう', translation: 'Как насчёт?' },
-            { japanese: 'こちらこそ', translation: 'То же самое и я' }
+            { japanese: 'こちらこそ', translation: 'То же самое и я' },
+            { japanese: 'けっこうです', translation: 'Нет, спасибо', kanji: '結構です' }
         ]
     },
     {
@@ -949,14 +955,15 @@ export default [
             { japanese: 'おにぎり', translation: 'Рисовый шарик' },
             { japanese: 'ひるごはん', translation: 'Обед' },
             { japanese: 'おかし', translation: 'Конфета' },
-            { japanese: 'やさい', translation: 'Овощи' },
+            { japanese: 'やさい', translation: 'Овощи', kanji: '野菜' },
             { japanese: 'さしみ', translation: 'Порезанная рыба' },
             { japanese: 'しお', translation: 'Соль' },
             { japanese: 'さら', translation: 'Тарелка', kanji: '皿' },
             { japanese: 'からあげ', translation: 'Жареная курица' },
             { japanese: 'かつどん', translation: 'Жареная свинина в панировке и рис' },
             { japanese: 'ていしょく', translation: 'Комплексное блюдо дня', kanji: '定食' },
-            { japanese: 'おおもり', translation: 'Большая порция', kanji: '大盛り' }
+            { japanese: 'おおもり', translation: 'Большая порция', kanji: '大盛り' },
+            { japanese: 'しょうゆ', translation: 'Соевый соус', kanji: 'しょうゆ' }
         ]
     },
     {
