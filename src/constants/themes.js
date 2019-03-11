@@ -144,7 +144,7 @@ export default [
             { japanese: 'てんき', translation: 'Погода', kanji: '天気' },
             { japanese: 'いい、よくない', translation: 'Хороший, нехороший' },
             { japanese: 'ほんとう', translation: 'Правда', kanji: '本当' },
-            { japanese: 'うそ', translation: 'Ложь' },
+            { japanese: 'うそ', translation: 'Ложь', kanji: '嘘' },
             { japanese: 'しんぶん', translation: 'Газета', kanji: '新聞' },
             { japanese: 'どうぶつえん', translation: 'Зоопарк', kanji: '動物園' },
             { japanese: 'どうぶつ', translation: 'Животное', kanji: '動物' },
@@ -302,7 +302,8 @@ export default [
             { japanese: 'こわい', translation: 'Страшный', kanji: '怖い' },
             { japanese: 'むしあつい', translation: 'Влажный (погода)', kanji: '蒸し暑い' },
             { japanese: 'ふかい', translation: 'Глубокий', kanji: '深い' },
-            { japanese: 'おとなしい', translation: 'Тихий', kanji: 'おとなしい' }
+            { japanese: 'おとなしい', translation: 'Тихий', kanji: 'おとなしい' },
+            { japanese: 'しょっぱい', translation: 'Солёный', kanji: 'しょっぱい' }
         ]
     },
     {
@@ -323,7 +324,7 @@ export default [
             { japanese: 'じょうず (な)', translation: 'Умелый', kanji: '上手 (な)' },
             { japanese: 'へた (な)', translation: 'Неумелый', kanji: '下手 (な)' },
             { japanese: 'ひま (な)', translation: 'Свободный (время)' },
-            { japanese: 'いろいろ (な)', translation: 'Различный' },
+            { japanese: 'いろいろ (な)', translation: 'Различный', kanji: '色々 (な)' },
             { japanese: 'すき (な)', translation: 'Нравится', kanji: '好き (な)' },
             { japanese: 'きらい (な)', translation: 'Несимпатичный (не нравится)', kanji: '嫌い (な)' },
             { japanese: 'にぎやか (な)', translation: 'Живой' },
@@ -373,7 +374,9 @@ export default [
             { japanese: 'いっしょに', translation: 'Вместе', kanji: '⼀緒に' },
             { japanese: 'べつべつ', translation: 'Раздельно', kanji: '別々' },
             { japanese: 'むかし', translation: 'Давно', kanji: '昔' },
-            { japanese: 'かわりに', translation: 'Вместо', kanji: '代わりに' }
+            { japanese: 'かわりに', translation: 'Вместо', kanji: '代わりに' },
+            { japanese: 'ぜんぶ', translation: 'Всё', kanji: '全部' },
+            { japanese: 'てづくり', translation: 'Ручной работы', kanji: '手作り' }
         ]
     },
     {
@@ -872,21 +875,6 @@ export default [
             { japanese: 'きゅうまん', translation: '90 000', kanji: '九万' }
         ]
     },
-    {
-        title: 'Numbers Hundreds of Thousands',
-        words: [
-            { japanese: 'じゅうまん', translation: '100 000' },
-            { japanese: 'にじゅうまん', translation: '200 000' },
-            { japanese: 'さんじゅうまん', translation: '300 000' },
-            { japanese: 'よんじゅうまん', translation: '400 000' },
-            { japanese: 'ごじゅうまん', translation: '500 000' },
-            { japanese: 'ろくじゅうまん', translation: '600 000' },
-            { japanese: 'ななじゅうまん', translation: '700 000' },
-            { japanese: 'はちじゅうまん', translation: '800 000' },
-            { japanese: 'きゅうじゅうまん', translation: '900 000' },
-            { japanese: 'ひゃくまん', translation: '1 000 000' }
-        ]
-    },
     */
     {
         title: 'Combinations',
@@ -915,7 +903,8 @@ export default [
             { japanese: 'おかげさまで', translation: 'Благодарен вам' },
             { japanese: 'いかが, どう', translation: 'Как насчёт?' },
             { japanese: 'こちらこそ', translation: 'То же самое и я' },
-            { japanese: 'けっこうです', translation: 'Нет, спасибо', kanji: '結構です' }
+            { japanese: 'けっこうです', translation: 'Нет, спасибо', kanji: '結構です' },
+            { japanese: 'おせわになりました', translation: 'Спасибо за вашу доброту', kanji: 'お世話になりました' }
         ]
     },
     {
@@ -961,7 +950,7 @@ export default [
             { japanese: 'しお', translation: 'Соль' },
             { japanese: 'さら', translation: 'Тарелка', kanji: '皿' },
             { japanese: 'からあげ', translation: 'Жареная курица' },
-            { japanese: 'かつどん', translation: 'Жареная свинина в панировке и рис' },
+            { japanese: 'かつどん', translation: 'Жареная свинина в панировке и рис', kanji: 'カツ丼' },
             { japanese: 'ていしょく', translation: 'Комплексное блюдо дня', kanji: '定食' },
             { japanese: 'おおもり', translation: 'Большая порция', kanji: '大盛り' },
             { japanese: 'しょうゆ', translation: 'Соевый соус', kanji: 'しょうゆ' }
