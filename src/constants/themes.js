@@ -109,7 +109,8 @@ export default [
             { japanese: 'かかります', translation: 'Стоить, занять', kanji: 'かかります' },
             { japanese: 'おぼえます', translation: 'Запомнить', kanji: '覚えます' },
             { japanese: 'おぼれます', translation: 'Утонуть', kanji: '溺れます' },
-            { japanese: 'おごります', translation: 'Угощать', kanji: 'おごります' }
+            { japanese: 'おごります', translation: 'Угощать', kanji: 'おごります' },
+            { japanese: 'ながれます', translation: 'Течь', kanji: '流れます' }
         ]
     },
     {
