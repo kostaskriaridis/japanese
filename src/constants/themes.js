@@ -110,7 +110,8 @@ export default [
             { japanese: 'おぼえます', translation: 'Запомнить', kanji: '覚えます' },
             { japanese: 'おぼれます', translation: 'Утонуть', kanji: '溺れます' },
             { japanese: 'おごります', translation: 'Угощать', kanji: 'おごります' },
-            { japanese: 'ながれます', translation: 'Течь', kanji: '流れます' }
+            { japanese: 'ながれます', translation: 'Течь', kanji: '流れます' },
+            { japanese: 'にあいます', translation: 'Подходить (одежда и пр.)', kanji: '似合います' }
         ]
     },
     {
@@ -247,7 +248,8 @@ export default [
             { japanese: 'はつおん', translation: 'Произношение', kanji: '発音' },
             { japanese: 'れんらく', translation: 'Общение, контакт', kanji: '連絡' },
             { japanese: 'わりかん', translation: 'Разделение стоимости', kanji: '割り勘' },
-            { japanese: 'おすすめ', translation: 'Рекоммендация', kanji: 'おすすめ' }
+            { japanese: 'おすすめ', translation: 'Рекоммендация', kanji: 'おすすめ' },
+            { japanese: 'まんなか', translation: 'Середина', kanji: '真ん中' }
         ]
     },
     {
@@ -650,7 +652,8 @@ export default [
             { japanese: 'いつも', translation: 'Обычно, всегда' },
             { japanese: 'とけい', translation: 'Часы' },
             { japanese: 'とりあえず', translation: 'Для начала' },
-            { japanese: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' }
+            { japanese: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' },
+            { japanese: 'もうすぐ', translation: 'Скоро', kanji: 'もう直ぐ' }
         ]
     },
     {
