@@ -592,21 +592,22 @@ export default [
     {
         title: 'Relations',
         words: [
-            { japanese: 'おとうさん', translation: 'Папа' },
-            { japanese: 'おかあさん', translation: 'Мама' },
+            { japanese: 'おとうさん', translation: 'Папа', kanji: 'お父さん' },
+            { japanese: 'おかあさん', translation: 'Мама', kanji: 'お母さん' },
             { japanese: 'おにいさん', translation: 'Старший брат', kanji: '兄' },
-            { japanese: 'おねえさん', translation: 'Старшая сестра' },
-            { japanese: 'おとうとさん', translation: 'Младший брат' },
-            { japanese: 'いもうとさん', translation: 'Младшая сестра' },
-            { japanese: 'むすこさん', translation: 'Сын' },
-            { japanese: 'むすめさん', translation: 'Дочь' },
-            { japanese: 'まご', translation: 'Внук' },
+            { japanese: 'おねえさん', translation: 'Старшая сестра', kanji: 'お姉さん' },
+            { japanese: 'おとうとさん', translation: 'Младший брат', kanji: '弟さん' },
+            { japanese: 'いもうとさん', translation: 'Младшая сестра', kanji: '妹さん' },
+            { japanese: 'むすこさん', translation: 'Сын', kanji: '息子さん' },
+            { japanese: 'むすめさん', translation: 'Дочь', kanji: '娘さん' },
+            { japanese: 'まご', translation: 'Внук', kanji: '孫' },
             { japanese: 'だんなさん', translation: 'Муж' },
-            { japanese: 'おくさん', translation: 'Жена' },
+            { japanese: 'おくさん', translation: 'Жена', kanji: '奥さん' },
             { japanese: 'つま', translation: 'Моя жена' },
-            { japanese: 'きょうだい', translation: 'Братья и сёстры' },
-            { japanese: 'そふ', translation: 'Дедушка' },
-            { japanese: 'そぼ', translation: 'Бабушка' }
+            { japanese: 'きょうだい', translation: 'Братья и сёстры', kanji: '兄弟' },
+            { japanese: 'そふ', translation: 'Дедушка', kanji: '祖父' },
+            { japanese: 'そぼ', translation: 'Бабушка', kanji: '祖母' },
+            { japanese: 'いとこ', translation: 'Двоюродный' }
         ]
     },
     {
@@ -728,16 +729,16 @@ export default [
     {
         title: 'Month Dates',
         words: [
-            { japanese: 'ついたち', translation: '1 число' },
-            { japanese: 'ふつか', translation: '2 число' },
-            { japanese: 'みっか', translation: '3 число' },
-            { japanese: 'よっか', translation: '4 число' },
+            { japanese: 'ついたち', translation: '1 число', kanji: '一日' },
+            { japanese: 'ふつか', translation: '2 число', kanji: '二日' },
+            { japanese: 'みっか', translation: '3 число', kanji: '三日' },
+            { japanese: 'よっか', translation: '4 число', kanji: '四日' },
             { japanese: 'いつか', translation: '5 число', kanji: '五日' },
-            { japanese: 'むいか', translation: '6 число' },
-            { japanese: 'なのか', translation: '7 число' },
-            { japanese: 'ようか', translation: '8 число' },
-            { japanese: 'ここのか', translation: '9 число' },
-            { japanese: 'とおか', translation: '10 число' },
+            { japanese: 'むいか', translation: '6 число', kanji: '六日' },
+            { japanese: 'なのか', translation: '7 число', kanji: '七日' },
+            { japanese: 'ようか', translation: '8 число', kanji: '八日' },
+            { japanese: 'ここのか', translation: '9 число', kanji: '九日' },
+            { japanese: 'とおか', translation: '10 число', kanji: '十日' },
             /*
             { japanese: 'じゅういちにち', translation: '11 число' },
             { japanese: 'じゅうににち', translation: '12 число' },
@@ -749,7 +750,7 @@ export default [
             { japanese: 'じゅうはちにち', translation: '18 число' },
             { japanese: 'じゅうくにち', translation: '19 число' },
             */
-            { japanese: 'はつか', translation: '20 число' },
+            { japanese: 'はつか', translation: '20 число', kanji: '二十日' },
             /*
             { japanese: 'にじゅういちにち', translation: '21 число' },
             { japanese: 'にじゅうににち', translation: '22 число' },
@@ -768,17 +769,17 @@ export default [
     {
         title: 'Counters. General',
         words: [
-            { japanese: 'ひとつ', translation: 'Один' },
-            { japanese: 'ふたつ', translation: 'Два' },
-            { japanese: 'みっつ', translation: 'Три' },
-            { japanese: 'よっつ', translation: 'Четыре' },
+            { japanese: 'ひとつ', translation: 'Один', kanji: '一つ' },
+            { japanese: 'ふたつ', translation: 'Два', kanji: '二つ' },
+            { japanese: 'みっつ', translation: 'Три', kanji: '三つ' },
+            { japanese: 'よっつ', translation: 'Четыре', kanji: '四つ' },
             { japanese: 'いつつ', translation: 'Пять', kanji: '五つ' },
-            { japanese: 'むっつ', translation: 'Шесть' },
-            { japanese: 'ななつ', translation: 'Семь' },
-            { japanese: 'やっつ', translation: 'Восемь' },
-            { japanese: 'ここのつ', translation: 'Девять' },
-            { japanese: 'とお', translation: 'Десять' },
-            { japanese: 'いくつ', translation: 'Сколько?' }
+            { japanese: 'むっつ', translation: 'Шесть', kanji: '六つ' },
+            { japanese: 'ななつ', translation: 'Семь', kanji: '七つ' },
+            { japanese: 'やっつ', translation: 'Восемь', kanji: '八つ' },
+            { japanese: 'ここのつ', translation: 'Девять', kanji: '九つ' },
+            { japanese: 'とお', translation: 'Десять', kanji: '十つ' },
+            { japanese: 'いくつ', translation: 'Сколько?', kanji: '幾つ' }
         ]
     },
     {
@@ -802,34 +803,34 @@ export default [
     {
         title: 'Counters. People',
         words: [
-            { japanese: 'ひとり', translation: 'Один человек' },
-            { japanese: 'ふたり', translation: 'Два человека' },
-            { japanese: 'さんにん', translation: 'Три человека' },
-            { japanese: 'なんにん', translation: 'Сколько человек?' }
+            { japanese: 'ひとり', translation: 'Один человек', kanji: '一人' },
+            { japanese: 'ふたり', translation: 'Два человека', kanji: '二人' },
+            { japanese: 'さんにん', translation: 'Три человека', kanji: '三人' },
+            { japanese: 'なんにん', translation: 'Сколько человек?', kanji: '何人' }
         ]
     },
     {
         title: 'Age Numbers',
         words: [
-            { japanese: 'いっさい', translation: '1 год' },
-            { japanese: 'にさい', translation: '2 года' },
-            { japanese: 'さんさい', translation: '3 года' },
-            { japanese: 'よんさい', translation: '4 года' },
-            { japanese: 'ごさい', translation: '5 лет' },
-            { japanese: 'ろくさい', translation: '6 лет' },
-            { japanese: 'ななさい', translation: '7 лет' },
-            { japanese: 'はっさい', translation: '8 лет' },
-            { japanese: 'きゅうさい', translation: '9 лет' },
-            { japanese: 'じゅっさい', translation: '10 лет' },
+            { japanese: 'いっさい', translation: '1 год', kanji: '一才' },
+            { japanese: 'にさい', translation: '2 года', kanji: '二才' },
+            { japanese: 'さんさい', translation: '3 года', kanji: '三才' },
+            { japanese: 'よんさい', translation: '4 года', kanji: '四才' },
+            { japanese: 'ごさい', translation: '5 лет', kanji: '五才' },
+            { japanese: 'ろくさい', translation: '6 лет', kanji: '六才' },
+            { japanese: 'ななさい', translation: '7 лет', kanji: '七才' },
+            { japanese: 'はっさい', translation: '8 лет', kanji: '八才' },
+            { japanese: 'きゅうさい', translation: '9 лет', kanji: '九才' },
+            { japanese: 'じゅっさい', translation: '10 лет', kanji: '十才' },
             { japanese: 'じゅいっさい', translation: '11 лет' },
-            { japanese: 'はたち', translation: '20 лет' },
-            { japanese: 'にじゅうっさい', translation: '21 год' }
+            { japanese: 'はたち', translation: '20 лет', kanji: '二十才' },
+            { japanese: 'にじゅうっさい', translation: '21 год', kanji: '二十一才' }
         ]
     },
     {
         title: 'Roles',
         words: [
-            { japanese: 'けいさつかん', translation: 'Офицер полиции' },
+            { japanese: 'けいさつかん', translation: 'Офицер полиции', kanji: '警察官' },
             { japanese: 'りゅうがくせい', translation: 'Студент по обмену', kanji: '留学生' },
             { japanese: 'がくせい', translation: 'Студент', kanji: '学生' },
             { japanese: 'せんこう', translation: 'Специальность', kanji: '専攻' },
@@ -842,14 +843,14 @@ export default [
             { japanese: 'あたま', translation: 'Голова', kanji: '頭' },
             { japanese: 'かみ', translation: 'Волосы, причёска' },
             { japanese: 'こえ', translation: 'Голос', kanji: '声' },
-            { japanese: 'き', translation: 'Чувство' },
-            { japanese: 'かお', translation: 'Лицо' },
+            { japanese: 'き', translation: 'Чувство', kanji: '気' },
+            { japanese: 'かお', translation: 'Лицо', kanji: '顔' },
             { japanese: 'うで', translation: 'Рука (arm)', kanji: '腕' },
             { japanese: 'て', translation: 'Кисть руки (hand)', kanji: '手' },
             { japanese: 'あし', translation: 'Нога', kanji: '足' },
             { japanese: 'はな', translation: 'Нос', kanji: '鼻' },
             { japanese: 'くち', translation: 'Рот', kanji: '口' },
-            { japanese: 'くちびる', translation: 'Губы' },
+            { japanese: 'くちびる', translation: 'Губы', kanji: '唇' },
             { japanese: 'は', translation: 'Зуб', kanji: '歯' },
             { japanese: 'のど', translation: 'Горло', kanji: 'のど' },
             { japanese: 'くび', translation: 'Шея', kanji: '首' },
@@ -857,10 +858,10 @@ export default [
             { japanese: 'せなか', translation: 'Спина', kanji: '背中' },
             { japanese: 'おなか', translation: 'Живот', kanji: 'お腹' },
             { japanese: 'むね', translation: 'Грудь', kanji: '胸' },
-            { japanese: 'ひざ', translation: 'Колено' },
-            { japanese: 'ゆび', translation: 'Палец' },
-            { japanese: 'からだ', translation: 'Тело' },
-            { japanese: 'せ', translation: 'Рост' },
+            { japanese: 'ひざ', translation: 'Колено', kanji: '膝' },
+            { japanese: 'ゆび', translation: 'Палец', kanji: '指' },
+            { japanese: 'からだ', translation: 'Тело', kanji: '体' },
+            { japanese: 'せ', translation: 'Рост', kanji: '背' },
             { japanese: 'みみ', translation: 'Ухо', kanji: '耳' }
         ]
     },
@@ -930,7 +931,7 @@ export default [
             { japanese: 'ぜい', translation: 'Налог' },
             { japanese: 'ぜいこみ', translation: 'Налог включён' },
             { japanese: 'おかね', translation: 'Деньги', kanji: 'お金' },
-            { japanese: 'げんきん', translation: 'Наличные' },
+            { japanese: 'げんきん', translation: 'Наличные', kanji: '現金' },
             { japanese: 'かかく', translation: 'Цена', kanji: '価格' },
             { japanese: 'かいけい', translation: 'Счёт, чек', kanji: '会計' },
             { japanese: 'たま', translation: 'Монета, мячик', kanji: '玉' },
@@ -945,7 +946,6 @@ export default [
         words: [
             { japanese: 'もちかえり', translation: 'Взять с собой' },
             { japanese: 'てんない', translation: 'В магазине' },
-
             { japanese: 'おにぎり', translation: 'Рисовый шарик' },
             { japanese: 'ひるごはん', translation: 'Обед' },
             { japanese: 'おかし', translation: 'Конфета' },

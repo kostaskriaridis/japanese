@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 670
+# Table of japanese words to learn: 671
 #### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -459,24 +459,25 @@
 | `パソコン` | Персональный компьютер | — |
 | `けいたいでんわ` | Мобильный телефон | [携](https://jisho.org/search/%E6%90%BA%20%23kanji)[帯](https://jisho.org/search/%E5%B8%AF%20%23kanji)[電](https://jisho.org/search/%E9%9B%BB%20%23kanji)[話](https://jisho.org/search/%E8%A9%B1%20%23kanji) |
 | `ばんごう` | Номер | — |
-#### Relations (15)
+#### Relations (16)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `おとうさん` | Папа | — |
-| `おかあさん` | Мама | — |
+| `おとうさん` | Папа | お[父](https://jisho.org/search/%E7%88%B6%20%23kanji)さん |
+| `おかあさん` | Мама | お[母](https://jisho.org/search/%E6%AF%8D%20%23kanji)さん |
 | `おにいさん` | Старший брат | [兄](https://jisho.org/search/%E5%85%84%20%23kanji) |
-| `おねえさん` | Старшая сестра | — |
-| `おとうとさん` | Младший брат | — |
-| `いもうとさん` | Младшая сестра | — |
-| `むすこさん` | Сын | — |
-| `むすめさん` | Дочь | — |
-| `まご` | Внук | — |
+| `おねえさん` | Старшая сестра | お[姉](https://jisho.org/search/%E5%A7%89%20%23kanji)さん |
+| `おとうとさん` | Младший брат | [弟](https://jisho.org/search/%E5%BC%9F%20%23kanji)さん |
+| `いもうとさん` | Младшая сестра | [妹](https://jisho.org/search/%E5%A6%B9%20%23kanji)さん |
+| `むすこさん` | Сын | [息](https://jisho.org/search/%E6%81%AF%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji)さん |
+| `むすめさん` | Дочь | [娘](https://jisho.org/search/%E5%A8%98%20%23kanji)さん |
+| `まご` | Внук | [孫](https://jisho.org/search/%E5%AD%AB%20%23kanji) |
 | `だんなさん` | Муж | — |
-| `おくさん` | Жена | — |
+| `おくさん` | Жена | [奥](https://jisho.org/search/%E5%A5%A5%20%23kanji)さん |
 | `つま` | Моя жена | — |
-| `きょうだい` | Братья и сёстры | — |
-| `そふ` | Дедушка | — |
-| `そぼ` | Бабушка | — |
+| `きょうだい` | Братья и сёстры | [兄](https://jisho.org/search/%E5%85%84%20%23kanji)[弟](https://jisho.org/search/%E5%BC%9F%20%23kanji) |
+| `そふ` | Дедушка | [祖](https://jisho.org/search/%E7%A5%96%20%23kanji)[父](https://jisho.org/search/%E7%88%B6%20%23kanji) |
+| `そぼ` | Бабушка | [祖](https://jisho.org/search/%E7%A5%96%20%23kanji)[母](https://jisho.org/search/%E6%AF%8D%20%23kanji) |
+| `いとこ` | Двоюродный | — |
 #### Present, Progressive, Past (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -578,31 +579,31 @@
 #### Month Dates (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `ついたち` | 1 число | — |
-| `ふつか` | 2 число | — |
-| `みっか` | 3 число | — |
-| `よっか` | 4 число | — |
+| `ついたち` | 1 число | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `ふつか` | 2 число | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `みっか` | 3 число | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `よっか` | 4 число | [四](https://jisho.org/search/%E5%9B%9B%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `いつか` | 5 число | [五](https://jisho.org/search/%E4%BA%94%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
-| `むいか` | 6 число | — |
-| `なのか` | 7 число | — |
-| `ようか` | 8 число | — |
-| `ここのか` | 9 число | — |
-| `とおか` | 10 число | — |
-| `はつか` | 20 число | — |
+| `むいか` | 6 число | [六](https://jisho.org/search/%E5%85%AD%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `なのか` | 7 число | [七](https://jisho.org/search/%E4%B8%83%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `ようか` | 8 число | [八](https://jisho.org/search/%E5%85%AB%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `ここのか` | 9 число | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `とおか` | 10 число | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `はつか` | 20 число | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 #### Counters. General (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `ひとつ` | Один | — |
-| `ふたつ` | Два | — |
-| `みっつ` | Три | — |
-| `よっつ` | Четыре | — |
+| `ひとつ` | Один | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)つ |
+| `ふたつ` | Два | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)つ |
+| `みっつ` | Три | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)つ |
+| `よっつ` | Четыре | [四](https://jisho.org/search/%E5%9B%9B%20%23kanji)つ |
 | `いつつ` | Пять | [五](https://jisho.org/search/%E4%BA%94%20%23kanji)つ |
-| `むっつ` | Шесть | — |
-| `ななつ` | Семь | — |
-| `やっつ` | Восемь | — |
-| `ここのつ` | Девять | — |
-| `とお` | Десять | — |
-| `いくつ` | Сколько? | — |
+| `むっつ` | Шесть | [六](https://jisho.org/search/%E5%85%AD%20%23kanji)つ |
+| `ななつ` | Семь | [七](https://jisho.org/search/%E4%B8%83%20%23kanji)つ |
+| `やっつ` | Восемь | [八](https://jisho.org/search/%E5%85%AB%20%23kanji)つ |
+| `ここのつ` | Девять | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)つ |
+| `とお` | Десять | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)つ |
+| `いくつ` | Сколько? | [幾](https://jisho.org/search/%E5%B9%BE%20%23kanji)つ |
 #### Counters. Floors (13)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -622,26 +623,26 @@
 #### Counters. People (4)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `ひとり` | Один человек | — |
-| `ふたり` | Два человека | — |
-| `さんにん` | Три человека | — |
-| `なんにん` | Сколько человек? | — |
+| `ひとり` | Один человек | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
+| `ふたり` | Два человека | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
+| `さんにん` | Три человека | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
+| `なんにん` | Сколько человек? | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
 #### Age Numbers (13)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `いっさい` | 1 год | — |
-| `にさい` | 2 года | — |
-| `さんさい` | 3 года | — |
-| `よんさい` | 4 года | — |
-| `ごさい` | 5 лет | — |
-| `ろくさい` | 6 лет | — |
-| `ななさい` | 7 лет | — |
-| `はっさい` | 8 лет | — |
-| `きゅうさい` | 9 лет | — |
-| `じゅっさい` | 10 лет | — |
+| `いっさい` | 1 год | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `にさい` | 2 года | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `さんさい` | 3 года | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `よんさい` | 4 года | [四](https://jisho.org/search/%E5%9B%9B%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `ごさい` | 5 лет | [五](https://jisho.org/search/%E4%BA%94%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `ろくさい` | 6 лет | [六](https://jisho.org/search/%E5%85%AD%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `ななさい` | 7 лет | [七](https://jisho.org/search/%E4%B8%83%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `はっさい` | 8 лет | [八](https://jisho.org/search/%E5%85%AB%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `きゅうさい` | 9 лет | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `じゅっさい` | 10 лет | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
 | `じゅいっさい` | 11 лет | — |
-| `はたち` | 20 лет | — |
-| `にじゅうっさい` | 21 год | — |
+| `はたち` | 20 лет | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `にじゅうっさい` | 21 год | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
 #### Roles (5)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
