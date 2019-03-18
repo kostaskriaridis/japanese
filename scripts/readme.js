@@ -53,10 +53,28 @@ function renderTheme({ title, words }) {
  */
 function renderWords(words) {
     return words.map(({ japanese, translation, kanji }) => {
-        kanji = kanji ? `\`${kanji}\`` : '—';
-
-        return `| \`${japanese}\` | ${translation} | ${kanji} |`;
+        return `| \`${japanese}\` | ${translation} | ${renderKanji(kanji)} |`;
     });
+}
+
+/**
+ * Rendering kanji
+ * @param {string} kanji
+ * @returns {string} words markdown string
+ */
+function renderKanji(kanji) {
+    if (!kanji) {
+        return '—';
+    }
+
+    return kanji.split('').map(char => {
+        // Если элемент в строке является кандзи, оборачиваем его в ссылку
+        if (char.match(/[\u4e00-\u9faf]/)) {
+            return `[${char}](https://jisho.org/search/${encodeURIComponent(char + ' #kanji')})`;
+        }
+
+        return char;
+    }).join('');
 }
 
 /**
