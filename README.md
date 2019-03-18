@@ -646,7 +646,7 @@
 #### Roles (5)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `けいさつかん` | Офицер полиции | — |
+| `けいさつかん` | Офицер полиции | [警](https://jisho.org/search/%E8%AD%A6%20%23kanji)[察](https://jisho.org/search/%E5%AF%9F%20%23kanji)[官](https://jisho.org/search/%E5%AE%98%20%23kanji) |
 | `りゅうがくせい` | Студент по обмену | [留](https://jisho.org/search/%E7%95%99%20%23kanji)[学](https://jisho.org/search/%E5%AD%A6%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji) |
 | `がくせい` | Студент | [学](https://jisho.org/search/%E5%AD%A6%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji) |
 | `せんこう` | Специальность | [専](https://jisho.org/search/%E5%B0%82%20%23kanji)[攻](https://jisho.org/search/%E6%94%BB%20%23kanji) |
@@ -657,14 +657,14 @@
 | `あたま` | Голова | [頭](https://jisho.org/search/%E9%A0%AD%20%23kanji) |
 | `かみ` | Волосы, причёска | — |
 | `こえ` | Голос | [声](https://jisho.org/search/%E5%A3%B0%20%23kanji) |
-| `き` | Чувство | — |
-| `かお` | Лицо | — |
+| `き` | Чувство | [気](https://jisho.org/search/%E6%B0%97%20%23kanji) |
+| `かお` | Лицо | [顔](https://jisho.org/search/%E9%A1%94%20%23kanji) |
 | `うで` | Рука (arm) | [腕](https://jisho.org/search/%E8%85%95%20%23kanji) |
 | `て` | Кисть руки (hand) | [手](https://jisho.org/search/%E6%89%8B%20%23kanji) |
 | `あし` | Нога | [足](https://jisho.org/search/%E8%B6%B3%20%23kanji) |
 | `はな` | Нос | [鼻](https://jisho.org/search/%E9%BC%BB%20%23kanji) |
 | `くち` | Рот | [口](https://jisho.org/search/%E5%8F%A3%20%23kanji) |
-| `くちびる` | Губы | — |
+| `くちびる` | Губы | [唇](https://jisho.org/search/%E5%94%87%20%23kanji) |
 | `は` | Зуб | [歯](https://jisho.org/search/%E6%AD%AF%20%23kanji) |
 | `のど` | Горло | のど |
 | `くび` | Шея | [首](https://jisho.org/search/%E9%A6%96%20%23kanji) |
@@ -672,10 +672,10 @@
 | `せなか` | Спина | [背](https://jisho.org/search/%E8%83%8C%20%23kanji)[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
 | `おなか` | Живот | お[腹](https://jisho.org/search/%E8%85%B9%20%23kanji) |
 | `むね` | Грудь | [胸](https://jisho.org/search/%E8%83%B8%20%23kanji) |
-| `ひざ` | Колено | — |
-| `ゆび` | Палец | — |
-| `からだ` | Тело | — |
-| `せ` | Рост | — |
+| `ひざ` | Колено | [膝](https://jisho.org/search/%E8%86%9D%20%23kanji) |
+| `ゆび` | Палец | [指](https://jisho.org/search/%E6%8C%87%20%23kanji) |
+| `からだ` | Тело | [体](https://jisho.org/search/%E4%BD%93%20%23kanji) |
+| `せ` | Рост | [背](https://jisho.org/search/%E8%83%8C%20%23kanji) |
 | `みみ` | Ухо | [耳](https://jisho.org/search/%E8%80%B3%20%23kanji) |
 #### Combinations (2)
 | Japanese | Translation | Kanji |
@@ -721,7 +721,7 @@
 | `ぜい` | Налог | — |
 | `ぜいこみ` | Налог включён | — |
 | `おかね` | Деньги | お[金](https://jisho.org/search/%E9%87%91%20%23kanji) |
-| `げんきん` | Наличные | — |
+| `げんきん` | Наличные | [現](https://jisho.org/search/%E7%8F%BE%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) |
 | `かかく` | Цена | [価](https://jisho.org/search/%E4%BE%A1%20%23kanji)[格](https://jisho.org/search/%E6%A0%BC%20%23kanji) |
 | `かいけい` | Счёт, чек | [会](https://jisho.org/search/%E4%BC%9A%20%23kanji)[計](https://jisho.org/search/%E8%A8%88%20%23kanji) |
 | `たま` | Монета, мячик | [玉](https://jisho.org/search/%E7%8E%89%20%23kanji) |
