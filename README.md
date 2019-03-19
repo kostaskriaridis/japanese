@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 671
+# Table of japanese words to learn: 672
 #### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -249,7 +249,7 @@
 | `わりかん` | Разделение стоимости | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)り[勘](https://jisho.org/search/%E5%8B%98%20%23kanji) |
 | `おすすめ` | Рекоммендация | おすすめ |
 | `まんなか` | Середина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)ん[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
-#### Adjectives (い) (51)
+#### Adjectives (い) (52)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ながい` | Длинный | [長](https://jisho.org/search/%E9%95%B7%20%23kanji)い |
@@ -303,6 +303,7 @@
 | `ふかい` | Глубокий | [深](https://jisho.org/search/%E6%B7%B1%20%23kanji)い |
 | `おとなしい` | Тихий | おとなしい |
 | `しょっぱい` | Солёный | しょっぱい |
+| `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい |
 #### Adjectives (な) (30)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

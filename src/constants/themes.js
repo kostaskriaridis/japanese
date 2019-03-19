@@ -306,7 +306,8 @@ export default [
             { japanese: 'むしあつい', translation: 'Влажный (погода)', kanji: '蒸し暑い' },
             { japanese: 'ふかい', translation: 'Глубокий', kanji: '深い' },
             { japanese: 'おとなしい', translation: 'Тихий', kanji: 'おとなしい' },
-            { japanese: 'しょっぱい', translation: 'Солёный', kanji: 'しょっぱい' }
+            { japanese: 'しょっぱい', translation: 'Солёный', kanji: 'しょっぱい' },
+            { japanese: 'うつくしい', translation: 'Красивый', kanji: '美しい' }
         ]
     },
     {
