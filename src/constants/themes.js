@@ -677,7 +677,7 @@ export default [
     {
         title: 'Dates',
         words: [
-            { japanese: 'たんじょうび', translation: 'День рождения' },
+            { japanese: 'たんじょうび', translation: 'День рождения', kanji: '誕生日' },
             { japanese: 'あけまして', translation: 'С новым годом' },
             { japanese: 'おめでとうございます', translation: 'Поздравляю' },
             { japanese: 'がつ', translation: 'Месяц', kanji: '月' },
@@ -685,13 +685,13 @@ export default [
 
             { japanese: 'いま', translation: 'Сейчас', kanji: '今' },
             { japanese: 'やすみ', translation: 'Отпуск', kanji: '休み' },
-            { japanese: 'いつ', translation: 'Когда, время' },
-            { japanese: 'しゅうかん', translation: 'Неделя' },
+            { japanese: 'いつ', translation: 'Когда, время', kanji: '何時' },
+            { japanese: 'しゅうかん', translation: 'Неделя', kanji: '週間' },
 
             { japanese: 'きのう', translation: 'Вчера', kanji: '昨日' },
             { japanese: 'きょう', translation: 'Сегодня', kanji: '今日 ' },
             { japanese: 'あした', translation: 'Завтра', kanji: '明日' },
-            { japanese: 'あさって', translation: 'Послезавтра' },
+            { japanese: 'あさって', translation: 'Послезавтра', kanji: '明後日' },
 
             { japanese: 'せんしゅう', translation: 'Прошлая неделя', kanji: '先週' },
             { japanese: 'こんしゅう', translation: 'Текущая неделя', kanji: '今週' },
@@ -708,7 +708,7 @@ export default [
             { japanese: 'そのあと', translation: 'После этого' },
             { japanese: 'あさ', translation: 'Утро', kanji: '朝' },
             { japanese: 'ひる', translation: 'День', kanji: '昼' },
-            { japanese: 'ばん', translation: 'Вечер' },
+            { japanese: 'ばん', translation: 'Вечер', kanji: '晩' },
             { japanese: 'よる', translation: 'Ночь', kanji: '夜' }
         ]
     },
@@ -928,7 +928,7 @@ export default [
     {
         title: 'Money',
         words: [
-            { japanese: 'ぜい', translation: 'Налог' },
+            { japanese: 'ぜい', translation: 'Налог', kanji: '税' },
             { japanese: 'ぜいこみ', translation: 'Налог включён' },
             { japanese: 'おかね', translation: 'Деньги', kanji: 'お金' },
             { japanese: 'げんきん', translation: 'Наличные', kanji: '現金' },
@@ -946,9 +946,9 @@ export default [
         words: [
             { japanese: 'もちかえり', translation: 'Взять с собой' },
             { japanese: 'てんない', translation: 'В магазине' },
-            { japanese: 'おにぎり', translation: 'Рисовый шарик' },
-            { japanese: 'ひるごはん', translation: 'Обед' },
-            { japanese: 'おかし', translation: 'Конфета' },
+            { japanese: 'おにぎり', translation: 'Рисовый шарик', kanji: 'お握り' },
+            { japanese: 'ひるごはん', translation: 'Обед', kanji: '昼ご飯' },
+            { japanese: 'おかし', translation: 'Конфета', kanji: 'お菓子' },
             { japanese: 'やさい', translation: 'Овощи', kanji: '野菜' },
             { japanese: 'さしみ', translation: 'Порезанная рыба' },
             { japanese: 'しお', translation: 'Соль' },

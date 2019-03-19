@@ -537,19 +537,19 @@
 #### Dates (27)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `たんじょうび` | День рождения | — |
+| `たんじょうび` | День рождения | [誕](https://jisho.org/search/%E8%AA%95%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `あけまして` | С новым годом | — |
 | `おめでとうございます` | Поздравляю | — |
 | `がつ` | Месяц | [月](https://jisho.org/search/%E6%9C%88%20%23kanji) |
 | `にち` | День | [日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `いま` | Сейчас | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji) |
 | `やすみ` | Отпуск | [休](https://jisho.org/search/%E4%BC%91%20%23kanji)み |
-| `いつ` | Когда, время | — |
-| `しゅうかん` | Неделя | — |
+| `いつ` | Когда, время | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[時](https://jisho.org/search/%E6%99%82%20%23kanji) |
+| `しゅうかん` | Неделя | [週](https://jisho.org/search/%E9%80%B1%20%23kanji)[間](https://jisho.org/search/%E9%96%93%20%23kanji) |
 | `きのう` | Вчера | [昨](https://jisho.org/search/%E6%98%A8%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `きょう` | Сегодня | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji)  |
 | `あした` | Завтра | [明](https://jisho.org/search/%E6%98%8E%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
-| `あさって` | Послезавтра | — |
+| `あさって` | Послезавтра | [明](https://jisho.org/search/%E6%98%8E%20%23kanji)[後](https://jisho.org/search/%E5%BE%8C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `せんしゅう` | Прошлая неделя | [先](https://jisho.org/search/%E5%85%88%20%23kanji)[週](https://jisho.org/search/%E9%80%B1%20%23kanji) |
 | `こんしゅう` | Текущая неделя | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[週](https://jisho.org/search/%E9%80%B1%20%23kanji) |
 | `らいしゅう` | Следующая неделя | [来](https://jisho.org/search/%E6%9D%A5%20%23kanji)[週](https://jisho.org/search/%E9%80%B1%20%23kanji) |
@@ -562,7 +562,7 @@
 | `そのあと` | После этого | — |
 | `あさ` | Утро | [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji) |
 | `ひる` | День | [昼](https://jisho.org/search/%E6%98%BC%20%23kanji) |
-| `ばん` | Вечер | — |
+| `ばん` | Вечер | [晩](https://jisho.org/search/%E6%99%A9%20%23kanji) |
 | `よる` | Ночь | [夜](https://jisho.org/search/%E5%A4%9C%20%23kanji) |
 #### Week Days (9)
 | Japanese | Translation | Kanji |
@@ -718,7 +718,7 @@
 #### Money (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `ぜい` | Налог | — |
+| `ぜい` | Налог | [税](https://jisho.org/search/%E7%A8%8E%20%23kanji) |
 | `ぜいこみ` | Налог включён | — |
 | `おかね` | Деньги | お[金](https://jisho.org/search/%E9%87%91%20%23kanji) |
 | `げんきん` | Наличные | [現](https://jisho.org/search/%E7%8F%BE%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) |
@@ -734,9 +734,9 @@
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
 | `てんない` | В магазине | — |
-| `おにぎり` | Рисовый шарик | — |
-| `ひるごはん` | Обед | — |
-| `おかし` | Конфета | — |
+| `おにぎり` | Рисовый шарик | お[握](https://jisho.org/search/%E6%8F%A1%20%23kanji)り |
+| `ひるごはん` | Обед | [昼](https://jisho.org/search/%E6%98%BC%20%23kanji)ご[飯](https://jisho.org/search/%E9%A3%AF%20%23kanji) |
+| `おかし` | Конфета | お[菓](https://jisho.org/search/%E8%8F%93%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
 | `やさい` | Овощи | [野](https://jisho.org/search/%E9%87%8E%20%23kanji)[菜](https://jisho.org/search/%E8%8F%9C%20%23kanji) |
 | `さしみ` | Порезанная рыба | — |
 | `しお` | Соль | — |
