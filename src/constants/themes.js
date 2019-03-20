@@ -342,18 +342,22 @@ export default [
             { japanese: 'たいへん (な)', translation: 'Трудный, тяжёлый' },
             { japanese: 'かわいそう (な)', translation: 'Бедный, жалкий', kanji: '可哀相 (な)' },
             { japanese: 'おしゃれ (な)', translation: 'Стильный', kanji: '御洒落 (な)' },
-            { japanese: 'ていねい (な)', translation: 'Вежливый', kanji: '丁寧 (な)' }
+            { japanese: 'ていねい (な)', translation: 'Вежливый', kanji: '丁寧 (な)' },
+            { japanese: 'ぜっこうちょう (な)', translation: 'Восхитительный', kanji: '絶好調 (な)' },
+            { japanese: 'まあまあ (な)', translation: 'Так себе', kanji: 'まあまあ (な)' }
         ]
     },
     {
         title: 'Adverbs',
         words: [
             { japanese: 'ちょっと', translation: 'Немного' },
+            { japanese: 'なんて', translation: 'Как (что-то)' },
             { japanese: 'うれしい', translation: 'Рад' },
             { japanese: 'また', translation: 'Также' },
             { japanese: 'こんなふうに', translation: 'Также (like this)' },
             { japanese: 'ちょうど', translation: 'Точно' },
             { japanese: 'たぶん', translation: 'Вероятно, возможно' },
+            { japanese: 'でしょう', translation: 'Вероятно, возможно' },
             { japanese: 'だけ', translation: 'Только' },
             { japanese: 'もちろん', translation: 'Конечно' },
             { japanese: 'やさしく', translation: 'Осторожно' },

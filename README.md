@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 672
+# Table of japanese words to learn: 676
 #### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -304,7 +304,7 @@
 | `おとなしい` | Тихий | おとなしい |
 | `しょっぱい` | Солёный | しょっぱい |
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい |
-#### Adjectives (な) (30)
+#### Adjectives (な) (32)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `きれい (な)` | Красивый | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) |
@@ -337,15 +337,19 @@
 | `かわいそう (な)` | Бедный, жалкий | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[哀](https://jisho.org/search/%E5%93%80%20%23kanji)[相](https://jisho.org/search/%E7%9B%B8%20%23kanji) (な) |
 | `おしゃれ (な)` | Стильный | [御](https://jisho.org/search/%E5%BE%A1%20%23kanji)[洒](https://jisho.org/search/%E6%B4%92%20%23kanji)[落](https://jisho.org/search/%E8%90%BD%20%23kanji) (な) |
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
-#### Adverbs (33)
+| `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
+| `まあまあ (な)` | Так себе | まあまあ (な) |
+#### Adverbs (35)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
+| `なんて` | Как (что-то) | — |
 | `うれしい` | Рад | — |
 | `また` | Также | — |
 | `こんなふうに` | Также (like this) | — |
 | `ちょうど` | Точно | — |
 | `たぶん` | Вероятно, возможно | — |
+| `でしょう` | Вероятно, возможно | — |
 | `だけ` | Только | — |
 | `もちろん` | Конечно | — |
 | `やさしく` | Осторожно | — |
