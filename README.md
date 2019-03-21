@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 676
+# Table of japanese words to learn: 680
 #### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -113,7 +113,7 @@
 | `ながれます` | Течь | [流](https://jisho.org/search/%E6%B5%81%20%23kanji)れます |
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
-#### Nouns (133)
+#### Nouns (135)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -249,6 +249,8 @@
 | `わりかん` | Разделение стоимости | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)り[勘](https://jisho.org/search/%E5%8B%98%20%23kanji) |
 | `おすすめ` | Рекоммендация | おすすめ |
 | `まんなか` | Середина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)ん[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
+| `ちょうし` | Состояние | [調](https://jisho.org/search/%E8%AA%BF%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
+| `こくせき` | Национальность | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji)[籍](https://jisho.org/search/%E7%B1%8D%20%23kanji) |
 #### Adjectives (い) (52)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -339,7 +341,7 @@
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
 | `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
 | `まあまあ (な)` | Так себе | まあまあ (な) |
-#### Adverbs (35)
+#### Adverbs (36)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -377,6 +379,7 @@
 | `かわりに` | Вместо | [代](https://jisho.org/search/%E4%BB%A3%20%23kanji)わりに |
 | `ぜんぶ` | Всё | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)[部](https://jisho.org/search/%E9%83%A8%20%23kanji) |
 | `てづくり` | Ручной работы | [手](https://jisho.org/search/%E6%89%8B%20%23kanji)[作](https://jisho.org/search/%E4%BD%9C%20%23kanji)り |
+| `めちゃめちゃ` | Очень, супер | めちゃめちゃ |
 #### Sentences (35)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -543,7 +546,7 @@
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `たんじょうび` | День рождения | [誕](https://jisho.org/search/%E8%AA%95%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
-| `あけまして` | С новым годом | — |
+| `あけまして` | С новым годом | [明](https://jisho.org/search/%E6%98%8E%20%23kanji)けまして |
 | `おめでとうございます` | Поздравляю | — |
 | `がつ` | Месяц | [月](https://jisho.org/search/%E6%9C%88%20%23kanji) |
 | `にち` | День | [日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
@@ -734,7 +737,7 @@
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
 | `おつり` | Сдача | おつり |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
-#### Food (14)
+#### Food (15)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
@@ -751,6 +754,7 @@
 | `ていしょく` | Комплексное блюдо дня | [定](https://jisho.org/search/%E5%AE%9A%20%23kanji)[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) |
 | `おおもり` | Большая порция | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[盛](https://jisho.org/search/%E7%9B%9B%20%23kanji)り |
 | `しょうゆ` | Соевый соус | しょうゆ |
+| `あさめしまえ` | Кусок торта | [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji)[飯](https://jisho.org/search/%E9%A3%AF%20%23kanji)[前](https://jisho.org/search/%E5%89%8D%20%23kanji) |
 #### Class 1 verbs. When ます is preceded by -i (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

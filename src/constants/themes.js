@@ -250,7 +250,9 @@ export default [
             { japanese: 'れんらく', translation: 'Общение, контакт', kanji: '連絡' },
             { japanese: 'わりかん', translation: 'Разделение стоимости', kanji: '割り勘' },
             { japanese: 'おすすめ', translation: 'Рекоммендация', kanji: 'おすすめ' },
-            { japanese: 'まんなか', translation: 'Середина', kanji: '真ん中' }
+            { japanese: 'まんなか', translation: 'Середина', kanji: '真ん中' },
+            { japanese: 'ちょうし', translation: 'Состояние', kanji: '調子' },
+            { japanese: 'こくせき', translation: 'Национальность', kanji: '国籍' }
         ]
     },
     {
@@ -384,7 +386,8 @@ export default [
             { japanese: 'むかし', translation: 'Давно', kanji: '昔' },
             { japanese: 'かわりに', translation: 'Вместо', kanji: '代わりに' },
             { japanese: 'ぜんぶ', translation: 'Всё', kanji: '全部' },
-            { japanese: 'てづくり', translation: 'Ручной работы', kanji: '手作り' }
+            { japanese: 'てづくり', translation: 'Ручной работы', kanji: '手作り' },
+            { japanese: 'めちゃめちゃ', translation: 'Очень, супер', kanji: 'めちゃめちゃ' }
         ]
     },
     {
@@ -683,7 +686,7 @@ export default [
         title: 'Dates',
         words: [
             { japanese: 'たんじょうび', translation: 'День рождения', kanji: '誕生日' },
-            { japanese: 'あけまして', translation: 'С новым годом' },
+            { japanese: 'あけまして', translation: 'С новым годом', kanji: '明けまして' },
             { japanese: 'おめでとうございます', translation: 'Поздравляю' },
             { japanese: 'がつ', translation: 'Месяц', kanji: '月' },
             { japanese: 'にち', translation: 'День', kanji: '日' },
@@ -962,7 +965,8 @@ export default [
             { japanese: 'かつどん', translation: 'Жареная свинина в панировке и рис', kanji: 'カツ丼' },
             { japanese: 'ていしょく', translation: 'Комплексное блюдо дня', kanji: '定食' },
             { japanese: 'おおもり', translation: 'Большая порция', kanji: '大盛り' },
-            { japanese: 'しょうゆ', translation: 'Соевый соус', kanji: 'しょうゆ' }
+            { japanese: 'しょうゆ', translation: 'Соевый соус', kanji: 'しょうゆ' },
+            { japanese: 'あさめしまえ', translation: 'Кусок торта', kanji: '朝飯前' }
         ]
     },
     {
