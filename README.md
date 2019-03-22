@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 680
+# Table of japanese words to learn: 682
 #### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -341,7 +341,7 @@
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
 | `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
 | `まあまあ (な)` | Так себе | まあまあ (な) |
-#### Adverbs (36)
+#### Adverbs (38)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -380,6 +380,8 @@
 | `ぜんぶ` | Всё | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)[部](https://jisho.org/search/%E9%83%A8%20%23kanji) |
 | `てづくり` | Ручной работы | [手](https://jisho.org/search/%E6%89%8B%20%23kanji)[作](https://jisho.org/search/%E4%BD%9C%20%23kanji)り |
 | `めちゃめちゃ` | Очень, супер | めちゃめちゃ |
+| `あいかわらず` | Как обычно | [相](https://jisho.org/search/%E7%9B%B8%20%23kanji)[変](https://jisho.org/search/%E5%A4%89%20%23kanji)わらず |
+| `かなり` | Значительно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[也](https://jisho.org/search/%E4%B9%9F%20%23kanji) |
 #### Sentences (35)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -638,19 +640,19 @@
 #### Age Numbers (13)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `いっさい` | 1 год | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `にさい` | 2 года | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `さんさい` | 3 года | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `よんさい` | 4 года | [四](https://jisho.org/search/%E5%9B%9B%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `ごさい` | 5 лет | [五](https://jisho.org/search/%E4%BA%94%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `ろくさい` | 6 лет | [六](https://jisho.org/search/%E5%85%AD%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `ななさい` | 7 лет | [七](https://jisho.org/search/%E4%B8%83%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `はっさい` | 8 лет | [八](https://jisho.org/search/%E5%85%AB%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `きゅうさい` | 9 лет | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `じゅっさい` | 10 лет | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `じゅいっさい` | 11 лет | — |
-| `はたち` | 20 лет | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
-| `にじゅうっさい` | 21 год | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[才](https://jisho.org/search/%E6%89%8D%20%23kanji) |
+| `いっさい` | 1 год | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `にさい` | 2 года | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `さんさい` | 3 года | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `よんさい` | 4 года | [四](https://jisho.org/search/%E5%9B%9B%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `ごさい` | 5 лет | [五](https://jisho.org/search/%E4%BA%94%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `ろくさい` | 6 лет | [六](https://jisho.org/search/%E5%85%AD%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `ななさい` | 7 лет | [七](https://jisho.org/search/%E4%B8%83%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `はっさい` | 8 лет | [八](https://jisho.org/search/%E5%85%AB%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `きゅうさい` | 9 лет | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `じゅっさい` | 10 лет | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `じゅいっさい` | 11 лет | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `はたち` | 20 лет | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
+| `にじゅうっさい` | 21 год | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
 #### Roles (5)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

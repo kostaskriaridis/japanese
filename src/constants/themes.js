@@ -387,7 +387,9 @@ export default [
             { japanese: 'かわりに', translation: 'Вместо', kanji: '代わりに' },
             { japanese: 'ぜんぶ', translation: 'Всё', kanji: '全部' },
             { japanese: 'てづくり', translation: 'Ручной работы', kanji: '手作り' },
-            { japanese: 'めちゃめちゃ', translation: 'Очень, супер', kanji: 'めちゃめちゃ' }
+            { japanese: 'めちゃめちゃ', translation: 'Очень, супер', kanji: 'めちゃめちゃ' },
+            { japanese: 'あいかわらず', translation: 'Как обычно', kanji: '相変わらず' },
+            { japanese: 'かなり', translation: 'Значительно', kanji: '可也' }
         ]
     },
     {
@@ -820,19 +822,19 @@ export default [
     {
         title: 'Age Numbers',
         words: [
-            { japanese: 'いっさい', translation: '1 год', kanji: '一才' },
-            { japanese: 'にさい', translation: '2 года', kanji: '二才' },
-            { japanese: 'さんさい', translation: '3 года', kanji: '三才' },
-            { japanese: 'よんさい', translation: '4 года', kanji: '四才' },
-            { japanese: 'ごさい', translation: '5 лет', kanji: '五才' },
-            { japanese: 'ろくさい', translation: '6 лет', kanji: '六才' },
-            { japanese: 'ななさい', translation: '7 лет', kanji: '七才' },
-            { japanese: 'はっさい', translation: '8 лет', kanji: '八才' },
-            { japanese: 'きゅうさい', translation: '9 лет', kanji: '九才' },
-            { japanese: 'じゅっさい', translation: '10 лет', kanji: '十才' },
-            { japanese: 'じゅいっさい', translation: '11 лет' },
-            { japanese: 'はたち', translation: '20 лет', kanji: '二十才' },
-            { japanese: 'にじゅうっさい', translation: '21 год', kanji: '二十一才' }
+            { japanese: 'いっさい', translation: '1 год', kanji: '一歳' },
+            { japanese: 'にさい', translation: '2 года', kanji: '二歳' },
+            { japanese: 'さんさい', translation: '3 года', kanji: '三歳' },
+            { japanese: 'よんさい', translation: '4 года', kanji: '四歳' },
+            { japanese: 'ごさい', translation: '5 лет', kanji: '五歳' },
+            { japanese: 'ろくさい', translation: '6 лет', kanji: '六歳' },
+            { japanese: 'ななさい', translation: '7 лет', kanji: '七歳' },
+            { japanese: 'はっさい', translation: '8 лет', kanji: '八歳' },
+            { japanese: 'きゅうさい', translation: '9 лет', kanji: '九歳' },
+            { japanese: 'じゅっさい', translation: '10 лет', kanji: '十歳' },
+            { japanese: 'じゅいっさい', translation: '11 лет', kanji: '十一歳' },
+            { japanese: 'はたち', translation: '20 лет', kanji: '二十歳' },
+            { japanese: 'にじゅうっさい', translation: '21 год', kanji: '二十一歳' }
         ]
     },
     {
