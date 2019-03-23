@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 683
-#### Verbs (111)
+# Table of japanese words to learn: 688
+#### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します |
@@ -113,7 +113,8 @@
 | `ながれます` | Течь | [流](https://jisho.org/search/%E6%B5%81%20%23kanji)れます |
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
-#### Nouns (136)
+| `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
+#### Nouns (139)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -141,6 +142,7 @@
 | `くに` | Страна | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji) |
 | `まくら` | Подушка | [枕](https://jisho.org/search/%E6%9E%95%20%23kanji) |
 | `かばん` | Сумка | [鞄](https://jisho.org/search/%E9%9E%84%20%23kanji) |
+| `ぼうし` | Шляпа | [帽](https://jisho.org/search/%E5%B8%BD%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
 | `てんき` | Погода | [天](https://jisho.org/search/%E5%A4%A9%20%23kanji)[気](https://jisho.org/search/%E6%B0%97%20%23kanji) |
 | `いい、よくない` | Хороший, нехороший | — |
 | `ほんとう` | Правда | [本](https://jisho.org/search/%E6%9C%AC%20%23kanji)[当](https://jisho.org/search/%E5%BD%93%20%23kanji) |
@@ -252,6 +254,8 @@
 | `ちょうし` | Состояние | [調](https://jisho.org/search/%E8%AA%BF%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
 | `こくせき` | Национальность | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji)[籍](https://jisho.org/search/%E7%B1%8D%20%23kanji) |
 | `かがみ` | Зеркало | [鏡](https://jisho.org/search/%E9%8F%A1%20%23kanji) |
+| `もんだい` | Проблема, вопрос | [問](https://jisho.org/search/%E5%95%8F%20%23kanji)[題](https://jisho.org/search/%E9%A1%8C%20%23kanji) |
+| `しま` | Остров | [島](https://jisho.org/search/%E5%B3%B6%20%23kanji) |
 #### Adjectives (い) (52)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -713,7 +717,7 @@
 | `おかげさまで` | Благодарен вам | — |
 | `いかが, どう` | Как насчёт? | — |
 | `こちらこそ` | То же самое и я | — |
-| `けっこうです` | Нет, спасибо | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[構](https://jisho.org/search/%E6%A7%8B%20%23kanji)です |
+| `けっこう` | Нет, спасибо | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[構](https://jisho.org/search/%E6%A7%8B%20%23kanji) |
 | `おせわになりました` | Спасибо за вашу доброту | お[世](https://jisho.org/search/%E4%B8%96%20%23kanji)[話](https://jisho.org/search/%E8%A9%B1%20%23kanji)になりました |
 #### Medicine (8)
 | Japanese | Translation | Kanji |
@@ -740,7 +744,7 @@
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
 | `おつり` | Сдача | おつり |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
-#### Food (15)
+#### Food (16)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
@@ -754,6 +758,7 @@
 | `さら` | Тарелка | [皿](https://jisho.org/search/%E7%9A%BF%20%23kanji) |
 | `からあげ` | Жареная курица | — |
 | `かつどん` | Жареная свинина в панировке и рис | カツ[丼](https://jisho.org/search/%E4%B8%BC%20%23kanji) |
+| `とんかつ` | Свиная котлета | [豚](https://jisho.org/search/%E8%B1%9A%20%23kanji)カツ |
 | `ていしょく` | Комплексное блюдо дня | [定](https://jisho.org/search/%E5%AE%9A%20%23kanji)[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) |
 | `おおもり` | Большая порция | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[盛](https://jisho.org/search/%E7%9B%9B%20%23kanji)り |
 | `しょうゆ` | Соевый соус | しょうゆ |
