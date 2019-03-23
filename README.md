@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 682
+# Table of japanese words to learn: 683
 #### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -113,7 +113,7 @@
 | `ながれます` | Течь | [流](https://jisho.org/search/%E6%B5%81%20%23kanji)れます |
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
-#### Nouns (135)
+#### Nouns (136)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -251,6 +251,7 @@
 | `まんなか` | Середина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)ん[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
 | `ちょうし` | Состояние | [調](https://jisho.org/search/%E8%AA%BF%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
 | `こくせき` | Национальность | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji)[籍](https://jisho.org/search/%E7%B1%8D%20%23kanji) |
+| `かがみ` | Зеркало | [鏡](https://jisho.org/search/%E9%8F%A1%20%23kanji) |
 #### Adjectives (い) (52)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

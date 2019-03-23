@@ -252,7 +252,8 @@ export default [
             { japanese: 'おすすめ', translation: 'Рекоммендация', kanji: 'おすすめ' },
             { japanese: 'まんなか', translation: 'Середина', kanji: '真ん中' },
             { japanese: 'ちょうし', translation: 'Состояние', kanji: '調子' },
-            { japanese: 'こくせき', translation: 'Национальность', kanji: '国籍' }
+            { japanese: 'こくせき', translation: 'Национальность', kanji: '国籍' },
+            { japanese: 'かがみ', translation: 'Зеркало', kanji: '鏡' }
         ]
     },
     {
