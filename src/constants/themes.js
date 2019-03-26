@@ -394,7 +394,9 @@ export default [
             { japanese: 'てづくり', translation: 'Ручной работы', kanji: '手作り' },
             { japanese: 'めちゃめちゃ', translation: 'Очень, супер', kanji: 'めちゃめちゃ' },
             { japanese: 'あいかわらず', translation: 'Как обычно', kanji: '相変わらず' },
-            { japanese: 'かなり', translation: 'Значительно', kanji: '可也' }
+            { japanese: 'かなり', translation: 'Значительно', kanji: '可也' },
+            { japanese: 'なかなか', translation: 'Вполне, очень (превысит ваши ожидания)', kanji: 'なかなか' },
+            { japanese: 'のほう', translation: 'В этом направлении (небуквально)', kanji: 'の方' }
         ]
     },
     {

@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 688
+# Table of japanese words to learn: 690
 #### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -346,7 +346,7 @@
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
 | `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
 | `まあまあ (な)` | Так себе | まあまあ (な) |
-#### Adverbs (38)
+#### Adverbs (40)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -387,6 +387,8 @@
 | `めちゃめちゃ` | Очень, супер | めちゃめちゃ |
 | `あいかわらず` | Как обычно | [相](https://jisho.org/search/%E7%9B%B8%20%23kanji)[変](https://jisho.org/search/%E5%A4%89%20%23kanji)わらず |
 | `かなり` | Значительно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[也](https://jisho.org/search/%E4%B9%9F%20%23kanji) |
+| `なかなか` | Вполне, очень (превысит ваши ожидания) | なかなか |
+| `のほう` | В этом направлении (небуквально) | の[方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
 #### Sentences (35)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
