@@ -363,7 +363,7 @@ export default [
                 'わたしのなかに　見つけられたから'
             ]
         ],
-        youtube: 'https://www.youtube.com/watch?v=jT0fIfiw7Sg'
+        youtube: 'https://www.youtube.com/watch?v=rr8GurL8W_4'
     },
     {
         title: 'Hikaru no go Fantasy',
