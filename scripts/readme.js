@@ -1,4 +1,6 @@
 const fs = require('fs');
+const KANJI_REGEXP = /[\u4e00-\u9faf]/;
+
 
 /**
  * Rendering `README.md`
@@ -69,8 +71,10 @@ function renderKanji(kanji) {
 
     return kanji.split('').map(char => {
         // Если элемент в строке является кандзи, оборачиваем его в ссылку
-        if (char.match(/[\u4e00-\u9faf]/)) {
-            return `[${char}](https://jisho.org/search/${encodeURIComponent(char + ' #kanji')})`;
+        if (char.match(KANJI_REGEXP)) {
+            const kanjiEncoded = encodeURIComponent(`${char} #kanji`);
+
+            return `[${char}](https://jisho.org/search/${kanjiEncoded})`;
         }
 
         return char;
