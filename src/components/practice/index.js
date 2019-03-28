@@ -14,8 +14,9 @@ export default class Practice extends PureComponent {
     static propTypes = {
         onClose: PropTypes.func.isRequired,
         words: PropTypes.arrayOf(PropTypes.shape({
-            japanese: PropTypes.string.isRequired,
-            translation: PropTypes.string.isRequired
+            hiragana: PropTypes.string.isRequired,
+            translation: PropTypes.string.isRequired,
+            kanji: PropTypes.string
         })),
         inverse: PropTypes.bool
     };
@@ -41,17 +42,18 @@ export default class Practice extends PureComponent {
 
     render() {
         const { inverse, onClose } = this.props;
-        const { japanese, translation } = this.words[this.state.index];
+        const { hiragana, kanji, translation } = this.words[this.state.index];
+        const japaneseText = kanji ? `${kanji} (${hiragana})` : `${hiragana} (${hiragana})`;
 
         return (
             <Popup onClose={onClose}>
                 <div className='practice-word'>
                     <WordJapanese
                         size='xxxl'
-                        text={inverse ? translation : japanese}
+                        text={inverse ? translation : japaneseText}
                         onClick={this.handleNextWord} />
                 </div>
-                {this.renderAnswer(inverse ? japanese : translation)}
+                {this.renderAnswer(inverse ? japaneseText : translation)}
                 <div className='practice-percentage'>
                     {this.getPassedWordsPercentage()}%
                 </div>

@@ -52,8 +52,8 @@ function renderTheme({ title, words }) {
  * @returns {string} words markdown string
  */
 function renderWords(words) {
-    return words.map(({ japanese, translation, kanji }) => {
-        return `| \`${japanese}\` | ${translation} | ${renderKanji(kanji)} |`;
+    return words.map(({ hiragana, translation, kanji }) => {
+        return `| \`${hiragana}\` | ${translation} | ${renderKanji(kanji)} |`;
     });
 }
 

@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 690
+# Table of japanese words to learn: 696
 #### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -114,7 +114,7 @@
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
-#### Nouns (139)
+#### Nouns (141)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -256,7 +256,9 @@
 | `かがみ` | Зеркало | [鏡](https://jisho.org/search/%E9%8F%A1%20%23kanji) |
 | `もんだい` | Проблема, вопрос | [問](https://jisho.org/search/%E5%95%8F%20%23kanji)[題](https://jisho.org/search/%E9%A1%8C%20%23kanji) |
 | `しま` | Остров | [島](https://jisho.org/search/%E5%B3%B6%20%23kanji) |
-#### Adjectives (い) (52)
+| `いいわけ` | Оправдание | [言](https://jisho.org/search/%E8%A8%80%20%23kanji)い[訳](https://jisho.org/search/%E8%A8%B3%20%23kanji) |
+| `さくひん` | Работа | [作](https://jisho.org/search/%E4%BD%9C%20%23kanji)[品](https://jisho.org/search/%E5%93%81%20%23kanji) |
+#### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ながい` | Длинный | [長](https://jisho.org/search/%E9%95%B7%20%23kanji)い |
@@ -311,6 +313,7 @@
 | `おとなしい` | Тихий | おとなしい |
 | `しょっぱい` | Солёный | しょっぱい |
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい |
+| `くだらない` | Бесполезный | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)らない |
 #### Adjectives (な) (32)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -346,7 +349,7 @@
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
 | `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
 | `まあまあ (な)` | Так себе | まあまあ (な) |
-#### Adverbs (40)
+#### Adverbs (42)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -358,7 +361,7 @@
 | `たぶん` | Вероятно, возможно | — |
 | `でしょう` | Вероятно, возможно | — |
 | `だけ` | Только | — |
-| `もちろん` | Конечно | — |
+| `もちろん` | Конечно | [勿](https://jisho.org/search/%E5%8B%BF%20%23kanji)[論](https://jisho.org/search/%E8%AB%96%20%23kanji) |
 | `やさしく` | Осторожно | — |
 | `あまり` | Не так много, чуть-чуть | — |
 | `ぜんぜん` | Вовсе нет | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)[然](https://jisho.org/search/%E7%84%B6%20%23kanji) |
@@ -389,6 +392,8 @@
 | `かなり` | Значительно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[也](https://jisho.org/search/%E4%B9%9F%20%23kanji) |
 | `なかなか` | Вполне, очень (превысит ваши ожидания) | なかなか |
 | `のほう` | В этом направлении (небуквально) | の[方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
+| `ずっと` | Всё время | ずっと |
+| `やっぱり` | Как ожидалось  | やっぱり |
 #### Sentences (35)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -514,7 +519,7 @@
 | `あなたたちの` | Ваше (мн. число) | — |
 | `いっしょに` | Вместе | — |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
-#### Time (20)
+#### Time (21)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
@@ -537,6 +542,7 @@
 | `とりあえず` | Для начала | — |
 | `こんど` | В следующий раз, в другой раз | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[度](https://jisho.org/search/%E5%BA%A6%20%23kanji) |
 | `もうすぐ` | Скоро | もう[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
+| `かいえん` | Время начала выступления | [開](https://jisho.org/search/%E9%96%8B%20%23kanji)[演](https://jisho.org/search/%E6%BC%94%20%23kanji) |
 #### Minutes (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

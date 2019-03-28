@@ -5,19 +5,20 @@ import './word.css';
 
 export default class Word extends PureComponent {
     static propTypes = {
-        japanese: PropTypes.string.isRequired,
-        translation: PropTypes.string.isRequired
+        hiragana: PropTypes.string.isRequired,
+        translation: PropTypes.string.isRequired,
+        kanji: PropTypes.string
     };
 
     render() {
-        const { japanese, translation } = this.props;
+        const { hiragana, translation, kanji } = this.props;
 
         return (
             <div className='word'>
-                <WordJapanese text={japanese} />
+                <WordJapanese text={kanji || hiragana} />
                 <span className='word__translation'>
                     {' — '}
-                    {translation}
+                    {translation} `{hiragana}`
                 </span>
             </div>
         );
