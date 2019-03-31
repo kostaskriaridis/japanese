@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 696
+# Table of japanese words to learn: 698
 #### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -13,7 +13,7 @@
 | `いきます` | Идти | [行](https://jisho.org/search/%E8%A1%8C%20%23kanji)きます |
 | `まちます` | Ждать | [待](https://jisho.org/search/%E5%BE%85%20%23kanji)ちます |
 | `のります` | Зайти в поезд, автобус | [乗](https://jisho.org/search/%E4%B9%97%20%23kanji)ります |
-| `します` | Делать | — |
+| `します` | Делать | [為](https://jisho.org/search/%E7%82%BA%20%23kanji)ます |
 | `きます` | Приходить | [来](https://jisho.org/search/%E6%9D%A5%20%23kanji)ます |
 | `はじまります` | Начинается | [始](https://jisho.org/search/%E5%A7%8B%20%23kanji)まります |
 | `きんちょうします` | Нервничать | [緊](https://jisho.org/search/%E7%B7%8A%20%23kanji)[張](https://jisho.org/search/%E5%BC%B5%20%23kanji)します |
@@ -69,7 +69,7 @@
 | `あそびます` | Играть | [遊](https://jisho.org/search/%E9%81%8A%20%23kanji)びます |
 | `ぬります` | Рисовать | [塗](https://jisho.org/search/%E5%A1%97%20%23kanji)ります |
 | `さけびます` | Кричать | [叫](https://jisho.org/search/%E5%8F%AB%20%23kanji)びます |
-| `かけます` | Звонить | — |
+| `かけます` | Звонить | [掛](https://jisho.org/search/%E6%8E%9B%20%23kanji)けます |
 | `すみます` | Жить | [住](https://jisho.org/search/%E4%BD%8F%20%23kanji)みます |
 | `おきます` | Просыпаться | [起](https://jisho.org/search/%E8%B5%B7%20%23kanji)きます |
 | `おきます` | Положить | [置](https://jisho.org/search/%E7%BD%AE%20%23kanji)きます |
@@ -114,7 +114,7 @@
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
-#### Nouns (141)
+#### Nouns (143)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -128,7 +128,7 @@
 | `りょこう` | Поездка, путешествие | [旅](https://jisho.org/search/%E6%97%85%20%23kanji)[行](https://jisho.org/search/%E8%A1%8C%20%23kanji) |
 | `たいざい` | Пребывание | [滞](https://jisho.org/search/%E6%BB%9E%20%23kanji)[在](https://jisho.org/search/%E5%9C%A8%20%23kanji) |
 | `もくてき` | Цель | [目](https://jisho.org/search/%E7%9B%AE%20%23kanji)[的](https://jisho.org/search/%E7%9A%84%20%23kanji) |
-| `きかん` | Продолжительность | — |
+| `きかん` | Продолжительность | [期](https://jisho.org/search/%E6%9C%9F%20%23kanji)[間](https://jisho.org/search/%E9%96%93%20%23kanji) |
 | `たいざいきかん` | Продолжительность пребывания | — |
 | `たいざいもくてき` | Цель пребывания | — |
 | `かんこう` | Осмотр достопримечательностей | [観](https://jisho.org/search/%E8%A6%B3%20%23kanji)[光](https://jisho.org/search/%E5%85%89%20%23kanji) |
@@ -258,6 +258,8 @@
 | `しま` | Остров | [島](https://jisho.org/search/%E5%B3%B6%20%23kanji) |
 | `いいわけ` | Оправдание | [言](https://jisho.org/search/%E8%A8%80%20%23kanji)い[訳](https://jisho.org/search/%E8%A8%B3%20%23kanji) |
 | `さくひん` | Работа | [作](https://jisho.org/search/%E4%BD%9C%20%23kanji)[品](https://jisho.org/search/%E5%93%81%20%23kanji) |
+| `のろい` | Проклятье | [呪](https://jisho.org/search/%E5%91%AA%20%23kanji)い |
+| `しんさく` | Новая работа | [新](https://jisho.org/search/%E6%96%B0%20%23kanji)[作](https://jisho.org/search/%E4%BD%9C%20%23kanji) |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -340,10 +342,10 @@
 | `しつれい (な)` | Грубый | [失](https://jisho.org/search/%E5%A4%B1%20%23kanji)[礼](https://jisho.org/search/%E7%A4%BC%20%23kanji) (な) |
 | `ゆうめい (な)` | Известный | [有](https://jisho.org/search/%E6%9C%89%20%23kanji)[名](https://jisho.org/search/%E5%90%8D%20%23kanji) (な) |
 | `むり (な)` | Невозможный | [無](https://jisho.org/search/%E7%84%A1%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji) (な) |
-| `しょうじき (な)` | Честный | — |
-| `しんせん (な)` | Свежий | — |
-| `しんけん (な)` | Серьёзный | — |
-| `たいへん (な)` | Трудный, тяжёлый | — |
+| `しょうじき (な)` | Честный | [正](https://jisho.org/search/%E6%AD%A3%20%23kanji)[直](https://jisho.org/search/%E7%9B%B4%20%23kanji) (な) |
+| `しんせん (な)` | Свежий | [新](https://jisho.org/search/%E6%96%B0%20%23kanji)[鮮](https://jisho.org/search/%E9%AE%AE%20%23kanji) (な) |
+| `しんけん (な)` | Серьёзный | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)[剣](https://jisho.org/search/%E5%89%A3%20%23kanji) (な) |
+| `たいへん (な)` | Трудный, тяжёлый | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[変](https://jisho.org/search/%E5%A4%89%20%23kanji) (な) |
 | `かわいそう (な)` | Бедный, жалкий | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[哀](https://jisho.org/search/%E5%93%80%20%23kanji)[相](https://jisho.org/search/%E7%9B%B8%20%23kanji) (な) |
 | `おしゃれ (な)` | Стильный | [御](https://jisho.org/search/%E5%BE%A1%20%23kanji)[洒](https://jisho.org/search/%E6%B4%92%20%23kanji)[落](https://jisho.org/search/%E8%90%BD%20%23kanji) (な) |
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
@@ -369,14 +371,14 @@
 | `だいたい` | Примерно (перед подсчётом) | — |
 | `あとで` | Позже, потом | [後](https://jisho.org/search/%E5%BE%8C%20%23kanji)で |
 | `そして` | Потом | — |
-| `むりょう` | Бесплатно | — |
+| `むりょう` | Бесплатно | [無](https://jisho.org/search/%E7%84%A1%20%23kanji)[料](https://jisho.org/search/%E6%96%99%20%23kanji) |
 | `だって` | Потому что | — |
 | `まだ` | Всё ещё (still) | — |
 | `たとえば` | Например | — |
 | `たくさん` | Много | — |
 | `ちょう` | Супер | — |
 | `ぜったいに` | Определённо, безоговорочно | — |
-| `おかしい` | Странно | — |
+| `おかしい` | Странно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[笑](https://jisho.org/search/%E7%AC%91%20%23kanji)しい |
 | `そろそろ` | Медленно | — |
 | `すぐ` | Немедленно | — |
 | `まず` | Прежде всего | — |
@@ -452,7 +454,7 @@
 | `うしろ` | Сзади | [後](https://jisho.org/search/%E5%BE%8C%20%23kanji)ろ |
 | `となり` | Соседний | [隣](https://jisho.org/search/%E9%9A%A3%20%23kanji) |
 | `ちかく` | Поблизости | [近](https://jisho.org/search/%E8%BF%91%20%23kanji)く |
-| `よこ` | Сторона | — |
+| `よこ` | Сторона | [横](https://jisho.org/search/%E6%A8%AA%20%23kanji) |
 | `きた` | Север | [北](https://jisho.org/search/%E5%8C%97%20%23kanji) |
 | `みなみ` | Юг | [南](https://jisho.org/search/%E5%8D%97%20%23kanji) |
 | `にし` | Запад | [西](https://jisho.org/search/%E8%A5%BF%20%23kanji) |
