@@ -261,7 +261,8 @@ export default [
             { hiragana: 'いいわけ', translation: 'Оправдание', kanji: '言い訳' },
             { hiragana: 'さくひん', translation: 'Работа', kanji: '作品' },
             { hiragana: 'のろい', translation: 'Проклятье', kanji: '呪い' },
-            { hiragana: 'しんさく', translation: 'Новая работа', kanji: '新作' }
+            { hiragana: 'しんさく', translation: 'Новая работа', kanji: '新作' },
+            { hiragana: 'そら', translation: 'Небо', kanji: '空' }
         ]
     },
     {
@@ -403,7 +404,8 @@ export default [
             { hiragana: 'なかなか', translation: 'Вполне, очень (превысит ваши ожидания)', kanji: 'なかなか' },
             { hiragana: 'のほう', translation: 'В этом направлении (небуквально)', kanji: 'の方' },
             { hiragana: 'ずっと', translation: 'Всё время', kanji: 'ずっと' },
-            { hiragana: 'やっぱり', translation: 'Как ожидалось ', kanji: 'やっぱり' }
+            { hiragana: 'やっぱり', translation: 'Как ожидалось', kanji: 'やっぱり' },
+            { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' }
         ]
     },
     {
