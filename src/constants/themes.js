@@ -265,7 +265,9 @@ export default [
             { hiragana: 'そら', translation: 'Небо', kanji: '空' },
             { hiragana: 'え', translation: 'Картина', kanji: '絵' },
             { hiragana: 'びじゅつかん', translation: 'Музей искусства', kanji: '美術館' },
-            { hiragana: 'てんらんかい', translation: 'Выставка', kanji: '展覧会' }
+            { hiragana: 'てんらんかい', translation: 'Выставка', kanji: '展覧会' },
+            { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' },
+            { hiragana: 'とくい', translation: 'Сильная сторона (небуквально)', kanji: '得意' }
         ]
     },
     {
@@ -360,7 +362,8 @@ export default [
             { hiragana: 'おしゃれ (な)', translation: 'Стильный', kanji: '御洒落 (な)' },
             { hiragana: 'ていねい (な)', translation: 'Вежливый', kanji: '丁寧 (な)' },
             { hiragana: 'ぜっこうちょう (な)', translation: 'Восхитительный', kanji: '絶好調 (な)' },
-            { hiragana: 'まあまあ (な)', translation: 'Так себе', kanji: 'まあまあ (な)' }
+            { hiragana: 'まあまあ (な)', translation: 'Так себе', kanji: 'まあまあ (な)' },
+            { hiragana: 'ひつよう (な)', translation: 'Необходимый', kanji: '必要 (な)' }
         ]
     },
     {

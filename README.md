@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 668
+# Table of japanese words to learn: 671
 #### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -114,7 +114,7 @@
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
-#### Nouns (147)
+#### Nouns (149)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -264,6 +264,8 @@
 | `え` | Картина | [絵](https://jisho.org/search/%E7%B5%B5%20%23kanji) |
 | `びじゅつかん` | Музей искусства | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)[術](https://jisho.org/search/%E8%A1%93%20%23kanji)[館](https://jisho.org/search/%E9%A4%A8%20%23kanji) |
 | `てんらんかい` | Выставка | [展](https://jisho.org/search/%E5%B1%95%20%23kanji)[覧](https://jisho.org/search/%E8%A6%A7%20%23kanji)[会](https://jisho.org/search/%E4%BC%9A%20%23kanji) |
+| `しけん` | Тест, экзамен | [試](https://jisho.org/search/%E8%A9%A6%20%23kanji)[験](https://jisho.org/search/%E9%A8%93%20%23kanji) |
+| `とくい` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -320,7 +322,7 @@
 | `しょっぱい` | Солёный | しょっぱい |
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい |
 | `くだらない` | Бесполезный | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)らない |
-#### Adjectives (な) (32)
+#### Adjectives (な) (33)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `きれい (な)` | Красивый | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) |
@@ -355,6 +357,7 @@
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
 | `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
 | `まあまあ (な)` | Так себе | まあまあ (な) |
+| `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 #### Adverbs (43)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
