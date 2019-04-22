@@ -266,8 +266,7 @@ export default [
             { hiragana: 'え', translation: 'Картина', kanji: '絵' },
             { hiragana: 'びじゅつかん', translation: 'Музей искусства', kanji: '美術館' },
             { hiragana: 'てんらんかい', translation: 'Выставка', kanji: '展覧会' },
-            { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' },
-            { hiragana: 'とくい', translation: 'Сильная сторона (небуквально)', kanji: '得意' }
+            { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' }
         ]
     },
     {
@@ -363,7 +362,9 @@ export default [
             { hiragana: 'ていねい (な)', translation: 'Вежливый', kanji: '丁寧 (な)' },
             { hiragana: 'ぜっこうちょう (な)', translation: 'Восхитительный', kanji: '絶好調 (な)' },
             { hiragana: 'まあまあ (な)', translation: 'Так себе', kanji: 'まあまあ (な)' },
-            { hiragana: 'ひつよう (な)', translation: 'Необходимый', kanji: '必要 (な)' }
+            { hiragana: 'ひつよう (な)', translation: 'Необходимый', kanji: '必要 (な)' },
+            { hiragana: 'とくい (な)', translation: 'Сильная сторона (небуквально)', kanji: '得意 (な)' },
+            { hiragana: 'にがて (な)', translation: 'Слабая сторона (небуквально)', kanji: '苦手 (な)' }
         ]
     },
     {
@@ -722,7 +723,11 @@ export default [
             { hiragana: 'りゅうがくせい', translation: 'Студент по обмену', kanji: '留学生' },
             { hiragana: 'がくせい', translation: 'Студент', kanji: '学生' },
             { hiragana: 'せんこう', translation: 'Специальность', kanji: '専攻' },
-            { hiragana: 'つうこうにん', translation: 'Прохожий', kanji: '通行人' }
+            { hiragana: 'つうこうにん', translation: 'Прохожий', kanji: '通行人' },
+            { hiragana: 'すうがく', translation: 'Математика', kanji: '数学' },
+            { hiragana: 'れきし', translation: 'История', kanji: '歴史' },
+            { hiragana: 'かがく', translation: 'Химия', kanji: '化学' },
+            { hiragana: 'けいざい', translation: 'Экономия, экономика', kanji: '経済' }
         ]
     },
     {
