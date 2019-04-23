@@ -266,7 +266,8 @@ export default [
             { hiragana: 'え', translation: 'Картина', kanji: '絵' },
             { hiragana: 'びじゅつかん', translation: 'Музей искусства', kanji: '美術館' },
             { hiragana: 'てんらんかい', translation: 'Выставка', kanji: '展覧会' },
-            { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' }
+            { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' },
+            { hiragana: 'えいが', translation: 'Фильм', kanji: '映画' }
         ]
     },
     {
