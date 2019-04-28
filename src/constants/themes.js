@@ -265,7 +265,9 @@ export default [
             { hiragana: 'そら', translation: 'Небо', kanji: '空' },
             { hiragana: 'え', translation: 'Картина', kanji: '絵' },
             { hiragana: 'びじゅつかん', translation: 'Музей искусства', kanji: '美術館' },
-            { hiragana: 'てんらんかい', translation: 'Выставка', kanji: '展覧会' }
+            { hiragana: 'てんらんかい', translation: 'Выставка', kanji: '展覧会' },
+            { hiragana: 'やくそく', translation: 'Обещание', kanji: '約束' },
+            { hiragana: 'きおく', translation: 'Память', kanji: '記憶' }
         ]
     },
     {
