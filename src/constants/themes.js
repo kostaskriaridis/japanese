@@ -269,7 +269,8 @@ export default [
             { hiragana: 'やくそく', translation: 'Обещание', kanji: '約束' },
             { hiragana: 'きおく', translation: 'Память', kanji: '記憶' },
             { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' },
-            { hiragana: 'えいが', translation: 'Фильм', kanji: '映画' }
+            { hiragana: 'えいが', translation: 'Фильм', kanji: '映画' },
+            { hiragana: 'いきかた', translation: 'Маршрут', kanji: '行き方' }
         ]
     },
     {

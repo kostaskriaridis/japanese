@@ -5,12 +5,14 @@ const KANJI_REGEXP = /[\u4e00-\u9faf]/;
 /**
  * Rendering `README.md`
  * @param {Array} themes
+ * @param {Array} sentences
  */
-export function renderReadme(themes) {
+export function renderReadme(themes, sentences) {
     const wordsCount = getWordsCount(themes);
     const content = [
         `# Table of japanese words to learn: ${wordsCount}`,
-        renderThemes(themes)
+        renderThemes(themes),
+        renderSentences(sentences)
     ].join('\n');
 
     console.log('######')
@@ -19,6 +21,22 @@ export function renderReadme(themes) {
     console.log('######')
 
     fs.writeFileSync('README.md', content, 'utf-8');
+}
+
+/**
+ * Rendering sentences
+ * @param {Array} sentences
+ */
+function renderSentences(sentences) {
+    return sentences
+        .map(sentence => {
+            return [
+                '___',
+                `###### ${sentence.japanese}`,
+                `${sentence.translation}`
+            ].join('\n');
+        })
+        .join('\n');
 }
 
 /**
