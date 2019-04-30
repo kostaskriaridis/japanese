@@ -124,7 +124,6 @@ export default [
             { hiragana: 'うんてんしゅ', translation: 'Водитель', kanji: '運転手' },
             { hiragana: 'しゃしん', translation: 'Фото', kanji: '写真' },
             { hiragana: 'やさしい', translation: 'Доброжелательность' },
-            { hiragana: 'けっこんしき', translation: 'Свадебная церемония', kanji: '結婚式' },
             { hiragana: 'おきゃくさん', translation: 'Посетитель, гость', kanji: 'お客さん' },
             { hiragana: 'てんいん', translation: 'Работник, клерк', kanji: '店員' },
             { hiragana: 'りょこう', translation: 'Поездка, путешествие', kanji: '旅行' },
@@ -271,7 +270,13 @@ export default [
             { hiragana: 'しけん', translation: 'Тест, экзамен', kanji: '試験' },
             { hiragana: 'えいが', translation: 'Фильм', kanji: '映画' },
             { hiragana: 'いきかた', translation: 'Маршрут', kanji: '行き方' },
-            { hiragana: 'どうりょう', translation: 'Коллега', kanji: '同僚' }
+            { hiragana: 'どうりょう', translation: 'Коллега', kanji: '同僚' },
+            { hiragana: 'せいかい', translation: 'Верный', kanji: '正解' },
+            { hiragana: 'りこん', translation: 'Развод', kanji: '離婚' },
+            { hiragana: 'けっこんしき', translation: 'Свадебная церемония', kanji: '結婚式' },
+            { hiragana: 'けっこん', translation: 'Свадьба', kanji: '結婚' },
+            { hiragana: 'きねんび', translation: 'Годовщина', kanji: '記念日' },
+            { hiragana: 'こうさん', translation: 'Сдача', kanji: '降参' }
         ]
     },
     {

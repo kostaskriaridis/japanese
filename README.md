@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 681
+# Table of japanese words to learn: 686
 #### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -114,7 +114,7 @@
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
-#### Nouns (153)
+#### Nouns (158)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -122,7 +122,6 @@
 | `うんてんしゅ` | Водитель | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)[転](https://jisho.org/search/%E8%BB%A2%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) |
 | `しゃしん` | Фото | [写](https://jisho.org/search/%E5%86%99%20%23kanji)[真](https://jisho.org/search/%E7%9C%9F%20%23kanji) |
 | `やさしい` | Доброжелательность | — |
-| `けっこんしき` | Свадебная церемония | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji)[式](https://jisho.org/search/%E5%BC%8F%20%23kanji) |
 | `おきゃくさん` | Посетитель, гость | お[客](https://jisho.org/search/%E5%AE%A2%20%23kanji)さん |
 | `てんいん` | Работник, клерк | [店](https://jisho.org/search/%E5%BA%97%20%23kanji)[員](https://jisho.org/search/%E5%93%A1%20%23kanji) |
 | `りょこう` | Поездка, путешествие | [旅](https://jisho.org/search/%E6%97%85%20%23kanji)[行](https://jisho.org/search/%E8%A1%8C%20%23kanji) |
@@ -270,6 +269,12 @@
 | `えいが` | Фильм | [映](https://jisho.org/search/%E6%98%A0%20%23kanji)[画](https://jisho.org/search/%E7%94%BB%20%23kanji) |
 | `いきかた` | Маршрут | [行](https://jisho.org/search/%E8%A1%8C%20%23kanji)き[方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
 | `どうりょう` | Коллега | [同](https://jisho.org/search/%E5%90%8C%20%23kanji)[僚](https://jisho.org/search/%E5%83%9A%20%23kanji) |
+| `せいかい` | Верный | [正](https://jisho.org/search/%E6%AD%A3%20%23kanji)[解](https://jisho.org/search/%E8%A7%A3%20%23kanji) |
+| `りこん` | Развод | [離](https://jisho.org/search/%E9%9B%A2%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji) |
+| `けっこんしき` | Свадебная церемония | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji)[式](https://jisho.org/search/%E5%BC%8F%20%23kanji) |
+| `けっこん` | Свадьба | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji) |
+| `きねんび` | Годовщина | [記](https://jisho.org/search/%E8%A8%98%20%23kanji)[念](https://jisho.org/search/%E5%BF%B5%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `こうさん` | Сдача | [降](https://jisho.org/search/%E9%99%8D%20%23kanji)[参](https://jisho.org/search/%E5%8F%82%20%23kanji) |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
