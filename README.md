@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 680
+# Table of japanese words to learn: 681
 #### Verbs (112)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -114,7 +114,7 @@
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
-#### Nouns (152)
+#### Nouns (153)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -269,6 +269,7 @@
 | `しけん` | Тест, экзамен | [試](https://jisho.org/search/%E8%A9%A6%20%23kanji)[験](https://jisho.org/search/%E9%A8%93%20%23kanji) |
 | `えいが` | Фильм | [映](https://jisho.org/search/%E6%98%A0%20%23kanji)[画](https://jisho.org/search/%E7%94%BB%20%23kanji) |
 | `いきかた` | Маршрут | [行](https://jisho.org/search/%E8%A1%8C%20%23kanji)き[方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
+| `どうりょう` | Коллега | [同](https://jisho.org/search/%E5%90%8C%20%23kanji)[僚](https://jisho.org/search/%E5%83%9A%20%23kanji) |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
