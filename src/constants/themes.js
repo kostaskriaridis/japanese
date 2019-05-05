@@ -113,7 +113,9 @@ export default [
             { hiragana: 'ながれます', translation: 'Течь', kanji: '流れます' },
             { hiragana: 'にあいます', translation: 'Подходить (одежда и пр.)', kanji: '似合います' },
             { hiragana: 'わります', translation: 'Разделять', kanji: '割ります' },
-            { hiragana: 'かぶります', translation: 'Одевать, носить', kanji: '被ぶります' }
+            { hiragana: 'かぶります', translation: 'Одевать, носить', kanji: '被ぶります' },
+            { hiragana: 'ふとります', translation: 'Толстеть', kanji: '太ります' },
+            { hiragana: 'おうえんします', translation: 'Поддерживать (болеть)', kanji: '応援します' }
         ]
     },
     {
@@ -276,7 +278,10 @@ export default [
             { hiragana: 'けっこんしき', translation: 'Свадебная церемония', kanji: '結婚式' },
             { hiragana: 'けっこん', translation: 'Свадьба', kanji: '結婚' },
             { hiragana: 'きねんび', translation: 'Годовщина', kanji: '記念日' },
-            { hiragana: 'こうさん', translation: 'Сдача', kanji: '降参' }
+            { hiragana: 'こうさん', translation: 'Сдача', kanji: '降参' },
+            { hiragana: 'わだい', translation: 'Тема, топик', kanji: '話題' },
+            { hiragana: 'ゆうえんち', translation: 'Парк развлечений', kanji: '遊園地' },
+            { hiragana: 'えがお', translation: 'Улыбка', kanji: '笑顔' }
         ]
     },
     {
@@ -422,6 +427,8 @@ export default [
             { hiragana: 'のほう', translation: 'В этом направлении (небуквально)', kanji: 'の方' },
             { hiragana: 'ずっと', translation: 'Всё время', kanji: 'ずっと' },
             { hiragana: 'やっぱり', translation: 'Как ожидалось', kanji: 'やっぱり' },
+            { hiragana: 'まったく', translation: 'Невозможно поверить!', kanji: '全く' },
+            { hiragana: 'すべて', translation: 'Полностью, всё', kanji: '全て' },
             { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' }
         ]
     },
@@ -639,15 +646,15 @@ export default [
             { hiragana: 'ここのか', translation: '9 число', kanji: '九日' },
             { hiragana: 'とおか', translation: '10 число', kanji: '十日' },
             /*
-            { hiragana: 'じゅういちにち', translation: '11 число' },
-            { hiragana: 'じゅうににち', translation: '12 число' },
-            { hiragana: 'じゅうさんにち', translation: '13 число' },
-            { hiragana: 'じゅうよっか', translation: '14 число' },
-            { hiragana: 'じゅうごにち', translation: '15 число' },
-            { hiragana: 'じゅうろくにち', translation: '16 число' },
-            { hiragana: 'じゅうななにち', translation: '17 число' },
-            { hiragana: 'じゅうはちにち', translation: '18 число' },
-            { hiragana: 'じゅうくにち', translation: '19 число' },
+            { hiragana: 'じゅういちにち', translation: '11 число', kanji: '十一日' },
+            { hiragana: 'じゅうににち', translation: '12 число', kanji: '十二日' },
+            { hiragana: 'じゅうさんにち', translation: '13 число', kanji: '十三日' },
+            { hiragana: 'じゅうよっか', translation: '14 число', kanji: '十四日' },
+            { hiragana: 'じゅうごにち', translation: '15 число', kanji: '十五日' },
+            { hiragana: 'じゅうろくにち', translation: '16 число', kanji: '十六日' },
+            { hiragana: 'じゅうななにち', translation: '17 число', kanji: '十七日' },
+            { hiragana: 'じゅうはちにち', translation: '18 число', kanji: '十八日' },
+            { hiragana: 'じゅうくにち', translation: '19 число', kanji: '十九日' },
             */
             { hiragana: 'はつか', translation: '20 число', kanji: '二十日' },
             /*
@@ -660,7 +667,9 @@ export default [
             { hiragana: 'にじゅうななにち', translation: '27 число' },
             { hiragana: 'にじゅうはちにち', translation: '28 число' },
             { hiragana: 'にじゅうくにち', translation: '29 число' },
-            { hiragana: 'さんじゅうにち', translation: '30 число' },
+            */
+            { hiragana: 'みそか', translation: '30 число', kanji: '三十日' },
+            /*
             { hiragana: 'さんじゅういちにち', translation: '31 число' }
             */
         ]

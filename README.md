@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 686
-#### Verbs (112)
+# Table of japanese words to learn: 694
+#### Verbs (114)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します |
@@ -114,7 +114,9 @@
 | `にあいます` | Подходить (одежда и пр.) | [似](https://jisho.org/search/%E4%BC%BC%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji)います |
 | `わります` | Разделять | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)ります |
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
-#### Nouns (158)
+| `ふとります` | Толстеть | [太](https://jisho.org/search/%E5%A4%AA%20%23kanji)ります |
+| `おうえんします` | Поддерживать (болеть) | [応](https://jisho.org/search/%E5%BF%9C%20%23kanji)[援](https://jisho.org/search/%E6%8F%B4%20%23kanji)します |
+#### Nouns (161)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -275,6 +277,9 @@
 | `けっこん` | Свадьба | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji) |
 | `きねんび` | Годовщина | [記](https://jisho.org/search/%E8%A8%98%20%23kanji)[念](https://jisho.org/search/%E5%BF%B5%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `こうさん` | Сдача | [降](https://jisho.org/search/%E9%99%8D%20%23kanji)[参](https://jisho.org/search/%E5%8F%82%20%23kanji) |
+| `わだい` | Тема, топик | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)[題](https://jisho.org/search/%E9%A1%8C%20%23kanji) |
+| `ゆうえんち` | Парк развлечений | [遊](https://jisho.org/search/%E9%81%8A%20%23kanji)[園](https://jisho.org/search/%E5%9C%92%20%23kanji)[地](https://jisho.org/search/%E5%9C%B0%20%23kanji) |
+| `えがお` | Улыбка | [笑](https://jisho.org/search/%E7%AC%91%20%23kanji)[顔](https://jisho.org/search/%E9%A1%94%20%23kanji) |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -369,7 +374,7 @@
 | `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
-#### Adverbs (43)
+#### Adverbs (45)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -414,6 +419,8 @@
 | `のほう` | В этом направлении (небуквально) | の[方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
 | `ずっと` | Всё время | ずっと |
 | `やっぱり` | Как ожидалось | やっぱり |
+| `まったく` | Невозможно поверить! | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)く |
+| `すべて` | Полностью, всё | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)て |
 | `おきにいり` | Любимый | お[気](https://jisho.org/search/%E6%B0%97%20%23kanji)に[入](https://jisho.org/search/%E5%85%A5%20%23kanji)り |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
@@ -582,7 +589,7 @@
 | `にちようび` | Воскресенье | [日](https://jisho.org/search/%E6%97%A5%20%23kanji)[曜](https://jisho.org/search/%E6%9B%9C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `なんようび` | Какой день недели? | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[曜](https://jisho.org/search/%E6%9B%9C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `へいじつ` | Будние дни | [平](https://jisho.org/search/%E5%B9%B3%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
-#### Month Dates (11)
+#### Month Dates (12)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ついたち` | 1 число | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
@@ -596,6 +603,7 @@
 | `ここのか` | 9 число | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `とおか` | 10 число | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `はつか` | 20 число | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `みそか` | 30 число | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 #### Counters. General (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
