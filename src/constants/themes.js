@@ -281,7 +281,8 @@ export default [
             { hiragana: 'こうさん', translation: 'Сдача', kanji: '降参' },
             { hiragana: 'わだい', translation: 'Тема, топик', kanji: '話題' },
             { hiragana: 'ゆうえんち', translation: 'Парк развлечений', kanji: '遊園地' },
-            { hiragana: 'えがお', translation: 'Улыбка', kanji: '笑顔' }
+            { hiragana: 'えがお', translation: 'Улыбка', kanji: '笑顔' },
+            { hiragana: 'かいがい', translation: 'Зарубежный', kanji: '海外' }
         ]
     },
     {
@@ -429,7 +430,8 @@ export default [
             { hiragana: 'やっぱり', translation: 'Как ожидалось', kanji: 'やっぱり' },
             { hiragana: 'まったく', translation: 'Невозможно поверить!', kanji: '全く' },
             { hiragana: 'すべて', translation: 'Полностью, всё', kanji: '全て' },
-            { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' }
+            { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' },
+            { hiragana: 'ところで', translation: 'Кстати (by the way)', kanji: 'ところで' }
         ]
     },
     {
