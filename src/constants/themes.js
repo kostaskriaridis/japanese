@@ -115,7 +115,8 @@ export default [
             { hiragana: 'わります', translation: 'Разделять', kanji: '割ります' },
             { hiragana: 'かぶります', translation: 'Одевать, носить', kanji: '被ぶります' },
             { hiragana: 'ふとります', translation: 'Толстеть', kanji: '太ります' },
-            { hiragana: 'おうえんします', translation: 'Поддерживать (болеть)', kanji: '応援します' }
+            { hiragana: 'おうえんします', translation: 'Поддерживать (болеть)', kanji: '応援します' },
+            { hiragana: 'おもいます', translation: 'Считать, предполагать', kanji: '思います' }
         ]
     },
     {
@@ -282,7 +283,11 @@ export default [
             { hiragana: 'わだい', translation: 'Тема, топик', kanji: '話題' },
             { hiragana: 'ゆうえんち', translation: 'Парк развлечений', kanji: '遊園地' },
             { hiragana: 'えがお', translation: 'Улыбка', kanji: '笑顔' },
-            { hiragana: 'かいがい', translation: 'Зарубежный', kanji: '海外' }
+            { hiragana: 'かいがい', translation: 'Зарубежный', kanji: '海外' },
+            { hiragana: 'たからくじ', translation: 'Лотеррея', kanji: '宝くじ' },
+            { hiragana: 'じょゆう', translation: 'Актриса', kanji: '女優' },
+            { hiragana: 'はいゆう', translation: 'Актёр', kanji: '俳優' },
+            { hiragana: 'しりあい', translation: 'Знакомый (человек)', kanji: '知り合い' }
         ]
     },
     {

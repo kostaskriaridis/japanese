@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 696
-#### Verbs (114)
+# Table of japanese words to learn: 701
+#### Verbs (115)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します |
@@ -116,7 +116,8 @@
 | `かぶります` | Одевать, носить | [被](https://jisho.org/search/%E8%A2%AB%20%23kanji)ぶります |
 | `ふとります` | Толстеть | [太](https://jisho.org/search/%E5%A4%AA%20%23kanji)ります |
 | `おうえんします` | Поддерживать (болеть) | [応](https://jisho.org/search/%E5%BF%9C%20%23kanji)[援](https://jisho.org/search/%E6%8F%B4%20%23kanji)します |
-#### Nouns (162)
+| `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
+#### Nouns (166)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -281,6 +282,10 @@
 | `ゆうえんち` | Парк развлечений | [遊](https://jisho.org/search/%E9%81%8A%20%23kanji)[園](https://jisho.org/search/%E5%9C%92%20%23kanji)[地](https://jisho.org/search/%E5%9C%B0%20%23kanji) |
 | `えがお` | Улыбка | [笑](https://jisho.org/search/%E7%AC%91%20%23kanji)[顔](https://jisho.org/search/%E9%A1%94%20%23kanji) |
 | `かいがい` | Зарубежный | [海](https://jisho.org/search/%E6%B5%B7%20%23kanji)[外](https://jisho.org/search/%E5%A4%96%20%23kanji) |
+| `たからくじ` | Лотеррея | [宝](https://jisho.org/search/%E5%AE%9D%20%23kanji)くじ |
+| `じょゆう` | Актриса | [女](https://jisho.org/search/%E5%A5%B3%20%23kanji)[優](https://jisho.org/search/%E5%84%AA%20%23kanji) |
+| `はいゆう` | Актёр | [俳](https://jisho.org/search/%E4%BF%B3%20%23kanji)[優](https://jisho.org/search/%E5%84%AA%20%23kanji) |
+| `しりあい` | Знакомый (человек) | [知](https://jisho.org/search/%E7%9F%A5%20%23kanji)り[合](https://jisho.org/search/%E5%90%88%20%23kanji)い |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
