@@ -116,7 +116,8 @@ export default [
             { hiragana: 'かぶります', translation: 'Одевать, носить', kanji: '被ぶります' },
             { hiragana: 'ふとります', translation: 'Толстеть', kanji: '太ります' },
             { hiragana: 'おうえんします', translation: 'Поддерживать (болеть)', kanji: '応援します' },
-            { hiragana: 'おもいます', translation: 'Считать, предполагать', kanji: '思います' }
+            { hiragana: 'おもいます', translation: 'Считать, предполагать', kanji: '思います' },
+            { hiragana: 'よびます', translation: 'Позвонить', kanji: '呼びます' }
         ]
     },
     {
@@ -228,6 +229,7 @@ export default [
             { hiragana: 'かい', translation: 'Счётчик для происшествий', kanji: '回' },
             { hiragana: 'まい', translation: 'Счётчик для тонких плоских вещей', kanji: '枚' },
             { hiragana: 'めい', translation: 'Счётчик для людей', kanji: '名' },
+            { hiragana: 'ほん, ぽん, ぼん', translation: 'Счётчик длинных объектов', kanji: '本' },
             { hiragana: '～ぬき', translation: 'Постфикс для фразы "Без ... (чего-нибудь)"', kanji: '～抜き' },
             { hiragana: 'むし', translation: 'Насекомое', kanji: '虫' },
             { hiragana: 'はいります', translation: 'Войти, зайти в', kanji: '入ります' },
@@ -287,7 +289,12 @@ export default [
             { hiragana: 'たからくじ', translation: 'Лотеррея', kanji: '宝くじ' },
             { hiragana: 'じょゆう', translation: 'Актриса', kanji: '女優' },
             { hiragana: 'はいゆう', translation: 'Актёр', kanji: '俳優' },
-            { hiragana: 'しりあい', translation: 'Знакомый (человек)', kanji: '知り合い' }
+            { hiragana: 'しりあい', translation: 'Знакомый (человек)', kanji: '知り合い' },
+            { hiragana: 'つみ', translation: 'Преступление, грех', kanji: '罪' },
+            { hiragana: 'かた', translation: 'Человек (вежливо)', kanji: '方' },
+            { hiragana: 'どくしんしゃ', translation: 'Не женат (холост)', kanji: '独身者' },
+            { hiragana: 'きこんしゃ', translation: 'Женат', kanji: '既婚者' },
+            { hiragana: 'ちゅうし', translation: 'Отменено (что-то запланированное)', kanji: '中止' }
         ]
     },
     {
@@ -436,7 +443,8 @@ export default [
             { hiragana: 'まったく', translation: 'Невозможно поверить!', kanji: '全く' },
             { hiragana: 'すべて', translation: 'Полностью, всё', kanji: '全て' },
             { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' },
-            { hiragana: 'ところで', translation: 'Кстати (by the way)', kanji: 'ところで' }
+            { hiragana: 'ところで', translation: 'Кстати (by the way)', kanji: 'ところで' },
+            { hiragana: 'ずつ', translation: 'Каждый', kanji: 'ずつ' }
         ]
     },
     {
@@ -520,17 +528,6 @@ export default [
             { hiragana: 'そふ', translation: 'Дедушка', kanji: '祖父' },
             { hiragana: 'そぼ', translation: 'Бабушка', kanji: '祖母' },
             { hiragana: 'いとこ', translation: 'Двоюродный' }
-        ]
-    },
-    {
-        title: 'Present, Progressive, Past',
-        words: [
-            { hiragana: 'たべます', translation: 'To eat' }, // たべる
-            { hiragana: 'たべません', translation: 'I don\'t eat' }, // たべない
-            { hiragana: 'たべています', translation: 'I\'m eating' }, // たべている
-            { hiragana: 'たべていません', translation: 'I\'m not eating' }, // たべていない
-            { hiragana: 'たべました', translation: 'I ate' }, // たべた
-            { hiragana: 'たべませんでした', translation: 'I didn\'t eat' } // たべなかった
         ]
     },
     {
@@ -716,15 +713,6 @@ export default [
         ]
     },
     {
-        title: 'Counters. People',
-        words: [
-            { hiragana: 'ひとり', translation: 'Один человек', kanji: '一人' },
-            { hiragana: 'ふたり', translation: 'Два человека', kanji: '二人' },
-            { hiragana: 'さんにん', translation: 'Три человека', kanji: '三人' },
-            { hiragana: 'なんにん', translation: 'Сколько человек?', kanji: '何人' }
-        ]
-    },
-    {
         title: 'Age Numbers',
         words: [
             { hiragana: 'いっさい', translation: '1 год', kanji: '一歳' },
@@ -784,22 +772,6 @@ export default [
             { hiragana: 'みみ', translation: 'Ухо', kanji: '耳' }
         ]
     },
-    /*
-    {
-        title: 'Numbers Tens of Thousands',
-        words: [
-            { hiragana: 'いちまん', translation: '10 000', kanji: '一万' },
-            { hiragana: 'にまん', translation: '20 000', , kanji: 'ニ万' },
-            { hiragana: 'さんまん', translation: '30 000', kanji: '三万' },
-            { hiragana: 'よんまん', translation: '40 000', kanji: '四万' },
-            { hiragana: 'ごまん', translation: '50 000', kanji: '五万' },
-            { hiragana: 'ろくまん', translation: '60 000', kanji: '六万' },
-            { hiragana: 'ななまん', translation: '70 000', kanji: '七万' },
-            { hiragana: 'はちまん', translation: '80 000', kanji: '八万' },
-            { hiragana: 'きゅうまん', translation: '90 000', kanji: '九万' }
-        ]
-    },
-    */
     {
         title: 'Combinations',
         words: [
@@ -828,7 +800,9 @@ export default [
             { hiragana: 'いかが, どう', translation: 'Как насчёт?' },
             { hiragana: 'こちらこそ', translation: 'То же самое и я' },
             { hiragana: 'けっこう', translation: 'Нет, спасибо', kanji: '結構' },
-            { hiragana: 'おせわになりました', translation: 'Спасибо за вашу доброту', kanji: 'お世話になりました' }
+            { hiragana: 'おせわになりました', translation: 'Спасибо за вашу доброту', kanji: 'お世話になりました' },
+            { hiragana: 'じゃくにくきょうしょく', translation: 'Выживает сильнейший', kanji: '弱肉強食' },
+            { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' }
         ]
     },
     {
@@ -878,7 +852,8 @@ export default [
             { hiragana: 'ていしょく', translation: 'Комплексное блюдо дня', kanji: '定食' },
             { hiragana: 'おおもり', translation: 'Большая порция', kanji: '大盛り' },
             { hiragana: 'しょうゆ', translation: 'Соевый соус', kanji: 'しょうゆ' },
-            { hiragana: 'あさめしまえ', translation: 'Кусок торта', kanji: '朝飯前' }
+            { hiragana: 'あさめしまえ', translation: 'Кусок торта', kanji: '朝飯前' },
+            { hiragana: 'やきとり', translation: 'Курица на грилле', kanji: '焼き鳥' }
         ]
     },
     {

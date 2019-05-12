@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 701
-#### Verbs (115)
+# Table of japanese words to learn: 702
+#### Verbs (116)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します |
@@ -117,7 +117,8 @@
 | `ふとります` | Толстеть | [太](https://jisho.org/search/%E5%A4%AA%20%23kanji)ります |
 | `おうえんします` | Поддерживать (болеть) | [応](https://jisho.org/search/%E5%BF%9C%20%23kanji)[援](https://jisho.org/search/%E6%8F%B4%20%23kanji)します |
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
-#### Nouns (166)
+| `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
+#### Nouns (172)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -226,6 +227,7 @@
 | `かい` | Счётчик для происшествий | [回](https://jisho.org/search/%E5%9B%9E%20%23kanji) |
 | `まい` | Счётчик для тонких плоских вещей | [枚](https://jisho.org/search/%E6%9E%9A%20%23kanji) |
 | `めい` | Счётчик для людей | [名](https://jisho.org/search/%E5%90%8D%20%23kanji) |
+| `ほん, ぽん, ぼん` | Счётчик длинных объектов | [本](https://jisho.org/search/%E6%9C%AC%20%23kanji) |
 | `～ぬき` | Постфикс для фразы "Без ... (чего-нибудь)" | ～[抜](https://jisho.org/search/%E6%8A%9C%20%23kanji)き |
 | `むし` | Насекомое | [虫](https://jisho.org/search/%E8%99%AB%20%23kanji) |
 | `はいります` | Войти, зайти в | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)ります |
@@ -286,6 +288,11 @@
 | `じょゆう` | Актриса | [女](https://jisho.org/search/%E5%A5%B3%20%23kanji)[優](https://jisho.org/search/%E5%84%AA%20%23kanji) |
 | `はいゆう` | Актёр | [俳](https://jisho.org/search/%E4%BF%B3%20%23kanji)[優](https://jisho.org/search/%E5%84%AA%20%23kanji) |
 | `しりあい` | Знакомый (человек) | [知](https://jisho.org/search/%E7%9F%A5%20%23kanji)り[合](https://jisho.org/search/%E5%90%88%20%23kanji)い |
+| `つみ` | Преступление, грех | [罪](https://jisho.org/search/%E7%BD%AA%20%23kanji) |
+| `かた` | Человек (вежливо) | [方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
+| `どくしんしゃ` | Не женат (холост) | [独](https://jisho.org/search/%E7%8B%AC%20%23kanji)[身](https://jisho.org/search/%E8%BA%AB%20%23kanji)[者](https://jisho.org/search/%E8%80%85%20%23kanji) |
+| `きこんしゃ` | Женат | [既](https://jisho.org/search/%E6%97%A2%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji)[者](https://jisho.org/search/%E8%80%85%20%23kanji) |
+| `ちゅうし` | Отменено (что-то запланированное) | [中](https://jisho.org/search/%E4%B8%AD%20%23kanji)[止](https://jisho.org/search/%E6%AD%A2%20%23kanji) |
 #### Adjectives (い) (53)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -380,7 +387,7 @@
 | `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
-#### Adverbs (46)
+#### Adverbs (47)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -429,6 +436,7 @@
 | `すべて` | Полностью, всё | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)て |
 | `おきにいり` | Любимый | お[気](https://jisho.org/search/%E6%B0%97%20%23kanji)に[入](https://jisho.org/search/%E5%85%A5%20%23kanji)り |
 | `ところで` | Кстати (by the way) | ところで |
+| `ずつ` | Каждый | ずつ |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -497,15 +505,6 @@
 | `そふ` | Дедушка | [祖](https://jisho.org/search/%E7%A5%96%20%23kanji)[父](https://jisho.org/search/%E7%88%B6%20%23kanji) |
 | `そぼ` | Бабушка | [祖](https://jisho.org/search/%E7%A5%96%20%23kanji)[母](https://jisho.org/search/%E6%AF%8D%20%23kanji) |
 | `いとこ` | Двоюродный | — |
-#### Present, Progressive, Past (6)
-| Japanese | Translation | Kanji |
-| ------ | ------ | ------ |
-| `たべます` | To eat | — |
-| `たべません` | I don't eat | — |
-| `たべています` | I'm eating | — |
-| `たべていません` | I'm not eating | — |
-| `たべました` | I ate | — |
-| `たべませんでした` | I didn't eat | — |
 #### Pronouns (7)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -641,13 +640,6 @@
 | `じゅういっかい` | 11 этаж | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[階](https://jisho.org/search/%E9%9A%8E%20%23kanji) |
 | `じゅうにかい` | 12 этаж | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[階](https://jisho.org/search/%E9%9A%8E%20%23kanji) |
 | `なんかい、なんがい` | Какой этаж? | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[階](https://jisho.org/search/%E9%9A%8E%20%23kanji) |
-#### Counters. People (4)
-| Japanese | Translation | Kanji |
-| ------ | ------ | ------ |
-| `ひとり` | Один человек | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
-| `ふたり` | Два человека | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
-| `さんにん` | Три человека | [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
-| `なんにん` | Сколько человек? | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) |
 #### Age Numbers (13)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -707,7 +699,7 @@
 | ------ | ------ | ------ |
 | `それとも` | Или | — |
 | `それから` | И, и также | — |
-#### Phrases (19)
+#### Phrases (21)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `いらっしゃいませ` | Как я могу вам помочь? | — |
@@ -729,6 +721,8 @@
 | `こちらこそ` | То же самое и я | — |
 | `けっこう` | Нет, спасибо | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[構](https://jisho.org/search/%E6%A7%8B%20%23kanji) |
 | `おせわになりました` | Спасибо за вашу доброту | お[世](https://jisho.org/search/%E4%B8%96%20%23kanji)[話](https://jisho.org/search/%E8%A9%B1%20%23kanji)になりました |
+| `じゃくにくきょうしょく` | Выживает сильнейший | [弱](https://jisho.org/search/%E5%BC%B1%20%23kanji)[肉](https://jisho.org/search/%E8%82%89%20%23kanji)[強](https://jisho.org/search/%E5%BC%B7%20%23kanji)[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) |
+| `いちごいちえ` | Единственный в жизни шанс | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[期](https://jisho.org/search/%E6%9C%9F%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[会](https://jisho.org/search/%E4%BC%9A%20%23kanji) |
 #### Medicine (8)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -754,7 +748,7 @@
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
 | `おつり` | Сдача | おつり |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
-#### Food (16)
+#### Food (17)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
@@ -773,6 +767,7 @@
 | `おおもり` | Большая порция | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[盛](https://jisho.org/search/%E7%9B%9B%20%23kanji)り |
 | `しょうゆ` | Соевый соус | しょうゆ |
 | `あさめしまえ` | Кусок торта | [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji)[飯](https://jisho.org/search/%E9%A3%AF%20%23kanji)[前](https://jisho.org/search/%E5%89%8D%20%23kanji) |
+| `やきとり` | Курица на грилле | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き[鳥](https://jisho.org/search/%E9%B3%A5%20%23kanji) |
 #### Class 1 verbs. When ます is preceded by -i (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
