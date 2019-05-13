@@ -294,7 +294,9 @@ export default [
             { hiragana: 'かた', translation: 'Человек (вежливо)', kanji: '方' },
             { hiragana: 'どくしんしゃ', translation: 'Не женат (холост)', kanji: '独身者' },
             { hiragana: 'きこんしゃ', translation: 'Женат', kanji: '既婚者' },
-            { hiragana: 'ちゅうし', translation: 'Отменено (что-то запланированное)', kanji: '中止' }
+            { hiragana: 'ちゅうし', translation: 'Отменено (что-то запланированное)', kanji: '中止' },
+            { hiragana: 'いなずま', translation: 'Молния', kanji: '稲妻' },
+            { hiragana: 'かみなり', translation: 'Гром', kanji: '雷' }
         ]
     },
     {
@@ -352,7 +354,8 @@ export default [
             { hiragana: 'おとなしい', translation: 'Тихий', kanji: 'おとなしい' },
             { hiragana: 'しょっぱい', translation: 'Солёный', kanji: 'しょっぱい' },
             { hiragana: 'うつくしい', translation: 'Красивый', kanji: '美しい' },
-            { hiragana: 'くだらない', translation: 'Бесполезный', kanji: '下らない' }
+            { hiragana: 'くだらない', translation: 'Бесполезный', kanji: '下らない' },
+            { hiragana: 'さびしい、 さみしい', translation: 'Одинокий', kanji: '寂しい' }
         ]
     },
     {
