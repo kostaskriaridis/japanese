@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 705
+# Table of japanese words to learn: 707
 #### Verbs (116)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -118,7 +118,7 @@
 | `おうえんします` | Поддерживать (болеть) | [応](https://jisho.org/search/%E5%BF%9C%20%23kanji)[援](https://jisho.org/search/%E6%8F%B4%20%23kanji)します |
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
-#### Nouns (174)
+#### Nouns (176)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -295,6 +295,8 @@
 | `ちゅうし` | Отменено (что-то запланированное) | [中](https://jisho.org/search/%E4%B8%AD%20%23kanji)[止](https://jisho.org/search/%E6%AD%A2%20%23kanji) |
 | `いなずま` | Молния | [稲](https://jisho.org/search/%E7%A8%B2%20%23kanji)[妻](https://jisho.org/search/%E5%A6%BB%20%23kanji) |
 | `かみなり` | Гром | [雷](https://jisho.org/search/%E9%9B%B7%20%23kanji) |
+| `しょくぎょう` | Профессия, занятость | [職](https://jisho.org/search/%E8%81%B7%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji) |
+| `ねふだ` | Ценник | [値](https://jisho.org/search/%E5%80%A4%20%23kanji)[札](https://jisho.org/search/%E6%9C%AD%20%23kanji) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

@@ -296,7 +296,9 @@ export default [
             { hiragana: 'きこんしゃ', translation: 'Женат', kanji: '既婚者' },
             { hiragana: 'ちゅうし', translation: 'Отменено (что-то запланированное)', kanji: '中止' },
             { hiragana: 'いなずま', translation: 'Молния', kanji: '稲妻' },
-            { hiragana: 'かみなり', translation: 'Гром', kanji: '雷' }
+            { hiragana: 'かみなり', translation: 'Гром', kanji: '雷' },
+            { hiragana: 'しょくぎょう', translation: 'Профессия, занятость', kanji: '職業' },
+            { hiragana: 'ねふだ', translation: 'Ценник', kanji: '値札' }
         ]
     },
     {
