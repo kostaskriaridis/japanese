@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 707
+# Table of japanese words to learn: 708
 #### Verbs (116)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -392,7 +392,7 @@
 | `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
-#### Adverbs (47)
+#### Adverbs (48)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -442,6 +442,7 @@
 | `おきにいり` | Любимый | お[気](https://jisho.org/search/%E6%B0%97%20%23kanji)に[入](https://jisho.org/search/%E5%85%A5%20%23kanji)り |
 | `ところで` | Кстати (by the way) | ところで |
 | `ずつ` | Каждый | ずつ |
+| `いじょう` | Выше (больше, чем) | [以](https://jisho.org/search/%E4%BB%A5%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

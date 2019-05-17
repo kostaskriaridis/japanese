@@ -449,7 +449,8 @@ export default [
             { hiragana: 'すべて', translation: 'Полностью, всё', kanji: '全て' },
             { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' },
             { hiragana: 'ところで', translation: 'Кстати (by the way)', kanji: 'ところで' },
-            { hiragana: 'ずつ', translation: 'Каждый', kanji: 'ずつ' }
+            { hiragana: 'ずつ', translation: 'Каждый', kanji: 'ずつ' },
+            { hiragana: 'いじょう', translation: 'Выше (больше, чем)', kanji: '以上' }
         ]
     },
     {
