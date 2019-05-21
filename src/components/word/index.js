@@ -1,26 +1,24 @@
-import React, { PureComponent } from 'react'
+import React, { memo } from 'react'
 import PropTypes from 'prop-types';
 import WordJapanese from '../word-japanese';
 import './word.css';
 
-export default class Word extends PureComponent {
-    static propTypes = {
-        hiragana: PropTypes.string.isRequired,
-        translation: PropTypes.string.isRequired,
-        kanji: PropTypes.string
-    };
+Word.propTypes = {
+    hiragana: PropTypes.string.isRequired,
+    translation: PropTypes.string.isRequired,
+    kanji: PropTypes.string
+};
 
-    render() {
-        const { hiragana, translation, kanji } = this.props;
-
-        return (
-            <div className='word'>
-                <WordJapanese text={kanji || hiragana} />
-                <span className='word__translation'>
-                    {' — '}
-                    {translation} `{hiragana}`
-                </span>
-            </div>
-        );
-    }
+function Word({ hiragana, translation, kanji }) {
+    return (
+        <div className='word'>
+            <WordJapanese text={kanji || hiragana} />
+            <span className='word__translation'>
+                {' — '}
+                {translation} `{hiragana}`
+            </span>
+        </div>
+    );
 }
+
+export default memo(Word);

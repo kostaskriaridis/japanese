@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { memo } from 'react';
 import './paragraph.css';
 
-export default function Paragraph({ children }) {
+function Paragraph({ children }) {
     return (
         <div className='song-paragraph'>
             {children}
         </div>
     );
 }
+
+export default memo(Paragraph);

@@ -1,7 +1,9 @@
-import React from 'react';
+import React, { memo } from 'react';
 
-export default function Line({ children }) {
+function Line({ children }) {
     return (
         <div>{children}</div>
     );
 }
+
+export default memo(Line);

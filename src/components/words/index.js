@@ -1,9 +1,10 @@
-import React, { PureComponent, Fragment } from 'react';
+import React, { PureComponent, Suspense, lazy, Fragment } from 'react';
 import Lesson from '../lesson';
-import Practice from '../practice';
 import Button from '../button';
 import themes from '../../constants/themes';
 import './words.css';
+
+const Practice = lazy(() => import('../practice'));
 
 export default class Words extends PureComponent {
     state = {
@@ -46,10 +47,12 @@ export default class Words extends PureComponent {
         const lessons = themes[lessonIndex].words;
 
         return (
-            <Practice
-                words={lessons}
-                onClose={this.handleClosePracticePopup}
-                inverse={isPracticeInversed} />
+            <Suspense fallback={null}>
+                <Practice
+                    words={lessons}
+                    onClose={this.handleClosePracticePopup}
+                    inverse={isPracticeInversed} />
+            </Suspense>
         );
     }
 

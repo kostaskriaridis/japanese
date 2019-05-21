@@ -1,10 +1,12 @@
-import React from 'react';
+import React, { memo } from 'react';
 import './link.css';
 
-export default function Link({ href, target, children }) {
+function Link({ href, target, children }) {
     return (
         <a href={href} className='link' target={target}>
             {children}
         </a>
     );
 }
+
+export default memo(Link);

@@ -1,8 +1,8 @@
-import React from 'react';
+import React, { memo } from 'react';
 import classNames from 'classnames';
 import './icon.css';
 
-export default function Icon({ type, className }) {
+function Icon({ type, className }) {
     const iconClass = classNames('icon', `icon_${type}`, {
         className: className
     });
@@ -11,3 +11,5 @@ export default function Icon({ type, className }) {
         <i className={iconClass} />
     );
 }
+
+export default memo(Icon);
