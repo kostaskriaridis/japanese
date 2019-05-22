@@ -7,7 +7,7 @@ const KANJI_REGEXP = /[\u4e00-\u9faf]/;
  * @param {Array} themes
  * @param {Array} sentences
  */
-export function renderReadme(themes, sentences) {
+function renderReadme(themes, sentences) {
     const wordsCount = getWordsCount(themes);
     const content = [
         `# Table of japanese words to learn: ${wordsCount}`,
@@ -130,3 +130,7 @@ function getKanjiPercentage(themes, wordsCount) {
 
     return (kanjiCount * 100 / wordsCount).toFixed(2);
 }
+
+module.exports = {
+    renderReadme
+};

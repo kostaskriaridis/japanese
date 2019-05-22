@@ -4,7 +4,7 @@ const fs = require('fs');
  * Rendering songs in `.md` format
  * @param {Array} themes
  */
-export function renderSongs(songs) {
+function renderSongs(songs) {
     const songsPath = './songs';
 
     if (fs.existsSync(songsPath)) {
@@ -49,3 +49,7 @@ function renderSongText(body) {
         .map(paragraph => paragraph.join('  \n'))
         .join('  \n\n');
 }
+
+module.exports = {
+    renderSongs
+};

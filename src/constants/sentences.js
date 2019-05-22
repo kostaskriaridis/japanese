@@ -1,4 +1,4 @@
-export default [
+module.exports = [
     {
         japanese: '私はよくえいがを見ます',
         translation: 'Я часто смотрю фильмы'
