@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 708
-#### Verbs (116)
+# Table of japanese words to learn: 710
+#### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します |
@@ -118,6 +118,7 @@
 | `おうえんします` | Поддерживать (болеть) | [応](https://jisho.org/search/%E5%BF%9C%20%23kanji)[援](https://jisho.org/search/%E6%8F%B4%20%23kanji)します |
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
+| `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
 #### Nouns (176)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -470,7 +471,7 @@
 | `ひがし` | Восток | [東](https://jisho.org/search/%E6%9D%B1%20%23kanji) |
 | `いりぐち` | Вход | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) |
 | `でぐち` | Выход | [出](https://jisho.org/search/%E5%87%BA%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) |
-#### Spots around town (11)
+#### Spots around town (12)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `がっこう` | Школа | [学](https://jisho.org/search/%E5%AD%A6%20%23kanji)[校](https://jisho.org/search/%E6%A0%A1%20%23kanji) |
@@ -484,6 +485,7 @@
 | `びょういん` | Больница | [病](https://jisho.org/search/%E7%97%85%20%23kanji)[院](https://jisho.org/search/%E9%99%A2%20%23kanji) |
 | `みち` | Дорога, улица | [道](https://jisho.org/search/%E9%81%93%20%23kanji) |
 | `りょうりてん` | Ресторан | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji)[店](https://jisho.org/search/%E5%BA%97%20%23kanji) |
+| `げきじょう` | Театр | [劇](https://jisho.org/search/%E5%8A%87%20%23kanji)[場](https://jisho.org/search/%E5%A0%B4%20%23kanji) |
 #### Technical (5)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

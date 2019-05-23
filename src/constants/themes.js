@@ -117,7 +117,8 @@ module.exports = [
             { hiragana: 'ふとります', translation: 'Толстеть', kanji: '太ります' },
             { hiragana: 'おうえんします', translation: 'Поддерживать (болеть)', kanji: '応援します' },
             { hiragana: 'おもいます', translation: 'Считать, предполагать', kanji: '思います' },
-            { hiragana: 'よびます', translation: 'Позвонить', kanji: '呼びます' }
+            { hiragana: 'よびます', translation: 'Позвонить', kanji: '呼びます' },
+            { hiragana: 'すごします', translation: 'Провести время', kanji: '過ごします' }
         ]
     },
     {
@@ -502,7 +503,8 @@ module.exports = [
             { hiragana: 'ばすてい', translation: 'Автобусная астоновка' },
             { hiragana: 'びょういん', translation: 'Больница', kanji: '病院' },
             { hiragana: 'みち', translation: 'Дорога, улица', kanji: '道' },
-            { hiragana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' }
+            { hiragana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' },
+            { hiragana: 'げきじょう', translation: 'Театр', kanji: '劇場' }
         ]
     },
     {
