@@ -301,7 +301,8 @@ module.exports = [
             { hiragana: 'しょくぎょう', translation: 'Профессия, занятость', kanji: '職業' },
             { hiragana: 'ねふだ', translation: 'Ценник', kanji: '値札' },
             { hiragana: 'びん', translation: 'Рейс, полёт', kanji: '便' },
-            { hiragana: 'ちゃくりく', translation: 'Посадка', kanji: '着陸' }
+            { hiragana: 'ちゃくりく', translation: 'Посадка', kanji: '着陸' },
+            { hiragana: 'ごうかく', translation: 'Успех, проход экзамена', kanji: '合格' }
         ]
     },
     {
@@ -400,7 +401,8 @@ module.exports = [
             { hiragana: 'まあまあ (な)', translation: 'Так себе', kanji: 'まあまあ (な)' },
             { hiragana: 'ひつよう (な)', translation: 'Необходимый', kanji: '必要 (な)' },
             { hiragana: 'とくい (な)', translation: 'Сильная сторона (небуквально)', kanji: '得意 (な)' },
-            { hiragana: 'にがて (な)', translation: 'Слабая сторона (небуквально)', kanji: '苦手 (な)' }
+            { hiragana: 'にがて (な)', translation: 'Слабая сторона (небуквально)', kanji: '苦手 (な)' },
+            { hiragana: 'あいまい (な)', translation: 'Неопределенный, неоднозначный', kanji: '曖昧 (な)' }
         ]
     },
     {

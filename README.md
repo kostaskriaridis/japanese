@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 716
+# Table of japanese words to learn: 718
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -119,7 +119,7 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
-#### Nouns (178)
+#### Nouns (179)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -300,6 +300,7 @@
 | `ねふだ` | Ценник | [値](https://jisho.org/search/%E5%80%A4%20%23kanji)[札](https://jisho.org/search/%E6%9C%AD%20%23kanji) |
 | `びん` | Рейс, полёт | [便](https://jisho.org/search/%E4%BE%BF%20%23kanji) |
 | `ちゃくりく` | Посадка | [着](https://jisho.org/search/%E7%9D%80%20%23kanji)[陸](https://jisho.org/search/%E9%99%B8%20%23kanji) |
+| `ごうかく` | Успех, проход экзамена | [合](https://jisho.org/search/%E5%90%88%20%23kanji)[格](https://jisho.org/search/%E6%A0%BC%20%23kanji) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -357,7 +358,7 @@
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい |
 | `くだらない` | Бесполезный | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)らない |
 | `さびしい、 さみしい` | Одинокий | [寂](https://jisho.org/search/%E5%AF%82%20%23kanji)しい |
-#### Adjectives (な) (35)
+#### Adjectives (な) (36)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `きれい (な)` | Красивый | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) |
@@ -395,6 +396,7 @@
 | `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
+| `あいまい (な)` | Неопределенный, неоднозначный | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) |
 #### Adverbs (52)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
