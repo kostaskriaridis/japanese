@@ -299,7 +299,9 @@ module.exports = [
             { hiragana: 'いなずま', translation: 'Молния', kanji: '稲妻' },
             { hiragana: 'かみなり', translation: 'Гром', kanji: '雷' },
             { hiragana: 'しょくぎょう', translation: 'Профессия, занятость', kanji: '職業' },
-            { hiragana: 'ねふだ', translation: 'Ценник', kanji: '値札' }
+            { hiragana: 'ねふだ', translation: 'Ценник', kanji: '値札' },
+            { hiragana: 'びん', translation: 'Рейс, полёт', kanji: '便' },
+            { hiragana: 'ちゃくりく', translation: 'Посадка', kanji: '着陸' }
         ]
     },
     {
@@ -428,6 +430,7 @@ module.exports = [
             { hiragana: 'たくさん', translation: 'Много' },
             { hiragana: 'ちょう', translation: 'Супер' },
             { hiragana: 'ぜったいに', translation: 'Определённо, безоговорочно' },
+            { hiragana: 'きっと', translation: 'Определённо', kanji: 'きっと' },
             { hiragana: 'おかしい', translation: 'Странно', kanji: '可笑しい' },
             { hiragana: 'そろそろ', translation: 'Медленно' },
             { hiragana: 'すぐ', translation: 'Немедленно' },
@@ -451,7 +454,10 @@ module.exports = [
             { hiragana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' },
             { hiragana: 'ところで', translation: 'Кстати (by the way)', kanji: 'ところで' },
             { hiragana: 'ずつ', translation: 'Каждый', kanji: 'ずつ' },
-            { hiragana: 'いじょう', translation: 'Выше (больше, чем)', kanji: '以上' }
+            { hiragana: 'いじょう', translation: 'Выше (больше, чем)', kanji: '以上' },
+            { hiragana: 'ぴったり', translation: 'Просто, как раз (вовремя)', kanji: 'ぴったり' },
+            { hiragana: 'もうすぐ', translation: 'Очень скоро', kanji: 'もうすぐ' },
+            { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' }
         ]
     },
     {

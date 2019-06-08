@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 710
+# Table of japanese words to learn: 716
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -119,7 +119,7 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
-#### Nouns (176)
+#### Nouns (178)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -298,6 +298,8 @@
 | `かみなり` | Гром | [雷](https://jisho.org/search/%E9%9B%B7%20%23kanji) |
 | `しょくぎょう` | Профессия, занятость | [職](https://jisho.org/search/%E8%81%B7%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji) |
 | `ねふだ` | Ценник | [値](https://jisho.org/search/%E5%80%A4%20%23kanji)[札](https://jisho.org/search/%E6%9C%AD%20%23kanji) |
+| `びん` | Рейс, полёт | [便](https://jisho.org/search/%E4%BE%BF%20%23kanji) |
+| `ちゃくりく` | Посадка | [着](https://jisho.org/search/%E7%9D%80%20%23kanji)[陸](https://jisho.org/search/%E9%99%B8%20%23kanji) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -393,7 +395,7 @@
 | `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
-#### Adverbs (48)
+#### Adverbs (52)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -420,6 +422,7 @@
 | `たくさん` | Много | — |
 | `ちょう` | Супер | — |
 | `ぜったいに` | Определённо, безоговорочно | — |
+| `きっと` | Определённо | きっと |
 | `おかしい` | Странно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[笑](https://jisho.org/search/%E7%AC%91%20%23kanji)しい |
 | `そろそろ` | Медленно | — |
 | `すぐ` | Немедленно | — |
@@ -444,6 +447,9 @@
 | `ところで` | Кстати (by the way) | ところで |
 | `ずつ` | Каждый | ずつ |
 | `いじょう` | Выше (больше, чем) | [以](https://jisho.org/search/%E4%BB%A5%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) |
+| `ぴったり` | Просто, как раз (вовремя) | ぴったり |
+| `もうすぐ` | Очень скоро | もうすぐ |
+| `まっすぐ` | Прямо | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)っ[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
