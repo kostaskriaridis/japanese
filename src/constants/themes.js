@@ -459,7 +459,8 @@ module.exports = [
             { hiragana: 'いじょう', translation: 'Выше (больше, чем)', kanji: '以上' },
             { hiragana: 'ぴったり', translation: 'Просто, как раз (вовремя)', kanji: 'ぴったり' },
             { hiragana: 'もうすぐ', translation: 'Очень скоро', kanji: 'もうすぐ' },
-            { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' }
+            { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' },
+            { hiragana: 'ように', translation: 'Подобно', kanji: 'ように' }
         ]
     },
     {
