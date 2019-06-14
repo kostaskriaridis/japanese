@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 719
+# Table of japanese words to learn: 722
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -673,7 +673,7 @@
 | `じゅいっさい` | 11 лет | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
 | `はたち` | 20 лет | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
 | `にじゅうっさい` | 21 год | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) |
-#### Roles (9)
+#### Roles (12)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `けいさつかん` | Офицер полиции | [警](https://jisho.org/search/%E8%AD%A6%20%23kanji)[察](https://jisho.org/search/%E5%AF%9F%20%23kanji)[官](https://jisho.org/search/%E5%AE%98%20%23kanji) |
@@ -685,6 +685,9 @@
 | `れきし` | История | [歴](https://jisho.org/search/%E6%AD%B4%20%23kanji)[史](https://jisho.org/search/%E5%8F%B2%20%23kanji) |
 | `かがく` | Химия | [化](https://jisho.org/search/%E5%8C%96%20%23kanji)[学](https://jisho.org/search/%E5%AD%A6%20%23kanji) |
 | `けいざい` | Экономия, экономика | [経](https://jisho.org/search/%E7%B5%8C%20%23kanji)[済](https://jisho.org/search/%E6%B8%88%20%23kanji) |
+| `せんもんか` | Специалист | [専](https://jisho.org/search/%E5%B0%82%20%23kanji)[門](https://jisho.org/search/%E9%96%80%20%23kanji)[家](https://jisho.org/search/%E5%AE%B6%20%23kanji) |
+| `はかせ` | Доктор (наук) | [博](https://jisho.org/search/%E5%8D%9A%20%23kanji)[士](https://jisho.org/search/%E5%A3%AB%20%23kanji) |
+| `おたく` | Человек, одержимый чем-то | おたく |
 #### Body parts (23)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

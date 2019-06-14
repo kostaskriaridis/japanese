@@ -758,7 +758,10 @@ module.exports = [
             { hiragana: 'すうがく', translation: 'Математика', kanji: '数学' },
             { hiragana: 'れきし', translation: 'История', kanji: '歴史' },
             { hiragana: 'かがく', translation: 'Химия', kanji: '化学' },
-            { hiragana: 'けいざい', translation: 'Экономия, экономика', kanji: '経済' }
+            { hiragana: 'けいざい', translation: 'Экономия, экономика', kanji: '経済' },
+            { hiragana: 'せんもんか', translation: 'Специалист', kanji: '専門家' },
+            { hiragana: 'はかせ', translation: 'Доктор (наук)', kanji: '博士' },
+            { hiragana: 'おたく', translation: 'Человек, одержимый чем-то', kanji: 'おたく' }
         ]
     },
     {
