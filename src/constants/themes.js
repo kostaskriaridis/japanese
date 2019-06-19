@@ -303,7 +303,10 @@ module.exports = [
             { hiragana: 'びん', translation: 'Рейс, полёт', kanji: '便' },
             { hiragana: 'ちゃくりく', translation: 'Посадка', kanji: '着陸' },
             { hiragana: 'ごうかく', translation: 'Успех, проход экзамена', kanji: '合格' },
-            { hiragana: 'ほんき', translation: 'Серьёзность, правда', kanji: '本気' }
+            { hiragana: 'ほんき', translation: 'Серьёзность, правда', kanji: '本気' },
+            { hiragana: 'いき', translation: 'Дыхание', kanji: '息' },
+            { hiragana: 'けしき', translation: 'Вид', kanji: '景色' },
+            { hiragana: 'ちょうじょう', translation: 'Вершина', kanji: '頂上' }
         ]
     },
     {
@@ -461,7 +464,8 @@ module.exports = [
             { hiragana: 'ぴったり', translation: 'Просто, как раз (вовремя)', kanji: 'ぴったり' },
             { hiragana: 'もうすぐ', translation: 'Очень скоро', kanji: 'もうすぐ' },
             { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' },
-            { hiragana: 'ように', translation: 'Подобно', kanji: 'ように' }
+            { hiragana: 'ように', translation: 'Подобно', kanji: 'ように' },
+            { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' }
         ]
     },
     {
@@ -583,7 +587,8 @@ module.exports = [
             { hiragana: 'とりあえず', translation: 'Для начала' },
             { hiragana: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' },
             { hiragana: 'もうすぐ', translation: 'Скоро', kanji: 'もう直ぐ' },
-            { hiragana: 'かいえん', translation: 'Время начала выступления', kanji: '開演' }
+            { hiragana: 'かいえん', translation: 'Время начала выступления', kanji: '開演' },
+            { hiragana: 'びょう', translation: 'Постфикс для секунд', kanji: '秒' }
         ]
     },
     {

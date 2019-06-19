@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 723
+# Table of japanese words to learn: 728
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -119,7 +119,7 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
-#### Nouns (180)
+#### Nouns (183)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -302,6 +302,9 @@
 | `ちゃくりく` | Посадка | [着](https://jisho.org/search/%E7%9D%80%20%23kanji)[陸](https://jisho.org/search/%E9%99%B8%20%23kanji) |
 | `ごうかく` | Успех, проход экзамена | [合](https://jisho.org/search/%E5%90%88%20%23kanji)[格](https://jisho.org/search/%E6%A0%BC%20%23kanji) |
 | `ほんき` | Серьёзность, правда | [本](https://jisho.org/search/%E6%9C%AC%20%23kanji)[気](https://jisho.org/search/%E6%B0%97%20%23kanji) |
+| `いき` | Дыхание | [息](https://jisho.org/search/%E6%81%AF%20%23kanji) |
+| `けしき` | Вид | [景](https://jisho.org/search/%E6%99%AF%20%23kanji)[色](https://jisho.org/search/%E8%89%B2%20%23kanji) |
+| `ちょうじょう` | Вершина | [頂](https://jisho.org/search/%E9%A0%82%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -398,7 +401,7 @@
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
 | `あいまい (な)` | Неопределенный, неоднозначный | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) |
-#### Adverbs (53)
+#### Adverbs (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -454,6 +457,7 @@
 | `もうすぐ` | Очень скоро | もうすぐ |
 | `まっすぐ` | Прямо | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)っ[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
 | `ように` | Подобно | ように |
+| `くるしい` | Тяжело, больно | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)しい |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -533,7 +537,7 @@
 | `あなたたちの` | Ваше (мн. число) | — |
 | `いっしょに` | Вместе | — |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
-#### Time (21)
+#### Time (22)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
@@ -557,6 +561,7 @@
 | `こんど` | В следующий раз, в другой раз | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[度](https://jisho.org/search/%E5%BA%A6%20%23kanji) |
 | `もうすぐ` | Скоро | もう[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
 | `かいえん` | Время начала выступления | [開](https://jisho.org/search/%E9%96%8B%20%23kanji)[演](https://jisho.org/search/%E6%BC%94%20%23kanji) |
+| `びょう` | Постфикс для секунд | [秒](https://jisho.org/search/%E7%A7%92%20%23kanji) |
 #### Minutes (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
