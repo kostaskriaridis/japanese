@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 735
+# Table of japanese words to learn: 702
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -119,7 +119,7 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
-#### Nouns (184)
+#### Nouns (173)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -137,12 +137,10 @@
 | `たいざいもくてき` | Цель пребывания | — |
 | `かんこう` | Осмотр достопримечательностей | [観](https://jisho.org/search/%E8%A6%B3%20%23kanji)[光](https://jisho.org/search/%E5%85%89%20%23kanji) |
 | `よてい` | План | [予](https://jisho.org/search/%E4%BA%88%20%23kanji)[定](https://jisho.org/search/%E5%AE%9A%20%23kanji) |
-| `もの` | Вещь | [物](https://jisho.org/search/%E7%89%A9%20%23kanji) |
 | `うち` | Дом, моя семья, моя | [家](https://jisho.org/search/%E5%AE%B6%20%23kanji) |
 | `うそつき` | Лжец | [嘘](https://jisho.org/search/%E5%98%98%20%23kanji)つき |
 | `おさけ` | Алкоголь | お[酒](https://jisho.org/search/%E9%85%92%20%23kanji) |
 | `りょうり` | Еда | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji) |
-| `まち` | Город | [町](https://jisho.org/search/%E7%94%BA%20%23kanji) |
 | `くに` | Страна | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji) |
 | `まくら` | Подушка | [枕](https://jisho.org/search/%E6%9E%95%20%23kanji) |
 | `かばん` | Сумка | [鞄](https://jisho.org/search/%E9%9E%84%20%23kanji) |
@@ -194,7 +192,6 @@
 | `みずうみ` | Озеро | [湖](https://jisho.org/search/%E6%B9%96%20%23kanji) |
 | `ゆめ` | Сон | [夢](https://jisho.org/search/%E5%A4%A2%20%23kanji) |
 | `じゅうしょ` | Адрес | [住](https://jisho.org/search/%E4%BD%8F%20%23kanji)[所](https://jisho.org/search/%E6%89%80%20%23kanji) |
-| `かわ` | Река, кожа | [川](https://jisho.org/search/%E5%B7%9D%20%23kanji) |
 | `おかわり` | Добавка | お[代](https://jisho.org/search/%E4%BB%A3%20%23kanji)わり |
 | `かいだん` | Ступеньки | [階](https://jisho.org/search/%E9%9A%8E%20%23kanji)[段](https://jisho.org/search/%E6%AE%B5%20%23kanji) |
 | `きぼう` | Надежда | [希](https://jisho.org/search/%E5%B8%8C%20%23kanji)[望](https://jisho.org/search/%E6%9C%9B%20%23kanji) |
@@ -230,12 +227,8 @@
 | `めい` | Счётчик для людей | [名](https://jisho.org/search/%E5%90%8D%20%23kanji) |
 | `ほん, ぽん, ぼん` | Счётчик длинных объектов | [本](https://jisho.org/search/%E6%9C%AC%20%23kanji) |
 | `～ぬき` | Постфикс для фразы "Без ... (чего-нибудь)" | ～[抜](https://jisho.org/search/%E6%8A%9C%20%23kanji)き |
-| `むし` | Насекомое | [虫](https://jisho.org/search/%E8%99%AB%20%23kanji) |
 | `はいります` | Войти, зайти в | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)ります |
-| `つき` | Луна | [月](https://jisho.org/search/%E6%9C%88%20%23kanji) |
 | `うけつけ` | Ресепшен | [受](https://jisho.org/search/%E5%8F%97%20%23kanji)[付](https://jisho.org/search/%E4%BB%98%20%23kanji) |
-| `みず` | Вода | [水](https://jisho.org/search/%E6%B0%B4%20%23kanji) |
-| `うた` | Песня | [歌](https://jisho.org/search/%E6%AD%8C%20%23kanji) |
 | `かべ` | Стена | [壁](https://jisho.org/search/%E5%A3%81%20%23kanji) |
 | `ほこり` | Гордость | [誇](https://jisho.org/search/%E8%AA%87%20%23kanji)り |
 | `きっぷ` | Билет (поезд) | [切](https://jisho.org/search/%E5%88%87%20%23kanji)[符](https://jisho.org/search/%E7%AC%A6%20%23kanji) |
@@ -249,7 +242,6 @@
 | `あんない` | Информация, руководство | [案](https://jisho.org/search/%E6%A1%88%20%23kanji)[内](https://jisho.org/search/%E5%86%85%20%23kanji) |
 | `よやく` | Бронирование, встреча | [予](https://jisho.org/search/%E4%BA%88%20%23kanji)[約](https://jisho.org/search/%E7%B4%84%20%23kanji) |
 | `ほけんしょう` | Страховая карта | [保](https://jisho.org/search/%E4%BF%9D%20%23kanji)[険](https://jisho.org/search/%E9%99%BA%20%23kanji)[証](https://jisho.org/search/%E8%A8%BC%20%23kanji) |
-| `かたち` | Форма | [形](https://jisho.org/search/%E5%BD%A2%20%23kanji) |
 | `えいぎょう` | Бизнес, торговля, продажи | [営](https://jisho.org/search/%E5%96%B6%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji) |
 | `はつおん` | Произношение | [発](https://jisho.org/search/%E7%99%BA%20%23kanji)[音](https://jisho.org/search/%E9%9F%B3%20%23kanji) |
 | `れんらく` | Общение, контакт | [連](https://jisho.org/search/%E9%80%A3%20%23kanji)[絡](https://jisho.org/search/%E7%B5%A1%20%23kanji) |
@@ -260,12 +252,10 @@
 | `こくせき` | Национальность | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji)[籍](https://jisho.org/search/%E7%B1%8D%20%23kanji) |
 | `かがみ` | Зеркало | [鏡](https://jisho.org/search/%E9%8F%A1%20%23kanji) |
 | `もんだい` | Проблема, вопрос | [問](https://jisho.org/search/%E5%95%8F%20%23kanji)[題](https://jisho.org/search/%E9%A1%8C%20%23kanji) |
-| `しま` | Остров | [島](https://jisho.org/search/%E5%B3%B6%20%23kanji) |
 | `いいわけ` | Оправдание | [言](https://jisho.org/search/%E8%A8%80%20%23kanji)い[訳](https://jisho.org/search/%E8%A8%B3%20%23kanji) |
 | `さくひん` | Работа | [作](https://jisho.org/search/%E4%BD%9C%20%23kanji)[品](https://jisho.org/search/%E5%93%81%20%23kanji) |
 | `のろい` | Проклятье | [呪](https://jisho.org/search/%E5%91%AA%20%23kanji)い |
 | `しんさく` | Новая работа | [新](https://jisho.org/search/%E6%96%B0%20%23kanji)[作](https://jisho.org/search/%E4%BD%9C%20%23kanji) |
-| `そら` | Небо | [空](https://jisho.org/search/%E7%A9%BA%20%23kanji) |
 | `え` | Картина | [絵](https://jisho.org/search/%E7%B5%B5%20%23kanji) |
 | `びじゅつかん` | Музей искусства | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)[術](https://jisho.org/search/%E8%A1%93%20%23kanji)[館](https://jisho.org/search/%E9%A4%A8%20%23kanji) |
 | `てんらんかい` | Выставка | [展](https://jisho.org/search/%E5%B1%95%20%23kanji)[覧](https://jisho.org/search/%E8%A6%A7%20%23kanji)[会](https://jisho.org/search/%E4%BC%9A%20%23kanji) |
@@ -290,7 +280,6 @@
 | `はいゆう` | Актёр | [俳](https://jisho.org/search/%E4%BF%B3%20%23kanji)[優](https://jisho.org/search/%E5%84%AA%20%23kanji) |
 | `しりあい` | Знакомый (человек) | [知](https://jisho.org/search/%E7%9F%A5%20%23kanji)り[合](https://jisho.org/search/%E5%90%88%20%23kanji)い |
 | `つみ` | Преступление, грех | [罪](https://jisho.org/search/%E7%BD%AA%20%23kanji) |
-| `かた` | Человек (вежливо) | [方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
 | `どくしんしゃ` | Не женат (холост) | [独](https://jisho.org/search/%E7%8B%AC%20%23kanji)[身](https://jisho.org/search/%E8%BA%AB%20%23kanji)[者](https://jisho.org/search/%E8%80%85%20%23kanji) |
 | `きこんしゃ` | Женат | [既](https://jisho.org/search/%E6%97%A2%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji)[者](https://jisho.org/search/%E8%80%85%20%23kanji) |
 | `ちゅうし` | Отменено (что-то запланированное) | [中](https://jisho.org/search/%E4%B8%AD%20%23kanji)[止](https://jisho.org/search/%E6%AD%A2%20%23kanji) |
@@ -468,12 +457,9 @@
 | `どうして` | Почему? Как? | — |
 | `だれの` | Чьё? | — |
 | `どのくらい` | Как долго? Сколько? | — |
-#### Locations (15)
+#### Locations (12)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `うえ` | Сверху, вверх, выше | [上](https://jisho.org/search/%E4%B8%8A%20%23kanji) |
-| `した` | Снизу, под, ниже | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji) |
-| `なか` | Внутри | [中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
 | `そと` | Снаружи | [外](https://jisho.org/search/%E5%A4%96%20%23kanji) |
 | `まえ` | Перед | [前](https://jisho.org/search/%E5%89%8D%20%23kanji) |
 | `うしろ` | Сзади | [後](https://jisho.org/search/%E5%BE%8C%20%23kanji)ろ |
@@ -486,7 +472,7 @@
 | `ひがし` | Восток | [東](https://jisho.org/search/%E6%9D%B1%20%23kanji) |
 | `いりぐち` | Вход | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) |
 | `でぐち` | Выход | [出](https://jisho.org/search/%E5%87%BA%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) |
-#### Spots around town (12)
+#### Spots around town (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `がっこう` | Школа | [学](https://jisho.org/search/%E5%AD%A6%20%23kanji)[校](https://jisho.org/search/%E6%A0%A1%20%23kanji) |
@@ -494,7 +480,6 @@
 | `くうこう` | Аэропорт | [空](https://jisho.org/search/%E7%A9%BA%20%23kanji)[港](https://jisho.org/search/%E6%B8%AF%20%23kanji) |
 | `こうえん` | Парк | [公](https://jisho.org/search/%E5%85%AC%20%23kanji)[園](https://jisho.org/search/%E5%9C%92%20%23kanji) |
 | `スーパー` | Супермаркет | — |
-| `だいがく` | Университет | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[学](https://jisho.org/search/%E5%AD%A6%20%23kanji) |
 | `ちゅうしゃじょう` | Автостоянка | [駐](https://jisho.org/search/%E9%A7%90%20%23kanji)[車](https://jisho.org/search/%E8%BB%8A%20%23kanji)[場](https://jisho.org/search/%E5%A0%B4%20%23kanji) |
 | `ばすてい` | Автобусная астоновка | — |
 | `びょういん` | Больница | [病](https://jisho.org/search/%E7%97%85%20%23kanji)[院](https://jisho.org/search/%E9%99%A2%20%23kanji) |
@@ -509,12 +494,9 @@
 | `パソコン` | Персональный компьютер | — |
 | `けいたいでんわ` | Мобильный телефон | [携](https://jisho.org/search/%E6%90%BA%20%23kanji)[帯](https://jisho.org/search/%E5%B8%AF%20%23kanji)[電](https://jisho.org/search/%E9%9B%BB%20%23kanji)[話](https://jisho.org/search/%E8%A9%B1%20%23kanji) |
 | `ばんごう` | Номер | [番](https://jisho.org/search/%E7%95%AA%20%23kanji)[号](https://jisho.org/search/%E5%8F%B7%20%23kanji) |
-#### Relations (16)
+#### Relations (13)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `おとうさん` | Папа | お[父](https://jisho.org/search/%E7%88%B6%20%23kanji)さん |
-| `おかあさん` | Мама | お[母](https://jisho.org/search/%E6%AF%8D%20%23kanji)さん |
-| `おにいさん` | Старший брат | [兄](https://jisho.org/search/%E5%85%84%20%23kanji) |
 | `おねえさん` | Старшая сестра | お[姉](https://jisho.org/search/%E5%A7%89%20%23kanji)さん |
 | `おとうとさん` | Младший брат | [弟](https://jisho.org/search/%E5%BC%9F%20%23kanji)さん |
 | `いもうとさん` | Младшая сестра | [妹](https://jisho.org/search/%E5%A6%B9%20%23kanji)さん |
@@ -528,23 +510,19 @@
 | `そふ` | Дедушка | [祖](https://jisho.org/search/%E7%A5%96%20%23kanji)[父](https://jisho.org/search/%E7%88%B6%20%23kanji) |
 | `そぼ` | Бабушка | [祖](https://jisho.org/search/%E7%A5%96%20%23kanji)[母](https://jisho.org/search/%E6%AF%8D%20%23kanji) |
 | `いとこ` | Двоюродный | — |
-#### Pronouns (7)
+#### Pronouns (3)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
-| `かれの` | Его | — |
-| `かのじょの` | Её | — |
-| `わたしたちの` | Наше | — |
 | `かれらの` | Их | — |
-| `あなたたちの` | Ваше (мн. число) | — |
-| `いっしょに` | Вместе | — |
+| `いっしょに` | Вместе | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
 #### Time (22)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
 | `ごご` | Время с 12:00 до 24:00 (p.m.) | — |
-| `つぎ` | Следующий | — |
-| `はん` | Половина | — |
+| `つぎ` | Следующий | [次](https://jisho.org/search/%E6%AC%A1%20%23kanji) |
+| `はん` | Половина | [半](https://jisho.org/search/%E5%8D%8A%20%23kanji) |
 | `にじはん` | Половина третьего | — |
 | `じゆうじかん` | Свободные часы | — |
 | `いつから` | С какого времени? | — |
@@ -577,16 +555,12 @@
 | `きゅうふん` | 9 минут | [九](https://jisho.org/search/%E4%B9%9D%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
 | `じゅっぷん` | 10 минут | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
 | `なんぷん` | Сколько минут? | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
-#### Dates (27)
+#### Dates (22)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `たんじょうび` | День рождения | [誕](https://jisho.org/search/%E8%AA%95%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `あけまして` | С новым годом | [明](https://jisho.org/search/%E6%98%8E%20%23kanji)けまして |
 | `おめでとうございます` | Поздравляю | — |
-| `がつ` | Месяц | [月](https://jisho.org/search/%E6%9C%88%20%23kanji) |
-| `にち` | День | [日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
-| `いま` | Сейчас | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji) |
-| `やすみ` | Отпуск | [休](https://jisho.org/search/%E4%BC%91%20%23kanji)み |
 | `いつ` | Когда, время | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[時](https://jisho.org/search/%E6%99%82%20%23kanji) |
 | `しゅうかん` | Неделя | [週](https://jisho.org/search/%E9%80%B1%20%23kanji)[間](https://jisho.org/search/%E9%96%93%20%23kanji) |
 | `きのう` | Вчера | [昨](https://jisho.org/search/%E6%98%A8%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
@@ -603,7 +577,6 @@
 | `ことし` | В этом году | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[年](https://jisho.org/search/%E5%B9%B4%20%23kanji) |
 | `らいねん` | В следующем году | [来](https://jisho.org/search/%E6%9D%A5%20%23kanji)[年](https://jisho.org/search/%E5%B9%B4%20%23kanji) |
 | `そのあと` | После этого | その[後](https://jisho.org/search/%E5%BE%8C%20%23kanji) |
-| `あさ` | Утро | [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji) |
 | `ひる` | День | [昼](https://jisho.org/search/%E6%98%BC%20%23kanji) |
 | `ばん` | Вечер | [晩](https://jisho.org/search/%E6%99%A9%20%23kanji) |
 | `よる` | Ночь | [夜](https://jisho.org/search/%E5%A4%9C%20%23kanji) |
@@ -696,7 +669,7 @@
 | `せんもんか` | Специалист | [専](https://jisho.org/search/%E5%B0%82%20%23kanji)[門](https://jisho.org/search/%E9%96%80%20%23kanji)[家](https://jisho.org/search/%E5%AE%B6%20%23kanji) |
 | `はかせ` | Доктор (наук) | [博](https://jisho.org/search/%E5%8D%9A%20%23kanji)[士](https://jisho.org/search/%E5%A3%AB%20%23kanji) |
 | `おたく` | Человек, одержимый чем-то | おたく |
-#### Body parts (24)
+#### Body parts (19)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `あたま` | Голова | [頭](https://jisho.org/search/%E9%A0%AD%20%23kanji) |
@@ -705,21 +678,16 @@
 | `き` | Чувство | [気](https://jisho.org/search/%E6%B0%97%20%23kanji) |
 | `かお` | Лицо | [顔](https://jisho.org/search/%E9%A1%94%20%23kanji) |
 | `うで` | Рука (arm) | [腕](https://jisho.org/search/%E8%85%95%20%23kanji) |
-| `て` | Кисть руки (hand) | [手](https://jisho.org/search/%E6%89%8B%20%23kanji) |
-| `あし` | Нога | [足](https://jisho.org/search/%E8%B6%B3%20%23kanji) |
 | `はな` | Нос | [鼻](https://jisho.org/search/%E9%BC%BB%20%23kanji) |
-| `くち` | Рот | [口](https://jisho.org/search/%E5%8F%A3%20%23kanji) |
 | `くちびる` | Губы | [唇](https://jisho.org/search/%E5%94%87%20%23kanji) |
 | `は` | Зуб | [歯](https://jisho.org/search/%E6%AD%AF%20%23kanji) |
 | `のど` | Горло | のど |
-| `くび` | Шея | [首](https://jisho.org/search/%E9%A6%96%20%23kanji) |
 | `かた` | Плечо | [肩](https://jisho.org/search/%E8%82%A9%20%23kanji) |
 | `せなか` | Спина | [背](https://jisho.org/search/%E8%83%8C%20%23kanji)[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
 | `おなか` | Живот | お[腹](https://jisho.org/search/%E8%85%B9%20%23kanji) |
 | `むね` | Грудь | [胸](https://jisho.org/search/%E8%83%B8%20%23kanji) |
 | `ひざ` | Колено | [膝](https://jisho.org/search/%E8%86%9D%20%23kanji) |
 | `ゆび` | Палец | [指](https://jisho.org/search/%E6%8C%87%20%23kanji) |
-| `からだ` | Тело | [体](https://jisho.org/search/%E4%BD%93%20%23kanji) |
 | `せ` | Рост | [背](https://jisho.org/search/%E8%83%8C%20%23kanji) |
 | `みみ` | Ухо | [耳](https://jisho.org/search/%E8%80%B3%20%23kanji) |
 | `はい` | Лёгкие | [肺](https://jisho.org/search/%E8%82%BA%20%23kanji) |
@@ -767,12 +735,11 @@
 | `ど` | Степень, температура | [度](https://jisho.org/search/%E5%BA%A6%20%23kanji) |
 | `かんごし` | Медсестра, медбрат | [看](https://jisho.org/search/%E7%9C%8B%20%23kanji)[護](https://jisho.org/search/%E8%AD%B7%20%23kanji)[師](https://jisho.org/search/%E5%B8%AB%20%23kanji) |
 | `やっきょく` | Аптека | [薬](https://jisho.org/search/%E8%96%AC%20%23kanji)[局](https://jisho.org/search/%E5%B1%80%20%23kanji) |
-#### Money (11)
+#### Money (10)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ぜい` | Налог | [税](https://jisho.org/search/%E7%A8%8E%20%23kanji) |
 | `ぜいこみ` | Налог включён | [税](https://jisho.org/search/%E7%A8%8E%20%23kanji)[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)み |
-| `おかね` | Деньги | お[金](https://jisho.org/search/%E9%87%91%20%23kanji) |
 | `げんきん` | Наличные | [現](https://jisho.org/search/%E7%8F%BE%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) |
 | `かかく` | Цена | [価](https://jisho.org/search/%E4%BE%A1%20%23kanji)[格](https://jisho.org/search/%E6%A0%BC%20%23kanji) |
 | `かいけい` | Счёт, чек | [会](https://jisho.org/search/%E4%BC%9A%20%23kanji)[計](https://jisho.org/search/%E8%A8%88%20%23kanji) |
