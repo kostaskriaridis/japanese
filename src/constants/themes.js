@@ -306,7 +306,8 @@ module.exports = [
             { hiragana: 'ほんき', translation: 'Серьёзность, правда', kanji: '本気' },
             { hiragana: 'いき', translation: 'Дыхание', kanji: '息' },
             { hiragana: 'けしき', translation: 'Вид', kanji: '景色' },
-            { hiragana: 'ちょうじょう', translation: 'Вершина', kanji: '頂上' }
+            { hiragana: 'ちょうじょう', translation: 'Вершина', kanji: '頂上' },
+            { hiragana: 'しんじゅ', translation: 'Жемчужина', kanji: '真珠' }
         ]
     },
     {
@@ -573,17 +574,17 @@ module.exports = [
             { hiragana: 'はん', translation: 'Половина' },
             { hiragana: 'にじはん', translation: 'Половина третьего' },
             { hiragana: 'じゆうじかん', translation: 'Свободные часы' },
-            { hiragana: 'から', translation: 'От' },
-            { hiragana: 'まで', translation: 'До' },
             { hiragana: 'いつから', translation: 'С какого времени?' },
             { hiragana: 'いまから', translation: 'С этого момента' },
             { hiragana: 'いつでも', translation: 'В любое время' },
             { hiragana: 'よく', translation: 'Часто' },
-            { hiragana: 'まいにち', translation: 'Каждый день' },
+            { hiragana: 'まいにち', translation: 'Каждый день', kanji: '毎日' },
+            { hiragana: 'たまに', translation: 'Время от времени' },
             { hiragana: 'さっき', translation: 'Недавно', kanji: 'さっき' },
-            { hiragana: 'おひさしぶり', translation: 'Давно не виделись' },
             { hiragana: 'いつも', translation: 'Обычно, всегда' },
-            { hiragana: 'とけい', translation: 'Часы' },
+            { hiragana: 'ときどき', translation: 'Иногда', kanji: '時々' },
+            { hiragana: 'おひさしぶり', translation: 'Давно не виделись' },
+            { hiragana: 'とけい', translation: 'Часы', kanji: '時計' },
             { hiragana: 'とりあえず', translation: 'Для начала' },
             { hiragana: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' },
             { hiragana: 'もうすぐ', translation: 'Скоро', kanji: 'もう直ぐ' },
@@ -656,7 +657,8 @@ module.exports = [
             { hiragana: 'どようび', translation: 'Суббота', kanji: '土曜日' },
             { hiragana: 'にちようび', translation: 'Воскресенье', kanji: '日曜日' },
             { hiragana: 'なんようび', translation: 'Какой день недели?', kanji: '何曜日' },
-            { hiragana: 'へいじつ', translation: 'Будние дни', kanji: '平日' }
+            { hiragana: 'へいじつ', translation: 'Будние дни', kanji: '平日' },
+            { hiragana: 'しゅうまつ', translation: 'Выходные дни', kanji: '週末' }
         ]
     },
     {
@@ -795,7 +797,8 @@ module.exports = [
             { hiragana: 'ゆび', translation: 'Палец', kanji: '指' },
             { hiragana: 'からだ', translation: 'Тело', kanji: '体' },
             { hiragana: 'せ', translation: 'Рост', kanji: '背' },
-            { hiragana: 'みみ', translation: 'Ухо', kanji: '耳' }
+            { hiragana: 'みみ', translation: 'Ухо', kanji: '耳' },
+            { hiragana: 'はい', translation: 'Лёгкие', kanji: '肺' }
         ]
     },
     {
@@ -829,6 +832,12 @@ module.exports = [
             { hiragana: 'おせわになりました', translation: 'Спасибо за вашу доброту', kanji: 'お世話になりました' },
             { hiragana: 'じゃくにくきょうしょく', translation: 'Выживает сильнейший', kanji: '弱肉強食' },
             { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' }
+        ]
+    },
+    {
+        title: 'Activities',
+        words: [
+            { hiragana: 'すもぐり', translation: 'Дайвинг без оборудования', kanji: '素潜り' }
         ]
     },
     {
@@ -879,7 +888,9 @@ module.exports = [
             { hiragana: 'おおもり', translation: 'Большая порция', kanji: '大盛り' },
             { hiragana: 'しょうゆ', translation: 'Соевый соус', kanji: 'しょうゆ' },
             { hiragana: 'あさめしまえ', translation: 'Кусок торта', kanji: '朝飯前' },
-            { hiragana: 'やきとり', translation: 'Курица на грилле', kanji: '焼き鳥' }
+            { hiragana: 'やきとり', translation: 'Курица на грилле', kanji: '焼き鳥' },
+            { hiragana: 'やきにく', translation: 'Мясо на барбекю', kanji: '焼肉' },
+            { hiragana: 'しょくせいかつ', translation: 'Стиль питания', kanji: '食生活' }
         ]
     },
     {

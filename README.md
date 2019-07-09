@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 728
+# Table of japanese words to learn: 734
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -119,7 +119,7 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
-#### Nouns (183)
+#### Nouns (184)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -305,6 +305,7 @@
 | `いき` | Дыхание | [息](https://jisho.org/search/%E6%81%AF%20%23kanji) |
 | `けしき` | Вид | [景](https://jisho.org/search/%E6%99%AF%20%23kanji)[色](https://jisho.org/search/%E8%89%B2%20%23kanji) |
 | `ちょうじょう` | Вершина | [頂](https://jisho.org/search/%E9%A0%82%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) |
+| `しんじゅ` | Жемчужина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)[珠](https://jisho.org/search/%E7%8F%A0%20%23kanji) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -546,17 +547,17 @@
 | `はん` | Половина | — |
 | `にじはん` | Половина третьего | — |
 | `じゆうじかん` | Свободные часы | — |
-| `から` | От | — |
-| `まで` | До | — |
 | `いつから` | С какого времени? | — |
 | `いまから` | С этого момента | — |
 | `いつでも` | В любое время | — |
 | `よく` | Часто | — |
-| `まいにち` | Каждый день | — |
+| `まいにち` | Каждый день | [毎](https://jisho.org/search/%E6%AF%8E%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `たまに` | Время от времени | — |
 | `さっき` | Недавно | さっき |
-| `おひさしぶり` | Давно не виделись | — |
 | `いつも` | Обычно, всегда | — |
-| `とけい` | Часы | — |
+| `ときどき` | Иногда | [時](https://jisho.org/search/%E6%99%82%20%23kanji)々 |
+| `おひさしぶり` | Давно не виделись | — |
+| `とけい` | Часы | [時](https://jisho.org/search/%E6%99%82%20%23kanji)[計](https://jisho.org/search/%E8%A8%88%20%23kanji) |
 | `とりあえず` | Для начала | — |
 | `こんど` | В следующий раз, в другой раз | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[度](https://jisho.org/search/%E5%BA%A6%20%23kanji) |
 | `もうすぐ` | Скоро | もう[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
@@ -606,7 +607,7 @@
 | `ひる` | День | [昼](https://jisho.org/search/%E6%98%BC%20%23kanji) |
 | `ばん` | Вечер | [晩](https://jisho.org/search/%E6%99%A9%20%23kanji) |
 | `よる` | Ночь | [夜](https://jisho.org/search/%E5%A4%9C%20%23kanji) |
-#### Week Days (9)
+#### Week Days (10)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `げつようび` | Понедельник | [月](https://jisho.org/search/%E6%9C%88%20%23kanji)[曜](https://jisho.org/search/%E6%9B%9C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
@@ -618,6 +619,7 @@
 | `にちようび` | Воскресенье | [日](https://jisho.org/search/%E6%97%A5%20%23kanji)[曜](https://jisho.org/search/%E6%9B%9C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `なんようび` | Какой день недели? | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[曜](https://jisho.org/search/%E6%9B%9C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `へいじつ` | Будние дни | [平](https://jisho.org/search/%E5%B9%B3%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `しゅうまつ` | Выходные дни | [週](https://jisho.org/search/%E9%80%B1%20%23kanji)[末](https://jisho.org/search/%E6%9C%AB%20%23kanji) |
 #### Month Dates (12)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -694,7 +696,7 @@
 | `せんもんか` | Специалист | [専](https://jisho.org/search/%E5%B0%82%20%23kanji)[門](https://jisho.org/search/%E9%96%80%20%23kanji)[家](https://jisho.org/search/%E5%AE%B6%20%23kanji) |
 | `はかせ` | Доктор (наук) | [博](https://jisho.org/search/%E5%8D%9A%20%23kanji)[士](https://jisho.org/search/%E5%A3%AB%20%23kanji) |
 | `おたく` | Человек, одержимый чем-то | おたく |
-#### Body parts (23)
+#### Body parts (24)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `あたま` | Голова | [頭](https://jisho.org/search/%E9%A0%AD%20%23kanji) |
@@ -720,6 +722,7 @@
 | `からだ` | Тело | [体](https://jisho.org/search/%E4%BD%93%20%23kanji) |
 | `せ` | Рост | [背](https://jisho.org/search/%E8%83%8C%20%23kanji) |
 | `みみ` | Ухо | [耳](https://jisho.org/search/%E8%80%B3%20%23kanji) |
+| `はい` | Лёгкие | [肺](https://jisho.org/search/%E8%82%BA%20%23kanji) |
 #### Combinations (2)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -749,6 +752,10 @@
 | `おせわになりました` | Спасибо за вашу доброту | お[世](https://jisho.org/search/%E4%B8%96%20%23kanji)[話](https://jisho.org/search/%E8%A9%B1%20%23kanji)になりました |
 | `じゃくにくきょうしょく` | Выживает сильнейший | [弱](https://jisho.org/search/%E5%BC%B1%20%23kanji)[肉](https://jisho.org/search/%E8%82%89%20%23kanji)[強](https://jisho.org/search/%E5%BC%B7%20%23kanji)[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) |
 | `いちごいちえ` | Единственный в жизни шанс | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[期](https://jisho.org/search/%E6%9C%9F%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[会](https://jisho.org/search/%E4%BC%9A%20%23kanji) |
+#### Activities (1)
+| Japanese | Translation | Kanji |
+| ------ | ------ | ------ |
+| `すもぐり` | Дайвинг без оборудования | [素](https://jisho.org/search/%E7%B4%A0%20%23kanji)[潜](https://jisho.org/search/%E6%BD%9C%20%23kanji)り |
 #### Medicine (8)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -774,7 +781,7 @@
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
 | `おつり` | Сдача | おつり |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
-#### Food (17)
+#### Food (19)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
@@ -794,6 +801,8 @@
 | `しょうゆ` | Соевый соус | しょうゆ |
 | `あさめしまえ` | Кусок торта | [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji)[飯](https://jisho.org/search/%E9%A3%AF%20%23kanji)[前](https://jisho.org/search/%E5%89%8D%20%23kanji) |
 | `やきとり` | Курица на грилле | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き[鳥](https://jisho.org/search/%E9%B3%A5%20%23kanji) |
+| `やきにく` | Мясо на барбекю | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)[肉](https://jisho.org/search/%E8%82%89%20%23kanji) |
+| `しょくせいかつ` | Стиль питания | [食](https://jisho.org/search/%E9%A3%9F%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji)[活](https://jisho.org/search/%E6%B4%BB%20%23kanji) |
 #### Class 1 verbs. When ます is preceded by -i (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
