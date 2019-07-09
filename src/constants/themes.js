@@ -881,6 +881,7 @@ module.exports = [
             { hiragana: 'さしみ', translation: 'Порезанная рыба', kanji: '刺身' },
             { hiragana: 'しお', translation: 'Соль', kanji: '塩' },
             { hiragana: 'さら', translation: 'Тарелка', kanji: '皿' },
+            { hiragana: 'はい', translation: 'Кружка', kanji: '杯' },
             { hiragana: 'からあげ', translation: 'Жареная курица' },
             { hiragana: 'かつどん', translation: 'Жареная свинина в панировке и рис', kanji: 'カツ丼' },
             { hiragana: 'とんかつ', translation: 'Свиная котлета', kanji: '豚カツ' },

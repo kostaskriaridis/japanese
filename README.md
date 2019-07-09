@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 734
+# Table of japanese words to learn: 735
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -781,7 +781,7 @@
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
 | `おつり` | Сдача | おつり |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
-#### Food (19)
+#### Food (20)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
@@ -793,6 +793,7 @@
 | `さしみ` | Порезанная рыба | [刺](https://jisho.org/search/%E5%88%BA%20%23kanji)[身](https://jisho.org/search/%E8%BA%AB%20%23kanji) |
 | `しお` | Соль | [塩](https://jisho.org/search/%E5%A1%A9%20%23kanji) |
 | `さら` | Тарелка | [皿](https://jisho.org/search/%E7%9A%BF%20%23kanji) |
+| `はい` | Кружка | [杯](https://jisho.org/search/%E6%9D%AF%20%23kanji) |
 | `からあげ` | Жареная курица | — |
 | `かつどん` | Жареная свинина в панировке и рис | カツ[丼](https://jisho.org/search/%E4%B8%BC%20%23kanji) |
 | `とんかつ` | Свиная котлета | [豚](https://jisho.org/search/%E8%B1%9A%20%23kanji)カツ |
