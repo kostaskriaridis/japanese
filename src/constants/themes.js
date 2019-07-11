@@ -13,7 +13,7 @@ module.exports = [
             { hiragana: 'いきます', translation: 'Идти', kanji: '行きます' },
             { hiragana: 'まちます', translation: 'Ждать', kanji: '待ちます' },
             { hiragana: 'のります', translation: 'Зайти в поезд, автобус', kanji: '乗ります' },
-            { hiragana: 'します', translation: 'Делать', kanji: '為ます' },
+            { hiragana: 'します', translation: 'Делать' },
             { hiragana: 'きます', translation: 'Приходить', kanji: '来ます' },
             { hiragana: 'はじまります', translation: 'Начинается', kanji: '始まります' },
             { hiragana: 'きんちょうします', translation: 'Нервничать', kanji: '緊張します' },
@@ -41,7 +41,7 @@ module.exports = [
             { hiragana: 'おります', translation: 'Выходить (из поезда)', kanji: '降ります' },
             { hiragana: 'おしえます', translation: 'Учить', kanji: '教えます' },
             { hiragana: 'しめます', translation: 'Закрывать', kanji: '閉めます' },
-            { hiragana: 'とめます', translation: 'Остановиться, припарковаться', kanji: '止めます' },
+            { hiragana: 'とまります', translation: 'Остановиться, припарковаться', kanji: '止まります' },
             { hiragana: 'べんきょうします', translation: 'Учиться', kanji: '勉強します' },
             { hiragana: 'かえります', translation: 'Возвращаться', kanji: '帰りむす' },
             { hiragana: 'ささえます', translation: 'Поддерживать', kanji: '支えます' },
@@ -494,7 +494,6 @@ module.exports = [
             { hiragana: 'ちゅうしゃじょう', translation: 'Автостоянка', kanji: '駐車場' },
             { hiragana: 'ばすてい', translation: 'Автобусная астоновка' },
             { hiragana: 'びょういん', translation: 'Больница', kanji: '病院' },
-            { hiragana: 'みち', translation: 'Дорога, улица', kanji: '道' },
             { hiragana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' },
             { hiragana: 'げきじょう', translation: 'Театр', kanji: '劇場' }
         ]
@@ -561,7 +560,9 @@ module.exports = [
             { hiragana: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' },
             { hiragana: 'もうすぐ', translation: 'Скоро' },
             { hiragana: 'かいえん', translation: 'Время начала выступления', kanji: '開演' },
-            { hiragana: 'びょう', translation: 'Постфикс для секунд', kanji: '秒' }
+            { hiragana: 'びょう', translation: 'Постфикс для секунд', kanji: '秒' },
+            { hiragana: 'さいしょ', translation: 'Первый (порядок)', kanji: '最初' },
+            { hiragana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' }
         ]
     },
     {

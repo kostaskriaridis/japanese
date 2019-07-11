@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 702
+# Table of japanese words to learn: 703
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -13,7 +13,7 @@
 | `いきます` | Идти | [行](https://jisho.org/search/%E8%A1%8C%20%23kanji)きます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=行きます) |
 | `まちます` | Ждать | [待](https://jisho.org/search/%E5%BE%85%20%23kanji)ちます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=待ちます) |
 | `のります` | Зайти в поезд, автобус | [乗](https://jisho.org/search/%E4%B9%97%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=乗ります) |
-| `します` | Делать | [為](https://jisho.org/search/%E7%82%BA%20%23kanji)ます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=為ます) |
+| `します` | Делать | — |
 | `きます` | Приходить | [来](https://jisho.org/search/%E6%9D%A5%20%23kanji)ます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=来ます) |
 | `はじまります` | Начинается | [始](https://jisho.org/search/%E5%A7%8B%20%23kanji)まります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=始まります) |
 | `きんちょうします` | Нервничать | [緊](https://jisho.org/search/%E7%B7%8A%20%23kanji)[張](https://jisho.org/search/%E5%BC%B5%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=緊張します) |
@@ -41,7 +41,7 @@
 | `おります` | Выходить (из поезда) | [降](https://jisho.org/search/%E9%99%8D%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=降ります) |
 | `おしえます` | Учить | [教](https://jisho.org/search/%E6%95%99%20%23kanji)えます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=教えます) |
 | `しめます` | Закрывать | [閉](https://jisho.org/search/%E9%96%89%20%23kanji)めます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=閉めます) |
-| `とめます` | Остановиться, припарковаться | [止](https://jisho.org/search/%E6%AD%A2%20%23kanji)めます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=止めます) |
+| `とまります` | Остановиться, припарковаться | [止](https://jisho.org/search/%E6%AD%A2%20%23kanji)まります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=止まります) |
 | `べんきょうします` | Учиться | [勉](https://jisho.org/search/%E5%8B%89%20%23kanji)[強](https://jisho.org/search/%E5%BC%B7%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=勉強します) |
 | `かえります` | Возвращаться | [帰](https://jisho.org/search/%E5%B8%B0%20%23kanji)りむす [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=帰りむす) |
 | `ささえます` | Поддерживать | [支](https://jisho.org/search/%E6%94%AF%20%23kanji)えます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=支えます) |
@@ -469,7 +469,7 @@
 | `ひがし` | Восток | [東](https://jisho.org/search/%E6%9D%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=東) |
 | `いりぐち` | Вход | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=入口) |
 | `でぐち` | Выход | [出](https://jisho.org/search/%E5%87%BA%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=出口) |
-#### Spots around town (11)
+#### Spots around town (10)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `がっこう` | Школа | [学](https://jisho.org/search/%E5%AD%A6%20%23kanji)[校](https://jisho.org/search/%E6%A0%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=学校) |
@@ -480,7 +480,6 @@
 | `ちゅうしゃじょう` | Автостоянка | [駐](https://jisho.org/search/%E9%A7%90%20%23kanji)[車](https://jisho.org/search/%E8%BB%8A%20%23kanji)[場](https://jisho.org/search/%E5%A0%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=駐車場) |
 | `ばすてい` | Автобусная астоновка | — |
 | `びょういん` | Больница | [病](https://jisho.org/search/%E7%97%85%20%23kanji)[院](https://jisho.org/search/%E9%99%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=病院) |
-| `みち` | Дорога, улица | [道](https://jisho.org/search/%E9%81%93%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=道) |
 | `りょうりてん` | Ресторан | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji)[店](https://jisho.org/search/%E5%BA%97%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料理店) |
 | `げきじょう` | Театр | [劇](https://jisho.org/search/%E5%8A%87%20%23kanji)[場](https://jisho.org/search/%E5%A0%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=劇場) |
 #### Technical (5)
@@ -513,7 +512,7 @@
 | `かれらの` | Их | — |
 | `いっしょに` | Вместе | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=一緒に) |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自分) |
-#### Time (24)
+#### Time (26)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
@@ -540,6 +539,8 @@
 | `もうすぐ` | Скоро | — |
 | `かいえん` | Время начала выступления | [開](https://jisho.org/search/%E9%96%8B%20%23kanji)[演](https://jisho.org/search/%E6%BC%94%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=開演) |
 | `びょう` | Постфикс для секунд | [秒](https://jisho.org/search/%E7%A7%92%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=秒) |
+| `さいしょ` | Первый (порядок) | [最](https://jisho.org/search/%E6%9C%80%20%23kanji)[初](https://jisho.org/search/%E5%88%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=最初) |
+| `にばんめ` | Второй (порядок) | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[番](https://jisho.org/search/%E7%95%AA%20%23kanji)[目](https://jisho.org/search/%E7%9B%AE%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二番目) |
 #### Minutes (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
