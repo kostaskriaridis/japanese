@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 703
+# Table of japanese words to learn: 702
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -106,7 +106,7 @@
 | `しんじます` | Верить | [信](https://jisho.org/search/%E4%BF%A1%20%23kanji)じます |
 | `わらいます` | Смеяться | [笑](https://jisho.org/search/%E7%AC%91%20%23kanji)います |
 | `うまれます` | Родиться | [生](https://jisho.org/search/%E7%94%9F%20%23kanji)まれます |
-| `かかります` | Стоить, занять | かかります |
+| `かかります` | Стоить, занять | [掛](https://jisho.org/search/%E6%8E%9B%20%23kanji)かります |
 | `おぼえます` | Запомнить | [覚](https://jisho.org/search/%E8%A6%9A%20%23kanji)えます |
 | `おぼれます` | Утонуть | [溺](https://jisho.org/search/%E6%BA%BA%20%23kanji)れます |
 | `おごります` | Угощать | [奢](https://jisho.org/search/%E5%A5%A2%20%23kanji)ります |
@@ -119,7 +119,7 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします |
-#### Nouns (173)
+#### Nouns (170)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) |
@@ -141,13 +141,10 @@
 | `うそつき` | Лжец | [嘘](https://jisho.org/search/%E5%98%98%20%23kanji)つき |
 | `おさけ` | Алкоголь | お[酒](https://jisho.org/search/%E9%85%92%20%23kanji) |
 | `りょうり` | Еда | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji) |
-| `くに` | Страна | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji) |
 | `まくら` | Подушка | [枕](https://jisho.org/search/%E6%9E%95%20%23kanji) |
 | `かばん` | Сумка | [鞄](https://jisho.org/search/%E9%9E%84%20%23kanji) |
 | `ぼうし` | Шляпа | [帽](https://jisho.org/search/%E5%B8%BD%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
-| `てんき` | Погода | [天](https://jisho.org/search/%E5%A4%A9%20%23kanji)[気](https://jisho.org/search/%E6%B0%97%20%23kanji) |
 | `いい、よくない` | Хороший, нехороший | — |
-| `ほんとう` | Правда | [本](https://jisho.org/search/%E6%9C%AC%20%23kanji)[当](https://jisho.org/search/%E5%BD%93%20%23kanji) |
 | `うそ` | Ложь | [嘘](https://jisho.org/search/%E5%98%98%20%23kanji) |
 | `しんぶん` | Газета | [新](https://jisho.org/search/%E6%96%B0%20%23kanji)[聞](https://jisho.org/search/%E8%81%9E%20%23kanji) |
 | `どうぶつえん` | Зоопарк | [動](https://jisho.org/search/%E5%8B%95%20%23kanji)[物](https://jisho.org/search/%E7%89%A9%20%23kanji)[園](https://jisho.org/search/%E5%9C%92%20%23kanji) |
@@ -246,7 +243,7 @@
 | `はつおん` | Произношение | [発](https://jisho.org/search/%E7%99%BA%20%23kanji)[音](https://jisho.org/search/%E9%9F%B3%20%23kanji) |
 | `れんらく` | Общение, контакт | [連](https://jisho.org/search/%E9%80%A3%20%23kanji)[絡](https://jisho.org/search/%E7%B5%A1%20%23kanji) |
 | `わりかん` | Разделение стоимости | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)り[勘](https://jisho.org/search/%E5%8B%98%20%23kanji) |
-| `おすすめ` | Рекоммендация | おすすめ |
+| `おすすめ` | Рекоммендация | お[勧](https://jisho.org/search/%E5%8B%A7%20%23kanji)め |
 | `まんなか` | Середина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)ん[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
 | `ちょうし` | Состояние | [調](https://jisho.org/search/%E8%AA%BF%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) |
 | `こくせき` | Национальность | [国](https://jisho.org/search/%E5%9B%BD%20%23kanji)[籍](https://jisho.org/search/%E7%B1%8D%20%23kanji) |
@@ -347,8 +344,8 @@
 | `こわい` | Страшный | [怖](https://jisho.org/search/%E6%80%96%20%23kanji)い |
 | `むしあつい` | Влажный (погода) | [蒸](https://jisho.org/search/%E8%92%B8%20%23kanji)し[暑](https://jisho.org/search/%E6%9A%91%20%23kanji)い |
 | `ふかい` | Глубокий | [深](https://jisho.org/search/%E6%B7%B1%20%23kanji)い |
-| `おとなしい` | Тихий | おとなしい |
-| `しょっぱい` | Солёный | しょっぱい |
+| `おとなしい` | Тихий | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji)しい |
+| `しょっぱい` | Солёный | [塩](https://jisho.org/search/%E5%A1%A9%20%23kanji)っぱい |
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい |
 | `くだらない` | Бесполезный | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)らない |
 | `さびしい、 さみしい` | Одинокий | [寂](https://jisho.org/search/%E5%AF%82%20%23kanji)しい |
@@ -386,7 +383,7 @@
 | `おしゃれ (な)` | Стильный | [御](https://jisho.org/search/%E5%BE%A1%20%23kanji)[洒](https://jisho.org/search/%E6%B4%92%20%23kanji)[落](https://jisho.org/search/%E8%90%BD%20%23kanji) (な) |
 | `ていねい (な)` | Вежливый | [丁](https://jisho.org/search/%E4%B8%81%20%23kanji)[寧](https://jisho.org/search/%E5%AF%A7%20%23kanji) (な) |
 | `ぜっこうちょう (な)` | Восхитительный | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji)[調](https://jisho.org/search/%E8%AA%BF%20%23kanji) (な) |
-| `まあまあ (な)` | Так себе | まあまあ (な) |
+| `まあまあ (な)` | Так себе | — |
 | `ひつよう (な)` | Необходимый | [必](https://jisho.org/search/%E5%BF%85%20%23kanji)[要](https://jisho.org/search/%E8%A6%81%20%23kanji) (な) |
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) |
@@ -418,7 +415,7 @@
 | `たくさん` | Много | — |
 | `ちょう` | Супер | — |
 | `ぜったいに` | Определённо, безоговорочно | — |
-| `きっと` | Определённо | きっと |
+| `きっと` | Определённо | — |
 | `おかしい` | Странно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[笑](https://jisho.org/search/%E7%AC%91%20%23kanji)しい |
 | `そろそろ` | Медленно | — |
 | `すぐ` | Немедленно | — |
@@ -430,23 +427,23 @@
 | `かわりに` | Вместо | [代](https://jisho.org/search/%E4%BB%A3%20%23kanji)わりに |
 | `ぜんぶ` | Всё | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)[部](https://jisho.org/search/%E9%83%A8%20%23kanji) |
 | `てづくり` | Ручной работы | [手](https://jisho.org/search/%E6%89%8B%20%23kanji)[作](https://jisho.org/search/%E4%BD%9C%20%23kanji)り |
-| `めちゃめちゃ` | Очень, супер | めちゃめちゃ |
+| `めちゃめちゃ` | Очень, супер | — |
 | `あいかわらず` | Как обычно | [相](https://jisho.org/search/%E7%9B%B8%20%23kanji)[変](https://jisho.org/search/%E5%A4%89%20%23kanji)わらず |
 | `かなり` | Значительно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[也](https://jisho.org/search/%E4%B9%9F%20%23kanji) |
-| `なかなか` | Вполне, очень (превысит ваши ожидания) | なかなか |
+| `なかなか` | Вполне, очень (превысит ваши ожидания) | — |
 | `のほう` | В этом направлении (небуквально) | の[方](https://jisho.org/search/%E6%96%B9%20%23kanji) |
-| `ずっと` | Всё время | ずっと |
-| `やっぱり` | Как ожидалось | やっぱり |
+| `ずっと` | Всё время | — |
+| `やっぱり` | Как ожидалось | — |
 | `まったく` | Невозможно поверить! | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)く |
 | `すべて` | Полностью, всё | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)て |
 | `おきにいり` | Любимый | お[気](https://jisho.org/search/%E6%B0%97%20%23kanji)に[入](https://jisho.org/search/%E5%85%A5%20%23kanji)り |
-| `ところで` | Кстати (by the way) | ところで |
-| `ずつ` | Каждый | ずつ |
+| `ところで` | Кстати (by the way) | — |
+| `ずつ` | Каждый | — |
 | `いじょう` | Выше (больше, чем) | [以](https://jisho.org/search/%E4%BB%A5%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) |
-| `ぴったり` | Просто, как раз (вовремя) | ぴったり |
-| `もうすぐ` | Очень скоро | もうすぐ |
+| `ぴったり` | Просто, как раз (вовремя) | — |
+| `もうすぐ` | Очень скоро | もう[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
 | `まっすぐ` | Прямо | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)っ[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
-| `ように` | Подобно | ように |
+| `ように` | Подобно | — |
 | `くるしい` | Тяжело, больно | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)しい |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
@@ -516,7 +513,7 @@
 | `かれらの` | Их | — |
 | `いっしょに` | Вместе | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) |
-#### Time (22)
+#### Time (24)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
@@ -530,15 +527,17 @@
 | `いつでも` | В любое время | — |
 | `よく` | Часто | — |
 | `まいにち` | Каждый день | [毎](https://jisho.org/search/%E6%AF%8E%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
+| `ほとんど毎日` | Практически каждый день | ほとんど[毎](https://jisho.org/search/%E6%AF%8E%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) |
 | `たまに` | Время от времени | — |
-| `さっき` | Недавно | さっき |
-| `いつも` | Обычно, всегда | — |
+| `さっき` | Недавно | — |
+| `いつも` | Всегда | — |
+| `たいてい` | В основном | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[抵](https://jisho.org/search/%E6%8A%B5%20%23kanji) |
 | `ときどき` | Иногда | [時](https://jisho.org/search/%E6%99%82%20%23kanji)々 |
 | `おひさしぶり` | Давно не виделись | — |
 | `とけい` | Часы | [時](https://jisho.org/search/%E6%99%82%20%23kanji)[計](https://jisho.org/search/%E8%A8%88%20%23kanji) |
 | `とりあえず` | Для начала | — |
 | `こんど` | В следующий раз, в другой раз | [今](https://jisho.org/search/%E4%BB%8A%20%23kanji)[度](https://jisho.org/search/%E5%BA%A6%20%23kanji) |
-| `もうすぐ` | Скоро | もう[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ |
+| `もうすぐ` | Скоро | — |
 | `かいえん` | Время начала выступления | [開](https://jisho.org/search/%E9%96%8B%20%23kanji)[演](https://jisho.org/search/%E6%BC%94%20%23kanji) |
 | `びょう` | Постфикс для секунд | [秒](https://jisho.org/search/%E7%A7%92%20%23kanji) |
 #### Minutes (11)
@@ -668,7 +667,7 @@
 | `けいざい` | Экономия, экономика | [経](https://jisho.org/search/%E7%B5%8C%20%23kanji)[済](https://jisho.org/search/%E6%B8%88%20%23kanji) |
 | `せんもんか` | Специалист | [専](https://jisho.org/search/%E5%B0%82%20%23kanji)[門](https://jisho.org/search/%E9%96%80%20%23kanji)[家](https://jisho.org/search/%E5%AE%B6%20%23kanji) |
 | `はかせ` | Доктор (наук) | [博](https://jisho.org/search/%E5%8D%9A%20%23kanji)[士](https://jisho.org/search/%E5%A3%AB%20%23kanji) |
-| `おたく` | Человек, одержимый чем-то | おたく |
+| `おたく` | Человек, одержимый чем-то | — |
 #### Body parts (19)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -681,7 +680,7 @@
 | `はな` | Нос | [鼻](https://jisho.org/search/%E9%BC%BB%20%23kanji) |
 | `くちびる` | Губы | [唇](https://jisho.org/search/%E5%94%87%20%23kanji) |
 | `は` | Зуб | [歯](https://jisho.org/search/%E6%AD%AF%20%23kanji) |
-| `のど` | Горло | のど |
+| `のど` | Горло | — |
 | `かた` | Плечо | [肩](https://jisho.org/search/%E8%82%A9%20%23kanji) |
 | `せなか` | Спина | [背](https://jisho.org/search/%E8%83%8C%20%23kanji)[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) |
 | `おなか` | Живот | お[腹](https://jisho.org/search/%E8%85%B9%20%23kanji) |
@@ -746,7 +745,7 @@
 | `たま` | Монета, мячик | [玉](https://jisho.org/search/%E7%8E%89%20%23kanji) |
 | `さつ` | Банкнота | [札](https://jisho.org/search/%E6%9C%AD%20%23kanji) |
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
-| `おつり` | Сдача | おつり |
+| `おつり` | Сдача | — |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
 #### Food (21)
 | Japanese | Translation | Kanji |
@@ -766,7 +765,7 @@
 | `とんかつ` | Свиная котлета | [豚](https://jisho.org/search/%E8%B1%9A%20%23kanji)カツ |
 | `ていしょく` | Комплексное блюдо дня | [定](https://jisho.org/search/%E5%AE%9A%20%23kanji)[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) |
 | `おおもり` | Большая порция | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[盛](https://jisho.org/search/%E7%9B%9B%20%23kanji)り |
-| `しょうゆ` | Соевый соус | しょうゆ |
+| `しょうゆ` | Соевый соус | — |
 | `あさめしまえ` | Кусок торта | [朝](https://jisho.org/search/%E6%9C%9D%20%23kanji)[飯](https://jisho.org/search/%E9%A3%AF%20%23kanji)[前](https://jisho.org/search/%E5%89%8D%20%23kanji) |
 | `やきとり` | Курица на грилле | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き[鳥](https://jisho.org/search/%E9%B3%A5%20%23kanji) |
 | `やきにく` | Мясо на барбекю | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)[肉](https://jisho.org/search/%E8%82%89%20%23kanji) |
