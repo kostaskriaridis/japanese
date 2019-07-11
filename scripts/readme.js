@@ -96,7 +96,7 @@ function renderKanji(kanji) {
         }
 
         return char;
-    }).join('');
+    }).join('') + ` [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=${kanji})`;
 }
 
 /**
