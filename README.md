@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 702
+# Table of japanese words to learn: 703
 #### Verbs (117)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -748,7 +748,7 @@
 | `りょうしゅうしょ` | Квитанция | [領](https://jisho.org/search/%E9%A0%98%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) |
 | `おつり` | Сдача | おつり |
 | `しょほうせん` | Рецепт | [処](https://jisho.org/search/%E5%87%A6%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[箋](https://jisho.org/search/%E7%AE%8B%20%23kanji) |
-#### Food (20)
+#### Food (21)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `もちかえり` | Взять с собой | — |
@@ -771,6 +771,7 @@
 | `やきとり` | Курица на грилле | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き[鳥](https://jisho.org/search/%E9%B3%A5%20%23kanji) |
 | `やきにく` | Мясо на барбекю | [焼](https://jisho.org/search/%E7%84%BC%20%23kanji)[肉](https://jisho.org/search/%E8%82%89%20%23kanji) |
 | `しょくせいかつ` | Стиль питания | [食](https://jisho.org/search/%E9%A3%9F%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji)[活](https://jisho.org/search/%E6%B4%BB%20%23kanji) |
+| `のり` | Морские водоросли | [海](https://jisho.org/search/%E6%B5%B7%20%23kanji)[苔](https://jisho.org/search/%E8%8B%94%20%23kanji) |
 #### Class 1 verbs. When ます is preceded by -i (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
