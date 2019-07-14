@@ -118,7 +118,11 @@ module.exports = [
             { hiragana: 'おうえんします', translation: 'Поддерживать (болеть)', kanji: '応援します' },
             { hiragana: 'おもいます', translation: 'Считать, предполагать', kanji: '思います' },
             { hiragana: 'よびます', translation: 'Позвонить', kanji: '呼びます' },
-            { hiragana: 'すごします', translation: 'Провести время', kanji: '過ごします' }
+            { hiragana: 'すごします', translation: 'Провести время', kanji: '過ごします' },
+            { hiragana: 'つきます', translation: 'Прибывать (домой)', kanji: '着きます' },
+            { hiragana: 'ばれます', translation: 'Быть разоблачённым (секрет)' },
+            { hiragana: 'ばらします', translation: 'Разоблачить (секрет)' },
+            { hiragana: 'まもります', translation: 'Защищать', kanji: '守ります' }
         ]
     },
     {
@@ -215,6 +219,7 @@ module.exports = [
             { hiragana: 'もと', translation: 'Происхождение, фундамент', kanji: '元' },
             { hiragana: 'じゅぎょう', translation: 'Урок', kanji: '授業' },
             { hiragana: 'ないしょ', translation: 'Секрет, тайна', kanji: '内緒' },
+            { hiragana: 'ひみつ', translation: 'Секрет', kanji: '秘密' },
             { hiragana: 'しゅみ', translation: 'Хобби', kanji: '趣味' },
             { hiragana: 'ちから', translation: 'Сила', kanji: '力' },
             { hiragana: 'かぎ', translation: 'Ключ', kanji: '鍵' },

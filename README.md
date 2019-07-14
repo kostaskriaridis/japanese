@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 703
-#### Verbs (117)
+# Table of japanese words to learn: 708
+#### Verbs (121)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=話します) |
@@ -119,7 +119,11 @@
 | `おもいます` | Считать, предполагать | [思](https://jisho.org/search/%E6%80%9D%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=思います) |
 | `よびます` | Позвонить | [呼](https://jisho.org/search/%E5%91%BC%20%23kanji)びます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=呼びます) |
 | `すごします` | Провести время | [過](https://jisho.org/search/%E9%81%8E%20%23kanji)ごします [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=過ごします) |
-#### Nouns (170)
+| `つきます` | Прибывать (домой) | [着](https://jisho.org/search/%E7%9D%80%20%23kanji)きます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=着きます) |
+| `ばれます` | Быть разоблачённым (секрет) | — |
+| `ばらします` | Разоблачить (секрет) | — |
+| `まもります` | Защищать | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) |
+#### Nouns (171)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -213,6 +217,7 @@
 | `もと` | Происхождение, фундамент | [元](https://jisho.org/search/%E5%85%83%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=元) |
 | `じゅぎょう` | Урок | [授](https://jisho.org/search/%E6%8E%88%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=授業) |
 | `ないしょ` | Секрет, тайна | [内](https://jisho.org/search/%E5%86%85%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=内緒) |
+| `ひみつ` | Секрет | [秘](https://jisho.org/search/%E7%A7%98%20%23kanji)[密](https://jisho.org/search/%E5%AF%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=秘密) |
 | `しゅみ` | Хобби | [趣](https://jisho.org/search/%E8%B6%A3%20%23kanji)[味](https://jisho.org/search/%E5%91%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=趣味) |
 | `ちから` | Сила | [力](https://jisho.org/search/%E5%8A%9B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=力) |
 | `かぎ` | Ключ | [鍵](https://jisho.org/search/%E9%8D%B5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鍵) |
