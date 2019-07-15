@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 708
-#### Verbs (121)
+# Table of japanese words to learn: 710
+#### Verbs (122)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=話します) |
@@ -123,7 +123,8 @@
 | `ばれます` | Быть разоблачённым (секрет) | — |
 | `ばらします` | Разоблачить (секрет) | — |
 | `まもります` | Защищать | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) |
-#### Nouns (171)
+| `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
+#### Nouns (172)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -297,6 +298,7 @@
 | `けしき` | Вид | [景](https://jisho.org/search/%E6%99%AF%20%23kanji)[色](https://jisho.org/search/%E8%89%B2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=景色) |
 | `ちょうじょう` | Вершина | [頂](https://jisho.org/search/%E9%A0%82%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=頂上) |
 | `しんじゅ` | Жемчужина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)[珠](https://jisho.org/search/%E7%8F%A0%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=真珠) |
+| `かいしょう` | Уменьшение (стреса) | [解](https://jisho.org/search/%E8%A7%A3%20%23kanji)[消](https://jisho.org/search/%E6%B6%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=解消) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
