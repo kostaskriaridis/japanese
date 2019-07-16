@@ -300,7 +300,8 @@ module.exports = [
             { hiragana: 'けしき', translation: 'Вид', kanji: '景色' },
             { hiragana: 'ちょうじょう', translation: 'Вершина', kanji: '頂上' },
             { hiragana: 'しんじゅ', translation: 'Жемчужина', kanji: '真珠' },
-            { hiragana: 'かいしょう', translation: 'Уменьшение (стреса)', kanji: '解消' }
+            { hiragana: 'かいしょう', translation: 'Уменьшение (стреса)', kanji: '解消' },
+            { hiragana: 'きせき', translation: 'Чудо', kanji: '奇跡' }
         ]
     },
     {
@@ -569,7 +570,8 @@ module.exports = [
             { hiragana: 'かいえん', translation: 'Время начала выступления', kanji: '開演' },
             { hiragana: 'びょう', translation: 'Постфикс для секунд', kanji: '秒' },
             { hiragana: 'さいしょ', translation: 'Первый (порядок)', kanji: '最初' },
-            { hiragana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' }
+            { hiragana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' },
+            { hiragana: 'けつまつ', translation: 'Конец, заключение', kanji: '結末' }
         ]
     },
     {

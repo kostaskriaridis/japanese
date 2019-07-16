@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 710
+# Table of japanese words to learn: 712
 #### Verbs (122)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -124,7 +124,7 @@
 | `ばらします` | Разоблачить (секрет) | — |
 | `まもります` | Защищать | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) |
 | `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
-#### Nouns (172)
+#### Nouns (173)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -299,6 +299,7 @@
 | `ちょうじょう` | Вершина | [頂](https://jisho.org/search/%E9%A0%82%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=頂上) |
 | `しんじゅ` | Жемчужина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)[珠](https://jisho.org/search/%E7%8F%A0%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=真珠) |
 | `かいしょう` | Уменьшение (стреса) | [解](https://jisho.org/search/%E8%A7%A3%20%23kanji)[消](https://jisho.org/search/%E6%B6%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=解消) |
+| `きせき` | Чудо | [奇](https://jisho.org/search/%E5%A5%87%20%23kanji)[跡](https://jisho.org/search/%E8%B7%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=奇跡) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -519,7 +520,7 @@
 | `かれらの` | Их | — |
 | `いっしょに` | Вместе | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=一緒に) |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自分) |
-#### Time (26)
+#### Time (27)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
@@ -548,6 +549,7 @@
 | `びょう` | Постфикс для секунд | [秒](https://jisho.org/search/%E7%A7%92%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=秒) |
 | `さいしょ` | Первый (порядок) | [最](https://jisho.org/search/%E6%9C%80%20%23kanji)[初](https://jisho.org/search/%E5%88%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=最初) |
 | `にばんめ` | Второй (порядок) | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[番](https://jisho.org/search/%E7%95%AA%20%23kanji)[目](https://jisho.org/search/%E7%9B%AE%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二番目) |
+| `けつまつ` | Конец, заключение | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[末](https://jisho.org/search/%E6%9C%AB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結末) |
 #### Minutes (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
