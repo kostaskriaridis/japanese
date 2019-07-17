@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 712
+# Table of japanese words to learn: 715
 #### Verbs (122)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -357,7 +357,7 @@
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=美しい) |
 | `くだらない` | Бесполезный | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)らない [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=下らない) |
 | `さびしい、 さみしい` | Одинокий | [寂](https://jisho.org/search/%E5%AF%82%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=寂しい) |
-#### Adjectives (な) (36)
+#### Adjectives (な) (37)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `きれい (な)` | Красивый | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=綺麗 (な)) |
@@ -369,6 +369,7 @@
 | `すてき (な)` | Хороший, фантастический | [素](https://jisho.org/search/%E7%B4%A0%20%23kanji)[敵](https://jisho.org/search/%E6%95%B5%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=素敵 (な)) |
 | `あんぜん (な)` | Безопасный | [安](https://jisho.org/search/%E5%AE%89%20%23kanji)[全](https://jisho.org/search/%E5%85%A8%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=安全 (な)) |
 | `だいじ (な)` | Важный | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[事](https://jisho.org/search/%E4%BA%8B%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=大事 (な)) |
+| `たいせつ (な)` | Важный | [大](https://jisho.org/search/%E5%A4%A7%20%23kanji)[切](https://jisho.org/search/%E5%88%87%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=大切 (な)) |
 | `だめ (な)` | Нехороший | [駄](https://jisho.org/search/%E9%A7%84%20%23kanji)[目](https://jisho.org/search/%E7%9B%AE%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=駄目 (な)) |
 | `ふしんせつ (な)` | Недобрый | [不](https://jisho.org/search/%E4%B8%8D%20%23kanji)[親](https://jisho.org/search/%E8%A6%AA%20%23kanji)[切](https://jisho.org/search/%E5%88%87%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=不親切 (な)) |
 | `げんき (な)` | Хороший | [元](https://jisho.org/search/%E5%85%83%20%23kanji)[気](https://jisho.org/search/%E6%B0%97%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=元気 (な)) |
@@ -396,7 +397,7 @@
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=得意 (な)) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦手 (な)) |
 | `あいまい (な)` | Неопределенный, неоднозначный | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=曖昧 (な)) |
-#### Adverbs (54)
+#### Adverbs (55)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -453,6 +454,7 @@
 | `まっすぐ` | Прямо | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)っ[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=真っ直ぐ) |
 | `ように` | Подобно | — |
 | `くるしい` | Тяжело, больно | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦しい) |
+| `ほかに` | К тому же, кроме того | [他](https://jisho.org/search/%E4%BB%96%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=他に) |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -520,7 +522,7 @@
 | `かれらの` | Их | — |
 | `いっしょに` | Вместе | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=一緒に) |
 | `じぶん` | myself, yourself, him(her)self | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自分) |
-#### Time (27)
+#### Time (28)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ごぜん` | Время с 00:00 до 12:00 (a.m.) | — |
@@ -550,6 +552,7 @@
 | `さいしょ` | Первый (порядок) | [最](https://jisho.org/search/%E6%9C%80%20%23kanji)[初](https://jisho.org/search/%E5%88%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=最初) |
 | `にばんめ` | Второй (порядок) | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[番](https://jisho.org/search/%E7%95%AA%20%23kanji)[目](https://jisho.org/search/%E7%9B%AE%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二番目) |
 | `けつまつ` | Конец, заключение | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[末](https://jisho.org/search/%E6%9C%AB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結末) |
+| `けっきょく` | В конце концов, в конечном счете | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[局](https://jisho.org/search/%E5%B1%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結局) |
 #### Minutes (11)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

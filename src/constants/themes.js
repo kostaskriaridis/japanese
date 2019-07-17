@@ -375,6 +375,7 @@ module.exports = [
             { hiragana: 'すてき (な)', translation: 'Хороший, фантастический', kanji: '素敵 (な)' },
             { hiragana: 'あんぜん (な)', translation: 'Безопасный', kanji: '安全 (な)' },
             { hiragana: 'だいじ (な)', translation: 'Важный', kanji: '大事 (な)' },
+            { hiragana: 'たいせつ (な)', translation: 'Важный', kanji: '大切 (な)' },
             { hiragana: 'だめ (な)', translation: 'Нехороший', kanji: '駄目 (な)' },
             { hiragana: 'ふしんせつ (な)', translation: 'Недобрый', kanji: '不親切 (な)' },
             { hiragana: 'げんき (な)', translation: 'Хороший', kanji: '元気 (な)' },
@@ -460,7 +461,8 @@ module.exports = [
             { hiragana: 'もうすぐ', translation: 'Очень скоро', kanji: 'もう直ぐ' },
             { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' },
             { hiragana: 'ように', translation: 'Подобно' },
-            { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' }
+            { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
+            { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' }
         ]
     },
     {
@@ -571,7 +573,8 @@ module.exports = [
             { hiragana: 'びょう', translation: 'Постфикс для секунд', kanji: '秒' },
             { hiragana: 'さいしょ', translation: 'Первый (порядок)', kanji: '最初' },
             { hiragana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' },
-            { hiragana: 'けつまつ', translation: 'Конец, заключение', kanji: '結末' }
+            { hiragana: 'けつまつ', translation: 'Конец, заключение', kanji: '結末' },
+            { hiragana: 'けっきょく', translation: 'В конце концов, в конечном счете', kanji: '結局' }
         ]
     },
     {
