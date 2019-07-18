@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 715
+# Table of japanese words to learn: 716
 #### Verbs (122)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -124,7 +124,7 @@
 | `ばらします` | Разоблачить (секрет) | — |
 | `まもります` | Защищать | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) |
 | `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
-#### Nouns (173)
+#### Nouns (174)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -300,6 +300,7 @@
 | `しんじゅ` | Жемчужина | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)[珠](https://jisho.org/search/%E7%8F%A0%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=真珠) |
 | `かいしょう` | Уменьшение (стреса) | [解](https://jisho.org/search/%E8%A7%A3%20%23kanji)[消](https://jisho.org/search/%E6%B6%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=解消) |
 | `きせき` | Чудо | [奇](https://jisho.org/search/%E5%A5%87%20%23kanji)[跡](https://jisho.org/search/%E8%B7%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=奇跡) |
+| `もんげん` | Комендантский час | [門](https://jisho.org/search/%E9%96%80%20%23kanji)[限](https://jisho.org/search/%E9%99%90%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=門限) |
 #### Adjectives (い) (54)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

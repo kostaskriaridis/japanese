@@ -301,7 +301,8 @@ module.exports = [
             { hiragana: 'ちょうじょう', translation: 'Вершина', kanji: '頂上' },
             { hiragana: 'しんじゅ', translation: 'Жемчужина', kanji: '真珠' },
             { hiragana: 'かいしょう', translation: 'Уменьшение (стреса)', kanji: '解消' },
-            { hiragana: 'きせき', translation: 'Чудо', kanji: '奇跡' }
+            { hiragana: 'きせき', translation: 'Чудо', kanji: '奇跡' },
+            { hiragana: 'もんげん', translation: 'Комендантский час', kanji: '門限' }
         ]
     },
     {
