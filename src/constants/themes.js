@@ -123,7 +123,8 @@ module.exports = [
             { hiragana: 'ばれます', translation: 'Быть разоблачённым (секрет)' },
             { hiragana: 'ばらします', translation: 'Разоблачить (секрет)' },
             { hiragana: 'まもります', translation: 'Защищать', kanji: '守ります' },
-            { hiragana: 'とります', translation: 'Собирать', kanji: '採ります' }
+            { hiragana: 'とります', translation: 'Собирать', kanji: '採ります' },
+            { hiragana: 'まにあいます', translation: 'Успеть вовремя', kanji: '間に合います' }
         ]
     },
     {
@@ -302,7 +303,8 @@ module.exports = [
             { hiragana: 'しんじゅ', translation: 'Жемчужина', kanji: '真珠' },
             { hiragana: 'かいしょう', translation: 'Уменьшение (стреса)', kanji: '解消' },
             { hiragana: 'きせき', translation: 'Чудо', kanji: '奇跡' },
-            { hiragana: 'もんげん', translation: 'Комендантский час', kanji: '門限' }
+            { hiragana: 'もんげん', translation: 'Комендантский час', kanji: '門限' },
+            { hiragana: 'らくしょう', translation: 'Лёгкая победа', kanji: '楽勝' }
         ]
     },
     {
@@ -361,7 +363,10 @@ module.exports = [
             { hiragana: 'しょっぱい', translation: 'Солёный', kanji: '塩っぱい' },
             { hiragana: 'うつくしい', translation: 'Красивый', kanji: '美しい' },
             { hiragana: 'くだらない', translation: 'Бесполезный', kanji: '下らない' },
-            { hiragana: 'さびしい、 さみしい', translation: 'Одинокий', kanji: '寂しい' }
+            { hiragana: 'さびしい、 さみしい', translation: 'Одинокий', kanji: '寂しい' },
+            { hiragana: 'にぶい', translation: 'Тупой, медленный', kanji: '鈍い' },
+            { hiragana: 'とんでもない', translation: 'Невыносимый' },
+            { hiragana: 'するどい', translation: 'Острый (лезвие)', kanji: '鋭い' }
         ]
     },
     {
@@ -403,7 +408,8 @@ module.exports = [
             { hiragana: 'ひつよう (な)', translation: 'Необходимый', kanji: '必要 (な)' },
             { hiragana: 'とくい (な)', translation: 'Сильная сторона (небуквально)', kanji: '得意 (な)' },
             { hiragana: 'にがて (な)', translation: 'Слабая сторона (небуквально)', kanji: '苦手 (な)' },
-            { hiragana: 'あいまい (な)', translation: 'Неопределенный, неоднозначный', kanji: '曖昧 (な)' }
+            { hiragana: 'あいまい (な)', translation: 'Неопределенный, неоднозначный', kanji: '曖昧 (な)' },
+            { hiragana: 'まえむき (な)', translation: 'Позитивный', kanji: '前向き (な)' }
         ]
     },
     {
@@ -463,7 +469,8 @@ module.exports = [
             { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' },
             { hiragana: 'ように', translation: 'Подобно' },
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
-            { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' }
+            { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' },
+            { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' }
         ]
     },
     {

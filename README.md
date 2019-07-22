@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 716
-#### Verbs (122)
+# Table of japanese words to learn: 723
+#### Verbs (123)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `はなします` | Говорить | [話](https://jisho.org/search/%E8%A9%B1%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=話します) |
@@ -124,7 +124,8 @@
 | `ばらします` | Разоблачить (секрет) | — |
 | `まもります` | Защищать | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) |
 | `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
-#### Nouns (174)
+| `まにあいます` | Успеть вовремя | [間](https://jisho.org/search/%E9%96%93%20%23kanji)に[合](https://jisho.org/search/%E5%90%88%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=間に合います) |
+#### Nouns (175)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -301,7 +302,8 @@
 | `かいしょう` | Уменьшение (стреса) | [解](https://jisho.org/search/%E8%A7%A3%20%23kanji)[消](https://jisho.org/search/%E6%B6%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=解消) |
 | `きせき` | Чудо | [奇](https://jisho.org/search/%E5%A5%87%20%23kanji)[跡](https://jisho.org/search/%E8%B7%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=奇跡) |
 | `もんげん` | Комендантский час | [門](https://jisho.org/search/%E9%96%80%20%23kanji)[限](https://jisho.org/search/%E9%99%90%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=門限) |
-#### Adjectives (い) (54)
+| `らくしょう` | Лёгкая победа | [楽](https://jisho.org/search/%E6%A5%BD%20%23kanji)[勝](https://jisho.org/search/%E5%8B%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=楽勝) |
+#### Adjectives (い) (57)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ながい` | Длинный | [長](https://jisho.org/search/%E9%95%B7%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=長い) |
@@ -358,7 +360,10 @@
 | `うつくしい` | Красивый | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=美しい) |
 | `くだらない` | Бесполезный | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)らない [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=下らない) |
 | `さびしい、 さみしい` | Одинокий | [寂](https://jisho.org/search/%E5%AF%82%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=寂しい) |
-#### Adjectives (な) (37)
+| `にぶい` | Тупой, медленный | [鈍](https://jisho.org/search/%E9%88%8D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鈍い) |
+| `とんでもない` | Невыносимый | — |
+| `するどい` | Острый (лезвие) | [鋭](https://jisho.org/search/%E9%8B%AD%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鋭い) |
+#### Adjectives (な) (38)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `きれい (な)` | Красивый | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=綺麗 (な)) |
@@ -398,7 +403,8 @@
 | `とくい (な)` | Сильная сторона (небуквально) | [得](https://jisho.org/search/%E5%BE%97%20%23kanji)[意](https://jisho.org/search/%E6%84%8F%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=得意 (な)) |
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦手 (な)) |
 | `あいまい (な)` | Неопределенный, неоднозначный | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=曖昧 (な)) |
-#### Adverbs (55)
+| `まえむき (な)` | Позитивный | [前](https://jisho.org/search/%E5%89%8D%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)き (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=前向き (な)) |
+#### Adverbs (56)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -456,6 +462,7 @@
 | `ように` | Подобно | — |
 | `くるしい` | Тяжело, больно | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦しい) |
 | `ほかに` | К тому же, кроме того | [他](https://jisho.org/search/%E4%BB%96%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=他に) |
+| `なんとか` | Как-то (somehow) | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)とか [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=何とか) |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
