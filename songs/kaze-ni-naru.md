@@ -1,4 +1,4 @@
-#### [Kaze Ni Naru](https://www.youtube.com/watch?v=NwoDrRCibhA&list=RDNwoDrRCibhA&index=1)  
+#### [Kaze Ni Naru](https://www.youtube.com/watch?v=-CU2AmSl9Fg)  
 忘れていた目を閉じて取り戻せ恋の歌  
 青空に隠れている手を伸ばしてもう一度  
 忘れないですぐそばに僕がいるいつの日も  

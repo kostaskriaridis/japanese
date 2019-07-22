@@ -249,7 +249,7 @@ module.exports = [
                 '君と出会えたしあわせ祈るように'
             ]
         ],
-        youtube: 'https://www.youtube.com/watch?v=NwoDrRCibhA&list=RDNwoDrRCibhA&index=1'
+        youtube: 'https://www.youtube.com/watch?v=-CU2AmSl9Fg'
     },
     {
         title: 'Galileo Galilei - Aoi Shiori',
