@@ -110,7 +110,8 @@ module.exports = [
             { hiragana: 'ばらします', translation: 'Разоблачить (секрет)' },
             { hiragana: 'まもります', translation: 'Защищать', kanji: '守ります' },
             { hiragana: 'とります', translation: 'Собирать', kanji: '採ります' },
-            { hiragana: 'まにあいます', translation: 'Успеть вовремя', kanji: '間に合います' }
+            { hiragana: 'まにあいます', translation: 'Успеть вовремя', kanji: '間に合います' },
+            { hiragana: 'かまいます', translation: 'Заботиться о, беспокоиться о', kanji: '構います' }
         ]
     },
     {
@@ -287,7 +288,12 @@ module.exports = [
             { hiragana: 'きせき', translation: 'Чудо', kanji: '奇跡' },
             { hiragana: 'もんげん', translation: 'Комендантский час', kanji: '門限' },
             { hiragana: 'らくしょう', translation: 'Лёгкая победа', kanji: '楽勝' },
-            { hiragana: 'うめあわせ', translation: 'Компенсация', kanji: '埋め合わせ' }
+            { hiragana: 'うめあわせ', translation: 'Компенсация', kanji: '埋め合わせ' },
+            { hiragana: 'うちゅう', translation: 'Космос', kanji: '宇宙' },
+            { hiragana: 'じゅんび', translation: 'Подготовка', kanji: '準備' },
+            { hiragana: 'こうかん', translation: 'Менять, обмен', kanji: '交換' },
+            { hiragana: 'じゅうでん', translation: 'Зарядка (батареи)', kanji: '充電' },
+            { hiragana: 'でんち', translation: 'Батарейка', kanji: '電池' }
         ]
     },
     {
@@ -453,7 +459,8 @@ module.exports = [
             { hiragana: 'ように', translation: 'Подобно' },
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
             { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' },
-            { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' }
+            { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' },
+            { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' }
         ]
     },
     {

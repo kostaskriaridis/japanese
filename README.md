@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 697
-#### Verbs (109)
+# Table of japanese words to learn: 704
+#### Verbs (110)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `つかいます` | Использовать | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) |
@@ -111,7 +111,8 @@
 | `まもります` | Защищать | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) |
 | `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
 | `まにあいます` | Успеть вовремя | [間](https://jisho.org/search/%E9%96%93%20%23kanji)に[合](https://jisho.org/search/%E5%90%88%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=間に合います) |
-#### Nouns (172)
+| `かまいます` | Заботиться о, беспокоиться о | [構](https://jisho.org/search/%E6%A7%8B%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=構います) |
+#### Nouns (177)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -286,6 +287,11 @@
 | `もんげん` | Комендантский час | [門](https://jisho.org/search/%E9%96%80%20%23kanji)[限](https://jisho.org/search/%E9%99%90%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=門限) |
 | `らくしょう` | Лёгкая победа | [楽](https://jisho.org/search/%E6%A5%BD%20%23kanji)[勝](https://jisho.org/search/%E5%8B%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=楽勝) |
 | `うめあわせ` | Компенсация | [埋](https://jisho.org/search/%E5%9F%8B%20%23kanji)め[合](https://jisho.org/search/%E5%90%88%20%23kanji)わせ [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=埋め合わせ) |
+| `うちゅう` | Космос | [宇](https://jisho.org/search/%E5%AE%87%20%23kanji)[宙](https://jisho.org/search/%E5%AE%99%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=宇宙) |
+| `じゅんび` | Подготовка | [準](https://jisho.org/search/%E6%BA%96%20%23kanji)[備](https://jisho.org/search/%E5%82%99%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=準備) |
+| `こうかん` | Менять, обмен | [交](https://jisho.org/search/%E4%BA%A4%20%23kanji)[換](https://jisho.org/search/%E6%8F%9B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=交換) |
+| `じゅうでん` | Зарядка (батареи) | [充](https://jisho.org/search/%E5%85%85%20%23kanji)[電](https://jisho.org/search/%E9%9B%BB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=充電) |
+| `でんち` | Батарейка | [電](https://jisho.org/search/%E9%9B%BB%20%23kanji)[池](https://jisho.org/search/%E6%B1%A0%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=電池) |
 #### Adjectives (い) (57)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -387,7 +393,7 @@
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦手 (な)) |
 | `あいまい (な)` | Неопределенный, неоднозначный | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=曖昧 (な)) |
 | `まえむき (な)` | Позитивный | [前](https://jisho.org/search/%E5%89%8D%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)き (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=前向き (な)) |
-#### Adverbs (56)
+#### Adverbs (57)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -446,6 +452,7 @@
 | `くるしい` | Тяжело, больно | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦しい) |
 | `ほかに` | К тому же, кроме того | [他](https://jisho.org/search/%E4%BB%96%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=他に) |
 | `なんとか` | Как-то (somehow) | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)とか [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=何とか) |
+| `かんりょう` | Полностью | [完](https://jisho.org/search/%E5%AE%8C%20%23kanji)[了](https://jisho.org/search/%E4%BA%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=完了) |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
