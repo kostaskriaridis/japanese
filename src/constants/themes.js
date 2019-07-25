@@ -12,7 +12,7 @@ module.exports = [
             { hiragana: 'もうします', translation: 'Называйте меня', kanji: '申します' },
             { hiragana: 'よみます', translation: 'Читать', kanji: '読みます' },
             { hiragana: 'かいます', translation: 'Покупать', kanji: '買います' },
-            { hiragana: 'はらえます', translation: 'Платить', kanji: '払えます' },
+            { hiragana: 'はらいます', translation: 'Платить', kanji: '払います' },
             { hiragana: 'かきます', translation: 'Писать', kanji: '掻きます' },
             { hiragana: 'つけます', translation: 'Включить', kanji: '就けます' },
             { hiragana: 'けします', translation: 'Выключать', kanji: '消します' },

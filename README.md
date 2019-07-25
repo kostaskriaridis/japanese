@@ -12,7 +12,7 @@
 | `もうします` | Называйте меня | [申](https://jisho.org/search/%E7%94%B3%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=申します) |
 | `よみます` | Читать | [読](https://jisho.org/search/%E8%AA%AD%20%23kanji)みます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=読みます) |
 | `かいます` | Покупать | [買](https://jisho.org/search/%E8%B2%B7%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=買います) |
-| `はらえます` | Платить | [払](https://jisho.org/search/%E6%89%95%20%23kanji)えます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=払えます) |
+| `はらいます` | Платить | [払](https://jisho.org/search/%E6%89%95%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=払います) |
 | `かきます` | Писать | [掻](https://jisho.org/search/%E6%8E%BB%20%23kanji)きます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=掻きます) |
 | `つけます` | Включить | [就](https://jisho.org/search/%E5%B0%B1%20%23kanji)けます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=就けます) |
 | `けします` | Выключать | [消](https://jisho.org/search/%E6%B6%88%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=消します) |
