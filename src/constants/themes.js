@@ -121,7 +121,6 @@ module.exports = [
             { hiragana: 'うんてん', translation: 'Вождение', kanji: '運転' },
             { hiragana: 'うんてんしゅ', translation: 'Водитель', kanji: '運転手' },
             { hiragana: 'しゃしん', translation: 'Фото', kanji: '写真' },
-            { hiragana: 'やさしい', translation: 'Доброжелательность' },
             { hiragana: 'おきゃくさん', translation: 'Посетитель, гость', kanji: 'お客さん' },
             { hiragana: 'てんいん', translation: 'Работник, клерк', kanji: '店員' },
             { hiragana: 'りょこう', translation: 'Поездка, путешествие', kanji: '旅行' },
@@ -355,7 +354,9 @@ module.exports = [
             { hiragana: 'さびしい、 さみしい', translation: 'Одинокий', kanji: '寂しい' },
             { hiragana: 'にぶい', translation: 'Тупой, медленный', kanji: '鈍い' },
             { hiragana: 'とんでもない', translation: 'Невыносимый' },
-            { hiragana: 'するどい', translation: 'Острый (лезвие)', kanji: '鋭い' }
+            { hiragana: 'するどい', translation: 'Острый (лезвие)', kanji: '鋭い' },
+            { hiragana: 'やさしい', translation: 'Доброжелательность', kanji: '優しい' },
+            { hiragana: 'やさしい', translation: 'Лёгкий', kanji: '易しい' }
         ]
     },
     {

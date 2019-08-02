@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 704
+# Table of japanese words to learn: 705
 #### Verbs (110)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -112,14 +112,13 @@
 | `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
 | `まにあいます` | Успеть вовремя | [間](https://jisho.org/search/%E9%96%93%20%23kanji)に[合](https://jisho.org/search/%E5%90%88%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=間に合います) |
 | `かまいます` | Заботиться о, беспокоиться о | [構](https://jisho.org/search/%E6%A7%8B%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=構います) |
-#### Nouns (177)
+#### Nouns (176)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
 | `うんてん` | Вождение | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)[転](https://jisho.org/search/%E8%BB%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=運転) |
 | `うんてんしゅ` | Водитель | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)[転](https://jisho.org/search/%E8%BB%A2%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=運転手) |
 | `しゃしん` | Фото | [写](https://jisho.org/search/%E5%86%99%20%23kanji)[真](https://jisho.org/search/%E7%9C%9F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=写真) |
-| `やさしい` | Доброжелательность | — |
 | `おきゃくさん` | Посетитель, гость | お[客](https://jisho.org/search/%E5%AE%A2%20%23kanji)さん [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お客さん) |
 | `てんいん` | Работник, клерк | [店](https://jisho.org/search/%E5%BA%97%20%23kanji)[員](https://jisho.org/search/%E5%93%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=店員) |
 | `りょこう` | Поездка, путешествие | [旅](https://jisho.org/search/%E6%97%85%20%23kanji)[行](https://jisho.org/search/%E8%A1%8C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=旅行) |
@@ -292,7 +291,7 @@
 | `こうかん` | Менять, обмен | [交](https://jisho.org/search/%E4%BA%A4%20%23kanji)[換](https://jisho.org/search/%E6%8F%9B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=交換) |
 | `じゅうでん` | Зарядка (батареи) | [充](https://jisho.org/search/%E5%85%85%20%23kanji)[電](https://jisho.org/search/%E9%9B%BB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=充電) |
 | `でんち` | Батарейка | [電](https://jisho.org/search/%E9%9B%BB%20%23kanji)[池](https://jisho.org/search/%E6%B1%A0%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=電池) |
-#### Adjectives (い) (57)
+#### Adjectives (い) (59)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ながい` | Длинный | [長](https://jisho.org/search/%E9%95%B7%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=長い) |
@@ -352,6 +351,8 @@
 | `にぶい` | Тупой, медленный | [鈍](https://jisho.org/search/%E9%88%8D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鈍い) |
 | `とんでもない` | Невыносимый | — |
 | `するどい` | Острый (лезвие) | [鋭](https://jisho.org/search/%E9%8B%AD%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鋭い) |
+| `やさしい` | Доброжелательность | [優](https://jisho.org/search/%E5%84%AA%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=優しい) |
+| `やさしい` | Лёгкий | [易](https://jisho.org/search/%E6%98%93%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=易しい) |
 #### Adjectives (な) (38)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
