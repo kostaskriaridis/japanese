@@ -198,6 +198,7 @@ module.exports = [
             { hiragana: 'あかちゃん', translation: 'Грудничковый ребёнок', kanji: '赤ちゃん' },
             { hiragana: 'おいわい', translation: 'Поздравление', kanji: 'お祝い' },
             { hiragana: 'みらい', translation: 'Будущее', kanji: '未来' },
+            { hiragana: 'しょうらい', translation: 'Будущее', kanji: '将来' },
             { hiragana: 'じょうだん', translation: 'Шутка', kanji: '冗談' },
             { hiragana: 'はんぶん', translation: 'Половина', kanji: '半分' },
             { hiragana: 'にんき', translation: 'Популярность', kanji: '人気' },
@@ -292,7 +293,12 @@ module.exports = [
             { hiragana: 'じゅんび', translation: 'Подготовка', kanji: '準備' },
             { hiragana: 'こうかん', translation: 'Менять, обмен', kanji: '交換' },
             { hiragana: 'じゅうでん', translation: 'Зарядка (батареи)', kanji: '充電' },
-            { hiragana: 'でんち', translation: 'Батарейка', kanji: '電池' }
+            { hiragana: 'でんち', translation: 'Батарейка', kanji: '電池' },
+            { hiragana: 'じしん', translation: 'Уверенность в себе', kanji: '自信' },
+            { hiragana: 'まんげつ', translation: 'Полнолуние', kanji: '満月' },
+            { hiragana: 'まんてん', translation: 'Полный счёт, идеальный результат', kanji: '満点' },
+            { hiragana: 'てんすう', translation: 'Очки, счёт', kanji: '点数' },
+            { hiragana: 'けっか', translation: 'Результат', kanji: '結果' },
         ]
     },
     {
@@ -461,7 +467,8 @@ module.exports = [
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
             { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' },
             { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' },
-            { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' }
+            { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' },
+            { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' }
         ]
     },
     {
@@ -573,7 +580,8 @@ module.exports = [
             { hiragana: 'さいしょ', translation: 'Первый (порядок)', kanji: '最初' },
             { hiragana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' },
             { hiragana: 'けつまつ', translation: 'Конец, заключение', kanji: '結末' },
-            { hiragana: 'けっきょく', translation: 'В конце концов, в конечном счете', kanji: '結局' }
+            { hiragana: 'けっきょく', translation: 'В конце концов, в конечном счете', kanji: '結局' },
+            { hiragana: '〜はつの', translation: 'Постфикс: впервые', kanji: '〜初の' }
         ]
     },
     {
@@ -772,7 +780,8 @@ module.exports = [
             { hiragana: 'けっこう', translation: 'Нет, спасибо', kanji: '結構' },
             { hiragana: 'おせわになりました', translation: 'Спасибо за вашу доброту', kanji: 'お世話になりました' },
             { hiragana: 'じゃくにくきょうしょく', translation: 'Выживает сильнейший', kanji: '弱肉強食' },
-            { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' }
+            { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' },
+            { hiragana: 'ものたりない', translation: 'Чего-то не хватает, недостаточно', kanji: '物足りない' }
         ]
     },
     {
