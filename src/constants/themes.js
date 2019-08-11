@@ -111,7 +111,8 @@ module.exports = [
             { hiragana: 'まもります', translation: 'Защищать', kanji: '守ります' },
             { hiragana: 'とります', translation: 'Собирать', kanji: '採ります' },
             { hiragana: 'まにあいます', translation: 'Успеть вовремя', kanji: '間に合います' },
-            { hiragana: 'かまいます', translation: 'Заботиться о, беспокоиться о', kanji: '構います' }
+            { hiragana: 'かまいます', translation: 'Заботиться о, беспокоиться о', kanji: '構います' },
+            { hiragana: 'かよいます', translation: 'Посещать регулярно (школу, работу)', kanji: '通います' }
         ]
     },
     {
@@ -297,8 +298,10 @@ module.exports = [
             { hiragana: 'じしん', translation: 'Уверенность в себе', kanji: '自信' },
             { hiragana: 'まんげつ', translation: 'Полнолуние', kanji: '満月' },
             { hiragana: 'まんてん', translation: 'Полный счёт, идеальный результат', kanji: '満点' },
+            { hiragana: 'まんぞく', translation: 'Удовлетворенный', kanji: '満足' },
             { hiragana: 'てんすう', translation: 'Очки, счёт', kanji: '点数' },
             { hiragana: 'けっか', translation: 'Результат', kanji: '結果' },
+            { hiragana: 'したみ', translation: 'Предварительный просмотр', kanji: '下見' }
         ]
     },
     {
@@ -781,7 +784,8 @@ module.exports = [
             { hiragana: 'おせわになりました', translation: 'Спасибо за вашу доброту', kanji: 'お世話になりました' },
             { hiragana: 'じゃくにくきょうしょく', translation: 'Выживает сильнейший', kanji: '弱肉強食' },
             { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' },
-            { hiragana: 'ものたりない', translation: 'Чего-то не хватает, недостаточно', kanji: '物足りない' }
+            { hiragana: 'ものたりない', translation: 'Чего-то не хватает, недостаточно', kanji: '物足りない' },
+            { hiragana: 'しじょうはつ', translation: 'Первый в истории', kanji: '史上初' }
         ]
     },
     {

@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 714
-#### Verbs (110)
+# Table of japanese words to learn: 718
+#### Verbs (111)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `つかいます` | Использовать | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) |
@@ -112,7 +112,8 @@
 | `とります` | Собирать | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) |
 | `まにあいます` | Успеть вовремя | [間](https://jisho.org/search/%E9%96%93%20%23kanji)に[合](https://jisho.org/search/%E5%90%88%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=間に合います) |
 | `かまいます` | Заботиться о, беспокоиться о | [構](https://jisho.org/search/%E6%A7%8B%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=構います) |
-#### Nouns (182)
+| `かよいます` | Посещать регулярно (школу, работу) | [通](https://jisho.org/search/%E9%80%9A%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=通います) |
+#### Nouns (184)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `めんきょ` | Лицензия, уроки | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) |
@@ -295,8 +296,10 @@
 | `じしん` | Уверенность в себе | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[信](https://jisho.org/search/%E4%BF%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自信) |
 | `まんげつ` | Полнолуние | [満](https://jisho.org/search/%E6%BA%80%20%23kanji)[月](https://jisho.org/search/%E6%9C%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=満月) |
 | `まんてん` | Полный счёт, идеальный результат | [満](https://jisho.org/search/%E6%BA%80%20%23kanji)[点](https://jisho.org/search/%E7%82%B9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=満点) |
+| `まんぞく` | Удовлетворенный | [満](https://jisho.org/search/%E6%BA%80%20%23kanji)[足](https://jisho.org/search/%E8%B6%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=満足) |
 | `てんすう` | Очки, счёт | [点](https://jisho.org/search/%E7%82%B9%20%23kanji)[数](https://jisho.org/search/%E6%95%B0%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=点数) |
 | `けっか` | Результат | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[果](https://jisho.org/search/%E6%9E%9C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結果) |
+| `したみ` | Предварительный просмотр | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)[見](https://jisho.org/search/%E8%A6%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=下見) |
 #### Adjectives (い) (59)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -715,7 +718,7 @@
 | ------ | ------ | ------ |
 | `それとも` | Или | — |
 | `それから` | И, и также | — |
-#### Phrases (14)
+#### Phrases (15)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `おじゃまします` | Жаль беспокоить вас (когда входишь или покидаешь чужой дом) | — |
@@ -732,6 +735,7 @@
 | `じゃくにくきょうしょく` | Выживает сильнейший | [弱](https://jisho.org/search/%E5%BC%B1%20%23kanji)[肉](https://jisho.org/search/%E8%82%89%20%23kanji)[強](https://jisho.org/search/%E5%BC%B7%20%23kanji)[食](https://jisho.org/search/%E9%A3%9F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=弱肉強食) |
 | `いちごいちえ` | Единственный в жизни шанс | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[期](https://jisho.org/search/%E6%9C%9F%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[会](https://jisho.org/search/%E4%BC%9A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=一期一会) |
 | `ものたりない` | Чего-то не хватает, недостаточно | [物](https://jisho.org/search/%E7%89%A9%20%23kanji)[足](https://jisho.org/search/%E8%B6%B3%20%23kanji)りない [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=物足りない) |
+| `しじょうはつ` | Первый в истории | [史](https://jisho.org/search/%E5%8F%B2%20%23kanji)[上](https://jisho.org/search/%E4%B8%8A%20%23kanji)[初](https://jisho.org/search/%E5%88%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=史上初) |
 #### Activities (1)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
