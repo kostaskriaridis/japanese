@@ -298,10 +298,12 @@ module.exports = [
             { hiragana: 'じしん', translation: 'Уверенность в себе', kanji: '自信' },
             { hiragana: 'まんげつ', translation: 'Полнолуние', kanji: '満月' },
             { hiragana: 'まんてん', translation: 'Полный счёт, идеальный результат', kanji: '満点' },
+            { hiragana: 'れいてん', translation: 'Нулевой счёт, худший результат', kanji: '零点' },
             { hiragana: 'まんぞく', translation: 'Удовлетворенный', kanji: '満足' },
             { hiragana: 'てんすう', translation: 'Очки, счёт', kanji: '点数' },
             { hiragana: 'けっか', translation: 'Результат', kanji: '結果' },
-            { hiragana: 'したみ', translation: 'Предварительный просмотр', kanji: '下見' }
+            { hiragana: 'したみ', translation: 'Предварительный просмотр', kanji: '下見' },
+            { hiragana: 'くみ', translation: 'Группа (людей), класс (студентов) и пр.', kanji: '組み' }
         ]
     },
     {
@@ -470,6 +472,7 @@ module.exports = [
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
             { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' },
             { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' },
+            { hiragana: 'とにかく', translation: 'Во всяком случае, тем не менее' },
             { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' },
             { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' }
         ]
@@ -785,7 +788,8 @@ module.exports = [
             { hiragana: 'じゃくにくきょうしょく', translation: 'Выживает сильнейший', kanji: '弱肉強食' },
             { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' },
             { hiragana: 'ものたりない', translation: 'Чего-то не хватает, недостаточно', kanji: '物足りない' },
-            { hiragana: 'しじょうはつ', translation: 'Первый в истории', kanji: '史上初' }
+            { hiragana: 'しじょうはつ', translation: 'Первый в истории', kanji: '史上初' },
+            { hiragana: 'きがかわりました', translation: 'Изменилось мнение', kanji: '気が変わりました' }
         ]
     },
     {
