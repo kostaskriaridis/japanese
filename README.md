@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 719
+# Table of japanese words to learn: 722
 #### Verbs (110)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
@@ -301,7 +301,7 @@
 | `けっか` | Результат | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[果](https://jisho.org/search/%E6%9E%9C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結果) |
 | `したみ` | Предварительный просмотр | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)[見](https://jisho.org/search/%E8%A6%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=下見) |
 | `くみ` | Группа (людей), класс (студентов) и пр. | [組](https://jisho.org/search/%E7%B5%84%20%23kanji)み [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=組み) |
-#### Adjectives (い) (59)
+#### Adjectives (い) (60)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ながい` | Длинный | [長](https://jisho.org/search/%E9%95%B7%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=長い) |
@@ -363,7 +363,8 @@
 | `するどい` | Острый (лезвие) | [鋭](https://jisho.org/search/%E9%8B%AD%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鋭い) |
 | `やさしい` | Доброжелательность | [優](https://jisho.org/search/%E5%84%AA%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=優しい) |
 | `やさしい` | Лёгкий | [易](https://jisho.org/search/%E6%98%93%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=易しい) |
-#### Adjectives (な) (38)
+| `だるい` | Истощённый | [怠](https://jisho.org/search/%E6%80%A0%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=怠い) |
+#### Adjectives (な) (39)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `きれい (な)` | Красивый | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=綺麗 (な)) |
@@ -404,7 +405,8 @@
 | `にがて (な)` | Слабая сторона (небуквально) | [苦](https://jisho.org/search/%E8%8B%A6%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=苦手 (な)) |
 | `あいまい (な)` | Неопределенный, неоднозначный | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=曖昧 (な)) |
 | `まえむき (な)` | Позитивный | [前](https://jisho.org/search/%E5%89%8D%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)き (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=前向き (な)) |
-#### Adverbs (59)
+| `らく (な)` | Лёгкий | [楽](https://jisho.org/search/%E6%A5%BD%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=楽 (な)) |
+#### Adverbs (60)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `ちょっと` | Немного | — |
@@ -430,7 +432,7 @@
 | `たとえば` | Например | — |
 | `たくさん` | Много | [沢](https://jisho.org/search/%E6%B2%A2%20%23kanji)[山](https://jisho.org/search/%E5%B1%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=沢山) |
 | `ちょう` | Супер | — |
-| `ぜったいに` | Определённо, безоговорочно | — |
+| `ぜったいに` | Определённо, безоговорочно | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[対](https://jisho.org/search/%E5%AF%BE%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=絶対に) |
 | `きっと` | Определённо | — |
 | `おかしい` | Странно | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[笑](https://jisho.org/search/%E7%AC%91%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=可笑しい) |
 | `そろそろ` | Медленно | — |
@@ -466,6 +468,7 @@
 | `とにかく` | Во всяком случае, тем не менее | — |
 | `かんりょう` | Полностью | [完](https://jisho.org/search/%E5%AE%8C%20%23kanji)[了](https://jisho.org/search/%E4%BA%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=完了) |
 | `まんまん` | Полный, наполненный чем-то | [満](https://jisho.org/search/%E6%BA%80%20%23kanji)々 [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=満々) |
+| `なによりも` | Более того | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)よりも [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=何よりも) |
 #### Questions, places (6)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

@@ -366,7 +366,8 @@ module.exports = [
             { hiragana: 'とんでもない', translation: 'Невыносимый' },
             { hiragana: 'するどい', translation: 'Острый (лезвие)', kanji: '鋭い' },
             { hiragana: 'やさしい', translation: 'Доброжелательность', kanji: '優しい' },
-            { hiragana: 'やさしい', translation: 'Лёгкий', kanji: '易しい' }
+            { hiragana: 'やさしい', translation: 'Лёгкий', kanji: '易しい' },
+            { hiragana: 'だるい', translation: 'Истощённый', kanji: '怠い' }
         ]
     },
     {
@@ -409,7 +410,8 @@ module.exports = [
             { hiragana: 'とくい (な)', translation: 'Сильная сторона (небуквально)', kanji: '得意 (な)' },
             { hiragana: 'にがて (な)', translation: 'Слабая сторона (небуквально)', kanji: '苦手 (な)' },
             { hiragana: 'あいまい (な)', translation: 'Неопределенный, неоднозначный', kanji: '曖昧 (な)' },
-            { hiragana: 'まえむき (な)', translation: 'Позитивный', kanji: '前向き (な)' }
+            { hiragana: 'まえむき (な)', translation: 'Позитивный', kanji: '前向き (な)' },
+            { hiragana: 'らく (な)', translation: 'Лёгкий', kanji: '楽 (な)' }
         ]
     },
     {
@@ -438,7 +440,7 @@ module.exports = [
             { hiragana: 'たとえば', translation: 'Например' },
             { hiragana: 'たくさん', translation: 'Много', kanji: '沢山' },
             { hiragana: 'ちょう', translation: 'Супер' },
-            { hiragana: 'ぜったいに', translation: 'Определённо, безоговорочно' },
+            { hiragana: 'ぜったいに', translation: 'Определённо, безоговорочно', kanji: '絶対に' },
             { hiragana: 'きっと', translation: 'Определённо' },
             { hiragana: 'おかしい', translation: 'Странно', kanji: '可笑しい' },
             { hiragana: 'そろそろ', translation: 'Медленно' },
@@ -473,7 +475,8 @@ module.exports = [
             { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' },
             { hiragana: 'とにかく', translation: 'Во всяком случае, тем не менее' },
             { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' },
-            { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' }
+            { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' },
+            { hiragana: 'なによりも', translation: 'Более того', kanji: '何よりも' }
         ]
     },
     {
