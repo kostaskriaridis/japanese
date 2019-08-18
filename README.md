@@ -1,11 +1,10 @@
-# Table of japanese words to learn: 722
-#### Verbs (111)
+# Table of japanese words to learn: 719
+#### Verbs (110)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `つかいます` | Использовать | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) |
 | `とります` | Фотографировать | [撮](https://jisho.org/search/%E6%92%AE%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=撮ります) |
 | `のります` | Зайти в поезд, автобус | [乗](https://jisho.org/search/%E4%B9%97%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=乗ります) |
-| `します` | Делать | — |
 | `きんちょうします` | Нервничать | [緊](https://jisho.org/search/%E7%B7%8A%20%23kanji)[張](https://jisho.org/search/%E5%BC%B5%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=緊張します) |
 | `わすれます` | Забывать | [忘](https://jisho.org/search/%E5%BF%98%20%23kanji)れます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=忘れます) |
 | `しんぱいします` | Беспокоиться | [心](https://jisho.org/search/%E5%BF%83%20%23kanji)[配](https://jisho.org/search/%E9%85%8D%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=心配します) |
@@ -429,7 +428,7 @@
 | `だって` | Потому что | — |
 | `まだ` | Всё ещё (still) | — |
 | `たとえば` | Например | — |
-| `たくさん` | Много | — |
+| `たくさん` | Много | [沢](https://jisho.org/search/%E6%B2%A2%20%23kanji)[山](https://jisho.org/search/%E5%B1%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=沢山) |
 | `ちょう` | Супер | — |
 | `ぜったいに` | Определённо, безоговорочно | — |
 | `きっと` | Определённо | — |
@@ -476,7 +475,7 @@
 | `どうして` | Почему? Как? | — |
 | `だれの` | Чьё? | — |
 | `どのくらい` | Как долго? Сколько? | — |
-#### Locations (12)
+#### Locations (10)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |
 | `そと` | Снаружи | [外](https://jisho.org/search/%E5%A4%96%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=外) |
@@ -489,8 +488,6 @@
 | `みなみ` | Юг | [南](https://jisho.org/search/%E5%8D%97%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=南) |
 | `にし` | Запад | [西](https://jisho.org/search/%E8%A5%BF%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=西) |
 | `ひがし` | Восток | [東](https://jisho.org/search/%E6%9D%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=東) |
-| `いりぐち` | Вход | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=入口) |
-| `でぐち` | Выход | [出](https://jisho.org/search/%E5%87%BA%20%23kanji)[口](https://jisho.org/search/%E5%8F%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=出口) |
 #### Spots around town (10)
 | Japanese | Translation | Kanji |
 | ------ | ------ | ------ |

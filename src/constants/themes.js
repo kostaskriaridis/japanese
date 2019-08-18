@@ -5,7 +5,6 @@ module.exports = [
             { hiragana: 'つかいます', translation: 'Использовать', kanji: '使います' },
             { hiragana: 'とります', translation: 'Фотографировать', kanji: '撮ります' },
             { hiragana: 'のります', translation: 'Зайти в поезд, автобус', kanji: '乗ります' },
-            { hiragana: 'します', translation: 'Делать' },
             { hiragana: 'きんちょうします', translation: 'Нервничать', kanji: '緊張します' },
             { hiragana: 'わすれます', translation: 'Забывать', kanji: '忘れます' },
             { hiragana: 'しんぱいします', translation: 'Беспокоиться', kanji: '心配します' },
@@ -437,7 +436,7 @@ module.exports = [
             { hiragana: 'だって', translation: 'Потому что' },
             { hiragana: 'まだ', translation: 'Всё ещё (still)' },
             { hiragana: 'たとえば', translation: 'Например' },
-            { hiragana: 'たくさん', translation: 'Много' },
+            { hiragana: 'たくさん', translation: 'Много', kanji: '沢山' },
             { hiragana: 'ちょう', translation: 'Супер' },
             { hiragana: 'ぜったいに', translation: 'Определённо, безоговорочно' },
             { hiragana: 'きっと', translation: 'Определённо' },
@@ -500,9 +499,7 @@ module.exports = [
             { hiragana: 'きた', translation: 'Север', kanji: '北' },
             { hiragana: 'みなみ', translation: 'Юг', kanji: '南' },
             { hiragana: 'にし', translation: 'Запад', kanji: '西' },
-            { hiragana: 'ひがし', translation: 'Восток', kanji: '東' },
-            { hiragana: 'いりぐち', translation: 'Вход', kanji: '入口' },
-            { hiragana: 'でぐち', translation: 'Выход', kanji: '出口' }
+            { hiragana: 'ひがし', translation: 'Восток', kanji: '東' }
         ]
     },
     {
