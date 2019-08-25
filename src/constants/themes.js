@@ -111,7 +111,14 @@ module.exports = [
             { hiragana: 'とります', translation: 'Собирать', kanji: '採ります' },
             { hiragana: 'まにあいます', translation: 'Успеть вовремя', kanji: '間に合います' },
             { hiragana: 'かまいます', translation: 'Заботиться о, беспокоиться о', kanji: '構います' },
-            { hiragana: 'かよいます', translation: 'Посещать регулярно (школу, работу)', kanji: '通います' }
+            { hiragana: 'かよいます', translation: 'Посещать регулярно (школу, работу)', kanji: '通います' },
+            { hiragana: 'きにいります', translation: 'Нравиться', kanji: '気に⼊ります' },
+            { hiragana: 'のりこえます', translation: 'Проехать, переехать', kanji: '乗り越えます' },
+            { hiragana: 'とびこえます', translation: 'Перепрыгнуть', kanji: '飛び越えます' },
+            { hiragana: 'こえます', translation: 'Пересечь, пройти через', kanji: '越えます' },
+            { hiragana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' },
+            { hiragana: 'りかいできます', translation: 'Быть способным понять', kanji: '理解出来ます' },
+            { hiragana: 'りかいできません', translation: 'Быть неспособным понять', kanji: '理解できません' }
         ]
     },
     {
@@ -156,7 +163,6 @@ module.exports = [
             { hiragana: 'ふくしゅう', translation: 'Месть', kanji: '復讐' },
             { hiragana: 'まちがい', translation: 'Ошибка', kanji: '間違い' },
             { hiragana: 'ぐうぜん', translation: 'Совпадение', kanji: '偶然' },
-            { hiragana: 'じっか', translation: 'Родительский дом', kanji: '実家' },
             { hiragana: 'きず', translation: 'Царапина', kanji: '傷' },
             { hiragana: 'ようじ', translation: 'Задачи', kanji: '用事' },
             { hiragana: 'ざっし', translation: 'Журнал', kanji: '雑誌' },
@@ -175,7 +181,7 @@ module.exports = [
             { hiragana: 'つくえ', translation: 'Парта', kanji: '机' },
             { hiragana: 'いろ', translation: 'Цвет', kanji: '色' },
             { hiragana: 'てがみ', translation: 'Письмо', kanji: '手紙' },
-            { hiragana: 'かんがえ', translation: 'Мысль', kanji: '考え' },
+            { hiragana: 'かんがえ', translation: 'Мысль, идея', kanji: '考え' },
             { hiragana: 'ゆかた', translation: 'Кимоно', kanji: '浴衣' },
             { hiragana: 'かしゅ', translation: 'Певец', kanji: '歌手' },
             { hiragana: 'おまつり', translation: 'Фестиваль', kanji: 'お祭り' },
@@ -302,7 +308,8 @@ module.exports = [
             { hiragana: 'てんすう', translation: 'Очки, счёт', kanji: '点数' },
             { hiragana: 'けっか', translation: 'Результат', kanji: '結果' },
             { hiragana: 'したみ', translation: 'Предварительный просмотр', kanji: '下見' },
-            { hiragana: 'くみ', translation: 'Группа (людей), класс (студентов) и пр.', kanji: '組み' }
+            { hiragana: 'くみ', translation: 'Группа (людей), класс (студентов) и пр.', kanji: '組み' },
+            { hiragana: 'りかい', translation: 'Понимание', kanji: '理解' }
         ]
     },
     {
@@ -355,6 +362,7 @@ module.exports = [
             { hiragana: 'ほしい', translation: 'Желаемый', kanji: '欲しい' },
             { hiragana: 'いっぱい', translation: 'Полный', kanji: '一杯' },
             { hiragana: 'こわい', translation: 'Страшный', kanji: '怖い' },
+            { hiragana: 'あつい', translation: 'Жаркий', kanji: '暑い' },
             { hiragana: 'むしあつい', translation: 'Влажный (погода)', kanji: '蒸し暑い' },
             { hiragana: 'ふかい', translation: 'Глубокий', kanji: '深い' },
             { hiragana: 'おとなしい', translation: 'Тихий', kanji: '大人しい' },
@@ -367,7 +375,8 @@ module.exports = [
             { hiragana: 'するどい', translation: 'Острый (лезвие)', kanji: '鋭い' },
             { hiragana: 'やさしい', translation: 'Доброжелательность', kanji: '優しい' },
             { hiragana: 'やさしい', translation: 'Лёгкий', kanji: '易しい' },
-            { hiragana: 'だるい', translation: 'Истощённый', kanji: '怠い' }
+            { hiragana: 'だるい', translation: 'Истощённый', kanji: '怠い' },
+            { hiragana: 'なつかしい', translation: 'Ностальгический', kanji: '懐かしい' }
         ]
     },
     {
@@ -442,7 +451,7 @@ module.exports = [
             { hiragana: 'ちょう', translation: 'Супер' },
             { hiragana: 'ぜったいに', translation: 'Определённо, безоговорочно', kanji: '絶対に' },
             { hiragana: 'きっと', translation: 'Определённо' },
-            { hiragana: 'おかしい', translation: 'Странно', kanji: '可笑しい' },
+            { hiragana: 'おかしい', translation: 'Странно, забавно', kanji: '可笑しい' },
             { hiragana: 'そろそろ', translation: 'Медленно' },
             { hiragana: 'すぐ', translation: 'Немедленно' },
             { hiragana: 'まず', translation: 'Прежде всего' },
@@ -473,10 +482,12 @@ module.exports = [
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
             { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' },
             { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' },
+            { hiragana: 'なんとなく', translation: 'Так или иначе, по какой-то причине', kanji: '何となく' },
             { hiragana: 'とにかく', translation: 'Во всяком случае, тем не менее' },
             { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' },
             { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' },
-            { hiragana: 'なによりも', translation: 'Более того', kanji: '何よりも' }
+            { hiragana: 'なによりも', translation: 'Более того', kanji: '何よりも' },
+            { hiragana: 'いきなり', translation: 'Вдруг, внезапно' }
         ]
     },
     {
@@ -502,7 +513,9 @@ module.exports = [
             { hiragana: 'きた', translation: 'Север', kanji: '北' },
             { hiragana: 'みなみ', translation: 'Юг', kanji: '南' },
             { hiragana: 'にし', translation: 'Запад', kanji: '西' },
-            { hiragana: 'ひがし', translation: 'Восток', kanji: '東' }
+            { hiragana: 'ひがし', translation: 'Восток', kanji: '東' },
+            { hiragana: 'じっか', translation: 'Родительский дом', kanji: '実家' },
+            { hiragana: 'ふるさと', translation: 'Родной город', kanji: '故郷' }
         ]
     },
     {
@@ -569,6 +582,9 @@ module.exports = [
             { hiragana: 'いまから', translation: 'С этого момента' },
             { hiragana: 'いつでも', translation: 'В любое время' },
             { hiragana: 'よく', translation: 'Часто' },
+            { hiragana: 'まいしゅう', translation: 'Каждую неделю', kanji: '毎週' },
+            { hiragana: 'まいつき', translation: 'Каждый месяц', kanji: '毎月' },
+            { hiragana: 'まいたし', translation: 'Каждый год', kanji: '毎年' },
             { hiragana: 'まいにち', translation: 'Каждый день', kanji: '毎日' },
             { hiragana: 'ほとんど毎日', translation: 'Практически каждый день', kanji: 'ほとんど毎日' },
             { hiragana: 'たまに', translation: 'Время от времени' },
@@ -587,7 +603,8 @@ module.exports = [
             { hiragana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' },
             { hiragana: 'けつまつ', translation: 'Конец, заключение', kanji: '結末' },
             { hiragana: 'けっきょく', translation: 'В конце концов, в конечном счете', kanji: '結局' },
-            { hiragana: '〜はつの', translation: 'Постфикс: впервые', kanji: '〜初の' }
+            { hiragana: '〜はつの', translation: 'Постфикс: впервые', kanji: '〜初の' },
+            { hiragana: 'さいきん', translation: 'В последнее время', kanji: '最近' }
         ]
     },
     {
@@ -737,7 +754,9 @@ module.exports = [
             { hiragana: 'けいざい', translation: 'Экономия, экономика', kanji: '経済' },
             { hiragana: 'せんもんか', translation: 'Специалист', kanji: '専門家' },
             { hiragana: 'はかせ', translation: 'Доктор (наук)', kanji: '博士' },
-            { hiragana: 'おたく', translation: 'Человек, одержимый чем-то' }
+            { hiragana: 'おたく', translation: 'Человек, одержимый чем-то' },
+            { hiragana: 'にんきもの', translation: 'Популярная персона', kanji: '⼈気者' },
+            { hiragana: '犯人', translation: 'Преступник, виновный', kanji: 'はんにん' }
         ]
     },
     {
@@ -789,7 +808,12 @@ module.exports = [
             { hiragana: 'いちごいちえ', translation: 'Единственный в жизни шанс', kanji: '一期一会' },
             { hiragana: 'ものたりない', translation: 'Чего-то не хватает, недостаточно', kanji: '物足りない' },
             { hiragana: 'しじょうはつ', translation: 'Первый в истории', kanji: '史上初' },
-            { hiragana: 'きがかわりました', translation: 'Изменилось мнение', kanji: '気が変わりました' }
+            { hiragana: 'きがかわりました', translation: 'Изменилось мнение', kanji: '気が変わりました' },
+            { hiragana: 'あんぜんだいいち', translation: 'Безопасность прежде всего', kanji: '安全第⼀' },
+            { hiragana: 'やるき', translation: 'Желание (сделать что-то)', kanji: 'やる気' },
+            { hiragana: 'やるきがない', translation: 'Нежелание (делать что-то)', kanji: 'やる気がない' },
+            { hiragana: 'やるきになる', translation: 'Стать мотивированным', kanji: 'やる気になる' },
+            { hiragana: 'やるきありますか', translation: 'У тебя есть мотивация (мотивировать кого-то)', kanji: 'やる気ありますか' },
         ]
     },
     {
