@@ -55,15 +55,28 @@ function renderThemes(themes) {
  * @param {Object} theme
  * @param {string} theme.title
  * @param {Array} theme.words
+ * @param {string} theme.description
  * @returns {string} theme markdown string
  */
-function renderTheme({ title, words }) {
+function renderTheme({ title, description, words }) {
     return [
         `#### ${title} (${words.length})`,
+        renderDescription(description),
         '| Japanese | Translation | Kanji |',
         '| ------ | ------ | ------ |',
         ...renderWords(words)
-    ].join('\n');
+    ]
+    .filter(Boolean)
+    .join('\n');
+}
+
+/**
+ * Render theme description
+ * @param {string|undefined} description
+ * @returns {string|null}
+ */
+function renderDescription(description) {
+    return description ? `##### ${description}` : null;
 }
 
 /**

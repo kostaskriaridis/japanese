@@ -113,12 +113,42 @@ module.exports = [
             { hiragana: 'かまいます', translation: 'Заботиться о, беспокоиться о', kanji: '構います' },
             { hiragana: 'かよいます', translation: 'Посещать регулярно (школу, работу)', kanji: '通います' },
             { hiragana: 'きにいります', translation: 'Нравиться', kanji: '気に⼊ります' },
-            { hiragana: 'のりこえます', translation: 'Проехать, переехать', kanji: '乗り越えます' },
-            { hiragana: 'とびこえます', translation: 'Перепрыгнуть', kanji: '飛び越えます' },
             { hiragana: 'こえます', translation: 'Пересечь, пройти через', kanji: '越えます' },
             { hiragana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' },
             { hiragana: 'りかいできます', translation: 'Быть способным понять', kanji: '理解出来ます' },
-            { hiragana: 'りかいできません', translation: 'Быть неспособным понять', kanji: '理解できません' }
+            { hiragana: 'りかいできません', translation: 'Быть неспособным понять', kanji: '理解できません' },
+            { hiragana: 'はしります', translation: 'Бежать', kanji: '走ります' },
+            { hiragana: 'おこります', translation: 'Злиться', kanji: '怒ります' },
+            { hiragana: 'なげます', translation: 'Бросить', kanji: '投げます' }
+        ]
+    },
+    {
+        title: 'Verbs 出す',
+        description: 'Окончание 出す означает начать делать что-то',
+        words: [
+            { hiragana: 'わらいだす', translation: 'Засмеяться, начать смеяться', kanji: '笑い出す' },
+            { hiragana: 'おこりだす', translation: 'Разразиться гневом', kanji: '怒り出す' },
+            { hiragana: 'もれだす', translation: 'Вызвать утечку', kanji: '漏れ出す' },
+            { hiragana: 'なげだす', translation: 'Выкинуть', kanji: '投げ出す' }
+        ]
+    },
+    {
+        title: 'Verbs 超える',
+        description: 'Окончание 超えます означает сделать что-то над, через',
+        words: [
+            { hiragana: 'のりこえます', translation: 'Проехать, переехать', kanji: '乗り越えます' },
+            { hiragana: 'とびこえます', translation: 'Перепрыгнуть', kanji: '飛び越えます' }
+        ]
+    },
+    {
+        title: 'Verbs 込む',
+        description: 'Окончание 込む означает действие + внутрь чего-то',
+        words: [
+            { hiragana: 'かきこむ', translation: 'Заполнить', kanji: '書き込む' },
+            { hiragana: 'はいりこむ', translation: 'Зайти в', kanji: '入り込む' },
+            { hiragana: 'のみこむ ', translation: 'Проглотить', kanji: '飲み込む' },
+            { hiragana: 'とけこむ', translation: 'Таять в', kanji: '溶け込む' },
+            { hiragana: 'とびこむ', translation: 'Запрыгнуть в', kanji: '飛び込む' }
         ]
     },
     {
@@ -376,7 +406,8 @@ module.exports = [
             { hiragana: 'やさしい', translation: 'Доброжелательность', kanji: '優しい' },
             { hiragana: 'やさしい', translation: 'Лёгкий', kanji: '易しい' },
             { hiragana: 'だるい', translation: 'Истощённый', kanji: '怠い' },
-            { hiragana: 'なつかしい', translation: 'Ностальгический', kanji: '懐かしい' }
+            { hiragana: 'なつかしい', translation: 'Ностальгический', kanji: '懐かしい' },
+            { hiragana: 'おおい', translation: 'Много, больше', kanji: '多い' }
         ]
     },
     {
@@ -482,12 +513,13 @@ module.exports = [
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
             { hiragana: 'ほかに', translation: 'К тому же, кроме того', kanji: '他に' },
             { hiragana: 'なんとか', translation: 'Как-то (somehow)', kanji: '何とか' },
-            { hiragana: 'なんとなく', translation: 'Так или иначе, по какой-то причине', kanji: '何となく' },
+            { hiragana: 'なんとなく', translation: 'Почему-то, по какой-то причине', kanji: '何となく' },
             { hiragana: 'とにかく', translation: 'Во всяком случае, тем не менее' },
             { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' },
             { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' },
             { hiragana: 'なによりも', translation: 'Более того', kanji: '何よりも' },
-            { hiragana: 'いきなり', translation: 'Вдруг, внезапно' }
+            { hiragana: 'いきなり', translation: 'Вдруг, внезапно' },
+            { hiragana: '～のなか', translation: 'Между, среди', kanji: '～の中' }
         ]
     },
     {
@@ -746,6 +778,7 @@ module.exports = [
             { hiragana: 'けいさつかん', translation: 'Офицер полиции', kanji: '警察官' },
             { hiragana: 'りゅうがくせい', translation: 'Студент по обмену', kanji: '留学生' },
             { hiragana: 'がくせい', translation: 'Студент', kanji: '学生' },
+            { hiragana: 'せいと', translation: 'Студент', kanji: '生徒' },
             { hiragana: 'せんこう', translation: 'Специальность', kanji: '専攻' },
             { hiragana: 'つうこうにん', translation: 'Прохожий', kanji: '通行人' },
             { hiragana: 'すうがく', translation: 'Математика', kanji: '数学' },
