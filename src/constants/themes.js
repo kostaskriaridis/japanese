@@ -114,7 +114,6 @@ module.exports = [
             { hiragana: 'かよいます', translation: 'Посещать регулярно (школу, работу)', kanji: '通います' },
             { hiragana: 'きにいります', translation: 'Нравиться', kanji: '気に⼊ります' },
             { hiragana: 'こえます', translation: 'Пересечь, пройти через', kanji: '越えます' },
-            { hiragana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' },
             { hiragana: 'りかいできます', translation: 'Быть способным понять', kanji: '理解出来ます' },
             { hiragana: 'りかいできません', translation: 'Быть неспособным понять', kanji: '理解できません' },
             { hiragana: 'はしります', translation: 'Бежать', kanji: '走ります' },
@@ -129,7 +128,8 @@ module.exports = [
             { hiragana: 'わらいだす', translation: 'Засмеяться, начать смеяться', kanji: '笑い出す' },
             { hiragana: 'おこりだす', translation: 'Разразиться гневом', kanji: '怒り出す' },
             { hiragana: 'もれだす', translation: 'Вызвать утечку', kanji: '漏れ出す' },
-            { hiragana: 'なげだす', translation: 'Выкинуть', kanji: '投げ出す' }
+            { hiragana: 'なげだす', translation: 'Выкинуть', kanji: '投げ出す' },
+            { hiragana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' }
         ]
     },
     {

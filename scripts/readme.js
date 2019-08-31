@@ -86,7 +86,7 @@ function renderDescription(description) {
  */
 function renderWords(words) {
     return words.map(({ hiragana, translation, kanji }) => {
-        return `| \`${hiragana}\` | ${translation} | ${renderKanji(kanji)} |`;
+        return `| \`${hiragana}\` | ${renderKanji(kanji)} | ${translation} |`;
     });
 }
 
