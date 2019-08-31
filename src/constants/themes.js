@@ -2,6 +2,7 @@ module.exports = [
     {
         title: 'Verbs',
         words: [
+            { hiragana: 'はいります', translation: 'Войти, зайти в', kanji: '入ります' },
             { hiragana: 'つかいます', translation: 'Использовать', kanji: '使います' },
             { hiragana: 'とります', translation: 'Фотографировать', kanji: '撮ります' },
             { hiragana: 'のります', translation: 'Зайти в поезд, автобус', kanji: '乗ります' },
@@ -251,7 +252,6 @@ module.exports = [
             { hiragana: 'めい', translation: 'Счётчик для людей', kanji: '名' },
             { hiragana: 'ほん, ぽん, ぼん', translation: 'Счётчик длинных объектов', kanji: '本' },
             { hiragana: '～ぬき', translation: 'Постфикс для фразы "Без ... (чего-нибудь)"', kanji: '～抜き' },
-            { hiragana: 'はいります', translation: 'Войти, зайти в', kanji: '入ります' },
             { hiragana: 'うけつけ', translation: 'Ресепшен', kanji: '受付' },
             { hiragana: 'かべ', translation: 'Стена', kanji: '壁' },
             { hiragana: 'ほこり', translation: 'Гордость', kanji: '誇り' },
@@ -506,7 +506,6 @@ module.exports = [
             { hiragana: 'ずつ', translation: 'Каждый' },
             { hiragana: 'いじょう', translation: 'Выше (больше, чем)', kanji: '以上' },
             { hiragana: 'ぴったり', translation: 'Просто, как раз (вовремя)' },
-            { hiragana: 'もうすぐ', translation: 'Очень скоро', kanji: 'もう直ぐ' },
             { hiragana: 'まっすぐ', translation: 'Прямо', kanji: '真っ直ぐ' },
             { hiragana: 'ように', translation: 'Подобно' },
             { hiragana: 'くるしい', translation: 'Тяжело, больно', kanji: '苦しい' },
@@ -627,7 +626,7 @@ module.exports = [
             { hiragana: 'とけい', translation: 'Часы', kanji: '時計' },
             { hiragana: 'とりあえず', translation: 'Для начала' },
             { hiragana: 'こんど', translation: 'В следующий раз, в другой раз', kanji: '今度' },
-            { hiragana: 'もうすぐ', translation: 'Скоро' },
+            { hiragana: 'もうすぐ', translation: 'Очень скоро', kanji: 'もう直ぐ' },
             { hiragana: 'かいえん', translation: 'Время начала выступления', kanji: '開演' },
             { hiragana: 'びょう', translation: 'Постфикс для секунд', kanji: '秒' },
             { hiragana: 'さいしょ', translation: 'Первый (порядок)', kanji: '最初' },
