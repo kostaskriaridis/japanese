@@ -175,7 +175,6 @@ module.exports = [
             { hiragana: 'まくら', translation: 'Подушка', kanji: '枕' },
             { hiragana: 'かばん', translation: 'Сумка', kanji: '鞄' },
             { hiragana: 'ぼうし', translation: 'Шляпа', kanji: '帽子' },
-            { hiragana: 'いい、よくない', translation: 'Хороший, нехороший' },
             { hiragana: 'うそ', translation: 'Ложь', kanji: '嘘' },
             { hiragana: 'しんぶん', translation: 'Газета', kanji: '新聞' },
             { hiragana: 'どうぶつえん', translation: 'Зоопарк', kanji: '動物園' },

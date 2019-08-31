@@ -62,7 +62,7 @@ function renderTheme({ title, description, words }) {
     return [
         `#### ${title} (${words.length})`,
         renderDescription(description),
-        '| Japanese | Translation | Kanji |',
+        '| Kanji | Hiragana | Translation |',
         '| ------ | ------ | ------ |',
         ...renderWords(words)
     ]
@@ -86,7 +86,7 @@ function renderDescription(description) {
  */
 function renderWords(words) {
     return words.map(({ hiragana, translation, kanji }) => {
-        return `| \`${hiragana}\` | ${renderKanji(kanji)} | ${translation} |`;
+        return `| ${renderKanji(kanji)} | \`${hiragana}\` | ${translation} |`;
     });
 }
 
