@@ -119,7 +119,9 @@ module.exports = [
             { hiragana: 'りかいできません', translation: 'Быть неспособным понять', kanji: '理解できません' },
             { hiragana: 'はしります', translation: 'Бежать', kanji: '走ります' },
             { hiragana: 'おこります', translation: 'Злиться', kanji: '怒ります' },
-            { hiragana: 'なげます', translation: 'Бросить', kanji: '投げます' }
+            { hiragana: 'なげます', translation: 'Бросить', kanji: '投げます' },
+            { hiragana: 'おわります', translation: 'Закончить', kanji: '終わります' },
+            { hiragana: 'ためします', translation: 'Тестировать', kanji: '試します' }
         ]
     },
     {
@@ -314,6 +316,7 @@ module.exports = [
             { hiragana: 'びん', translation: 'Рейс, полёт', kanji: '便' },
             { hiragana: 'ちゃくりく', translation: 'Посадка', kanji: '着陸' },
             { hiragana: 'ごうかく', translation: 'Успех, проход экзамена', kanji: '合格' },
+            { hiragana: 'ふごうかく', translation: 'Неуспех, непроход экзамена', kanji: '不合格' },
             { hiragana: 'ほんき', translation: 'Серьёзность, правда', kanji: '本気' },
             { hiragana: 'いき', translation: 'Дыхание', kanji: '息' },
             { hiragana: 'けしき', translation: 'Вид', kanji: '景色' },
@@ -516,6 +519,7 @@ module.exports = [
             { hiragana: 'かんりょう', translation: 'Полностью', kanji: '完了' },
             { hiragana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' },
             { hiragana: 'なによりも', translation: 'Более того', kanji: '何よりも' },
+            { hiragana: 'さらに', translation: 'Более того', kanji: '更に' },
             { hiragana: 'いきなり', translation: 'Вдруг, внезапно' },
             { hiragana: '～のなか', translation: 'Между, среди', kanji: '～の中' }
         ]
@@ -545,7 +549,8 @@ module.exports = [
             { hiragana: 'にし', translation: 'Запад', kanji: '西' },
             { hiragana: 'ひがし', translation: 'Восток', kanji: '東' },
             { hiragana: 'じっか', translation: 'Родительский дом', kanji: '実家' },
-            { hiragana: 'ふるさと', translation: 'Родной город', kanji: '故郷' }
+            { hiragana: 'ふるさと', translation: 'Родной город', kanji: '故郷' },
+            { hiragana: 'しゅと', translation: 'Столица', kanji: '首都' }
         ]
     },
     {
@@ -560,7 +565,8 @@ module.exports = [
             { hiragana: 'ばすてい', translation: 'Автобусная астоновка' },
             { hiragana: 'びょういん', translation: 'Больница', kanji: '病院' },
             { hiragana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' },
-            { hiragana: 'げきじょう', translation: 'Театр', kanji: '劇場' }
+            { hiragana: 'げきじょう', translation: 'Театр', kanji: '劇場' },
+            { hiragana: 'たてもの', translation: 'Конструкция, строение', kanji: '建物' }
         ]
     },
     {
@@ -780,6 +786,7 @@ module.exports = [
             { hiragana: 'せんこう', translation: 'Специальность', kanji: '専攻' },
             { hiragana: 'つうこうにん', translation: 'Прохожий', kanji: '通行人' },
             { hiragana: 'すうがく', translation: 'Математика', kanji: '数学' },
+            { hiragana: 'ちり', translation: 'География', kanji: '地理' },
             { hiragana: 'れきし', translation: 'История', kanji: '歴史' },
             { hiragana: 'かがく', translation: 'Химия', kanji: '化学' },
             { hiragana: 'けいざい', translation: 'Экономия, экономика', kanji: '経済' },
@@ -810,6 +817,7 @@ module.exports = [
             { hiragana: 'ひざ', translation: 'Колено', kanji: '膝' },
             { hiragana: 'ゆび', translation: 'Палец', kanji: '指' },
             { hiragana: 'せ', translation: 'Рост', kanji: '背' },
+            { hiragana: 'しんちょう', translation: 'Высота тела', kanji: '身長' },
             { hiragana: 'みみ', translation: 'Ухо', kanji: '耳' },
             { hiragana: 'はい', translation: 'Лёгкие', kanji: '肺' }
         ]
@@ -878,7 +886,11 @@ module.exports = [
             { hiragana: 'さつ', translation: 'Банкнота', kanji: '札' },
             { hiragana: 'りょうしゅうしょ', translation: 'Квитанция', kanji: '領収書' },
             { hiragana: 'おつり', translation: 'Сдача' },
-            { hiragana: 'しょほうせん', translation: 'Рецепт', kanji: '処方箋' }
+            { hiragana: 'しょほうせん', translation: 'Рецепт', kanji: '処方箋' },
+            { hiragana: 'ちょきん', translation: 'Сбережения', kanji: '貯金' },
+            { hiragana: 'ねんしゅう', translation: 'Годовая зарплата', kanji: '年収' },
+            { hiragana: 'げっしゅう', translation: 'Месячная зарплата', kanji: '月収' },
+            { hiragana: 'しゅうにゅう', translation: 'Прибыль', kanji: '収入' }
         ]
     },
     {
