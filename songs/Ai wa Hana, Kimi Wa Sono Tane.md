@@ -1,4 +1,4 @@
-#### [Ai wa Hana , Kimi Wa Sono Tane](https://www.youtube.com/watch?v=qu7Dw4NJmY4)  
+#### [Ai wa Hana, Kimi Wa Sono Tane](https://www.youtube.com/watch?v=qu7Dw4NJmY4)  
 愛は花、君はその種子  
 
 やさしさを  

@@ -18,9 +18,7 @@ function renderSongs(songs) {
     }
 
     songs.forEach(song => {
-        const fileName = song.title.toLowerCase().replace(/[^a-z0-9]/gi, '-');
-
-        fs.writeFileSync(`${songsPath}/${fileName}.md`, renderSong(song), 'utf-8');
+        fs.writeFileSync(`${songsPath}/${song.title}.md`, renderSong(song), 'utf-8');
     });
 }
 

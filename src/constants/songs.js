@@ -58,7 +58,7 @@ module.exports = [
         youtube: 'https://www.youtube.com/watch?v=fqyH5rHe6kE'
     },
     {
-        title: 'Hikaru No Go. Shela Days',
+        title: 'Hikaru No Go - Shela Days',
         body: [
             ['明日を夢見て 輝いてた日々'],
             [
@@ -205,7 +205,7 @@ module.exports = [
         youtube: 'https://www.youtube.com/watch?v=Yj0RAnERHOA'
     },
     {
-        title: 'Kaze Ni Naru',
+        title: '風に成る',
         body: [
             [
                 '忘れていた目を閉じて取り戻せ恋の歌',
@@ -496,7 +496,7 @@ module.exports = [
         youtube: 'https://www.youtube.com/watch?v=rTtwc00q-oo'
     },
     {
-        title: 'Ai wa Hana , Kimi Wa Sono Tane',
+        title: 'Ai wa Hana, Kimi Wa Sono Tane',
         body: [
             ['愛は花、君はその種子'],
             [
@@ -1058,7 +1058,7 @@ module.exports = [
         youtube: 'https://www.youtube.com/watch?v=ndH6UqA0QSo'
     },
     {
-        title: 'Kantri rodo', // カントリー・ロード
+        title: 'カントリー・ロード',
         body: [
             [
                 'カントリー・ロード',

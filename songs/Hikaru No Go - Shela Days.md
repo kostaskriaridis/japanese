@@ -1,4 +1,4 @@
-#### [Hikaru No Go. Shela Days](https://www.youtube.com/watch?v=n5eoJyrPjWQ)  
+#### [Hikaru No Go - Shela Days](https://www.youtube.com/watch?v=n5eoJyrPjWQ)  
 明日を夢見て 輝いてた日々  
 
 つらい想い出とか いくつあったのかな?  
