@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 793
+# Table of japanese words to learn: 794
 #### Verbs (123)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -849,7 +849,7 @@
 | [月](https://jisho.org/search/%E6%9C%88%20%23kanji)[収](https://jisho.org/search/%E5%8F%8E%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=月収) | `げっしゅう` | Месячная зарплата |
 | [収](https://jisho.org/search/%E5%8F%8E%20%23kanji)[入](https://jisho.org/search/%E5%85%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=収入) | `しゅうにゅう` | Прибыль |
 | [値](https://jisho.org/search/%E5%80%A4%20%23kanji)[段](https://jisho.org/search/%E6%AE%B5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=値段) | `ねだん` | Цена, стоимость |
-#### Food (22)
+#### Food (23)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `もちかえり` | Взять с собой |
@@ -874,6 +874,7 @@
 | [海](https://jisho.org/search/%E6%B5%B7%20%23kanji)[苔](https://jisho.org/search/%E8%8B%94%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=海苔) | `のり` | Морские водоросли |
 | — | `ピーマン` | Зелёный перец |
 | [茄](https://jisho.org/search/%E8%8C%84%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=茄子) | `なす` | Баклажан |
+| — | `にんにく` | Чеснок |
 #### Class 1 verbs. When ます is preceded by -i (6)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

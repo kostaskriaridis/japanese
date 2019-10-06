@@ -937,7 +937,8 @@ module.exports = [
             { kana: 'しょくせいかつ', translation: 'Стиль питания', kanji: '食生活' },
             { kana: 'のり', translation: 'Морские водоросли', kanji: '海苔' },
             { kana: 'ピーマン', translation: 'Зелёный перец' },
-            { kana: 'なす', translation: 'Баклажан', kanji: '茄子' }
+            { kana: 'なす', translation: 'Баклажан', kanji: '茄子' },
+            { kana: 'にんにく', translation: 'Чеснок' }
         ]
     },
     {
