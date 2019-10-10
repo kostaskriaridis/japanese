@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 794
+# Table of japanese words to learn: 795
 #### Verbs (123)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -593,7 +593,7 @@
 | — | `かれらの` | Их |
 | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=一緒に) | `いっしょに` | Вместе |
 | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自分) | `じぶん` | myself, yourself, him(her)self |
-#### Time (33)
+#### Time (34)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `ごぜん` | Время с 00:00 до 12:00 (a.m.) |
@@ -626,9 +626,10 @@
 | [最](https://jisho.org/search/%E6%9C%80%20%23kanji)[初](https://jisho.org/search/%E5%88%9D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=最初) | `さいしょ` | Первый (порядок) |
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[番](https://jisho.org/search/%E7%95%AA%20%23kanji)[目](https://jisho.org/search/%E7%9B%AE%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二番目) | `にばんめ` | Второй (порядок) |
 | [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[末](https://jisho.org/search/%E6%9C%AB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結末) | `けつまつ` | Конец, заключение |
-| [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[局](https://jisho.org/search/%E5%B1%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結局) | `けっきょく` | В конце концов, в конечном счете |
+| [結](https://jisho.org/search/%E7%B5%90%20%23kanji)[局](https://jisho.org/search/%E5%B1%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=結局) | `けっきょく` | В конце концов, в конечном счёте |
 | 〜[初](https://jisho.org/search/%E5%88%9D%20%23kanji)の [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=〜初の) | `〜はつの` | Постфикс: впервые |
 | [最](https://jisho.org/search/%E6%9C%80%20%23kanji)[近](https://jisho.org/search/%E8%BF%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=最近) | `さいきん` | В последнее время |
+| [現](https://jisho.org/search/%E7%8F%BE%20%23kanji)[在](https://jisho.org/search/%E5%9C%A8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=現在) | `げんざい` | В настоящее время |
 #### Minutes (11)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

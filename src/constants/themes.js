@@ -654,9 +654,10 @@ module.exports = [
             { kana: 'さいしょ', translation: 'Первый (порядок)', kanji: '最初' },
             { kana: 'にばんめ', translation: 'Второй (порядок)', kanji: '二番目' },
             { kana: 'けつまつ', translation: 'Конец, заключение', kanji: '結末' },
-            { kana: 'けっきょく', translation: 'В конце концов, в конечном счете', kanji: '結局' },
+            { kana: 'けっきょく', translation: 'В конце концов, в конечном счёте', kanji: '結局' },
             { kana: '〜はつの', translation: 'Постфикс: впервые', kanji: '〜初の' },
-            { kana: 'さいきん', translation: 'В последнее время', kanji: '最近' }
+            { kana: 'さいきん', translation: 'В последнее время', kanji: '最近' },
+            { kana: 'げんざい', translation: 'В настоящее время', kanji: '現在' }
         ]
     },
     {
