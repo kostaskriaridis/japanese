@@ -657,7 +657,9 @@ module.exports = [
             { kana: 'けっきょく', translation: 'В конце концов, в конечном счёте', kanji: '結局' },
             { kana: '〜はつの', translation: 'Постфикс: впервые', kanji: '〜初の' },
             { kana: 'さいきん', translation: 'В последнее время', kanji: '最近' },
-            { kana: 'げんざい', translation: 'В настоящее время', kanji: '現在' }
+            { kana: 'げんざい', translation: 'В настоящее время', kanji: '現在' },
+            { kana: 'やっと', translation: 'Наконец-то, наконец' },
+            { kana: 'いらい', translation: 'С тех пор (since)', kanji: '以来' }
         ]
     },
     {
@@ -811,7 +813,8 @@ module.exports = [
             { kana: 'はかせ', translation: 'Доктор (наук)', kanji: '博士' },
             { kana: 'おたく', translation: 'Человек, одержимый чем-то' },
             { kana: 'にんきもの', translation: 'Популярная персона', kanji: '⼈気者' },
-            { kana: '犯人', translation: 'Преступник, виновный', kanji: 'はんにん' }
+            { kana: '犯人', translation: 'Преступник, виновный', kanji: 'はんにん' },
+            { kana: 'はずかしがりや', translation: 'Стеснительный человек', kanji: '恥ずかしがり屋' }
         ]
     },
     {

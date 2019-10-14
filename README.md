@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 795
+# Table of japanese words to learn: 798
 #### Verbs (123)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -593,7 +593,7 @@
 | — | `かれらの` | Их |
 | [一](https://jisho.org/search/%E4%B8%80%20%23kanji)[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=一緒に) | `いっしょに` | Вместе |
 | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自分) | `じぶん` | myself, yourself, him(her)self |
-#### Time (34)
+#### Time (36)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `ごぜん` | Время с 00:00 до 12:00 (a.m.) |
@@ -630,6 +630,8 @@
 | 〜[初](https://jisho.org/search/%E5%88%9D%20%23kanji)の [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=〜初の) | `〜はつの` | Постфикс: впервые |
 | [最](https://jisho.org/search/%E6%9C%80%20%23kanji)[近](https://jisho.org/search/%E8%BF%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=最近) | `さいきん` | В последнее время |
 | [現](https://jisho.org/search/%E7%8F%BE%20%23kanji)[在](https://jisho.org/search/%E5%9C%A8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=現在) | `げんざい` | В настоящее время |
+| — | `やっと` | Наконец-то, наконец |
+| [以](https://jisho.org/search/%E4%BB%A5%20%23kanji)[来](https://jisho.org/search/%E6%9D%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=以来) | `いらい` | С тех пор (since) |
 #### Minutes (11)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -743,7 +745,7 @@
 | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=十一歳) | `じゅいっさい` | 11 лет |
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十歳) | `はたち` | 20 лет |
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十一歳) | `にじゅうっさい` | 21 год |
-#### Roles (16)
+#### Roles (17)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [警](https://jisho.org/search/%E8%AD%A6%20%23kanji)[察](https://jisho.org/search/%E5%AF%9F%20%23kanji)[官](https://jisho.org/search/%E5%AE%98%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=警察官) | `けいさつかん` | Офицер полиции |
@@ -762,6 +764,7 @@
 | — | `おたく` | Человек, одержимый чем-то |
 | ⼈[気](https://jisho.org/search/%E6%B0%97%20%23kanji)[者](https://jisho.org/search/%E8%80%85%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=⼈気者) | `にんきもの` | Популярная персона |
 | はんにん [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=はんにん) | `犯人` | Преступник, виновный |
+| [恥](https://jisho.org/search/%E6%81%A5%20%23kanji)ずかしがり[屋](https://jisho.org/search/%E5%B1%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=恥ずかしがり屋) | `はずかしがりや` | Стеснительный человек |
 #### Body parts (20)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
