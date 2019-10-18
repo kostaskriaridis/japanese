@@ -1,5 +1,9 @@
 module.exports = [
     {
+        japanese: '十年振り（ぶり）です',
+        translation: '10 лет прошло'
+    },
+    {
         japanese: 'お正月以来全く休みがありません',
         translation: 'С нового года не было отпуска'
     },
