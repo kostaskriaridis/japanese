@@ -124,7 +124,9 @@ module.exports = [
             { kana: 'ためします', translation: 'Тестировать', kanji: '試します' },
             { kana: 'ハイハイする', translation: 'Ползать' },
             { kana: 'ふります', translation: 'Падать (осадки)', kanji: '降ります' },
-            { kana: 'おちます', translation: 'Падать', kanji: '落ちます' }
+            { kana: 'おちます', translation: 'Падать', kanji: '落ちます' },
+            { kana: 'たずねます', translation: 'Посещать', kanji: '訪ねます' },
+            { kana: 'ひろいます', translation: 'Подобрать (буквально или кого-то на машине)', kanji: '拾います' }
         ]
     },
     {
@@ -355,7 +357,11 @@ module.exports = [
             { kana: 'ついか', translation: 'Дополнение, добавление', kanji: '追加' },
             { kana: 'つゆ', translation: 'Сезон дождей', kanji: '梅雨' },
             { kana: 'つゆいり', translation: 'Начало сезона дождей', kanji: '梅雨入り' },
-            { kana: 'つゆあけ', translation: 'Конец сезона дождей', kanji: '梅雨明け' }
+            { kana: 'つゆあけ', translation: 'Конец сезона дождей', kanji: '梅雨明け' },
+            { kana: 'そつぎょう', translation: 'Выпуск (университет/школа)', kanji: '卒業' },
+            { kana: 'はこ', translation: 'Коробка', kanji: '箱' },
+            { kana: 'めいれい', translation: 'Приказ, команда', kanji: '命令' },
+            { kana: 'しゅくだい', translation: 'Домашняя работа', kanji: '宿題' }
         ]
     },
     {
@@ -659,7 +665,8 @@ module.exports = [
             { kana: 'さいきん', translation: 'В последнее время', kanji: '最近' },
             { kana: 'げんざい', translation: 'В настоящее время', kanji: '現在' },
             { kana: 'やっと', translation: 'Наконец-то, наконец' },
-            { kana: 'いらい', translation: 'С тех пор (since)', kanji: '以来' }
+            { kana: 'いらい', translation: 'С тех пор (since)', kanji: '以来' },
+            { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' }
         ]
     },
     {
