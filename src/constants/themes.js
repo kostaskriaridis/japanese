@@ -248,7 +248,6 @@ module.exports = [
             { kana: 'はんぶん', translation: 'Половина', kanji: '半分' },
             { kana: 'にんき', translation: 'Популярность', kanji: '人気' },
             { kana: 'しんこう', translation: 'Вера, доверие', kanji: '信仰' },
-            { kana: 'じゅぎょう', translation: 'Урок', kanji: '授業' },
             { kana: 'ないしょ', translation: 'Секрет, тайна', kanji: '内緒' },
             { kana: 'ひみつ', translation: 'Секрет', kanji: '秘密' },
             { kana: 'しゅみ', translation: 'Хобби', kanji: '趣味' },
@@ -324,8 +323,6 @@ module.exports = [
             { kana: 'ねふだ', translation: 'Ценник', kanji: '値札' },
             { kana: 'びん', translation: 'Рейс, полёт', kanji: '便' },
             { kana: 'ちゃくりく', translation: 'Посадка', kanji: '着陸' },
-            { kana: 'ごうかく', translation: 'Успех, проход экзамена', kanji: '合格' },
-            { kana: 'ふごうかく', translation: 'Неуспех, непроход экзамена', kanji: '不合格' },
             { kana: 'ほんき', translation: 'Серьёзность, правда', kanji: '本気' },
             { kana: 'いき', translation: 'Дыхание', kanji: '息' },
             { kana: 'けしき', translation: 'Вид', kanji: '景色' },
@@ -343,13 +340,8 @@ module.exports = [
             { kana: 'でんち', translation: 'Батарейка', kanji: '電池' },
             { kana: 'じしん', translation: 'Уверенность в себе', kanji: '自信' },
             { kana: 'まんげつ', translation: 'Полнолуние', kanji: '満月' },
-            { kana: 'まんてん', translation: 'Полный счёт, идеальный результат', kanji: '満点' },
-            { kana: 'れいてん', translation: 'Нулевой счёт, худший результат', kanji: '零点' },
             { kana: 'まんぞく', translation: 'Удовлетворенный', kanji: '満足' },
-            { kana: 'てんすう', translation: 'Очки, счёт', kanji: '点数' },
-            { kana: 'けっか', translation: 'Результат', kanji: '結果' },
             { kana: 'したみ', translation: 'Предварительный просмотр', kanji: '下見' },
-            { kana: 'くみ', translation: 'Группа (людей), класс (студентов) и пр.', kanji: '組み' },
             { kana: 'りかい', translation: 'Понимание', kanji: '理解' },
             { kana: 'ぎじゅつ', translation: 'Умение, мастерство', kanji: '技術' },
             { kana: 'コツ', translation: 'Сноровка, ловкость' },
@@ -358,10 +350,8 @@ module.exports = [
             { kana: 'つゆ', translation: 'Сезон дождей', kanji: '梅雨' },
             { kana: 'つゆいり', translation: 'Начало сезона дождей', kanji: '梅雨入り' },
             { kana: 'つゆあけ', translation: 'Конец сезона дождей', kanji: '梅雨明け' },
-            { kana: 'そつぎょう', translation: 'Выпуск (университет/школа)', kanji: '卒業' },
             { kana: 'はこ', translation: 'Коробка', kanji: '箱' },
             { kana: 'めいれい', translation: 'Приказ, команда', kanji: '命令' },
-            { kana: 'しゅくだい', translation: 'Домашняя работа', kanji: '宿題' }
         ]
     },
     {
@@ -547,6 +537,22 @@ module.exports = [
         ]
     },
     {
+        title: 'Study',
+        words: [
+            { kana: 'じゅぎょう', translation: 'Урок', kanji: '授業' },
+            { kana: 'ごうかく', translation: 'Успех, проход экзамена', kanji: '合格' },
+            { kana: 'ふごうかく', translation: 'Неуспех, непроход экзамена', kanji: '不合格' },
+            { kana: 'まんてん', translation: 'Полный счёт, идеальный результат', kanji: '満点' },
+            { kana: 'れいてん', translation: 'Нулевой счёт, худший результат', kanji: '零点' },
+            { kana: 'てんすう', translation: 'Очки, счёт', kanji: '点数' },
+            { kana: 'けっか', translation: 'Результат', kanji: '結果' },
+            { kana: 'くみ', translation: 'Группа (людей), класс (студентов) и пр.', kanji: '組み' },
+            { kana: 'そつぎょう', translation: 'Выпуск (университет/школа)', kanji: '卒業' },
+            { kana: 'しゅくだい', translation: 'Домашняя работа', kanji: '宿題' },
+            { kana: 'きょうかしょ', translation: 'Тетрадь', kanji: '教科書' }
+        ]
+    },
+    {
         title: 'Questions, places',
         words: [
             { kana: 'どんな', translation: 'Какие? Какого типа?' },
@@ -572,12 +578,7 @@ module.exports = [
             { kana: 'ひがし', translation: 'Восток', kanji: '東' },
             { kana: 'じっか', translation: 'Родительский дом', kanji: '実家' },
             { kana: 'ふるさと', translation: 'Родной город', kanji: '故郷' },
-            { kana: 'しゅと', translation: 'Столица', kanji: '首都' }
-        ]
-    },
-    {
-        title: 'Spots around town',
-        words: [
+            { kana: 'しゅと', translation: 'Столица', kanji: '首都' },
             { kana: 'がっこう', translation: 'Школа', kanji: '学校' },
             { kana: 'ぎんこう', translation: 'Банк', kanji: '銀行' },
             { kana: 'くうこう', translation: 'Аэропорт', kanji: '空港' },
@@ -669,6 +670,7 @@ module.exports = [
             { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' }
         ]
     },
+    /*
     {
         title: 'Minutes',
         words: [
@@ -685,12 +687,12 @@ module.exports = [
             { kana: 'なんぷん', translation: 'Сколько минут?', kanji: '何分' }
         ]
     },
+    */
     {
         title: 'Dates',
         words: [
             { kana: 'たんじょうび', translation: 'День рождения', kanji: '誕生日' },
             { kana: 'あけまして', translation: 'С новым годом', kanji: '明けまして' },
-            { kana: 'おめでとうございます', translation: 'Поздравляю' },
 
             { kana: 'いつ', translation: 'Когда, время', kanji: '何時' },
             { kana: 'しゅうかん', translation: 'Неделя', kanji: '週間' },
@@ -715,12 +717,8 @@ module.exports = [
             { kana: 'そのあと', translation: 'После этого', kanji: 'その後' },
             { kana: 'ひる', translation: 'День', kanji: '昼' },
             { kana: 'ばん', translation: 'Вечер', kanji: '晩' },
-            { kana: 'よる', translation: 'Ночь', kanji: '夜' }
-        ]
-    },
-    {
-        title: 'Week Days',
-        words: [
+            { kana: 'よる', translation: 'Ночь', kanji: '夜' },
+
             { kana: 'げつようび', translation: 'Понедельник', kanji: '月曜日' },
             { kana: 'かようび', translation: 'Вторник', kanji: '火曜日' },
             { kana: 'すいようび', translation: 'Среда', kanji: '水曜日' },
@@ -730,12 +728,8 @@ module.exports = [
             { kana: 'にちようび', translation: 'Воскресенье', kanji: '日曜日' },
             { kana: 'なんようび', translation: 'Какой день недели?', kanji: '何曜日' },
             { kana: 'へいじつ', translation: 'Будние дни', kanji: '平日' },
-            { kana: 'しゅうまつ', translation: 'Выходные дни', kanji: '週末' }
-        ]
-    },
-    {
-        title: 'Month Dates',
-        words: [
+            { kana: 'しゅうまつ', translation: 'Выходные дни', kanji: '週末' },
+
             { kana: 'ついたち', translation: '1 число', kanji: '一日' },
             { kana: 'ふつか', translation: '2 число', kanji: '二日' },
             { kana: 'みっか', translation: '3 число', kanji: '三日' },
@@ -952,6 +946,7 @@ module.exports = [
             { kana: 'にんにく', translation: 'Чеснок' }
         ]
     },
+    /*
     {
         title: 'Class 1 verbs. When ます is preceded by -i',
         words: [
@@ -978,4 +973,5 @@ module.exports = [
             { kana: 'きます', translation: 'くる' }
         ]
     }
+    */
 ];
