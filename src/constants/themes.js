@@ -126,7 +126,9 @@ module.exports = [
             { kana: 'ふります', translation: 'Падать (осадки)', kanji: '降ります' },
             { kana: 'おちます', translation: 'Падать', kanji: '落ちます' },
             { kana: 'たずねます', translation: 'Посещать', kanji: '訪ねます' },
-            { kana: 'ひろいます', translation: 'Подобрать (буквально или кого-то на машине)', kanji: '拾います' }
+            { kana: 'ひろいます', translation: 'Подобрать (буквально или кого-то на машине)', kanji: '拾います' },
+            { kana: 'かえす', translation: 'Вернуть что-то', kanji: '返す' },
+            { kana: 'うらやみます', translation: 'Завидовать', kanji: '羨みます' }
         ]
     },
     {
@@ -165,9 +167,9 @@ module.exports = [
             { kana: 'めんきょ', translation: 'Лицензия, уроки', kanji: '免許' },
             { kana: 'うんてん', translation: 'Вождение', kanji: '運転' },
             { kana: 'うんてんしゅ', translation: 'Водитель', kanji: '運転手' },
+            { kana: 'てんいん', translation: 'Работник, клерк', kanji: '店員' },
             { kana: 'しゃしん', translation: 'Фото', kanji: '写真' },
             { kana: 'おきゃくさん', translation: 'Посетитель, гость', kanji: 'お客さん' },
-            { kana: 'てんいん', translation: 'Работник, клерк', kanji: '店員' },
             { kana: 'りょこう', translation: 'Поездка, путешествие', kanji: '旅行' },
             { kana: 'たいざい', translation: 'Пребывание', kanji: '滞在' },
             { kana: 'もくてき', translation: 'Цель', kanji: '目的' },
@@ -352,6 +354,7 @@ module.exports = [
             { kana: 'つゆあけ', translation: 'Конец сезона дождей', kanji: '梅雨明け' },
             { kana: 'はこ', translation: 'Коробка', kanji: '箱' },
             { kana: 'めいれい', translation: 'Приказ, команда', kanji: '命令' },
+            { kana: 'せいしゅん', translation: 'Юность', kanji: '青春' }
         ]
     },
     {
@@ -533,7 +536,8 @@ module.exports = [
             { kana: 'さらに', translation: 'Более того', kanji: '更に' },
             { kana: 'いきなり', translation: 'Вдруг, внезапно' },
             { kana: '～のなか', translation: 'Между, среди', kanji: '～の中' },
-            { kana: 'りょうほう', translation: 'Обе стороны', kanji: '両方' }
+            { kana: 'りょうほう', translation: 'Обе стороны', kanji: '両方' },
+            { kana: 'さきに', translation: 'Вперёд, первый', kanji: '先に' }
         ]
     },
     {

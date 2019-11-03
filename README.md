@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 783
-#### Verbs (125)
+# Table of japanese words to learn: 787
+#### Verbs (127)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [入](https://jisho.org/search/%E5%85%A5%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=入ります) | `はいります` | Войти, зайти в |
@@ -127,6 +127,8 @@
 | [落](https://jisho.org/search/%E8%90%BD%20%23kanji)ちます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=落ちます) | `おちます` | Падать |
 | [訪](https://jisho.org/search/%E8%A8%AA%20%23kanji)ねます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=訪ねます) | `たずねます` | Посещать |
 | [拾](https://jisho.org/search/%E6%8B%BE%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=拾います) | `ひろいます` | Подобрать (буквально или кого-то на машине) |
+| [返](https://jisho.org/search/%E8%BF%94%20%23kanji)す [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=返す) | `かえす` | Вернуть что-то |
+| [羨](https://jisho.org/search/%E7%BE%A8%20%23kanji)みます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=羨みます) | `うらやみます` | Завидовать |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -151,15 +153,15 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (190)
+#### Nouns (191)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
 | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)[転](https://jisho.org/search/%E8%BB%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=運転) | `うんてん` | Вождение |
 | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)[転](https://jisho.org/search/%E8%BB%A2%20%23kanji)[手](https://jisho.org/search/%E6%89%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=運転手) | `うんてんしゅ` | Водитель |
+| [店](https://jisho.org/search/%E5%BA%97%20%23kanji)[員](https://jisho.org/search/%E5%93%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=店員) | `てんいん` | Работник, клерк |
 | [写](https://jisho.org/search/%E5%86%99%20%23kanji)[真](https://jisho.org/search/%E7%9C%9F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=写真) | `しゃしん` | Фото |
 | お[客](https://jisho.org/search/%E5%AE%A2%20%23kanji)さん [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お客さん) | `おきゃくさん` | Посетитель, гость |
-| [店](https://jisho.org/search/%E5%BA%97%20%23kanji)[員](https://jisho.org/search/%E5%93%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=店員) | `てんいん` | Работник, клерк |
 | [旅](https://jisho.org/search/%E6%97%85%20%23kanji)[行](https://jisho.org/search/%E8%A1%8C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=旅行) | `りょこう` | Поездка, путешествие |
 | [滞](https://jisho.org/search/%E6%BB%9E%20%23kanji)[在](https://jisho.org/search/%E5%9C%A8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=滞在) | `たいざい` | Пребывание |
 | [目](https://jisho.org/search/%E7%9B%AE%20%23kanji)[的](https://jisho.org/search/%E7%9A%84%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=目的) | `もくてき` | Цель |
@@ -344,6 +346,7 @@
 | [梅](https://jisho.org/search/%E6%A2%85%20%23kanji)[雨](https://jisho.org/search/%E9%9B%A8%20%23kanji)[明](https://jisho.org/search/%E6%98%8E%20%23kanji)け [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=梅雨明け) | `つゆあけ` | Конец сезона дождей |
 | [箱](https://jisho.org/search/%E7%AE%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=箱) | `はこ` | Коробка |
 | [命](https://jisho.org/search/%E5%91%BD%20%23kanji)[令](https://jisho.org/search/%E4%BB%A4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=命令) | `めいれい` | Приказ, команда |
+| [青](https://jisho.org/search/%E9%9D%92%20%23kanji)[春](https://jisho.org/search/%E6%98%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=青春) | `せいしゅん` | Юность |
 #### Adjectives (い) (64)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -453,7 +456,7 @@
 | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=曖昧 (な)) | `あいまい (な)` | Неопределенный, неоднозначный |
 | [前](https://jisho.org/search/%E5%89%8D%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)き (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=前向き (な)) | `まえむき (な)` | Позитивный |
 | [楽](https://jisho.org/search/%E6%A5%BD%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=楽 (な)) | `らく (な)` | Лёгкий |
-#### Adverbs (64)
+#### Adverbs (65)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `ちょっと` | Немного |
@@ -520,6 +523,7 @@
 | — | `いきなり` | Вдруг, внезапно |
 | ～の[中](https://jisho.org/search/%E4%B8%AD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=～の中) | `～のなか` | Между, среди |
 | [両](https://jisho.org/search/%E4%B8%A1%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=両方) | `りょうほう` | Обе стороны |
+| [先](https://jisho.org/search/%E5%85%88%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=先に) | `さきに` | Вперёд, первый |
 #### Study (11)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
