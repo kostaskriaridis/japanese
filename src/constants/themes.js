@@ -121,14 +121,18 @@ module.exports = [
             { kana: 'おこります', translation: 'Злиться', kanji: '怒ります' },
             { kana: 'なげます', translation: 'Бросить', kanji: '投げます' },
             { kana: 'おわります', translation: 'Закончить', kanji: '終わります' },
-            { kana: 'ためします', translation: 'Тестировать', kanji: '試します' },
+            { kana: 'ためします', translation: 'Тестировать, пробовать', kanji: '試します' },
             { kana: 'ハイハイする', translation: 'Ползать' },
             { kana: 'ふります', translation: 'Падать (осадки)', kanji: '降ります' },
             { kana: 'おちます', translation: 'Падать', kanji: '落ちます' },
             { kana: 'たずねます', translation: 'Посещать', kanji: '訪ねます' },
             { kana: 'ひろいます', translation: 'Подобрать (буквально или кого-то на машине)', kanji: '拾います' },
             { kana: 'かえす', translation: 'Вернуть что-то', kanji: '返す' },
-            { kana: 'うらやみます', translation: 'Завидовать', kanji: '羨みます' }
+            { kana: 'うらやみます', translation: 'Завидовать', kanji: '羨みます' },
+            { kana: 'こくはくします', translation: 'Признаваться', kanji: '告白します' },
+            { kana: 'あがります', translation: 'Подняться', kanji: '上がります' },
+            { kana: 'さがります', translation: 'Сделать шаг назад, двигаться вниз', kanji: '下がります' },
+            { kana: 'もうかります', translation: 'Получать прибыль', kanji: '儲かります' }
         ]
     },
     {
@@ -354,7 +358,8 @@ module.exports = [
             { kana: 'つゆあけ', translation: 'Конец сезона дождей', kanji: '梅雨明け' },
             { kana: 'はこ', translation: 'Коробка', kanji: '箱' },
             { kana: 'めいれい', translation: 'Приказ, команда', kanji: '命令' },
-            { kana: 'せいしゅん', translation: 'Юность', kanji: '青春' }
+            { kana: 'せいしゅん', translation: 'Юность', kanji: '青春' },
+            { kana: 'かいぎ', translation: 'Встреча, собрание', kanji: '会議' }
         ]
     },
     {
@@ -553,7 +558,7 @@ module.exports = [
             { kana: 'くみ', translation: 'Группа (людей), класс (студентов) и пр.', kanji: '組み' },
             { kana: 'そつぎょう', translation: 'Выпуск (университет/школа)', kanji: '卒業' },
             { kana: 'しゅくだい', translation: 'Домашняя работа', kanji: '宿題' },
-            { kana: 'きょうかしょ', translation: 'Тетрадь', kanji: '教科書' }
+            { kana: 'きょうかしょ', translation: 'Учебник', kanji: '教科書' }
         ]
     },
     {
@@ -593,7 +598,8 @@ module.exports = [
             { kana: 'びょういん', translation: 'Больница', kanji: '病院' },
             { kana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' },
             { kana: 'げきじょう', translation: 'Театр', kanji: '劇場' },
-            { kana: 'たてもの', translation: 'Конструкция, строение', kanji: '建物' }
+            { kana: 'たてもの', translation: 'Конструкция, строение', kanji: '建物' },
+            { kana: 'おてあらい', translation: 'Туалет, уборная', kanji: 'お手洗い' }
         ]
     },
     {
@@ -819,7 +825,8 @@ module.exports = [
             { kana: 'おたく', translation: 'Человек, одержимый чем-то' },
             { kana: 'にんきもの', translation: 'Популярная персона', kanji: '⼈気者' },
             { kana: '犯人', translation: 'Преступник, виновный', kanji: 'はんにん' },
-            { kana: 'はずかしがりや', translation: 'Стеснительный человек', kanji: '恥ずかしがり屋' }
+            { kana: 'はずかしがりや', translation: 'Стеснительный человек', kanji: '恥ずかしがり屋' },
+            { kana: 'しゃちょう', translation: 'Президент (компании)', kanji: '社長' }
         ]
     },
     {
@@ -919,7 +926,9 @@ module.exports = [
             { kana: 'ねんしゅう', translation: 'Годовая зарплата', kanji: '年収' },
             { kana: 'げっしゅう', translation: 'Месячная зарплата', kanji: '月収' },
             { kana: 'しゅうにゅう', translation: 'Прибыль', kanji: '収入' },
-            { kana: 'ねだん', translation: 'Цена, стоимость', kanji: '値段' }
+            { kana: 'ねだん', translation: 'Цена, стоимость', kanji: '値段' },
+            { kana: 'ばっきん', translation: 'Штраф', kanji: '罰金' },
+            { kana: 'しょうけん', translation: 'Ценные бумаги, биржевой брокер', kanji: '証券' }
         ]
     },
     {
@@ -947,7 +956,8 @@ module.exports = [
             { kana: 'のり', translation: 'Морские водоросли', kanji: '海苔' },
             { kana: 'ピーマン', translation: 'Зелёный перец' },
             { kana: 'なす', translation: 'Баклажан', kanji: '茄子' },
-            { kana: 'にんにく', translation: 'Чеснок' }
+            { kana: 'にんにく', translation: 'Чеснок' },
+            { kana: 'みかん', translation: 'Мандарин' }
         ]
     },
     /*
