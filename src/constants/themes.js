@@ -31,7 +31,7 @@ module.exports = [
             { kana: 'しめます', translation: 'Закрывать', kanji: '閉めます' },
             { kana: 'とまります', translation: 'Остановиться, припарковаться', kanji: '止まります' },
             { kana: 'べんきょうします', translation: 'Учиться', kanji: '勉強します' },
-            { kana: 'かえります', translation: 'Возвращаться', kanji: '帰りむす' },
+            { kana: 'かえります', translation: 'Возвращаться', kanji: '帰ります' },
             { kana: 'ささえます', translation: 'Поддерживать', kanji: '支えます' },
             { kana: 'おなかがすきます', translation: 'Быть голодным', kanji: 'お腹が空きます' },
             { kana: 'ぬぎます', translation: 'Раздеваться', kanji: '脱ぎます' },
@@ -72,6 +72,7 @@ module.exports = [
             { kana: 'しにます', translation: 'Умереть', kanji: '死にます' },
             { kana: 'きえます', translation: 'Исчезнуть', kanji: '消えます' },
             { kana: 'うちます', translation: 'Бить, ударить', kanji: '打ちます' },
+            { kana: 'なぐります', translation: 'Ударить', kanji: '殴ります' },
             { kana: 'まけます', translation: 'Проиграть', kanji: '負けます' },
             { kana: 'こわれます', translation: 'Сломать', kanji: '壊れます' },
             { kana: 'やきます', translation: 'Печь', kanji: '焼きます' },
@@ -132,7 +133,10 @@ module.exports = [
             { kana: 'こくはくします', translation: 'Признаваться', kanji: '告白します' },
             { kana: 'あがります', translation: 'Подняться', kanji: '上がります' },
             { kana: 'さがります', translation: 'Сделать шаг назад, двигаться вниз', kanji: '下がります' },
-            { kana: 'もうかります', translation: 'Получать прибыль', kanji: '儲かります' }
+            { kana: 'もうかります', translation: 'Получать прибыль', kanji: '儲かります' },
+            { kana: 'もえます', translation: 'Жечь, сжечь', kanji: '燃えます' },
+            { kana: 'ふみます', translation: 'Наступить', kanji: '踏みます' },
+            { kana: 'あいます', translation: 'Встретить (нежелательное)', kanji: '遭います' }
         ]
     },
     {
@@ -359,7 +363,9 @@ module.exports = [
             { kana: 'はこ', translation: 'Коробка', kanji: '箱' },
             { kana: 'めいれい', translation: 'Приказ, команда', kanji: '命令' },
             { kana: 'せいしゅん', translation: 'Юность', kanji: '青春' },
-            { kana: 'かいぎ', translation: 'Встреча, собрание', kanji: '会議' }
+            { kana: 'かいぎ', translation: 'Встреча, собрание', kanji: '会議' },
+            { kana: 'みずぎ', translation: 'Водный костюм', kanji: '水着' },
+            { kana: 'ほんばん', translation: 'Реальная часть, выступление', kanji: '本番' }
         ]
     },
     {
@@ -428,7 +434,8 @@ module.exports = [
             { kana: 'だるい', translation: 'Истощённый', kanji: '怠い' },
             { kana: 'なつかしい', translation: 'Ностальгический', kanji: '懐かしい' },
             { kana: 'おおい', translation: 'Много, больше', kanji: '多い' },
-            { kana: 'むずかしい', translation: 'Сложный', kanji: '難しい' }
+            { kana: 'むずかしい', translation: 'Сложный', kanji: '難しい' },
+            { kana: 'きびしい', translation: 'Строгий, тяжёлый', kanji: '厳しい' }
         ]
     },
     {
@@ -542,7 +549,9 @@ module.exports = [
             { kana: 'いきなり', translation: 'Вдруг, внезапно' },
             { kana: '～のなか', translation: 'Между, среди', kanji: '～の中' },
             { kana: 'りょうほう', translation: 'Обе стороны', kanji: '両方' },
-            { kana: 'さきに', translation: 'Вперёд, первый', kanji: '先に' }
+            { kana: 'さきに', translation: 'Вперёд, первый', kanji: '先に' },
+            { kana: 'まさに', translation: 'Конечно, безусловно' },
+            { kana: 'たしかに', translation: 'Конечно', kanji: '確かに' }
         ]
     },
     {
@@ -676,6 +685,7 @@ module.exports = [
             { kana: 'さいきん', translation: 'В последнее время', kanji: '最近' },
             { kana: 'げんざい', translation: 'В настоящее время', kanji: '現在' },
             { kana: 'やっと', translation: 'Наконец-то, наконец' },
+            { kana: 'いよいよ', translation: 'Наконец-то, всё больше и больше' },
             { kana: 'いらい', translation: 'С тех пор (since)', kanji: '以来' },
             { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' }
         ]
@@ -887,7 +897,8 @@ module.exports = [
             { kana: 'やるきありますか', translation: 'У тебя есть мотивация (мотивировать кого-то)', kanji: 'やる気ありますか' },
             { kana: 'しやがせまい', translation: 'Иметь узкое представление о вещах', kanji: '視野が狭い' },
             { kana: 'しやがひろい', translation: 'Иметь широкое представление о вещах', kanji: '視野が広い' },
-            { kana: 'かんべんしてください', translation: 'Оставьте меня в покое, пожалуйста', kanji: '勘弁してください' }
+            { kana: 'かんべんしてください', translation: 'Оставьте меня в покое, пожалуйста', kanji: '勘弁してください' },
+            { kana: 'たしか', translation: 'Если я правильно помню ～', kanji: 'たしか' }
         ]
     },
     {

@@ -1,5 +1,9 @@
 module.exports = [
     {
+        japanese: 'ドアが閉まる。ドアを閉める',
+        translation: 'Дверь закрывается. Закрыть дверь'
+    },
+    {
         japanese: 'トイレが近い',
         translation: 'Часто ходить в туалет :D'
     },
