@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 737
-#### Verbs (133)
+# Table of japanese words to learn: 738
+#### Verbs (134)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -135,6 +135,7 @@
 | [踏](https://jisho.org/search/%E8%B8%8F%20%23kanji)みます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=踏みます) | `ふみます` | Наступить |
 | [遭](https://jisho.org/search/%E9%81%AD%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=遭います) | `あいます` | Встретить (нежелательное) |
 | [殺](https://jisho.org/search/%E6%AE%BA%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=殺します) | `ころします` | Убивать |
+| [伸](https://jisho.org/search/%E4%BC%B8%20%23kanji)ばします [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=伸ばします) | `のばします` | Протянуть, растянуть |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |

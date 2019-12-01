@@ -134,7 +134,8 @@ module.exports = [
             { kana: 'もえます', translation: 'Жечь, сжечь', kanji: '燃えます' },
             { kana: 'ふみます', translation: 'Наступить', kanji: '踏みます' },
             { kana: 'あいます', translation: 'Встретить (нежелательное)', kanji: '遭います' },
-            { kana: 'ころします', translation: 'Убивать', kanji: '殺します' }
+            { kana: 'ころします', translation: 'Убивать', kanji: '殺します' },
+            { kana: 'のばします', translation: 'Протянуть, растянуть', kanji: '伸ばします' }
         ]
     },
     {
