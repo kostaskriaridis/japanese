@@ -133,7 +133,8 @@ module.exports = [
             { kana: 'もうかります', translation: 'Получать прибыль', kanji: '儲かります' },
             { kana: 'もえます', translation: 'Жечь, сжечь', kanji: '燃えます' },
             { kana: 'ふみます', translation: 'Наступить', kanji: '踏みます' },
-            { kana: 'あいます', translation: 'Встретить (нежелательное)', kanji: '遭います' }
+            { kana: 'あいます', translation: 'Встретить (нежелательное)', kanji: '遭います' },
+            { kana: 'ころします', translation: 'Убивать', kanji: '殺します' }
         ]
     },
     {
@@ -865,7 +866,9 @@ module.exports = [
             { kana: 'ねつ', translation: 'Зной, температура', kanji: '熱' },
             { kana: 'ど', translation: 'Степень, температура', kanji: '度' },
             { kana: 'かんごし', translation: 'Медсестра, медбрат', kanji: '看護師' },
-            { kana: 'やっきょく', translation: 'Аптека', kanji: '薬局' }
+            { kana: 'やっきょく', translation: 'Аптека', kanji: '薬局' },
+            { kana: 'きゅうきゅうしゃ', translation: 'Скорая медицинская помощь', kanji: '救急車' },
+            { kana: 'きゅうきゅう', translation: 'Медицинская помощь', kanji: '救急' }
         ]
     },
     {

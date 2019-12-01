@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 734
-#### Verbs (132)
+# Table of japanese words to learn: 737
+#### Verbs (133)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -134,6 +134,7 @@
 | [燃](https://jisho.org/search/%E7%87%83%20%23kanji)えます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=燃えます) | `もえます` | Жечь, сжечь |
 | [踏](https://jisho.org/search/%E8%B8%8F%20%23kanji)みます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=踏みます) | `ふみます` | Наступить |
 | [遭](https://jisho.org/search/%E9%81%AD%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=遭います) | `あいます` | Встретить (нежелательное) |
+| [殺](https://jisho.org/search/%E6%AE%BA%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=殺します) | `ころします` | Убивать |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -759,7 +760,7 @@
 | [素](https://jisho.org/search/%E7%B4%A0%20%23kanji)[潜](https://jisho.org/search/%E6%BD%9C%20%23kanji)り [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=素潜り) | `すもぐり` | Дайвинг без оборудования |
 | [水](https://jisho.org/search/%E6%B0%B4%20%23kanji)[着](https://jisho.org/search/%E7%9D%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=水着) | `みずぎ` | Водный костюм |
 | [番](https://jisho.org/search/%E7%95%AA%20%23kanji)[組](https://jisho.org/search/%E7%B5%84%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=番組) | `ばんぐみ` | Программа (Радио, телевидение) |
-#### Medicine (8)
+#### Medicine (10)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [薬](https://jisho.org/search/%E8%96%AC%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=薬) | `くすり` | Медицина |
@@ -770,6 +771,8 @@
 | [度](https://jisho.org/search/%E5%BA%A6%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=度) | `ど` | Степень, температура |
 | [看](https://jisho.org/search/%E7%9C%8B%20%23kanji)[護](https://jisho.org/search/%E8%AD%B7%20%23kanji)[師](https://jisho.org/search/%E5%B8%AB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=看護師) | `かんごし` | Медсестра, медбрат |
 | [薬](https://jisho.org/search/%E8%96%AC%20%23kanji)[局](https://jisho.org/search/%E5%B1%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=薬局) | `やっきょく` | Аптека |
+| [救](https://jisho.org/search/%E6%95%91%20%23kanji)[急](https://jisho.org/search/%E6%80%A5%20%23kanji)[車](https://jisho.org/search/%E8%BB%8A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=救急車) | `きゅうきゅうしゃ` | Скорая медицинская помощь |
+| [救](https://jisho.org/search/%E6%95%91%20%23kanji)[急](https://jisho.org/search/%E6%80%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=救急) | `きゅうきゅう` | Медицинская помощь |
 #### Money (17)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
