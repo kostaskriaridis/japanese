@@ -135,7 +135,8 @@ module.exports = [
             { kana: 'ふみます', translation: 'Наступить', kanji: '踏みます' },
             { kana: 'あいます', translation: 'Встретить (нежелательное)', kanji: '遭います' },
             { kana: 'ころします', translation: 'Убивать', kanji: '殺します' },
-            { kana: 'のばします', translation: 'Протянуть, растянуть', kanji: '伸ばします' }
+            { kana: 'のばします', translation: 'Протянуть, растянуть', kanji: '伸ばします' },
+            { kana: 'はこびます', translation: 'Отнести, отвезти', kanji: '運びます' }
         ]
     },
     {
@@ -355,7 +356,12 @@ module.exports = [
             { kana: 'めいれい', translation: 'Приказ, команда', kanji: '命令' },
             { kana: 'せいしゅん', translation: 'Юность', kanji: '青春' },
             { kana: 'かいぎ', translation: 'Встреча, собрание', kanji: '会議' },
-            { kana: 'ほんばん', translation: 'Реальная часть, выступление', kanji: '本番' }
+            { kana: 'ほんばん', translation: 'Реальная часть, выступление', kanji: '本番' },
+            { kana: 'きんぎょ', translation: 'Золотая рыбка', kanji: '金魚' },
+            { kana: 'ゆうき', translation: 'Мужество, храбрость', kanji: '勇気' },
+            { kana: 'あんしん', translation: 'Облегчение', kanji: '安心' },
+            { kana: '', translation: '', kanji: '' },
+            { kana: 'りゆう', translation: 'Причина', kanji: '理由' }
         ]
     },
     {
@@ -408,7 +414,8 @@ module.exports = [
             { kana: 'だるい', translation: 'Истощённый', kanji: '怠い' },
             { kana: 'なつかしい', translation: 'Ностальгический', kanji: '懐かしい' },
             { kana: 'むずかしい', translation: 'Сложный', kanji: '難しい' },
-            { kana: 'きびしい', translation: 'Строгий, тяжёлый', kanji: '厳しい' }
+            { kana: 'きびしい', translation: 'Строгий, тяжёлый', kanji: '厳しい' },
+            { kana: 'だまされやすい', translation: 'Легковерный, наивный' }
         ]
     },
     {
@@ -584,8 +591,15 @@ module.exports = [
             { kana: 'おねえさん', translation: 'Старшая сестра', kanji: 'お姉さん' },
             { kana: 'おとうとさん', translation: 'Младший брат', kanji: '弟さん' },
             { kana: 'いもうとさん', translation: 'Младшая сестра', kanji: '妹さん' },
-            { kana: 'むすこさん', translation: 'Сын', kanji: '息子さん' },
-            { kana: 'むすめさん', translation: 'Дочь', kanji: '娘さん' },
+            { kana: 'むすこ', translation: 'Сын', kanji: '息子' },
+            { kana: 'ちょうなん', translation: 'Старший сын', kanji: '長男' },
+            { kana: 'じなん', translation: 'Второй сын', kanji: '次男' },
+            { kana: 'さんなん', translation: 'Третий сын', kanji: '三男' },
+            { kana: 'むすめ', translation: 'Дочь', kanji: '娘' },
+            { kana: 'ちょうじょ', translation: 'Старшая дочь', kanji: '長女' },
+            { kana: 'じじょ', translation: 'Вторая дочь', kanji: '次女' },
+            { kana: 'さんじょ', translation: 'Третья дочь', kanji: '三女' },
+            { kana: 'おじょうさん', translation: 'Дочь, девочка, мисс', kanji: 'お嬢さん' },
             { kana: 'まご', translation: 'Внук', kanji: '孫' },
             { kana: 'だんなさん', translation: 'Муж' },
             { kana: 'おくさん', translation: 'Жена', kanji: '奥さん' },
@@ -593,7 +607,8 @@ module.exports = [
             { kana: 'きょうだい', translation: 'Братья и сёстры', kanji: '兄弟' },
             { kana: 'そふ', translation: 'Дедушка', kanji: '祖父' },
             { kana: 'そぼ', translation: 'Бабушка', kanji: '祖母' },
-            { kana: 'いとこ', translation: 'Двоюродный' }
+            { kana: 'いとこ', translation: 'Двоюродный' },
+            { kana: 'いでんし', translation: 'Гены', kanji: '遺伝子' }
         ]
     },
     {
@@ -612,6 +627,7 @@ module.exports = [
             { kana: 'ほとんど毎日', translation: 'Практически каждый день', kanji: 'ほとんど毎日' },
             { kana: 'たまに', translation: 'Время от времени' },
             { kana: 'さっき', translation: 'Недавно' },
+            { kana: 'ついさっき', translation: 'Совсем недавно, только что' },
             { kana: 'たいてい', translation: 'В основном', kanji: '大抵' },
             { kana: 'おひさしぶり', translation: 'Давно не виделись' },
             { kana: 'とけい', translation: 'Часы', kanji: '時計' },
@@ -783,7 +799,8 @@ module.exports = [
             { kana: 'にんきもの', translation: 'Популярная персона', kanji: '⼈気者' },
             { kana: '犯人', translation: 'Преступник, виновный', kanji: 'はんにん' },
             { kana: 'はずかしがりや', translation: 'Стеснительный человек', kanji: '恥ずかしがり屋' },
-            { kana: 'しゃちょう', translation: 'Президент (компании)', kanji: '社長' }
+            { kana: 'しゃちょう', translation: 'Президент (компании)', kanji: '社長' },
+            { kana: 'ちかん', translation: 'Хулиган, извращенец', kanji: '痴漢' }
         ]
     },
     {
@@ -846,7 +863,10 @@ module.exports = [
             { kana: 'しやがひろい', translation: 'Иметь широкое представление о вещах', kanji: '視野が広い' },
             { kana: 'かんべんしてください', translation: 'Оставьте меня в покое, пожалуйста', kanji: '勘弁してください' },
             { kana: 'たしか', translation: 'Если я правильно помню ～', kanji: 'たしか' },
-            { kana: 'あしをあらう', translation: '"Умывать руки", мыть ноги', kanji: '足を洗う' }
+            { kana: 'あしをあらう', translation: '"Умывать руки", мыть ноги', kanji: '足を洗う' },
+            { kana: 'ゆうきがある', translation: 'Иметь мужество', kanji: '勇気がある' },
+            { kana: 'りゆうなきはんこう', translation: 'Будт без повода', kanji: '理由なき犯行' },
+            { kana: 'りゆうもなくはらがたつ', translation: 'Злиться без причины', kanji: '理由もなく腹が立つ' }
         ]
     },
     {
@@ -869,7 +889,8 @@ module.exports = [
             { kana: 'かんごし', translation: 'Медсестра, медбрат', kanji: '看護師' },
             { kana: 'やっきょく', translation: 'Аптека', kanji: '薬局' },
             { kana: 'きゅうきゅうしゃ', translation: 'Скорая медицинская помощь', kanji: '救急車' },
-            { kana: 'きゅうきゅう', translation: 'Медицинская помощь', kanji: '救急' }
+            { kana: 'きゅうきゅう', translation: 'Медицинская помощь', kanji: '救急' },
+            { kana: 'ぜんち', translation: 'Полное восстановление, исцеление', kanji: '全治' }
         ]
     },
     {
@@ -891,7 +912,8 @@ module.exports = [
             { kana: 'しゅうにゅう', translation: 'Прибыль', kanji: '収入' },
             { kana: 'ねだん', translation: 'Цена, стоимость', kanji: '値段' },
             { kana: 'ばっきん', translation: 'Штраф', kanji: '罰金' },
-            { kana: 'しょうけん', translation: 'Ценные бумаги, биржевой брокер', kanji: '証券' }
+            { kana: 'しょうけん', translation: 'Ценные бумаги, биржевой брокер', kanji: '証券' },
+            { kana: 'たからもの', translation: 'Драгоценная вещь', kanji: '宝物' }
         ]
     },
     {
