@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 767
+# Table of japanese words to learn: 771
 #### Verbs (137)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -163,7 +163,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (193)
+#### Nouns (196)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -359,6 +359,9 @@
 | [環](https://jisho.org/search/%E7%92%B0%20%23kanji)[境](https://jisho.org/search/%E5%A2%83%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=環境) | `かんきょう` | Среда, окружающая обстановка |
 | [近](https://jisho.org/search/%E8%BF%91%20%23kanji)[所](https://jisho.org/search/%E6%89%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=近所) | `きんじょ` | Окрестности |
 | [迷](https://jisho.org/search/%E8%BF%B7%20%23kanji)[惑](https://jisho.org/search/%E6%83%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=迷惑) | `めいわく` | Неприятность |
+|  [手](https://jisho.org/search/%E6%89%8B%20%23kanji)[伝](https://jisho.org/search/%E4%BC%9D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 手伝い) | `てつだい` | Помощь |
+|  [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[接](https://jisho.org/search/%E6%8E%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 面接) | `めんせつ` | Собеседование, интервью |
+|  [恋](https://jisho.org/search/%E6%81%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 恋) | `こい` | Любовь, влечение |
 #### Adjectives (い) (49)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -700,7 +703,7 @@
 | [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=十一歳) | `じゅいっさい` | 11 лет |
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十歳) | `はたち` | 20 лет |
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十一歳) | `にじゅうっさい` | 21 год |
-#### Roles (19)
+#### Roles (20)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [警](https://jisho.org/search/%E8%AD%A6%20%23kanji)[察](https://jisho.org/search/%E5%AF%9F%20%23kanji)[官](https://jisho.org/search/%E5%AE%98%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=警察官) | `けいさつかん` | Офицер полиции |
@@ -722,6 +725,7 @@
 | [恥](https://jisho.org/search/%E6%81%A5%20%23kanji)ずかしがり[屋](https://jisho.org/search/%E5%B1%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=恥ずかしがり屋) | `はずかしがりや` | Стеснительный человек |
 | [社](https://jisho.org/search/%E7%A4%BE%20%23kanji)[長](https://jisho.org/search/%E9%95%B7%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=社長) | `しゃちょう` | Президент (компании) |
 | [痴](https://jisho.org/search/%E7%97%B4%20%23kanji)[漢](https://jisho.org/search/%E6%BC%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=痴漢) | `ちかん` | Хулиган, извращенец |
+| [鶯](https://jisho.org/search/%E9%B6%AF%20%23kanji)[嬢](https://jisho.org/search/%E5%AC%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=鶯嬢) | `うぐいすじょう` | Женщина-диктор |
 #### Body parts (20)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

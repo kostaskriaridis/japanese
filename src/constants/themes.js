@@ -366,7 +366,10 @@ module.exports = [
             { kana: 'りゆう', translation: 'Причина', kanji: '理由' },
             { kana: 'かんきょう', translation: 'Среда, окружающая обстановка', kanji: '環境' },
             { kana: 'きんじょ', translation: 'Окрестности', kanji: '近所' },
-            { kana: 'めいわく', translation: 'Неприятность', kanji: '迷惑' }
+            { kana: 'めいわく', translation: 'Неприятность', kanji: '迷惑' },
+            { kana: 'てつだい', translation: 'Помощь', kanji: ' 手伝い' },
+            { kana: 'めんせつ', translation: 'Собеседование, интервью', kanji: ' 面接' },
+            { kana: 'こい', translation: 'Любовь, влечение', kanji: ' 恋' }
         ]
     },
     {
@@ -807,7 +810,8 @@ module.exports = [
             { kana: '犯人', translation: 'Преступник, виновный', kanji: 'はんにん' },
             { kana: 'はずかしがりや', translation: 'Стеснительный человек', kanji: '恥ずかしがり屋' },
             { kana: 'しゃちょう', translation: 'Президент (компании)', kanji: '社長' },
-            { kana: 'ちかん', translation: 'Хулиган, извращенец', kanji: '痴漢' }
+            { kana: 'ちかん', translation: 'Хулиган, извращенец', kanji: '痴漢' },
+            { kana: 'うぐいすじょう', translation: 'Женщина-диктор', kanji: '鶯嬢' }
         ]
     },
     {
