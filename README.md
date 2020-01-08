@@ -93,7 +93,7 @@
 | — | `ばらします` | Разоблачить (секрет) |
 | [守](https://jisho.org/search/%E5%AE%88%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=守ります) | `まもります` | Защищать |
 | [採](https://jisho.org/search/%E6%8E%A1%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=採ります) | `とります` | Собирать |
-| [間](https://jisho.org/search/%E9%96%93%20%23kanji)に[合](https://jisho.org/search/%E5%90%88%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=間に合います) | `まにあいます` | Успеть вовремя |
+| [間](https://jisho.org/search/%E9%96%93%20%23kanji)に[合](https://jisho.org/search/%E5%90%88%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=間に合います) | `まにあいます` | Успеть вовремя, быть достаточным |
 | [構](https://jisho.org/search/%E6%A7%8B%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=構います) | `かまいます` | Заботиться о, беспокоиться о |
 | [通](https://jisho.org/search/%E9%80%9A%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=通います) | `かよいます` | Посещать регулярно (школу, работу) |
 | [気](https://jisho.org/search/%E6%B0%97%20%23kanji)に⼊ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=気に⼊ります) | `きにいります` | Нравиться |
@@ -202,7 +202,7 @@
 | [浴](https://jisho.org/search/%E6%B5%B4%20%23kanji)[衣](https://jisho.org/search/%E8%A1%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=浴衣) | `ゆかた` | Кимоно |
 | お[祭](https://jisho.org/search/%E7%A5%AD%20%23kanji)り [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お祭り) | `おまつり` | Фестиваль |
 | [人](https://jisho.org/search/%E4%BA%BA%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=人生) | `じんせい` | Жизнь |
-| [生](https://jisho.org/search/%E7%94%9F%20%23kanji)[命](https://jisho.org/search/%E5%91%BD%20%23kanji)  [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=生命 ) | `せいめい` | Жизнь |
+| ⽣[命](https://jisho.org/search/%E5%91%BD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=⽣命) | `せいめい` | Жизнь |
 | [湖](https://jisho.org/search/%E6%B9%96%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=湖) | `みずうみ` | Озеро |
 | [夢](https://jisho.org/search/%E5%A4%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=夢) | `ゆめ` | Сон |
 | [住](https://jisho.org/search/%E4%BD%8F%20%23kanji)[所](https://jisho.org/search/%E6%89%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=住所) | `じゅうしょ` | Адрес |
