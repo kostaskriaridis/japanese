@@ -348,8 +348,9 @@ module.exports = [
             { kana: 'きんじょ', translation: 'Окрестности', kanji: '近所' },
             { kana: 'めいわく', translation: 'Неприятность', kanji: '迷惑' },
             { kana: 'てつだい', translation: 'Помощь', kanji: ' 手伝い' },
-            { kana: 'めんせつ', translation: 'Собеседование, интервью', kanji: ' 面接' },
-            { kana: 'こい', translation: 'Любовь, влечение', kanji: ' 恋' }
+            { kana: 'めんせつ', translation: 'Собеседование, интервью', kanji: '面接' },
+            { kana: 'こい', translation: 'Любовь, влечение', kanji: '恋' },
+            { kana: 'かんがえかた', translation: 'Образ мышления', kanji: ' 考え方' }
         ]
     },
     {

@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 736
+# Table of japanese words to learn: 737
 #### Verbs (121)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -147,7 +147,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (192)
+#### Nouns (193)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -340,8 +340,9 @@
 | [近](https://jisho.org/search/%E8%BF%91%20%23kanji)[所](https://jisho.org/search/%E6%89%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=近所) | `きんじょ` | Окрестности |
 | [迷](https://jisho.org/search/%E8%BF%B7%20%23kanji)[惑](https://jisho.org/search/%E6%83%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=迷惑) | `めいわく` | Неприятность |
 |  [手](https://jisho.org/search/%E6%89%8B%20%23kanji)[伝](https://jisho.org/search/%E4%BC%9D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 手伝い) | `てつだい` | Помощь |
-|  [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[接](https://jisho.org/search/%E6%8E%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 面接) | `めんせつ` | Собеседование, интервью |
-|  [恋](https://jisho.org/search/%E6%81%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 恋) | `こい` | Любовь, влечение |
+| [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[接](https://jisho.org/search/%E6%8E%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=面接) | `めんせつ` | Собеседование, интервью |
+| [恋](https://jisho.org/search/%E6%81%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=恋) | `こい` | Любовь, влечение |
+|  [考](https://jisho.org/search/%E8%80%83%20%23kanji)え[方](https://jisho.org/search/%E6%96%B9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 考え方) | `かんがえかた` | Образ мышления |
 #### Adjectives (い) (50)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
