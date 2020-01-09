@@ -346,7 +346,6 @@ module.exports = [
             { kana: 'りゆう', translation: 'Причина', kanji: '理由' },
             { kana: 'かんきょう', translation: 'Среда, окружающая обстановка', kanji: '環境' },
             { kana: 'きんじょ', translation: 'Окрестности', kanji: '近所' },
-            { kana: 'めいわく', translation: 'Неприятность', kanji: '迷惑' },
             { kana: 'てつだい', translation: 'Помощь', kanji: ' 手伝い' },
             { kana: 'めんせつ', translation: 'Собеседование, интервью', kanji: '面接' },
             { kana: 'こい', translation: 'Любовь, влечение', kanji: '恋' },
@@ -444,7 +443,8 @@ module.exports = [
             { kana: 'にがて (な)', translation: 'Слабая сторона (небуквально)', kanji: '苦手 (な)' },
             { kana: 'あいまい (な)', translation: 'Неопределенный, неоднозначный', kanji: '曖昧 (な)' },
             { kana: 'まえむき (な)', translation: 'Позитивный', kanji: '前向き (な)' },
-            { kana: 'らく (な)', translation: 'Лёгкий', kanji: '楽 (な)' }
+            { kana: 'らく (な)', translation: 'Лёгкий', kanji: '楽 (な)' },
+            { kana: 'めいわく (な)', translation: 'Проблемный, досадный', kanji: '迷惑 (な)' },
         ]
     },
     {

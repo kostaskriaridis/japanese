@@ -147,7 +147,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (193)
+#### Nouns (192)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -338,7 +338,6 @@
 | [理](https://jisho.org/search/%E7%90%86%20%23kanji)[由](https://jisho.org/search/%E7%94%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=理由) | `りゆう` | Причина |
 | [環](https://jisho.org/search/%E7%92%B0%20%23kanji)[境](https://jisho.org/search/%E5%A2%83%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=環境) | `かんきょう` | Среда, окружающая обстановка |
 | [近](https://jisho.org/search/%E8%BF%91%20%23kanji)[所](https://jisho.org/search/%E6%89%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=近所) | `きんじょ` | Окрестности |
-| [迷](https://jisho.org/search/%E8%BF%B7%20%23kanji)[惑](https://jisho.org/search/%E6%83%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=迷惑) | `めいわく` | Неприятность |
 |  [手](https://jisho.org/search/%E6%89%8B%20%23kanji)[伝](https://jisho.org/search/%E4%BC%9D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 手伝い) | `てつだい` | Помощь |
 | [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[接](https://jisho.org/search/%E6%8E%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=面接) | `めんせつ` | Собеседование, интервью |
 | [恋](https://jisho.org/search/%E6%81%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=恋) | `こい` | Любовь, влечение |
@@ -396,7 +395,7 @@
 | [厳](https://jisho.org/search/%E5%8E%B3%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=厳しい) | `きびしい` | Строгий, тяжёлый |
 | — | `だまされやすい` | Легковерный, наивный |
 | [照](https://jisho.org/search/%E7%85%A7%20%23kanji)れ[臭](https://jisho.org/search/%E8%87%AD%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=照れ臭い) | `てれくさい` | Неловкий |
-#### Adjectives (な) (34)
+#### Adjectives (な) (35)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=綺麗 (な)) | `きれい (な)` | Красивый |
@@ -433,6 +432,7 @@
 | [曖](https://jisho.org/search/%E6%9B%96%20%23kanji)[昧](https://jisho.org/search/%E6%98%A7%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=曖昧 (な)) | `あいまい (な)` | Неопределенный, неоднозначный |
 | [前](https://jisho.org/search/%E5%89%8D%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)き (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=前向き (な)) | `まえむき (な)` | Позитивный |
 | [楽](https://jisho.org/search/%E6%A5%BD%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=楽 (な)) | `らく (な)` | Лёгкий |
+| [迷](https://jisho.org/search/%E8%BF%B7%20%23kanji)[惑](https://jisho.org/search/%E6%83%91%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=迷惑 (な)) | `めいわく (な)` | Проблемный, досадный |
 #### Adverbs (60)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
