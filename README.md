@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 737
-#### Verbs (121)
+# Table of japanese words to learn: 742
+#### Verbs (124)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -123,6 +123,9 @@
 | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)びます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=運びます) | `はこびます` | Отнести, отвезти |
 | お[断](https://jisho.org/search/%E6%96%AD%20%23kanji)りします [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お断りします) | `おとわりします` | Отказываться |
 | — | `ナンパします` | Познакомиться на улице, запасть на девушку |
+| [連](https://jisho.org/search/%E9%80%A3%20%23kanji)れます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=連れます) | `つれます` | Взять с собой, привести (человека, животное) |
+| [向](https://jisho.org/search/%E5%90%91%20%23kanji)かいます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=向かいます) | `むかいます` | Направиться к, идти навстречу |
+| [散](https://jisho.org/search/%E6%95%A3%20%23kanji)[歩](https://jisho.org/search/%E6%AD%A9%20%23kanji)する [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=散歩する) | `さんぽする` | Погулять пешком |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -147,7 +150,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (192)
+#### Nouns (193)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -342,6 +345,7 @@
 | [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[接](https://jisho.org/search/%E6%8E%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=面接) | `めんせつ` | Собеседование, интервью |
 | [恋](https://jisho.org/search/%E6%81%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=恋) | `こい` | Любовь, влечение |
 |  [考](https://jisho.org/search/%E8%80%83%20%23kanji)え[方](https://jisho.org/search/%E6%96%B9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 考え方) | `かんがえかた` | Образ мышления |
+|  [格](https://jisho.org/search/%E6%A0%BC%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 格好) | `かっこう` | Внешность |
 #### Adjectives (い) (50)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -451,7 +455,7 @@
 | — | `だって` | Потому что |
 | — | `たとえば` | Например |
 | [沢](https://jisho.org/search/%E6%B2%A2%20%23kanji)[山](https://jisho.org/search/%E5%B1%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=沢山) | `たくさん` | Много |
-| — | `ちょう` | Супер |
+| [超](https://jisho.org/search/%E8%B6%85%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=超) | `ちょう` | Супер |
 | [絶](https://jisho.org/search/%E7%B5%B6%20%23kanji)[対](https://jisho.org/search/%E5%AF%BE%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=絶対に) | `ぜったいに` | Определённо, безоговорочно |
 | — | `きっと` | Определённо |
 | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[笑](https://jisho.org/search/%E7%AC%91%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=可笑しい) | `おかしい` | Странно, забавно |
@@ -790,7 +794,7 @@
 | [罰](https://jisho.org/search/%E7%BD%B0%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=罰金) | `ばっきん` | Штраф |
 | [証](https://jisho.org/search/%E8%A8%BC%20%23kanji)[券](https://jisho.org/search/%E5%88%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=証券) | `しょうけん` | Ценные бумаги, биржевой брокер |
 | [宝](https://jisho.org/search/%E5%AE%9D%20%23kanji)[物](https://jisho.org/search/%E7%89%A9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=宝物) | `たからもの` | Драгоценная вещь |
-#### Food (24)
+#### Food (25)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `もちかえり` | Взять с собой |
@@ -817,6 +821,7 @@
 | [茄](https://jisho.org/search/%E8%8C%84%20%23kanji)[子](https://jisho.org/search/%E5%AD%90%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=茄子) | `なす` | Баклажан |
 | — | `にんにく` | Чеснок |
 | — | `みかん` | Мандарин |
+| たこ[焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=たこ焼き) | `たこやき` | Такояки |
 ___
 ###### まさに、この場所で旦那に初めて会いました
 Точно, на этом месте я впервые встретила своего мужа.

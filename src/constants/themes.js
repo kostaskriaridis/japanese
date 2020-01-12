@@ -122,7 +122,10 @@ module.exports = [
             { kana: 'のばします', translation: 'Протянуть, растянуть', kanji: '伸ばします' },
             { kana: 'はこびます', translation: 'Отнести, отвезти', kanji: '運びます' },
             { kana: 'おとわりします', translation: 'Отказываться', kanji: 'お断りします' },
-            { kana: 'ナンパします', translation: 'Познакомиться на улице, запасть на девушку' }
+            { kana: 'ナンパします', translation: 'Познакомиться на улице, запасть на девушку' },
+            { kana: 'つれます', translation: 'Взять с собой, привести (человека, животное)', kanji: '連れます' },
+            { kana: 'むかいます', translation: 'Направиться к, идти навстречу', kanji: '向かいます' },
+            { kana: 'さんぽする', translation: 'Погулять пешком', kanji: '散歩する' }
         ]
     },
     {
@@ -349,7 +352,8 @@ module.exports = [
             { kana: 'てつだい', translation: 'Помощь', kanji: ' 手伝い' },
             { kana: 'めんせつ', translation: 'Собеседование, интервью', kanji: '面接' },
             { kana: 'こい', translation: 'Любовь, влечение', kanji: '恋' },
-            { kana: 'かんがえかた', translation: 'Образ мышления', kanji: ' 考え方' }
+            { kana: 'かんがえかた', translation: 'Образ мышления', kanji: ' 考え方' },
+            { kana: 'かっこう', translation: 'Внешность', kanji: ' 格好' }
         ]
     },
     {
@@ -465,7 +469,7 @@ module.exports = [
             { kana: 'だって', translation: 'Потому что' },
             { kana: 'たとえば', translation: 'Например' },
             { kana: 'たくさん', translation: 'Много', kanji: '沢山' },
-            { kana: 'ちょう', translation: 'Супер' },
+            { kana: 'ちょう', translation: 'Супер', kanji: '超' },
             { kana: 'ぜったいに', translation: 'Определённо, безоговорочно', kanji: '絶対に' },
             { kana: 'きっと', translation: 'Определённо' },
             { kana: 'おかしい', translation: 'Странно, забавно', kanji: '可笑しい' },
@@ -896,7 +900,8 @@ module.exports = [
             { kana: 'ピーマン', translation: 'Зелёный перец' },
             { kana: 'なす', translation: 'Баклажан', kanji: '茄子' },
             { kana: 'にんにく', translation: 'Чеснок' },
-            { kana: 'みかん', translation: 'Мандарин' }
+            { kana: 'みかん', translation: 'Мандарин' },
+            { kana: 'たこやき', translation: 'Такояки', kanji: 'たこ焼き' }
         ]
     },
     /*
