@@ -125,7 +125,9 @@ module.exports = [
             { kana: 'ナンパします', translation: 'Познакомиться на улице, запасть на девушку' },
             { kana: 'つれます', translation: 'Взять с собой, привести (человека, животное)', kanji: '連れます' },
             { kana: 'むかいます', translation: 'Направиться к, идти навстречу', kanji: '向かいます' },
-            { kana: 'さんぽする', translation: 'Погулять пешком', kanji: '散歩する' }
+            { kana: 'さんぽする', translation: 'Погулять пешком', kanji: '散歩する' },
+            { kana: 'がんばります', translation: 'Стараться, вкладываться', kanji: '頑張ります' },
+            { kana: 'うけます', translation: 'Пройти успешно', kanji: '受けます' }
         ]
     },
     {
@@ -353,7 +355,8 @@ module.exports = [
             { kana: 'めんせつ', translation: 'Собеседование, интервью', kanji: '面接' },
             { kana: 'こい', translation: 'Любовь, влечение', kanji: '恋' },
             { kana: 'かんがえかた', translation: 'Образ мышления', kanji: ' 考え方' },
-            { kana: 'かっこう', translation: 'Внешность', kanji: ' 格好' }
+            { kana: 'かっこう', translation: 'Внешность', kanji: ' 格好' },
+            { kana: 'おたがい', translation: 'Взаимный, обоюдный, друг с другом', kanji: 'お互い' }
         ]
     },
     {

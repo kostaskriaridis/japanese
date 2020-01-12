@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 742
-#### Verbs (124)
+# Table of japanese words to learn: 745
+#### Verbs (126)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -126,6 +126,8 @@
 | [連](https://jisho.org/search/%E9%80%A3%20%23kanji)れます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=連れます) | `つれます` | Взять с собой, привести (человека, животное) |
 | [向](https://jisho.org/search/%E5%90%91%20%23kanji)かいます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=向かいます) | `むかいます` | Направиться к, идти навстречу |
 | [散](https://jisho.org/search/%E6%95%A3%20%23kanji)[歩](https://jisho.org/search/%E6%AD%A9%20%23kanji)する [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=散歩する) | `さんぽする` | Погулять пешком |
+| [頑](https://jisho.org/search/%E9%A0%91%20%23kanji)[張](https://jisho.org/search/%E5%BC%B5%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=頑張ります) | `がんばります` | Стараться, вкладываться |
+| [受](https://jisho.org/search/%E5%8F%97%20%23kanji)けます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=受けます) | `うけます` | Пройти успешно |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -150,7 +152,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (193)
+#### Nouns (194)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -346,6 +348,7 @@
 | [恋](https://jisho.org/search/%E6%81%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=恋) | `こい` | Любовь, влечение |
 |  [考](https://jisho.org/search/%E8%80%83%20%23kanji)え[方](https://jisho.org/search/%E6%96%B9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 考え方) | `かんがえかた` | Образ мышления |
 |  [格](https://jisho.org/search/%E6%A0%BC%20%23kanji)[好](https://jisho.org/search/%E5%A5%BD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term= 格好) | `かっこう` | Внешность |
+| お[互](https://jisho.org/search/%E4%BA%92%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お互い) | `おたがい` | Взаимный, обоюдный, друг с другом |
 #### Adjectives (い) (50)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
