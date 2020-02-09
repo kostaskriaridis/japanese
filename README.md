@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 758
+# Table of japanese words to learn: 750
 #### Verbs (130)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -156,7 +156,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (212)
+#### Nouns (207)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -172,7 +172,6 @@
 | — | `たいざいもくてき` | Цель пребывания |
 | [観](https://jisho.org/search/%E8%A6%B3%20%23kanji)[光](https://jisho.org/search/%E5%85%89%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=観光) | `かんこう` | Осмотр достопримечательностей |
 | [予](https://jisho.org/search/%E4%BA%88%20%23kanji)[定](https://jisho.org/search/%E5%AE%9A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=予定) | `よてい` | План |
-| [家](https://jisho.org/search/%E5%AE%B6%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=家) | `うち` | Дом, моя семья, моя |
 | [嘘](https://jisho.org/search/%E5%98%98%20%23kanji)つき [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=嘘つき) | `うそつき` | Лжец |
 | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料理) | `りょうり` | Еда |
 | [枕](https://jisho.org/search/%E6%9E%95%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=枕) | `まくら` | Подушка |
@@ -197,7 +196,6 @@
 | [傷](https://jisho.org/search/%E5%82%B7%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=傷) | `きず` | Царапина |
 | [用](https://jisho.org/search/%E7%94%A8%20%23kanji)[事](https://jisho.org/search/%E4%BA%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=用事) | `ようじ` | Задачи |
 | [雑](https://jisho.org/search/%E9%9B%91%20%23kanji)[誌](https://jisho.org/search/%E8%AA%8C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=雑誌) | `ざっし` | Журнал |
-| お[店](https://jisho.org/search/%E5%BA%97%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お店) | `おみせ` | Магазин |
 | [注](https://jisho.org/search/%E6%B3%A8%20%23kanji)[文](https://jisho.org/search/%E6%96%87%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=注文) | `ちゅうもん` | Заказ |
 | [出](https://jisho.org/search/%E5%87%BA%20%23kanji)[発](https://jisho.org/search/%E7%99%BA%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=出発) | `しゅっぱつ` | Выезд |
 | [到](https://jisho.org/search/%E5%88%B0%20%23kanji)[着](https://jisho.org/search/%E7%9D%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=到着) | `とうちゃく` | Приезд |
@@ -230,9 +228,7 @@
 | [棚](https://jisho.org/search/%E6%A3%9A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=棚) | `たな` | Полка |
 | [試](https://jisho.org/search/%E8%A9%A6%20%23kanji)[合](https://jisho.org/search/%E5%90%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=試合) | `しあい` | Матч, игра |
 | [質](https://jisho.org/search/%E8%B3%AA%20%23kanji)[問](https://jisho.org/search/%E5%95%8F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=質問) | `しつもん` | Вопросы |
-| [赤](https://jisho.org/search/%E8%B5%A4%20%23kanji)ちゃん [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=赤ちゃん) | `あかちゃん` | Грудничковый ребёнок |
 | お[祝](https://jisho.org/search/%E7%A5%9D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お祝い) | `おいわい` | Поздравление |
-| [未](https://jisho.org/search/%E6%9C%AA%20%23kanji)[来](https://jisho.org/search/%E6%9D%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=未来) | `みらい` | Будущее |
 | [将](https://jisho.org/search/%E5%B0%86%20%23kanji)[来](https://jisho.org/search/%E6%9D%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=将来) | `しょうらい` | Будущее |
 | [冗](https://jisho.org/search/%E5%86%97%20%23kanji)[談](https://jisho.org/search/%E8%AB%87%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=冗談) | `じょうだん` | Шутка |
 | [半](https://jisho.org/search/%E5%8D%8A%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=半分) | `はんぶん` | Половина |
@@ -310,7 +306,6 @@
 | [既](https://jisho.org/search/%E6%97%A2%20%23kanji)[婚](https://jisho.org/search/%E5%A9%9A%20%23kanji)[者](https://jisho.org/search/%E8%80%85%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=既婚者) | `きこんしゃ` | Женат |
 | [中](https://jisho.org/search/%E4%B8%AD%20%23kanji)[止](https://jisho.org/search/%E6%AD%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=中止) | `ちゅうし` | Отменено (что-то запланированное) |
 | [稲](https://jisho.org/search/%E7%A8%B2%20%23kanji)[妻](https://jisho.org/search/%E5%A6%BB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=稲妻) | `いなずま` | Молния |
-| [雷](https://jisho.org/search/%E9%9B%B7%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=雷) | `かみなり` | Гром |
 | [職](https://jisho.org/search/%E8%81%B7%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=職業) | `しょくぎょう` | Профессия, занятость |
 | [値](https://jisho.org/search/%E5%80%A4%20%23kanji)[札](https://jisho.org/search/%E6%9C%AD%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=値札) | `ねふだ` | Ценник |
 | [便](https://jisho.org/search/%E4%BE%BF%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=便) | `びん` | Рейс, полёт |
@@ -371,7 +366,7 @@
 | [立](https://jisho.org/search/%E7%AB%8B%20%23kanji)[入](https://jisho.org/search/%E5%85%A5%20%23kanji)[禁](https://jisho.org/search/%E7%A6%81%20%23kanji)[止](https://jisho.org/search/%E6%AD%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=立入禁止) | `たちいりきんし` | Вход запрещён! |
 | [身](https://jisho.org/search/%E8%BA%AB%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji)[証](https://jisho.org/search/%E8%A8%BC%20%23kanji)[明](https://jisho.org/search/%E6%98%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=身分証明書) | `みぶんしょうめいしょ` | Удостоверение личности |
 | [卒](https://jisho.org/search/%E5%8D%92%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji)[証](https://jisho.org/search/%E8%A8%BC%20%23kanji)[明](https://jisho.org/search/%E6%98%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=卒業証明書) | `そつぎょうしょうめいしょ` | Выпускной сертификат, диплом |
-#### Adjectives (い) (50)
+#### Adjectives (い) (48)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [長](https://jisho.org/search/%E9%95%B7%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=長い) | `ながい` | Длинный |
@@ -380,7 +375,6 @@
 | [甘](https://jisho.org/search/%E7%94%98%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=甘い) | `あまい` | Сладкий |
 | [若](https://jisho.org/search/%E8%8B%A5%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=若い) | `わかい` | Молодой |
 | [詰](https://jisho.org/search/%E8%A9%B0%20%23kanji)らない [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=詰らない) | `つまらない` | Скучный |
-| [重](https://jisho.org/search/%E9%87%8D%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=重い) | `おもい` | Тяжёлый |
 | [普](https://jisho.org/search/%E6%99%AE%20%23kanji)[通](https://jisho.org/search/%E9%80%9A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=普通) | `ふつう` | Обычный |
 | [真](https://jisho.org/search/%E7%9C%9F%20%23kanji)っ[直](https://jisho.org/search/%E7%9B%B4%20%23kanji)ぐ [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=真っ直ぐ) | `まっすぐ` | Прямой |
 | [涼](https://jisho.org/search/%E6%B6%BC%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=涼しい) | `すずしい` | Прохладый (о погоде) |
@@ -388,7 +382,6 @@
 | [美](https://jisho.org/search/%E7%BE%8E%20%23kanji)[味](https://jisho.org/search/%E5%91%B3%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=美味しい) | `おいしい` | Вкусный |
 | [冷](https://jisho.org/search/%E5%86%B7%20%23kanji)たい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=冷たい) | `つめたい` | Холодный (на ощупь) |
 | [忙](https://jisho.org/search/%E5%BF%99%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=忙しい) | `いそがしい` | Занят |
-| [遠](https://jisho.org/search/%E9%81%A0%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=遠い) | `とおい` | Далёкий |
 | [痛](https://jisho.org/search/%E7%97%9B%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=痛い) | `いたい` | Больно |
 | [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[白](https://jisho.org/search/%E7%99%BD%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=面白い) | `おもしろい` | Интересный, забавный |
 | [正](https://jisho.org/search/%E6%AD%A3%20%23kanji)しい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=正しい) | `ただしい` | Правильный |
@@ -462,7 +455,7 @@
 | [前](https://jisho.org/search/%E5%89%8D%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)き (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=前向き (な)) | `まえむき (な)` | Позитивный |
 | [楽](https://jisho.org/search/%E6%A5%BD%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=楽 (な)) | `らく (な)` | Лёгкий |
 | [迷](https://jisho.org/search/%E8%BF%B7%20%23kanji)[惑](https://jisho.org/search/%E6%83%91%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=迷惑 (な)) | `めいわく (な)` | Проблемный, досадный |
-#### Adverbs (61)
+#### Adverbs (59)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `なんて` | Как (что-то) |
@@ -488,7 +481,6 @@
 | — | `すぐ` | Немедленно |
 | — | `まず` | Прежде всего |
 | [実](https://jisho.org/search/%E5%AE%9F%20%23kanji)は [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=実は) | `じつは` | На самом деле |
-| ⼀[緒](https://jisho.org/search/%E7%B7%92%20%23kanji)に [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=⼀緒に) | `いっしょに` | Вместе |
 | [別](https://jisho.org/search/%E5%88%A5%20%23kanji)々 [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=別々) | `べつべつ` | Раздельно |
 | [昔](https://jisho.org/search/%E6%98%94%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=昔) | `むかし` | Давно |
 | [代](https://jisho.org/search/%E4%BB%A3%20%23kanji)わりに [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=代わりに) | `かわりに` | Вместо |
@@ -498,7 +490,6 @@
 | [相](https://jisho.org/search/%E7%9B%B8%20%23kanji)[変](https://jisho.org/search/%E5%A4%89%20%23kanji)わらず [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=相変わらず) | `あいかわらず` | Как обычно |
 | [可](https://jisho.org/search/%E5%8F%AF%20%23kanji)[也](https://jisho.org/search/%E4%B9%9F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=可也) | `かなり` | Значительно |
 | — | `なかなか` | Вполне, очень (превысит ваши ожидания) |
-| の[方](https://jisho.org/search/%E6%96%B9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=の方) | `のほう` | В этом направлении (небуквально) |
 | — | `ずっと` | Всё время |
 | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)く [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=全く) | `まったく` | Невозможно поверить! |
 | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)くもう [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=全くもう) | `まったくもう` | Черт возьми! О, Господи! (выражение раздражения) |
@@ -548,12 +539,10 @@
 | — | `どこの` | Откуда? |
 | — | `どうして` | Почему? Как? |
 | — | `どのくらい` | Как долго? Сколько? |
-#### Locations (21)
+#### Locations (18)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
-| [外](https://jisho.org/search/%E5%A4%96%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=外) | `そと` | Снаружи |
 | [隣](https://jisho.org/search/%E9%9A%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=隣) | `となり` | Соседний |
-| [近](https://jisho.org/search/%E8%BF%91%20%23kanji)く [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=近く) | `ちかく` | Поблизости |
 | [横](https://jisho.org/search/%E6%A8%AA%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=横) | `よこ` | Сторона |
 | [南](https://jisho.org/search/%E5%8D%97%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=南) | `みなみ` | Юг |
 | [西](https://jisho.org/search/%E8%A5%BF%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=西) | `にし` | Запад |
@@ -570,7 +559,6 @@
 | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji)[店](https://jisho.org/search/%E5%BA%97%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料理店) | `りょうりてん` | Ресторан |
 | [劇](https://jisho.org/search/%E5%8A%87%20%23kanji)[場](https://jisho.org/search/%E5%A0%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=劇場) | `げきじょう` | Театр |
 | [建](https://jisho.org/search/%E5%BB%BA%20%23kanji)[物](https://jisho.org/search/%E7%89%A9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=建物) | `たてもの` | Конструкция, строение |
-| お[手](https://jisho.org/search/%E6%89%8B%20%23kanji)[洗](https://jisho.org/search/%E6%B4%97%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=お手洗い) | `おてあらい` | Туалет, уборная |
 | [上](https://jisho.org/search/%E4%B8%8A%20%23kanji)[野](https://jisho.org/search/%E9%87%8E%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=上野) | `うえの` | Уэно |
 #### Technical (7)
 | Kanji | Kana | Translation |
@@ -636,14 +624,18 @@
 | — | `いよいよ` | Наконец-то, всё больше и больше |
 | [以](https://jisho.org/search/%E4%BB%A5%20%23kanji)[来](https://jisho.org/search/%E6%9D%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=以来) | `いらい` | С тех пор (since) |
 | [正](https://jisho.org/search/%E6%AD%A3%20%23kanji)[月](https://jisho.org/search/%E6%9C%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=正月) | `しょうがつ` | Новый Год |
-#### Dates (5)
+#### Dates (9)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [誕](https://jisho.org/search/%E8%AA%95%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=誕生日) | `たんじょうび` | День рождения |
 | [明](https://jisho.org/search/%E6%98%8E%20%23kanji)けまして [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=明けまして) | `あけまして` | С новым годом |
 | [何](https://jisho.org/search/%E4%BD%95%20%23kanji)[時](https://jisho.org/search/%E6%99%82%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=何時) | `いつ` | Когда, время |
+| [去](https://jisho.org/search/%E5%8E%BB%20%23kanji)[年](https://jisho.org/search/%E5%B9%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=去年) | `きょねん` | В прошлом году |
 | [平](https://jisho.org/search/%E5%B9%B3%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=平日) | `へいじつ` | Будние дни |
 | [週](https://jisho.org/search/%E9%80%B1%20%23kanji)[末](https://jisho.org/search/%E6%9C%AB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=週末) | `しゅうまつ` | Выходные дни |
+| [十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=十日) | `とおか` | 10 число |
+| [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十日) | `はつか` | 20 число |
+| [三](https://jisho.org/search/%E4%B8%89%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=三十日) | `みそか` | 30 число |
 #### Counters. Floors (13)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

@@ -180,7 +180,6 @@ module.exports = [
             { kana: 'たいざいもくてき', translation: 'Цель пребывания' },
             { kana: 'かんこう', translation: 'Осмотр достопримечательностей', kanji: '観光' },
             { kana: 'よてい', translation: 'План', kanji: '予定' },
-            { kana: 'うち', translation: 'Дом, моя семья, моя', kanji: '家' },
             { kana: 'うそつき', translation: 'Лжец', kanji: '嘘つき' },
             { kana: 'りょうり', translation: 'Еда', kanji: '料理' },
             { kana: 'まくら', translation: 'Подушка', kanji: '枕' },
@@ -205,7 +204,6 @@ module.exports = [
             { kana: 'きず', translation: 'Царапина', kanji: '傷' },
             { kana: 'ようじ', translation: 'Задачи', kanji: '用事' },
             { kana: 'ざっし', translation: 'Журнал', kanji: '雑誌' },
-            { kana: 'おみせ', translation: 'Магазин', kanji: 'お店' },
             { kana: 'ちゅうもん', translation: 'Заказ', kanji: '注文' },
             { kana: 'しゅっぱつ', translation: 'Выезд', kanji: '出発' },
             { kana: 'とうちゃく', translation: 'Приезд', kanji: '到着' },
@@ -238,9 +236,7 @@ module.exports = [
             { kana: 'たな', translation: 'Полка', kanji: '棚' },
             { kana: 'しあい', translation: 'Матч, игра', kanji: '試合' },
             { kana: 'しつもん', translation: 'Вопросы', kanji: '質問' },
-            { kana: 'あかちゃん', translation: 'Грудничковый ребёнок', kanji: '赤ちゃん' },
             { kana: 'おいわい', translation: 'Поздравление', kanji: 'お祝い' },
-            { kana: 'みらい', translation: 'Будущее', kanji: '未来' },
             { kana: 'しょうらい', translation: 'Будущее', kanji: '将来' },
             { kana: 'じょうだん', translation: 'Шутка', kanji: '冗談' },
             { kana: 'はんぶん', translation: 'Половина', kanji: '半分' },
@@ -318,7 +314,6 @@ module.exports = [
             { kana: 'きこんしゃ', translation: 'Женат', kanji: '既婚者' },
             { kana: 'ちゅうし', translation: 'Отменено (что-то запланированное)', kanji: '中止' },
             { kana: 'いなずま', translation: 'Молния', kanji: '稲妻' },
-            { kana: 'かみなり', translation: 'Гром', kanji: '雷' },
             { kana: 'しょくぎょう', translation: 'Профессия, занятость', kanji: '職業' },
             { kana: 'ねふだ', translation: 'Ценник', kanji: '値札' },
             { kana: 'びん', translation: 'Рейс, полёт', kanji: '便' },
@@ -390,7 +385,6 @@ module.exports = [
             { kana: 'あまい', translation: 'Сладкий', kanji: '甘い' },
             { kana: 'わかい', translation: 'Молодой', kanji: '若い' },
             { kana: 'つまらない', translation: 'Скучный', kanji: '詰らない' },
-            { kana: 'おもい', translation: 'Тяжёлый', kanji: '重い' },
             { kana: 'ふつう', translation: 'Обычный', kanji: '普通' },
             { kana: 'まっすぐ', translation: 'Прямой', kanji: '真っ直ぐ' },
             { kana: 'すずしい', translation: 'Прохладый (о погоде)', kanji: '涼しい' },
@@ -398,7 +392,6 @@ module.exports = [
             { kana: 'おいしい', translation: 'Вкусный', kanji: '美味しい' },
             { kana: 'つめたい', translation: 'Холодный (на ощупь)', kanji: '冷たい' },
             { kana: 'いそがしい', translation: 'Занят', kanji: '忙しい' },
-            { kana: 'とおい', translation: 'Далёкий', kanji: '遠い' },
             { kana: 'いたい', translation: 'Больно', kanji: '痛い' },
             { kana: 'おもしろい', translation: 'Интересный, забавный', kanji: '面白い' },
             { kana: 'ただしい', translation: 'Правильный', kanji: '正しい' },
@@ -502,7 +495,6 @@ module.exports = [
             { kana: 'すぐ', translation: 'Немедленно' },
             { kana: 'まず', translation: 'Прежде всего' },
             { kana: 'じつは', translation: 'На самом деле', kanji: '実は' },
-            { kana: 'いっしょに', translation: 'Вместе', kanji: '⼀緒に' },
             { kana: 'べつべつ', translation: 'Раздельно', kanji: '別々' },
             { kana: 'むかし', translation: 'Давно', kanji: '昔' },
             { kana: 'かわりに', translation: 'Вместо', kanji: '代わりに' },
@@ -512,7 +504,6 @@ module.exports = [
             { kana: 'あいかわらず', translation: 'Как обычно', kanji: '相変わらず' },
             { kana: 'かなり', translation: 'Значительно', kanji: '可也' },
             { kana: 'なかなか', translation: 'Вполне, очень (превысит ваши ожидания)' },
-            { kana: 'のほう', translation: 'В этом направлении (небуквально)', kanji: 'の方' },
             { kana: 'ずっと', translation: 'Всё время' },
             { kana: 'まったく', translation: 'Невозможно поверить!', kanji: '全く' },
             { kana: 'まったくもう', translation: 'Черт возьми! О, Господи! (выражение раздражения)', kanji: '全くもう' },
@@ -571,9 +562,7 @@ module.exports = [
     {
         title: 'Locations',
         words: [
-            { kana: 'そと', translation: 'Снаружи', kanji: '外' },
             { kana: 'となり', translation: 'Соседний', kanji: '隣' },
-            { kana: 'ちかく', translation: 'Поблизости', kanji: '近く' },
             { kana: 'よこ', translation: 'Сторона', kanji: '横' },
             { kana: 'みなみ', translation: 'Юг', kanji: '南' },
             { kana: 'にし', translation: 'Запад', kanji: '西' },
@@ -590,7 +579,6 @@ module.exports = [
             { kana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' },
             { kana: 'げきじょう', translation: 'Театр', kanji: '劇場' },
             { kana: 'たてもの', translation: 'Конструкция, строение', kanji: '建物' },
-            { kana: 'おてあらい', translation: 'Туалет, уборная', kanji: 'お手洗い' },
             { kana: 'うえの', translation: 'Уэно', kanji: '上野' }
         ]
     },
@@ -664,24 +652,6 @@ module.exports = [
             { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' }
         ]
     },
-    /*
-    {
-        title: 'Minutes',
-        words: [
-            { kana: 'いっぷん', translation: '1 минута', kanji: '一分' },
-            { kana: 'にふん', translation: '2 минуты', kanji: '二分' },
-            { kana: 'さんぷん', translation: '3 минуты', kanji: '三分' },
-            { kana: 'よんぷん', translation: '4 минуты', kanji: '四分' },
-            { kana: 'ごふん', translation: '5 минут', kanji: '五分' },
-            { kana: 'ろっぷん', translation: '6 минут', kanji: '六分' },
-            { kana: 'ななふん', translation: '7 минут', kanji: '七分' },
-            { kana: 'はちふん', translation: '8 минут', kanji: '八分' },
-            { kana: 'きゅうふん', translation: '9 минут', kanji: '九分' },
-            { kana: 'じゅっぷん', translation: '10 минут', kanji: '十分' },
-            { kana: 'なんぷん', translation: 'Сколько минут?', kanji: '何分' }
-        ]
-    },
-    */
     {
         title: 'Dates',
         words: [
@@ -690,52 +660,16 @@ module.exports = [
 
             { kana: 'いつ', translation: 'Когда, время', kanji: '何時' },
 
-            /*
-            { kana: 'きのう', translation: 'Вчера', kanji: '昨日' },
-            { kana: 'あさって', translation: 'Послезавтра', kanji: '明後日' },
-
             { kana: 'きょねん', translation: 'В прошлом году', kanji: '去年' },
-            { kana: 'ことし', translation: 'В этом году', kanji: '今年' },
-            { kana: 'らいねん', translation: 'В следующем году', kanji: '来年' },
-            */
 
             { kana: 'へいじつ', translation: 'Будние дни', kanji: '平日' },
             { kana: 'しゅうまつ', translation: 'Выходные дни', kanji: '週末' },
 
-            /*
-            { kana: 'ついたち', translation: '1 число', kanji: '一日' },
-            { kana: 'ふつか', translation: '2 число', kanji: '二日' },
-            { kana: 'みっか', translation: '3 число', kanji: '三日' },
-            { kana: 'よっか', translation: '4 число', kanji: '四日' },
-            { kana: 'いつか', translation: '5 число', kanji: '五日' },
-            { kana: 'むいか', translation: '6 число', kanji: '六日' },
-            { kana: 'なのか', translation: '7 число', kanji: '七日' },
-            { kana: 'ようか', translation: '8 число', kanji: '八日' },
-            { kana: 'ここのか', translation: '9 число', kanji: '九日' },
             { kana: 'とおか', translation: '10 число', kanji: '十日' },
             { kana: 'はつか', translation: '20 число', kanji: '二十日' },
             { kana: 'みそか', translation: '30 число', kanji: '三十日' }
-            */
         ]
     },
-    /*
-    {
-        title: 'Counters. General',
-        words: [
-            { kana: 'ひとつ', translation: 'Один', kanji: '一つ' },
-            { kana: 'ふたつ', translation: 'Два', kanji: '二つ' },
-            { kana: 'みっつ', translation: 'Три', kanji: '三つ' },
-            { kana: 'よっつ', translation: 'Четыре', kanji: '四つ' },
-            { kana: 'いつつ', translation: 'Пять', kanji: '五つ' },
-            { kana: 'むっつ', translation: 'Шесть', kanji: '六つ' },
-            { kana: 'ななつ', translation: 'Семь', kanji: '七つ' },
-            { kana: 'やっつ', translation: 'Восемь', kanji: '八つ' },
-            { kana: 'ここのつ', translation: 'Девять', kanji: '九つ' },
-            { kana: 'とお', translation: 'Десять', kanji: '十つ' },
-            { kana: 'いくつ', translation: 'Сколько?', kanji: '幾つ' }
-        ]
-    },
-    */
     {
         title: 'Counters. Floors',
         words: [
