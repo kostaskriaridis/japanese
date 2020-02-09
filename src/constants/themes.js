@@ -12,7 +12,7 @@ module.exports = [
             { kana: 'よみます', translation: 'Читать', kanji: '読みます' },
             { kana: 'かきます', translation: 'Писать', kanji: '掻きます' },
             { kana: 'つけます', translation: 'Включить', kanji: '就けます' },
-            { kana: 'けします', translation: 'Выключать', kanji: '消します' },
+            { kana: 'けします', translation: 'Выключать, стирать', kanji: '消します' },
             { kana: 'まがります', translation: 'Поворачивать', kanji: '曲がります' },
             { kana: 'もらいます', translation: 'Принимать', kanji: '貰います' },
             { kana: 'おくります', translation: 'Отправлять', kanji: '送ります' },
@@ -130,7 +130,8 @@ module.exports = [
             { kana: 'さんぽする', translation: 'Погулять пешком', kanji: '散歩する' },
             { kana: 'がんばります', translation: 'Стараться, вкладываться', kanji: '頑張ります' },
             { kana: 'うけます', translation: 'Пройти успешно', kanji: '受けます' },
-            { kana: 'かります', translation: 'Одолжить, арендовать', kanji: '借ります' }
+            { kana: 'かります', translation: 'Одолжить, арендовать', kanji: '借ります' },
+            { kana: 'せつぞくします', translation: 'Подключить, присоединить', kanji: '接続します' }
         ]
     },
     {
@@ -370,7 +371,14 @@ module.exports = [
             { kana: 'かみコップ', translation: 'Бумажный стаканчик', kanji: '紙コップ' },
             { kana: 'かみふうせん', translation: 'Бумажный шарик', kanji: '紙風船' },
             { kana: 'ぶぶん', translation: 'Часть, раздел', kanji: '部分' },
-            { kana: 'まど', translation: 'Окно', kanji: '窓' }
+            { kana: 'まど', translation: 'Окно', kanji: '窓' },
+            { kana: 'かんけい', translation: 'Отношения', kanji: '関係' },
+            { kana: 'ひじょうぐち', translation: 'Эвакуационный выход', kanji: '非常口' },
+            { kana: 'きんし', translation: 'Запрет', kanji: '禁止' },
+            { kana: 'さつえいきんし', translation: 'Запрет фотографий', kanji: '撮影禁止' },
+            { kana: 'たちいりきんし', translation: 'Вход запрещён!', kanji: '立入禁止' },
+            { kana: 'みぶんしょうめいしょ', translation: 'Удостоверение личности', kanji: '身分証明書' },
+            { kana: 'そつぎょうしょうめいしょ', translation: 'Выпускной сертификат, диплом', kanji: '卒業証明書' }
         ]
     },
     {
@@ -530,7 +538,8 @@ module.exports = [
             { kana: 'まさに', translation: 'Конечно, точно' },
             { kana: 'たしかに', translation: 'Конечно', kanji: '確かに' },
             { kana: 'たしか', translation: ' Если я прав, насколько я помню', kanji: '確か' },
-            { kana: 'ていちょうに', translation: 'Почтительно', kanji: '丁重に' }
+            { kana: 'ていちょうに', translation: 'Почтительно', kanji: '丁重に' },
+            { kana: 'いない', translation: 'В течение, за', kanji: '以内' }
         ]
     },
     {
@@ -590,7 +599,11 @@ module.exports = [
         words: [
             { kana: 'かいしゃ', translation: 'Корпорация', kanji: '会社' },
             { kana: 'けいたいでんわ', translation: 'Мобильный телефон', kanji: '携帯電話' },
-            { kana: 'ばんごう', translation: 'Номер', kanji: '番号' }
+            { kana: 'ばんごう', translation: 'Номер', kanji: '番号' },
+            { kana: 'るすでん', translation: 'Автоответчик, голосовая почта', kanji: '留守電' },
+            { kana: 'せつぞく', translation: 'Соединение (интернет, связь)', kanji: '接続' },
+            { kana: 'あいず', translation: 'Сигнал', kanji: '合図' },
+            { kana: 'でんごん', translation: 'Сообщение (голосовое)', kanji: '伝言' },
         ]
     },
     {
@@ -676,7 +689,6 @@ module.exports = [
             { kana: 'あけまして', translation: 'С новым годом', kanji: '明けまして' },
 
             { kana: 'いつ', translation: 'Когда, время', kanji: '何時' },
-            { kana: 'しゅうかん', translation: 'Неделя', kanji: '週間' },
 
             /*
             { kana: 'きのう', translation: 'Вчера', kanji: '昨日' },
@@ -690,6 +702,7 @@ module.exports = [
             { kana: 'へいじつ', translation: 'Будние дни', kanji: '平日' },
             { kana: 'しゅうまつ', translation: 'Выходные дни', kanji: '週末' },
 
+            /*
             { kana: 'ついたち', translation: '1 число', kanji: '一日' },
             { kana: 'ふつか', translation: '2 число', kanji: '二日' },
             { kana: 'みっか', translation: '3 число', kanji: '三日' },
@@ -702,8 +715,10 @@ module.exports = [
             { kana: 'とおか', translation: '10 число', kanji: '十日' },
             { kana: 'はつか', translation: '20 число', kanji: '二十日' },
             { kana: 'みそか', translation: '30 число', kanji: '三十日' }
+            */
         ]
     },
+    /*
     {
         title: 'Counters. General',
         words: [
@@ -720,6 +735,7 @@ module.exports = [
             { kana: 'いくつ', translation: 'Сколько?', kanji: '幾つ' }
         ]
     },
+    */
     {
         title: 'Counters. Floors',
         words: [
@@ -854,7 +870,10 @@ module.exports = [
         words: [
             { kana: 'すもぐり', translation: 'Дайвинг без оборудования', kanji: '素潜り' },
             { kana: 'みずぎ', translation: 'Водный костюм', kanji: '水着' },
-            { kana: 'ばんぐみ', translation: 'Программа (Радио, телевидение)', kanji: '番組' }
+            { kana: 'ばんぐみ', translation: 'Программа (Радио, телевидение)', kanji: '番組' },
+            { kana: 'さつえい', translation: 'Съёмка', kanji: '撮影' },
+            { kana: 'えいがさつえい', translation: 'Съёмка фильма', kanji: '映画撮影' },
+            { kana: 'しゃしんさつえい', translation: 'Съёмка фотографий', kanji: '写真撮影' }
         ]
     },
     {
