@@ -379,7 +379,8 @@ module.exports = [
             { kana: 'たちいりきんし', translation: 'Вход запрещён!', kanji: '立入禁止' },
             { kana: 'みぶんしょうめいしょ', translation: 'Удостоверение личности', kanji: '身分証明書' },
             { kana: 'そつぎょうしょうめいしょ', translation: 'Выпускной сертификат, диплом', kanji: '卒業証明書' },
-            { kana: 'かくにん', translation: 'Подтверждение', kanji: '確認' }
+            { kana: 'かくにん', translation: 'Подтверждение', kanji: '確認' },
+            { kana: 'ばあい', translation: 'Ситуация, случай', kanji: '場合' }
         ]
     },
     {
