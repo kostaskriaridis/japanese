@@ -131,7 +131,12 @@ module.exports = [
             { kana: 'がんばります', translation: 'Стараться, вкладываться', kanji: '頑張ります' },
             { kana: 'うけます', translation: 'Пройти успешно', kanji: '受けます' },
             { kana: 'かります', translation: 'Одолжить, арендовать', kanji: '借ります' },
-            { kana: 'せつぞくします', translation: 'Подключить, присоединить', kanji: '接続します' }
+            { kana: 'せつぞくします', translation: 'Подключить, присоединить', kanji: '接続します' },
+            { kana: 'あずかります', translation: 'Заботиться, ухаживать', kanji: '預かります' },
+            { kana: 'しょうきょする', translation: 'Стереть', kanji: '消去します' },
+            { kana: 'ほぞんする', translation: 'Сохранить', kanji: '保存んする' },
+            { kana: '', translation: '', kanji: '' },
+            { kana: '', translation: '', kanji: '' },
         ]
     },
     {
@@ -373,7 +378,8 @@ module.exports = [
             { kana: 'さつえいきんし', translation: 'Запрет фотографий', kanji: '撮影禁止' },
             { kana: 'たちいりきんし', translation: 'Вход запрещён!', kanji: '立入禁止' },
             { kana: 'みぶんしょうめいしょ', translation: 'Удостоверение личности', kanji: '身分証明書' },
-            { kana: 'そつぎょうしょうめいしょ', translation: 'Выпускной сертификат, диплом', kanji: '卒業証明書' }
+            { kana: 'そつぎょうしょうめいしょ', translation: 'Выпускной сертификат, диплом', kanji: '卒業証明書' },
+            { kana: 'かくにん', translation: 'Подтверждение', kanji: '確認' }
         ]
     },
     {
@@ -592,6 +598,10 @@ module.exports = [
             { kana: 'せつぞく', translation: 'Соединение (интернет, связь)', kanji: '接続' },
             { kana: 'あいず', translation: 'Сигнал', kanji: '合図' },
             { kana: 'でんごん', translation: 'Сообщение (голосовое)', kanji: '伝言' },
+            { kana: 'でんげん', translation: 'Электроэнергия', kanji: '電源' },
+            { kana: 'さいせい', translation: 'Воспроизведение, регенерация', kanji: '再生' },
+            { kana: 'そうさほうほう', translation: 'Инструкция по эксплуатации', kanji: '操作方法' },
+            { kana: 'けんがい', translation: 'Вне сети, внешняя область', kanji: '圏外' }
         ]
     },
     {
@@ -795,7 +805,7 @@ module.exports = [
             { kana: 'たしか', translation: 'Если я правильно помню ～' },
             { kana: 'あしをあらう', translation: '"Умывать руки", мыть ноги', kanji: '足を洗う' },
             { kana: 'ゆうきがある', translation: 'Иметь мужество', kanji: '勇気がある' },
-            { kana: 'りゆうなきはんこう', translation: 'Будт без повода', kanji: '理由なき犯行' },
+            { kana: 'りゆうなきはんこう', translation: 'Бунт без повода', kanji: '理由なき犯行' },
             { kana: 'りゆうもなくはらがたつ', translation: 'Злиться без причины', kanji: '理由もなく腹が立つ' }
         ]
     },

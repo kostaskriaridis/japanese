@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 750
-#### Verbs (130)
+# Table of japanese words to learn: 760
+#### Verbs (135)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -132,6 +132,11 @@
 | [受](https://jisho.org/search/%E5%8F%97%20%23kanji)けます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=受けます) | `うけます` | Пройти успешно |
 | [借](https://jisho.org/search/%E5%80%9F%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=借ります) | `かります` | Одолжить, арендовать |
 | [接](https://jisho.org/search/%E6%8E%A5%20%23kanji)[続](https://jisho.org/search/%E7%B6%9A%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=接続します) | `せつぞくします` | Подключить, присоединить |
+| [預](https://jisho.org/search/%E9%A0%90%20%23kanji)かります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=預かります) | `あずかります` | Заботиться, ухаживать |
+| [消](https://jisho.org/search/%E6%B6%88%20%23kanji)[去](https://jisho.org/search/%E5%8E%BB%20%23kanji)します [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=消去します) | `しょうきょする` | Стереть |
+| [保](https://jisho.org/search/%E4%BF%9D%20%23kanji)[存](https://jisho.org/search/%E5%AD%98%20%23kanji)んする [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=保存んする) | `ほぞんする` | Сохранить |
+| — | `` |  |
+| — | `` |  |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -156,7 +161,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (207)
+#### Nouns (208)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -366,6 +371,7 @@
 | [立](https://jisho.org/search/%E7%AB%8B%20%23kanji)[入](https://jisho.org/search/%E5%85%A5%20%23kanji)[禁](https://jisho.org/search/%E7%A6%81%20%23kanji)[止](https://jisho.org/search/%E6%AD%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=立入禁止) | `たちいりきんし` | Вход запрещён! |
 | [身](https://jisho.org/search/%E8%BA%AB%20%23kanji)[分](https://jisho.org/search/%E5%88%86%20%23kanji)[証](https://jisho.org/search/%E8%A8%BC%20%23kanji)[明](https://jisho.org/search/%E6%98%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=身分証明書) | `みぶんしょうめいしょ` | Удостоверение личности |
 | [卒](https://jisho.org/search/%E5%8D%92%20%23kanji)[業](https://jisho.org/search/%E6%A5%AD%20%23kanji)[証](https://jisho.org/search/%E8%A8%BC%20%23kanji)[明](https://jisho.org/search/%E6%98%8E%20%23kanji)[書](https://jisho.org/search/%E6%9B%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=卒業証明書) | `そつぎょうしょうめいしょ` | Выпускной сертификат, диплом |
+| [確](https://jisho.org/search/%E7%A2%BA%20%23kanji)[認](https://jisho.org/search/%E8%AA%8D%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=確認) | `かくにん` | Подтверждение |
 #### Adjectives (い) (48)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -560,7 +566,7 @@
 | [劇](https://jisho.org/search/%E5%8A%87%20%23kanji)[場](https://jisho.org/search/%E5%A0%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=劇場) | `げきじょう` | Театр |
 | [建](https://jisho.org/search/%E5%BB%BA%20%23kanji)[物](https://jisho.org/search/%E7%89%A9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=建物) | `たてもの` | Конструкция, строение |
 | [上](https://jisho.org/search/%E4%B8%8A%20%23kanji)[野](https://jisho.org/search/%E9%87%8E%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=上野) | `うえの` | Уэно |
-#### Technical (7)
+#### Technical (11)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [会](https://jisho.org/search/%E4%BC%9A%20%23kanji)[社](https://jisho.org/search/%E7%A4%BE%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=会社) | `かいしゃ` | Корпорация |
@@ -570,6 +576,10 @@
 | [接](https://jisho.org/search/%E6%8E%A5%20%23kanji)[続](https://jisho.org/search/%E7%B6%9A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=接続) | `せつぞく` | Соединение (интернет, связь) |
 | [合](https://jisho.org/search/%E5%90%88%20%23kanji)[図](https://jisho.org/search/%E5%9B%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=合図) | `あいず` | Сигнал |
 | [伝](https://jisho.org/search/%E4%BC%9D%20%23kanji)[言](https://jisho.org/search/%E8%A8%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=伝言) | `でんごん` | Сообщение (голосовое) |
+| [電](https://jisho.org/search/%E9%9B%BB%20%23kanji)[源](https://jisho.org/search/%E6%BA%90%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=電源) | `でんげん` | Электроэнергия |
+| [再](https://jisho.org/search/%E5%86%8D%20%23kanji)[生](https://jisho.org/search/%E7%94%9F%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=再生) | `さいせい` | Воспроизведение, регенерация |
+| [操](https://jisho.org/search/%E6%93%8D%20%23kanji)[作](https://jisho.org/search/%E4%BD%9C%20%23kanji)[方](https://jisho.org/search/%E6%96%B9%20%23kanji)[法](https://jisho.org/search/%E6%B3%95%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=操作方法) | `そうさほうほう` | Инструкция по эксплуатации |
+| [圏](https://jisho.org/search/%E5%9C%8F%20%23kanji)[外](https://jisho.org/search/%E5%A4%96%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=圏外) | `けんがい` | Вне сети, внешняя область |
 #### Relations (21)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -751,7 +761,7 @@
 | — | `たしか` | Если я правильно помню ～ |
 | [足](https://jisho.org/search/%E8%B6%B3%20%23kanji)を[洗](https://jisho.org/search/%E6%B4%97%20%23kanji)う [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=足を洗う) | `あしをあらう` | "Умывать руки", мыть ноги |
 | [勇](https://jisho.org/search/%E5%8B%87%20%23kanji)[気](https://jisho.org/search/%E6%B0%97%20%23kanji)がある [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=勇気がある) | `ゆうきがある` | Иметь мужество |
-| [理](https://jisho.org/search/%E7%90%86%20%23kanji)[由](https://jisho.org/search/%E7%94%B1%20%23kanji)なき[犯](https://jisho.org/search/%E7%8A%AF%20%23kanji)[行](https://jisho.org/search/%E8%A1%8C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=理由なき犯行) | `りゆうなきはんこう` | Будт без повода |
+| [理](https://jisho.org/search/%E7%90%86%20%23kanji)[由](https://jisho.org/search/%E7%94%B1%20%23kanji)なき[犯](https://jisho.org/search/%E7%8A%AF%20%23kanji)[行](https://jisho.org/search/%E8%A1%8C%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=理由なき犯行) | `りゆうなきはんこう` | Бунт без повода |
 | [理](https://jisho.org/search/%E7%90%86%20%23kanji)[由](https://jisho.org/search/%E7%94%B1%20%23kanji)もなく[腹](https://jisho.org/search/%E8%85%B9%20%23kanji)が[立](https://jisho.org/search/%E7%AB%8B%20%23kanji)つ [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=理由もなく腹が立つ) | `りゆうもなくはらがたつ` | Злиться без причины |
 #### Activities (6)
 | Kanji | Kana | Translation |
@@ -827,6 +837,9 @@
 | — | `みかん` | Мандарин |
 | たこ[焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=たこ焼き) | `たこやき` | Такояки |
 | [寿](https://jisho.org/search/%E5%AF%BF%20%23kanji)[司](https://jisho.org/search/%E5%8F%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=寿司) | `すし` | Суши |
+___
+###### 写真を一緒に撮らせて下さい
+Позвольте сфотографироваться с вами
 ___
 ###### 明日友達に会いに東京へ行きます / 明日友達に東京へ会いに行きます
 Завтра отправляюсь в Токио, чтобы встретиться с другом
