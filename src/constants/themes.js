@@ -135,8 +135,8 @@ module.exports = [
             { kana: 'あずかります', translation: 'Заботиться, ухаживать', kanji: '預かります' },
             { kana: 'しょうきょする', translation: 'Стереть', kanji: '消去します' },
             { kana: 'ほぞんする', translation: 'Сохранить', kanji: '保存んする' },
-            { kana: '', translation: '', kanji: '' },
-            { kana: '', translation: '', kanji: '' },
+            { kana: 'すすみます', translation: 'Прогрессировать', kanji: '進みます' },
+            { kana: 'ほめます', translation: 'Хвалить', kanji: '褒めます' },
         ]
     },
     {
@@ -224,6 +224,7 @@ module.exports = [
             { kana: 'ゆかた', translation: 'Кимоно', kanji: '浴衣' },
             { kana: 'おまつり', translation: 'Фестиваль', kanji: 'お祭り' },
             { kana: 'じんせい', translation: 'Жизнь', kanji: '人生' },
+            { kana: 'いのち', translation: 'Жизнь', kanji: '命' },
             { kana: 'せいめい', translation: 'Жизнь', kanji: '⽣命' },
             { kana: 'みずうみ', translation: 'Озеро', kanji: '湖' },
             { kana: 'ゆめ', translation: 'Сон', kanji: '夢' },
@@ -380,7 +381,13 @@ module.exports = [
             { kana: 'みぶんしょうめいしょ', translation: 'Удостоверение личности', kanji: '身分証明書' },
             { kana: 'そつぎょうしょうめいしょ', translation: 'Выпускной сертификат, диплом', kanji: '卒業証明書' },
             { kana: 'かくにん', translation: 'Подтверждение', kanji: '確認' },
-            { kana: 'ばあい', translation: 'Ситуация, случай', kanji: '場合' }
+            { kana: 'ばあい', translation: 'Ситуация, случай', kanji: '場合' },
+            { kana: 'せつめい', translation: 'Объяснение', kanji: '説明' },
+            { kana: 'ゆうしょう', translation: 'Победа, чемпионат', kanji: '優勝' },
+            { kana: 'ゆうせん', translation: 'Приоритет', kanji: '優先' },
+            { kana: 'さんか', translation: 'Участие', kanji: '参加' },
+            { kana: 'たいかい', translation: 'Турнир', kanji: '大会' },
+            { kana: 'しめきり', translation: 'Дедлайн', kanji: '締め切り' }
         ]
     },
     {
@@ -530,6 +537,7 @@ module.exports = [
             { kana: 'まんまん', translation: 'Полный, наполненный чем-то', kanji: '満々' },
             { kana: 'なによりも', translation: 'Более того', kanji: '何よりも' },
             { kana: 'いきなり', translation: 'Вдруг, внезапно' },
+            { kana: 'きゅうに', translation: 'Вдруг, внезапно', kanji: '急に' },
             { kana: '～のなか', translation: 'Между, среди', kanji: '～の中' },
             { kana: 'りょうほう', translation: 'Обе стороны', kanji: '両方' },
             { kana: 'さきに', translation: 'Вперёд, первый', kanji: '先に' },
@@ -537,7 +545,10 @@ module.exports = [
             { kana: 'たしかに', translation: 'Конечно', kanji: '確かに' },
             { kana: 'たしか', translation: ' Если я прав, насколько я помню', kanji: '確か' },
             { kana: 'ていちょうに', translation: 'Почтительно', kanji: '丁重に' },
-            { kana: 'いない', translation: 'В течение, за', kanji: '以内' }
+            { kana: 'いない', translation: 'В течение, за', kanji: '以内' },
+            { kana: 'いちおう', translation: 'Один раз, по крайней мере, предварительный', kanji: '一応' },
+            { kana: 'じゅんちょう', translation: 'Благоприятно, дела идут хорошо', kanji: '順調' },
+            { kana: 'さすが', translation: 'Как и следовало ожидать' }
         ]
     },
     {
@@ -660,7 +671,9 @@ module.exports = [
             { kana: 'やっと', translation: 'Наконец-то, наконец' },
             { kana: 'いよいよ', translation: 'Наконец-то, всё больше и больше' },
             { kana: 'いらい', translation: 'С тех пор (since)', kanji: '以来' },
-            { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' }
+            { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' },
+            { kana: 'じかい', translation: 'В следующий раз', kanji: '次回' },
+            { kana: 'こんかい', translation: 'В этот раз', kanji: '今回' }
         ]
     },
     {
@@ -740,7 +753,8 @@ module.exports = [
             { kana: 'しゃちょう', translation: 'Президент (компании)', kanji: '社長' },
             { kana: 'ちかん', translation: 'Хулиган, извращенец', kanji: '痴漢' },
             { kana: 'うぐいすじょう', translation: 'Женщина-диктор', kanji: '鶯嬢' },
-            { kana: 'べんごし', translation: 'Юрист', kanji: '弁護士' }
+            { kana: 'べんごし', translation: 'Юрист', kanji: '弁護士' },
+            { kana: 'ぜんいん', translation: 'Все участники', kanji: '全員' }
         ]
     },
     {
