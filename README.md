@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 775
-#### Verbs (135)
+# Table of japanese words to learn: 777
+#### Verbs (136)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -137,6 +137,7 @@
 | [保](https://jisho.org/search/%E4%BF%9D%20%23kanji)[存](https://jisho.org/search/%E5%AD%98%20%23kanji)んする [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=保存んする) | `ほぞんする` | Сохранить |
 | [進](https://jisho.org/search/%E9%80%B2%20%23kanji)みます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=進みます) | `すすみます` | Прогрессировать |
 | [褒](https://jisho.org/search/%E8%A4%92%20%23kanji)めます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=褒めます) | `ほめます` | Хвалить |
+| ほえます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=ほえます) | `吠えます` | Лаять |
 #### Verbs 出す (5)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -801,7 +802,7 @@
 | [救](https://jisho.org/search/%E6%95%91%20%23kanji)[急](https://jisho.org/search/%E6%80%A5%20%23kanji)[車](https://jisho.org/search/%E8%BB%8A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=救急車) | `きゅうきゅうしゃ` | Скорая медицинская помощь |
 | [救](https://jisho.org/search/%E6%95%91%20%23kanji)[急](https://jisho.org/search/%E6%80%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=救急) | `きゅうきゅう` | Медицинская помощь |
 | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)[治](https://jisho.org/search/%E6%B2%BB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=全治) | `ぜんち` | Полное восстановление, исцеление |
-#### Money (19)
+#### Money (20)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [税](https://jisho.org/search/%E7%A8%8E%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=税) | `ぜい` | Налог |
@@ -823,6 +824,7 @@
 | [証](https://jisho.org/search/%E8%A8%BC%20%23kanji)[券](https://jisho.org/search/%E5%88%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=証券) | `しょうけん` | Ценные бумаги, биржевой брокер |
 | [株](https://jisho.org/search/%E6%A0%AA%20%23kanji)[価](https://jisho.org/search/%E4%BE%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=株価) | `かぶか` | Цена акций |
 | [宝](https://jisho.org/search/%E5%AE%9D%20%23kanji)[物](https://jisho.org/search/%E7%89%A9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=宝物) | `たからもの` | Драгоценная вещь |
+| [昇](https://jisho.org/search/%E6%98%87%20%23kanji)[進](https://jisho.org/search/%E9%80%B2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=昇進) | `しょうしん` | Повышение, продвижение |
 #### Food (26)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

@@ -137,6 +137,7 @@ module.exports = [
             { kana: 'ほぞんする', translation: 'Сохранить', kanji: '保存んする' },
             { kana: 'すすみます', translation: 'Прогрессировать', kanji: '進みます' },
             { kana: 'ほめます', translation: 'Хвалить', kanji: '褒めます' },
+            { kana: '吠えます', translation: 'Лаять', kanji: 'ほえます' }
         ]
     },
     {
@@ -872,7 +873,8 @@ module.exports = [
             { kana: 'ばっきん', translation: 'Штраф', kanji: '罰金' },
             { kana: 'しょうけん', translation: 'Ценные бумаги, биржевой брокер', kanji: '証券' },
             { kana: 'かぶか', translation: 'Цена акций', kanji: '株価' },
-            { kana: 'たからもの', translation: 'Драгоценная вещь', kanji: '宝物' }
+            { kana: 'たからもの', translation: 'Драгоценная вещь', kanji: '宝物' },
+            { kana: 'しょうしん', translation: 'Повышение, продвижение', kanji: '昇進' }
         ]
     },
     {
