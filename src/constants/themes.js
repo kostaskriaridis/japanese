@@ -137,7 +137,13 @@ module.exports = [
             { kana: 'ほぞんする', translation: 'Сохранить', kanji: '保存んする' },
             { kana: 'すすみます', translation: 'Прогрессировать', kanji: '進みます' },
             { kana: 'ほめます', translation: 'Хвалить', kanji: '褒めます' },
-            { kana: '吠えます', translation: 'Лаять', kanji: 'ほえます' }
+            { kana: 'ほえます', translation: 'Лаять', kanji: '吠えます' },
+            { kana: 'もってきます', translation: 'Принести что-то (неживое) куда-то', kanji: '持って来ます' },
+            { kana: 'つれてきます', translation: 'Принести что-то (живое) куда-то', kanji: '連れて来ます' },
+            { kana: 'もっていきます', translation: 'Взять что-то (неживое) куда-то', kanji: '持って行きます' },
+            { kana: 'つれていきます', translation: 'Взять что-то (живое) куда-то', kanji: '連れて行きます' },
+            { kana: 'キレます', translation: 'Очень сильно разозлиться' },
+            { kana: 'かいます', translation: 'Растить питомца, иметь питомца', kanji: '飼います' }
         ]
     },
     {
@@ -148,7 +154,9 @@ module.exports = [
             { kana: 'おこりだす', translation: 'Разразиться гневом', kanji: '怒り出す' },
             { kana: 'もれだす', translation: 'Вызвать утечку', kanji: '漏れ出す' },
             { kana: 'なげだす', translation: 'Выкинуть', kanji: '投げ出す' },
-            { kana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' }
+            { kana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' },
+            { kana: 'さけびだす', translation: 'Выплакаться', kanji: '叫び出す' },
+            { kana: 'にげだす', translation: 'Убежать', kanji: '逃げ出す' }
         ]
     },
     {
@@ -482,6 +490,7 @@ module.exports = [
             { kana: 'まえむき (な)', translation: 'Позитивный', kanji: '前向き (な)' },
             { kana: 'らく (な)', translation: 'Лёгкий', kanji: '楽 (な)' },
             { kana: 'めいわく (な)', translation: 'Проблемный, досадный', kanji: '迷惑 (な)' },
+            { kana: 'ひさん (な)', translation: 'Несчастный, катастрофический', kanji: '悲惨 (な)' }
         ]
     },
     {
@@ -755,7 +764,8 @@ module.exports = [
             { kana: 'ちかん', translation: 'Хулиган, извращенец', kanji: '痴漢' },
             { kana: 'うぐいすじょう', translation: 'Женщина-диктор', kanji: '鶯嬢' },
             { kana: 'べんごし', translation: 'Юрист', kanji: '弁護士' },
-            { kana: 'ぜんいん', translation: 'Все участники', kanji: '全員' }
+            { kana: 'ぜんいん', translation: 'Все участники', kanji: '全員' },
+            { kana: 'どろぼう', translation: 'Вор', kanji: '泥棒' }
         ]
     },
     {
