@@ -143,7 +143,11 @@ module.exports = [
             { kana: 'もっていきます', translation: 'Взять что-то (неживое) куда-то', kanji: '持って行きます' },
             { kana: 'つれていきます', translation: 'Взять что-то (живое) куда-то', kanji: '連れて行きます' },
             { kana: 'キレます', translation: 'Очень сильно разозлиться' },
-            { kana: 'かいます', translation: 'Растить питомца, иметь питомца', kanji: '飼います' }
+            { kana: 'かいます', translation: 'Растить питомца, иметь питомца', kanji: '飼います' },
+            { kana: 'てをかす', translation: 'Протянуть руку (помочь)', kanji: '手を貸す' },
+            { kana: 'のこす', translation: 'Оставить, созранить', kanji: '残す' },
+            { kana: 'かたづける', translation: 'Очистить, заботиться о (делах)', kanji: '片付ける' },
+            { kana: 'かします', translation: 'Одолжить', kanji: '貸します' }
         ]
     },
     {
@@ -156,7 +160,8 @@ module.exports = [
             { kana: 'なげだす', translation: 'Выкинуть', kanji: '投げ出す' },
             { kana: 'はしりだす', translation: 'Начать бежать, побежать', kanji: '走り出す' },
             { kana: 'さけびだす', translation: 'Выплакаться', kanji: '叫び出す' },
-            { kana: 'にげだす', translation: 'Убежать', kanji: '逃げ出す' }
+            { kana: 'にげだす', translation: 'Убежать', kanji: '逃げ出す' },
+            { kana: 'おもいだす', translation: 'Вспомнить', kanji: '思い出す' }
         ]
     },
     {
@@ -396,7 +401,9 @@ module.exports = [
             { kana: 'ゆうせん', translation: 'Приоритет', kanji: '優先' },
             { kana: 'さんか', translation: 'Участие', kanji: '参加' },
             { kana: 'たいかい', translation: 'Турнир', kanji: '大会' },
-            { kana: 'しめきり', translation: 'Дедлайн', kanji: '締め切り' }
+            { kana: 'しめきり', translation: 'Дедлайн', kanji: '締め切り' },
+            { kana: 'えんぴつ', translation: 'Карандаш', kanji: '鉛筆' },
+            { kana: 'へんじ', translation: 'Ответ (на письмо)', kanji: '返事' }
         ]
     },
     {
@@ -449,7 +456,8 @@ module.exports = [
             { kana: 'むずかしい', translation: 'Сложный', kanji: '難しい' },
             { kana: 'きびしい', translation: 'Строгий, тяжёлый', kanji: '厳しい' },
             { kana: 'だまされやすい', translation: 'Легковерный, наивный' },
-            { kana: 'てれくさい', translation: 'Неловкий', kanji: '照れ臭い' }
+            { kana: 'てれくさい', translation: 'Неловкий', kanji: '照れ臭い' },
+            { kana: 'めんどうくさい', translation: 'Надоедливый, утомительный', kanji: '面倒くさい' }
         ]
     },
     {
@@ -532,6 +540,7 @@ module.exports = [
             { kana: 'まったく', translation: 'Невозможно поверить!', kanji: '全く' },
             { kana: 'まったくもう', translation: 'Черт возьми! О, Господи! (выражение раздражения)', kanji: '全くもう' },
             { kana: 'すべて', translation: 'Полностью, всё', kanji: '全て' },
+            { kana: 'すっかり', translation: 'Полностью' },
             { kana: 'おきにいり', translation: 'Любимый', kanji: 'お気に入り' },
             { kana: 'ずつ', translation: 'Каждый' },
             { kana: 'いじょう', translation: 'Выше (больше, чем)', kanji: '以上' },
@@ -558,7 +567,10 @@ module.exports = [
             { kana: 'いない', translation: 'В течение, за', kanji: '以内' },
             { kana: 'いちおう', translation: 'Один раз, по крайней мере, предварительный', kanji: '一応' },
             { kana: 'じゅんちょう', translation: 'Благоприятно, дела идут хорошо', kanji: '順調' },
-            { kana: 'さすが', translation: 'Как и следовало ожидать' }
+            { kana: 'さすが', translation: 'Как и следовало ожидать' },
+            { kana: 'ずいぶん', translation: 'Довольно, довольно много', kanji: '随分' },
+            { kana: 'さっさと', translation: 'Быстро' },
+            { kana: 'あて', translation: 'Для, адресовано к', kanji: '宛' }
         ]
     },
     {
@@ -701,7 +713,9 @@ module.exports = [
 
             { kana: 'とおか', translation: '10 число', kanji: '十日' },
             { kana: 'はつか', translation: '20 число', kanji: '二十日' },
-            { kana: 'みそか', translation: '30 число', kanji: '三十日' }
+            { kana: 'みそか', translation: '30 число', kanji: '三十日' },
+
+            { kana: 'せいざ', translation: 'Гороскоп', kanji: '星座' }
         ]
     },
     {
@@ -737,7 +751,9 @@ module.exports = [
             { kana: 'じゅっさい', translation: '10 лет', kanji: '十歳' },
             { kana: 'じゅいっさい', translation: '11 лет', kanji: '十一歳' },
             { kana: 'はたち', translation: '20 лет', kanji: '二十歳' },
-            { kana: 'にじゅうっさい', translation: '21 год', kanji: '二十一歳' }
+            { kana: 'にじゅうっさい', translation: '21 год', kanji: '二十一歳' },
+
+            { kana: 'かんれき', translation: '60-й день рождения', kanji: '還暦' }
         ]
     },
     {
@@ -765,7 +781,14 @@ module.exports = [
             { kana: 'うぐいすじょう', translation: 'Женщина-диктор', kanji: '鶯嬢' },
             { kana: 'べんごし', translation: 'Юрист', kanji: '弁護士' },
             { kana: 'ぜんいん', translation: 'Все участники', kanji: '全員' },
-            { kana: 'どろぼう', translation: 'Вор', kanji: '泥棒' }
+            { kana: 'どろぼう', translation: 'Вор', kanji: '泥棒' },
+            { kana: 'ほんぶちょう', translation: 'Генеральный директор', kanji: '本部長' },
+            { kana: 'ぶちょう', translation: 'Руководитель направления', kanji: '部長' },
+            { kana: 'じちょう', translation: 'Заместитель руководителя направления', kanji: '次長' },
+            { kana: 'かちょう', translation: 'Руководитель отдела', kanji: '課長' },
+            { kana: 'かかりちょう', translation: 'Помощник руководителя отдела', kanji: '係長' },
+            { kana: 'しゃいん', translation: 'Служащий компании', kanji: '社員' },
+            { kana: 'ぶか', translation: 'Подчинённый', kanji: '部下' }
         ]
     },
     {
@@ -884,7 +907,10 @@ module.exports = [
             { kana: 'しょうけん', translation: 'Ценные бумаги, биржевой брокер', kanji: '証券' },
             { kana: 'かぶか', translation: 'Цена акций', kanji: '株価' },
             { kana: 'たからもの', translation: 'Драгоценная вещь', kanji: '宝物' },
-            { kana: 'しょうしん', translation: 'Повышение, продвижение', kanji: '昇進' }
+            { kana: 'しょうしん', translation: 'Повышение, продвижение', kanji: '昇進' },
+            { kana: 'ケチ', translation: 'Скупой' },
+            { kana: 'りょうきん', translation: 'Плата, взнос', kanji: '料金' },
+            { kana: 'わりびき', translation: 'Скидка', kanji: '割引' }
         ]
     },
     {
