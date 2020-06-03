@@ -147,7 +147,10 @@ module.exports = [
             { kana: 'てをかす', translation: 'Протянуть руку (помочь)', kanji: '手を貸す' },
             { kana: 'のこす', translation: 'Оставить, созранить', kanji: '残す' },
             { kana: 'かたづける', translation: 'Очистить, заботиться о (делах)', kanji: '片付ける' },
-            { kana: 'かします', translation: 'Одолжить', kanji: '貸します' }
+            { kana: 'かします', translation: 'Одолжить', kanji: '貸します' },
+            { kana: 'そろいます', translation: 'Завершиться', kanji: '揃います' },
+            { kana: 'そろえます', translation: 'Собирать, привести в порядок', kanji: '揃えます' },
+            { kana: 'かないます', translation: 'Сбываться, исполнять (мечты, желания)', kanji: '叶います' }
         ]
     },
     {
@@ -403,7 +406,11 @@ module.exports = [
             { kana: 'たいかい', translation: 'Турнир', kanji: '大会' },
             { kana: 'しめきり', translation: 'Дедлайн', kanji: '締め切り' },
             { kana: 'えんぴつ', translation: 'Карандаш', kanji: '鉛筆' },
-            { kana: 'へんじ', translation: 'Ответ (на письмо)', kanji: '返事' }
+            { kana: 'へんじ', translation: 'Ответ (на письмо)', kanji: '返事' },
+            { kana: 'どうぐ', translation: 'Инструмент', kanji: '道具' },
+            { kana: 'しょるい', translation: 'Бумаги, документы', kanji: '書類' },
+            { kana: 'しゅっせき', translation: 'Присутствие', kanji: '出席' },
+            { kana: 'けっせき', translation: 'Отсутствие', kanji: '欠席' }
         ]
     },
     {
@@ -695,7 +702,8 @@ module.exports = [
             { kana: 'いらい', translation: 'С тех пор (since)', kanji: '以来' },
             { kana: 'しょうがつ', translation: 'Новый Год', kanji: '正月' },
             { kana: 'じかい', translation: 'В следующий раз', kanji: '次回' },
-            { kana: 'こんかい', translation: 'В этот раз', kanji: '今回' }
+            { kana: 'こんかい', translation: 'В этот раз', kanji: '今回' },
+            { kana: 'ころ', translation: 'Время', kanji: '頃' }
         ]
     },
     {
