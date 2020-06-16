@@ -410,7 +410,11 @@ module.exports = [
             { kana: 'どうぐ', translation: 'Инструмент', kanji: '道具' },
             { kana: 'しょるい', translation: 'Бумаги, документы', kanji: '書類' },
             { kana: 'しゅっせき', translation: 'Присутствие', kanji: '出席' },
-            { kana: 'けっせき', translation: 'Отсутствие', kanji: '欠席' }
+            { kana: 'けっせき', translation: 'Отсутствие', kanji: '欠席' },
+            { kana: 'めいきょく', translation: 'Известная песня', kanji: '名曲' },
+            { kana: 'めいが', translation: 'Известная картина', kanji: '名画' },
+            { kana: 'めいぶつ', translation: 'Известный продукт, специальный продукт', kanji: '名物' },
+            { kana: 'とじまり', translation: 'Закрывать дом (на замок)', kanji: '戸締まり' }
         ]
     },
     {
@@ -577,6 +581,7 @@ module.exports = [
             { kana: 'さすが', translation: 'Как и следовало ожидать' },
             { kana: 'ずいぶん', translation: 'Довольно, довольно много', kanji: '随分' },
             { kana: 'さっさと', translation: 'Быстро' },
+            { kana: 'わざと', translation: 'Нарочно' },
             { kana: 'あて', translation: 'Для, адресовано к', kanji: '宛' }
         ]
     },
@@ -796,7 +801,8 @@ module.exports = [
             { kana: 'かちょう', translation: 'Руководитель отдела', kanji: '課長' },
             { kana: 'かかりちょう', translation: 'Помощник руководителя отдела', kanji: '係長' },
             { kana: 'しゃいん', translation: 'Служащий компании', kanji: '社員' },
-            { kana: 'ぶか', translation: 'Подчинённый', kanji: '部下' }
+            { kana: 'ぶか', translation: 'Подчинённый', kanji: '部下' },
+            { kana: 'きらわれもの', translation: 'Ненавистный человек', kanji: '嫌われ者' },
         ]
     },
     {
@@ -949,7 +955,8 @@ module.exports = [
             { kana: 'にんにく', translation: 'Чеснок' },
             { kana: 'みかん', translation: 'Мандарин' },
             { kana: 'たこやき', translation: 'Такояки', kanji: 'たこ焼き' },
-            { kana: 'すし', translation: 'Суши', kanji: '寿司' }
+            { kana: 'すし', translation: 'Суши', kanji: '寿司' },
+            { kana: 'れいめん', translation: 'Холодная лапша', kanji: '冷麺' }
         ]
     },
     /*
