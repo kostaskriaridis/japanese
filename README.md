@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 826
+# Table of japanese words to learn: 828
 #### Verbs (149)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -178,7 +178,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (226)
+#### Nouns (227)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -407,6 +407,7 @@
 | [名](https://jisho.org/search/%E5%90%8D%20%23kanji)[画](https://jisho.org/search/%E7%94%BB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=名画) | `めいが` | Известная картина |
 | [名](https://jisho.org/search/%E5%90%8D%20%23kanji)[物](https://jisho.org/search/%E7%89%A9%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=名物) | `めいぶつ` | Известный продукт, специальный продукт |
 | [戸](https://jisho.org/search/%E6%88%B8%20%23kanji)[締](https://jisho.org/search/%E7%B7%A0%20%23kanji)まり [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=戸締まり) | `とじまり` | Закрывать дом (на замок) |
+| [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[慢](https://jisho.org/search/%E6%85%A2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自慢) | `じまん` | Хвастовство, самовосхваление |
 #### Adjectives (い) (49)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -873,7 +874,7 @@
 | — | `ケチ` | Скупой |
 | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料金) | `りょうきん` | Плата, взнос |
 | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)[引](https://jisho.org/search/%E5%BC%95%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=割引) | `わりびき` | Скидка |
-#### Food (27)
+#### Food (28)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `もちかえり` | Взять с собой |
@@ -903,6 +904,7 @@
 | たこ[焼](https://jisho.org/search/%E7%84%BC%20%23kanji)き [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=たこ焼き) | `たこやき` | Такояки |
 | [寿](https://jisho.org/search/%E5%AF%BF%20%23kanji)[司](https://jisho.org/search/%E5%8F%B8%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=寿司) | `すし` | Суши |
 | [冷](https://jisho.org/search/%E5%86%B7%20%23kanji)[麺](https://jisho.org/search/%E9%BA%BA%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=冷麺) | `れいめん` | Холодная лапша |
+| [材](https://jisho.org/search/%E6%9D%90%20%23kanji)[料](https://jisho.org/search/%E6%96%99%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=材料) | `ざいりょう` | Ингридиенты, материал |
 ___
 ###### 写真を一緒に撮らせて下さい
 Позвольте сфотографироваться с вами

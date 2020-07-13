@@ -414,7 +414,8 @@ module.exports = [
             { kana: 'めいきょく', translation: 'Известная песня', kanji: '名曲' },
             { kana: 'めいが', translation: 'Известная картина', kanji: '名画' },
             { kana: 'めいぶつ', translation: 'Известный продукт, специальный продукт', kanji: '名物' },
-            { kana: 'とじまり', translation: 'Закрывать дом (на замок)', kanji: '戸締まり' }
+            { kana: 'とじまり', translation: 'Закрывать дом (на замок)', kanji: '戸締まり' },
+            { kana: 'じまん', translation: 'Хвастовство, самовосхваление', kanji: '自慢' }
         ]
     },
     {
@@ -956,7 +957,8 @@ module.exports = [
             { kana: 'みかん', translation: 'Мандарин' },
             { kana: 'たこやき', translation: 'Такояки', kanji: 'たこ焼き' },
             { kana: 'すし', translation: 'Суши', kanji: '寿司' },
-            { kana: 'れいめん', translation: 'Холодная лапша', kanji: '冷麺' }
+            { kana: 'れいめん', translation: 'Холодная лапша', kanji: '冷麺' },
+            { kana: 'ざいりょう', translation: 'Ингридиенты, материал', kanji: '材料' }
         ]
     },
     /*
