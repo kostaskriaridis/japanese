@@ -150,7 +150,12 @@ module.exports = [
             { kana: 'かします', translation: 'Одолжить', kanji: '貸します' },
             { kana: 'そろいます', translation: 'Завершиться', kanji: '揃います' },
             { kana: 'そろえます', translation: 'Собирать, привести в порядок', kanji: '揃えます' },
-            { kana: 'かないます', translation: 'Сбываться, исполнять (мечты, желания)', kanji: '叶います' }
+            { kana: 'かないます', translation: 'Сбываться, исполнять (мечты, желания)', kanji: '叶います' },
+            { kana: 'ほります', translation: 'Вырезать, лепить', kanji: '彫ります' },
+            { kana: 'きざみます', translation: 'Мелко порезать, измельчить', kanji: '刻みます' },
+            { kana: 'こみます', translation: 'Быть многолюдным', kanji: '混みます' },
+            { kana: 'こもります', translation: 'Остаться взаперти, замкнуться в себе', kanji: '籠ります' },
+            { kana: 'こります', translation: 'Усвоить урок, учиться на своём опыте', kanji: '懲ります' }
         ]
     },
     {
@@ -375,7 +380,7 @@ module.exports = [
             { kana: 'ほんばん', translation: 'Реальная часть, выступление', kanji: '本番' },
             { kana: 'きんぎょ', translation: 'Золотая рыбка', kanji: '金魚' },
             { kana: 'ゆうき', translation: 'Мужество, храбрость', kanji: '勇気' },
-            { kana: 'あんしん', translation: 'Облегчение', kanji: '安心' },
+            { kana: 'あんしん', translation: 'Облегчение, безопасность', kanji: '安心' },
             { kana: 'りゆう', translation: 'Причина', kanji: '理由' },
             { kana: 'かんきょう', translation: 'Среда, окружающая обстановка', kanji: '環境' },
             { kana: 'きんじょ', translation: 'Окрестности', kanji: '近所' },
@@ -415,7 +420,13 @@ module.exports = [
             { kana: 'めいが', translation: 'Известная картина', kanji: '名画' },
             { kana: 'めいぶつ', translation: 'Известный продукт, специальный продукт', kanji: '名物' },
             { kana: 'とじまり', translation: 'Закрывать дом (на замок)', kanji: '戸締まり' },
-            { kana: 'じまん', translation: 'Хвастовство, самовосхваление', kanji: '自慢' }
+            { kana: 'じまん', translation: 'Хвастовство, самовосхваление', kanji: '自慢' },
+            { kana: 'ちょうこく', translation: 'Резьба, скульптура', kanji: '彫刻' },
+            { kana: 'ちょうこくかん', translation: '', kanji: '彫刻家' },
+            { kana: 'ゆきのちょうこく', translation: 'Ледяная скульптура', kanji: '雪の彫刻' },
+            { kana: 'でばん', translation: 'Очередь (на выход)', kanji: '出番' },
+            { kana: 'せいり', translation: 'Сортировка, организация', kanji: '整理' },
+            { kana: 'ほうほう', translation: 'Метод, путь', kanji: '方法' },
         ]
     },
     {
@@ -469,7 +480,8 @@ module.exports = [
             { kana: 'きびしい', translation: 'Строгий, тяжёлый', kanji: '厳しい' },
             { kana: 'だまされやすい', translation: 'Легковерный, наивный' },
             { kana: 'てれくさい', translation: 'Неловкий', kanji: '照れ臭い' },
-            { kana: 'めんどうくさい', translation: 'Надоедливый, утомительный', kanji: '面倒くさい' }
+            { kana: 'めんどうくさい', translation: 'Надоедливый, утомительный', kanji: '面倒くさい' },
+            { kana: 'かたい', translation: 'Жёсткий, твёрдый', kanji: '堅い' }
         ]
     },
     {
@@ -479,6 +491,7 @@ module.exports = [
             { kana: 'しずか (な)', translation: 'Спокойный', kanji: '静か (な)' },
             { kana: 'とくべつ (な)', translation: 'Особенный', kanji: '特別 (な)' },
             { kana: 'かんたん (な)', translation: 'Простой', kanji: '簡単 (な)' },
+            { kana: 'たんじゅん (な)', translation: 'Простой, несложный', kanji: '単純 (な)' },
             { kana: 'べんり (な)', translation: 'Удобный', kanji: '便利 (な)' },
             { kana: 'ふべん (な)', translation: 'Неудобный', kanji: '不便 (な)' },
             { kana: 'すてき (な)', translation: 'Хороший, фантастический', kanji: '素敵 (な)' },
@@ -583,7 +596,9 @@ module.exports = [
             { kana: 'ずいぶん', translation: 'Довольно, довольно много', kanji: '随分' },
             { kana: 'さっさと', translation: 'Быстро' },
             { kana: 'わざと', translation: 'Нарочно' },
-            { kana: 'あて', translation: 'Для, адресовано к', kanji: '宛' }
+            { kana: 'あて', translation: 'Для, адресовано к', kanji: '宛' },
+            { kana: 'とくに', translation: 'Особенно', kanji: '特に' },
+            { kana: 'おしい', translation: 'Почти, прискорбно', kanji: '惜しい' }
         ]
     },
     {
@@ -603,7 +618,7 @@ module.exports = [
         ]
     },
     {
-        title: 'Questions, places',
+        title: 'Questions',
         words: [
             { kana: 'どんな', translation: 'Какие? Какого типа?' },
             { kana: 'どちら', translation: 'Который?' },
@@ -632,7 +647,9 @@ module.exports = [
             { kana: 'りょうりてん', translation: 'Ресторан', kanji: '料理店' },
             { kana: 'げきじょう', translation: 'Театр', kanji: '劇場' },
             { kana: 'たてもの', translation: 'Конструкция, строение', kanji: '建物' },
-            { kana: 'うえの', translation: 'Уэно', kanji: '上野' }
+            { kana: 'うえの', translation: 'Уэно', kanji: '上野' },
+            { kana: 'いなか', translation: 'Сельская местность, пригород', kanji: '田舎' },
+            { kana: 'すなはま', translation: 'Песчаный пляж', kanji: '砂浜' }
         ]
     },
     {
@@ -881,7 +898,10 @@ module.exports = [
             { kana: 'ばんぐみ', translation: 'Программа (Радио, телевидение)', kanji: '番組' },
             { kana: 'さつえい', translation: 'Съёмка', kanji: '撮影' },
             { kana: 'えいがさつえい', translation: 'Съёмка фильма', kanji: '映画撮影' },
-            { kana: 'しゃしんさつえい', translation: 'Съёмка фотографий', kanji: '写真撮影' }
+            { kana: 'しゃしんさつえい', translation: 'Съёмка фотографий', kanji: '写真撮影' },
+            { kana: 'うんどう', translation: 'Упражнения, тренировка', kanji: '運動' },
+            { kana: 'きんトレ', translation: 'Тренировка мышц', kanji: '筋トレ' },
+            { kana: 'えんぎ', translation: 'Игра (актёрская)', kanji: '演技' },
         ]
     },
     {
@@ -958,7 +978,8 @@ module.exports = [
             { kana: 'たこやき', translation: 'Такояки', kanji: 'たこ焼き' },
             { kana: 'すし', translation: 'Суши', kanji: '寿司' },
             { kana: 'れいめん', translation: 'Холодная лапша', kanji: '冷麺' },
-            { kana: 'ざいりょう', translation: 'Ингридиенты, материал', kanji: '材料' }
+            { kana: 'ざいりょう', translation: 'Ингридиенты, материал', kanji: '材料' },
+            { kana: 'おやつ', translation: 'Вкусненькое, закуска' },
         ]
     },
     /*
