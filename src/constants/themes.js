@@ -155,7 +155,11 @@ module.exports = [
             { kana: 'きざみます', translation: 'Мелко порезать, измельчить', kanji: '刻みます' },
             { kana: 'こみます', translation: 'Быть многолюдным', kanji: '混みます' },
             { kana: 'こもります', translation: 'Остаться взаперти, замкнуться в себе', kanji: '籠ります' },
-            { kana: 'こります', translation: 'Усвоить урок, учиться на своём опыте', kanji: '懲ります' }
+            { kana: 'こります', translation: 'Усвоить урок, учиться на своём опыте', kanji: '懲ります' },
+            { kana: 'ひっくりかえします', translation: 'Перевернуть, опрокинуть', kanji: 'ひっくり返します' },
+            { kana: 'ききます', translation: 'Быть эффективным', kanji: '効きます' },
+            { kana: 'おこします', translation: 'Вызывать (проблему), разбудить кого-то', kanji: '起こします' },
+            { kana: 'まかせます', translation: 'Поручить, оставить кому-то (задание)', kanji: '任せます' },
         ]
     },
     {
@@ -598,7 +602,8 @@ module.exports = [
             { kana: 'わざと', translation: 'Нарочно' },
             { kana: 'あて', translation: 'Для, адресовано к', kanji: '宛' },
             { kana: 'とくに', translation: 'Особенно', kanji: '特に' },
-            { kana: 'おしい', translation: 'Почти, прискорбно', kanji: '惜しい' }
+            { kana: 'おしい', translation: 'Почти, прискорбно', kanji: '惜しい' },
+            { kana: 'かってに', translation: 'Как нравится/Как хочется', kanji: '勝手に' },
         ]
     },
     {
@@ -797,6 +802,7 @@ module.exports = [
             { kana: 'せんこう', translation: 'Специальность', kanji: '専攻' },
             { kana: 'つうこうにん', translation: 'Прохожий', kanji: '通行人' },
             { kana: 'すうがく', translation: 'Математика', kanji: '数学' },
+            { kana: 'てつがく', translation: 'Философия', kanji: '哲学' },
             { kana: 'ちり', translation: 'География', kanji: '地理' },
             { kana: 'れきし', translation: 'История', kanji: '歴史' },
             { kana: 'かがく', translation: 'Химия', kanji: '化学' },
@@ -887,7 +893,11 @@ module.exports = [
             { kana: 'あしをあらう', translation: '"Умывать руки", мыть ноги', kanji: '足を洗う' },
             { kana: 'ゆうきがある', translation: 'Иметь мужество', kanji: '勇気がある' },
             { kana: 'りゆうなきはんこう', translation: 'Бунт без повода', kanji: '理由なき犯行' },
-            { kana: 'りゆうもなくはらがたつ', translation: 'Злиться без причины', kanji: '理由もなく腹が立つ' }
+            { kana: 'りゆうもなくはらがたつ', translation: 'Злиться без причины', kanji: '理由もなく腹が立つ' },
+            { kana: 'うんどうおんち', translation: 'Плох в упражениях (неатлитичный)', kanji: '運動音痴' },
+            { kana: 'ほうこうおんち', translation: 'Плох в распознавании направления', kanji: '方向音痴' },
+            { kana: 'きかいおんち', translation: 'Плох с механизмами', kanji: '機械音痴' },
+            { kana: 'おんち', translation: 'Глух, без слуха', kanji: '音痴' },
         ]
     },
     {
@@ -980,6 +990,8 @@ module.exports = [
             { kana: 'れいめん', translation: 'Холодная лапша', kanji: '冷麺' },
             { kana: 'ざいりょう', translation: 'Ингридиенты, материал', kanji: '材料' },
             { kana: 'おやつ', translation: 'Вкусненькое, закуска' },
+            { kana: 'はし', translation: 'Палочки', kanji: '箸' },
+            { kana: 'ねた', translation: 'Верхняя часть суши' },
         ]
     },
     /*
