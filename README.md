@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 861
+# Table of japanese words to learn: 865
 #### Verbs (158)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -187,7 +187,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (233)
+#### Nouns (235)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -203,6 +203,8 @@
 | — | `たいざいもくてき` | Цель пребывания |
 | [観](https://jisho.org/search/%E8%A6%B3%20%23kanji)[光](https://jisho.org/search/%E5%85%89%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=観光) | `かんこう` | Осмотр достопримечательностей |
 | [予](https://jisho.org/search/%E4%BA%88%20%23kanji)[定](https://jisho.org/search/%E5%AE%9A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=予定) | `よてい` | План |
+| [日](https://jisho.org/search/%E6%97%A5%20%23kanji)[程](https://jisho.org/search/%E7%A8%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=日程) | `にってい` | Расписание |
+| [変](https://jisho.org/search/%E5%A4%89%20%23kanji)[更](https://jisho.org/search/%E6%9B%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=変更) | `へんこう` | Изменение |
 | [嘘](https://jisho.org/search/%E5%98%98%20%23kanji)つき [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=嘘つき) | `うそつき` | Лжец |
 | [料](https://jisho.org/search/%E6%96%99%20%23kanji)[理](https://jisho.org/search/%E7%90%86%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料理) | `りょうり` | Еда |
 | [枕](https://jisho.org/search/%E6%9E%95%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=枕) | `まくら` | Подушка |
@@ -752,7 +754,7 @@
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十歳) | `はたち` | 20 лет |
 | [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[十](https://jisho.org/search/%E5%8D%81%20%23kanji)[一](https://jisho.org/search/%E4%B8%80%20%23kanji)[歳](https://jisho.org/search/%E6%AD%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二十一歳) | `にじゅうっさい` | 21 год |
 | [還](https://jisho.org/search/%E9%82%84%20%23kanji)[暦](https://jisho.org/search/%E6%9A%A6%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=還暦) | `かんれき` | 60-й день рождения |
-#### Roles (32)
+#### Roles (33)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [警](https://jisho.org/search/%E8%AD%A6%20%23kanji)[察](https://jisho.org/search/%E5%AF%9F%20%23kanji)[官](https://jisho.org/search/%E5%AE%98%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=警察官) | `けいさつかん` | Офицер полиции |
@@ -787,6 +789,7 @@
 | [社](https://jisho.org/search/%E7%A4%BE%20%23kanji)[員](https://jisho.org/search/%E5%93%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=社員) | `しゃいん` | Служащий компании |
 | [部](https://jisho.org/search/%E9%83%A8%20%23kanji)[下](https://jisho.org/search/%E4%B8%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=部下) | `ぶか` | Подчинённый |
 | [嫌](https://jisho.org/search/%E5%AB%8C%20%23kanji)われ[者](https://jisho.org/search/%E8%80%85%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=嫌われ者) | `きらわれもの` | Ненавистный человек |
+| [芸](https://jisho.org/search/%E8%8A%B8%20%23kanji)[能](https://jisho.org/search/%E8%83%BD%20%23kanji)[人](https://jisho.org/search/%E4%BA%BA%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=芸能人) | `げいのうじん` | Персонаж из телевизора |
 #### Body parts (19)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -852,7 +855,7 @@
 | [方](https://jisho.org/search/%E6%96%B9%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)[音](https://jisho.org/search/%E9%9F%B3%20%23kanji)[痴](https://jisho.org/search/%E7%97%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=方向音痴) | `ほうこうおんち` | Плох в распознавании направления |
 | [機](https://jisho.org/search/%E6%A9%9F%20%23kanji)[械](https://jisho.org/search/%E6%A2%B0%20%23kanji)[音](https://jisho.org/search/%E9%9F%B3%20%23kanji)[痴](https://jisho.org/search/%E7%97%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=機械音痴) | `きかいおんち` | Плох с механизмами |
 | [音](https://jisho.org/search/%E9%9F%B3%20%23kanji)[痴](https://jisho.org/search/%E7%97%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=音痴) | `おんち` | Глух, без слуха |
-#### Activities (9)
+#### Activities (10)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [素](https://jisho.org/search/%E7%B4%A0%20%23kanji)[潜](https://jisho.org/search/%E6%BD%9C%20%23kanji)り [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=素潜り) | `すもぐり` | Дайвинг без оборудования |
@@ -864,6 +867,7 @@
 | [運](https://jisho.org/search/%E9%81%8B%20%23kanji)[動](https://jisho.org/search/%E5%8B%95%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=運動) | `うんどう` | Упражнения, тренировка |
 | [筋](https://jisho.org/search/%E7%AD%8B%20%23kanji)トレ [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=筋トレ) | `きんトレ` | Тренировка мышц |
 | [演](https://jisho.org/search/%E6%BC%94%20%23kanji)[技](https://jisho.org/search/%E6%8A%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=演技) | `えんぎ` | Игра (актёрская) |
+| [二](https://jisho.org/search/%E4%BA%8C%20%23kanji)[日](https://jisho.org/search/%E6%97%A5%20%23kanji)[酔](https://jisho.org/search/%E9%85%94%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=二日酔い) | `ふつかよい` | Похмелье |
 #### Medicine (11)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

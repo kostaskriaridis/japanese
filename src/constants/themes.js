@@ -211,6 +211,8 @@ module.exports = [
             { kana: 'たいざいもくてき', translation: 'Цель пребывания' },
             { kana: 'かんこう', translation: 'Осмотр достопримечательностей', kanji: '観光' },
             { kana: 'よてい', translation: 'План', kanji: '予定' },
+            { kana: 'にってい', translation: 'Расписание', kanji: '日程' },
+            { kana: 'へんこう', translation: 'Изменение', kanji: '変更' },
             { kana: 'うそつき', translation: 'Лжец', kanji: '嘘つき' },
             { kana: 'りょうり', translation: 'Еда', kanji: '料理' },
             { kana: 'まくら', translation: 'Подушка', kanji: '枕' },
@@ -827,6 +829,7 @@ module.exports = [
             { kana: 'しゃいん', translation: 'Служащий компании', kanji: '社員' },
             { kana: 'ぶか', translation: 'Подчинённый', kanji: '部下' },
             { kana: 'きらわれもの', translation: 'Ненавистный человек', kanji: '嫌われ者' },
+            { kana: 'げいのうじん', translation: 'Персонаж из телевизора', kanji: '芸能人' },
         ]
     },
     {
@@ -912,6 +915,7 @@ module.exports = [
             { kana: 'うんどう', translation: 'Упражнения, тренировка', kanji: '運動' },
             { kana: 'きんトレ', translation: 'Тренировка мышц', kanji: '筋トレ' },
             { kana: 'えんぎ', translation: 'Игра (актёрская)', kanji: '演技' },
+            { kana: 'ふつかよい', translation: 'Похмелье', kanji: '二日酔い' },
         ]
     },
     {
