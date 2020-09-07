@@ -55,6 +55,7 @@ module.exports = [
             { kana: 'さきます', translation: 'Расцвести', kanji: '咲きます' },
             { kana: 'しょうたいします', translation: 'Пригласить', kanji: '招待します' },
             { kana: 'つかまえます', translation: 'Поймать', kanji: '捕まえます' },
+            { kana: 'つかまいます', translation: 'Быть пойманным', kanji: '捕まいます' },
             { kana: 'みつけます', translation: 'Найти', kanji: '見つけます' },
             { kana: 'おとします', translation: 'Уронить, падать', kanji: '落とします' },
             { kana: 'こたえます', translation: 'Отвечать', kanji: '答えます' },
@@ -512,6 +513,7 @@ module.exports = [
             { kana: 'しんせつ (な)', translation: 'Добрый', kanji: '親切 (な)' },
             { kana: 'しつれい (な)', translation: 'Грубый', kanji: '失礼 (な)' },
             { kana: 'ゆうめい (な)', translation: 'Известный', kanji: '有名 (な)' },
+            { kana: 'モテモテ (な)', translation: 'Известный, сексуальный' },
             { kana: 'むり (な)', translation: 'Невозможный', kanji: '無理 (な)' },
             { kana: 'しょうじき (な)', translation: 'Честный', kanji: '正直 (な)' },
             { kana: 'しんせん (な)', translation: 'Свежий', kanji: '新鮮 (な)' },
@@ -529,7 +531,8 @@ module.exports = [
             { kana: 'まえむき (な)', translation: 'Позитивный', kanji: '前向き (な)' },
             { kana: 'らく (な)', translation: 'Лёгкий', kanji: '楽 (な)' },
             { kana: 'めいわく (な)', translation: 'Проблемный, досадный', kanji: '迷惑 (な)' },
-            { kana: 'ひさん (な)', translation: 'Несчастный, катастрофический', kanji: '悲惨 (な)' }
+            { kana: 'ひさん (な)', translation: 'Несчастный, катастрофический', kanji: '悲惨 (な)' },
+            { kana: 'いほう (な)', translation: 'Нелегальный', kanji: '違法 (な)' },
         ]
     },
     {
@@ -606,6 +609,8 @@ module.exports = [
             { kana: 'とくに', translation: 'Особенно', kanji: '特に' },
             { kana: 'おしい', translation: 'Почти, прискорбно', kanji: '惜しい' },
             { kana: 'かってに', translation: 'Как нравится/Как хочется', kanji: '勝手に' },
+            { kana: 'ばっちり', translation: 'Отлично, должным образом' },
+            { kana: 'ぼちぼち', translation: 'Мало-помалу, потихоньку' },
         ]
     },
     {
@@ -830,6 +835,7 @@ module.exports = [
             { kana: 'ぶか', translation: 'Подчинённый', kanji: '部下' },
             { kana: 'きらわれもの', translation: 'Ненавистный человек', kanji: '嫌われ者' },
             { kana: 'げいのうじん', translation: 'Персонаж из телевизора', kanji: '芸能人' },
+            { kana: 'イケメン', translation: 'Симпатичный парень' },
         ]
     },
     {
@@ -916,6 +922,7 @@ module.exports = [
             { kana: 'きんトレ', translation: 'Тренировка мышц', kanji: '筋トレ' },
             { kana: 'えんぎ', translation: 'Игра (актёрская)', kanji: '演技' },
             { kana: 'ふつかよい', translation: 'Похмелье', kanji: '二日酔い' },
+            { kana: 'いんしゅうんてん', translation: 'Водить пьяным', kanji: '飲酒運転' },
         ]
     },
     {
