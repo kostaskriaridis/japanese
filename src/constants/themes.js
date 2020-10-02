@@ -161,6 +161,8 @@ module.exports = [
             { kana: 'ききます', translation: 'Быть эффективным', kanji: '効きます' },
             { kana: 'おこします', translation: 'Вызывать (проблему), разбудить кого-то', kanji: '起こします' },
             { kana: 'まかせます', translation: 'Поручить, оставить кому-то (задание)', kanji: '任せます' },
+            { kana: 'くどきます', translation: 'Запасть (на кого-то)', kanji: '口説きます' },
+            { kana: 'あやまります', translation: 'Извиняться', kanji: '謝ります' },
         ]
     },
     {
@@ -434,6 +436,13 @@ module.exports = [
             { kana: 'でばん', translation: 'Очередь (на выход)', kanji: '出番' },
             { kana: 'せいり', translation: 'Сортировка, организация', kanji: '整理' },
             { kana: 'ほうほう', translation: 'Метод, путь', kanji: '方法' },
+            { kana: 'ねっしん', translation: 'Энтузиазм, страсть', kanji: '熱心' },
+            { kana: 'のぞきまど', translation: 'Глазок', kanji: '覗き窓' },
+            { kana: 'のぞき', translation: 'Подглядывание', kanji: '覗き' },
+            { kana: 'もんく', translation: 'Жалоба, недовольство', kanji: '文句' },
+            { kana: 'しんろ', translation: 'Курс, путь', kanji: '進路' },
+            { kana: 'けってい', translation: 'Решение', kanji: '決定' },
+            { kana: 'しょうせつ', translation: 'Роман (книга)', kanji: '小説' },
         ]
     },
     {
@@ -611,6 +620,9 @@ module.exports = [
             { kana: 'かってに', translation: 'Как нравится/Как хочется', kanji: '勝手に' },
             { kana: 'ばっちり', translation: 'Отлично, должным образом' },
             { kana: 'ぼちぼち', translation: 'Мало-помалу, потихоньку' },
+            { kana: 'いっしょうけんめい', translation: 'Изо всех сил, с полной отдачей', kanji: '一生懸命' },
+            { kana: 'ぎゃくに', translation: 'С другой стороны', kanji: '逆に' },
+            { kana: 'ぎゃく', translation: 'Против', kanji: '逆' },
         ]
     },
     {
@@ -711,8 +723,8 @@ module.exports = [
         words: [
             { kana: 'ごぜん', translation: 'Время с 00:00 до 12:00 (a.m.)', kanji: '午前' },
             { kana: 'ごご', translation: 'Время с 12:00 до 24:00 (p.m.)', kanji: '午後' },
-            { kana: 'にじはん', translation: 'Половина третьего' },
-            { kana: 'じゆうじかん', translation: 'Свободные часы' },
+            { kana: 'にじはん', translation: 'Половина третьего', kanji: '二時間' },
+            { kana: 'じゆうじかん', translation: 'Свободные часы', kanji: '自由時間' },
             { kana: 'ほとんど毎日', translation: 'Практически каждый день', kanji: 'ほとんど毎日' },
             { kana: 'たまに', translation: 'Время от времени' },
             { kana: 'さっき', translation: 'Недавно' },
@@ -836,6 +848,8 @@ module.exports = [
             { kana: 'きらわれもの', translation: 'Ненавистный человек', kanji: '嫌われ者' },
             { kana: 'げいのうじん', translation: 'Персонаж из телевизора', kanji: '芸能人' },
             { kana: 'イケメン', translation: 'Симпатичный парень' },
+            { kana: 'ふさい', translation: 'Женатая пара', kanji: '夫妻' },
+            { kana: 'うらおもて', translation: 'Двуличие', kanji: '裏表' },
         ]
     },
     {
@@ -923,6 +937,7 @@ module.exports = [
             { kana: 'えんぎ', translation: 'Игра (актёрская)', kanji: '演技' },
             { kana: 'ふつかよい', translation: 'Похмелье', kanji: '二日酔い' },
             { kana: 'いんしゅうんてん', translation: 'Водить пьяным', kanji: '飲酒運転' },
+            { kana: 'くどきもんく', translation: 'Pickup lines', kanji: '口説き文句' },
         ]
     },
     {
@@ -964,6 +979,7 @@ module.exports = [
             { kana: 'かぶか', translation: 'Цена акций', kanji: '株価' },
             { kana: 'たからもの', translation: 'Драгоценная вещь', kanji: '宝物' },
             { kana: 'しょうしん', translation: 'Повышение, продвижение', kanji: '昇進' },
+            { kana: 'こうかく', translation: 'Понижение', kanji: '降格' },
             { kana: 'ケチ', translation: 'Скупой' },
             { kana: 'りょうきん', translation: 'Плата, взнос', kanji: '料金' },
             { kana: 'わりびき', translation: 'Скидка', kanji: '割引' }
