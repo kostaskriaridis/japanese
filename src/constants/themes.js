@@ -373,6 +373,7 @@ module.exports = [
             { kana: 'じしん', translation: 'Уверенность в себе', kanji: '自信' },
             { kana: 'まんげつ', translation: 'Полнолуние', kanji: '満月' },
             { kana: 'まんぞく', translation: 'Удовлетворенный', kanji: '満足' },
+            { kana: 'ふまん', translation: 'Неудовлетворенный', kanji: '不満' },
             { kana: 'したみ', translation: 'Предварительный просмотр', kanji: '下見' },
             { kana: 'りかい', translation: 'Понимание', kanji: '理解' },
             { kana: 'ぎじゅつ', translation: 'Умение, мастерство', kanji: '技術' },
@@ -981,8 +982,12 @@ module.exports = [
             { kana: 'しょうしん', translation: 'Повышение, продвижение', kanji: '昇進' },
             { kana: 'こうかく', translation: 'Понижение', kanji: '降格' },
             { kana: 'ケチ', translation: 'Скупой' },
+            { kana: 'わりびき', translation: 'Скидка', kanji: '割引' },
             { kana: 'りょうきん', translation: 'Плата, взнос', kanji: '料金' },
-            { kana: 'わりびき', translation: 'Скидка', kanji: '割引' }
+            { kana: 'きほん', translation: 'База, стандарт', kanji: '基本' },
+            { kana: 'きほんりょうきん', translation: 'Базовая плата', kanji: '基本料金' },
+            { kana: 'かいやく', translation: 'Отменить контракт', kanji: '解約' },
+            { kana: 'けいやく', translation: 'Подписать контракт', kanji: '契約' },
         ]
     },
     {

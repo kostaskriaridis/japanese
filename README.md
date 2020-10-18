@@ -1,4 +1,4 @@
-# Table of japanese words to learn: 888
+# Table of japanese words to learn: 893
 #### Verbs (161)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -190,7 +190,7 @@
 | [飲](https://jisho.org/search/%E9%A3%B2%20%23kanji)み[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飲み込む) | `のみこむ ` | Проглотить |
 | [溶](https://jisho.org/search/%E6%BA%B6%20%23kanji)け[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=溶け込む) | `とけこむ` | Таять в |
 | [飛](https://jisho.org/search/%E9%A3%9B%20%23kanji)び[込](https://jisho.org/search/%E8%BE%BC%20%23kanji)む [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=飛び込む) | `とびこむ` | Запрыгнуть в |
-#### Nouns (242)
+#### Nouns (243)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [免](https://jisho.org/search/%E5%85%8D%20%23kanji)[許](https://jisho.org/search/%E8%A8%B1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=免許) | `めんきょ` | Лицензия, уроки |
@@ -365,6 +365,7 @@
 | [自](https://jisho.org/search/%E8%87%AA%20%23kanji)[信](https://jisho.org/search/%E4%BF%A1%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=自信) | `じしん` | Уверенность в себе |
 | [満](https://jisho.org/search/%E6%BA%80%20%23kanji)[月](https://jisho.org/search/%E6%9C%88%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=満月) | `まんげつ` | Полнолуние |
 | [満](https://jisho.org/search/%E6%BA%80%20%23kanji)[足](https://jisho.org/search/%E8%B6%B3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=満足) | `まんぞく` | Удовлетворенный |
+| [不](https://jisho.org/search/%E4%B8%8D%20%23kanji)[満](https://jisho.org/search/%E6%BA%80%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=不満) | `ふまん` | Неудовлетворенный |
 | [下](https://jisho.org/search/%E4%B8%8B%20%23kanji)[見](https://jisho.org/search/%E8%A6%8B%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=下見) | `したみ` | Предварительный просмотр |
 | [理](https://jisho.org/search/%E7%90%86%20%23kanji)[解](https://jisho.org/search/%E8%A7%A3%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=理解) | `りかい` | Понимание |
 | [技](https://jisho.org/search/%E6%8A%80%20%23kanji)[術](https://jisho.org/search/%E8%A1%93%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=技術) | `ぎじゅつ` | Умение, мастерство |
@@ -904,7 +905,7 @@
 | [救](https://jisho.org/search/%E6%95%91%20%23kanji)[急](https://jisho.org/search/%E6%80%A5%20%23kanji)[車](https://jisho.org/search/%E8%BB%8A%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=救急車) | `きゅうきゅうしゃ` | Скорая медицинская помощь |
 | [救](https://jisho.org/search/%E6%95%91%20%23kanji)[急](https://jisho.org/search/%E6%80%A5%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=救急) | `きゅうきゅう` | Медицинская помощь |
 | [全](https://jisho.org/search/%E5%85%A8%20%23kanji)[治](https://jisho.org/search/%E6%B2%BB%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=全治) | `ぜんち` | Полное восстановление, исцеление |
-#### Money (24)
+#### Money (28)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [税](https://jisho.org/search/%E7%A8%8E%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=税) | `ぜい` | Налог |
@@ -929,8 +930,12 @@
 | [昇](https://jisho.org/search/%E6%98%87%20%23kanji)[進](https://jisho.org/search/%E9%80%B2%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=昇進) | `しょうしん` | Повышение, продвижение |
 | [降](https://jisho.org/search/%E9%99%8D%20%23kanji)[格](https://jisho.org/search/%E6%A0%BC%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=降格) | `こうかく` | Понижение |
 | — | `ケチ` | Скупой |
-| [料](https://jisho.org/search/%E6%96%99%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料金) | `りょうきん` | Плата, взнос |
 | [割](https://jisho.org/search/%E5%89%B2%20%23kanji)[引](https://jisho.org/search/%E5%BC%95%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=割引) | `わりびき` | Скидка |
+| [料](https://jisho.org/search/%E6%96%99%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=料金) | `りょうきん` | Плата, взнос |
+| [基](https://jisho.org/search/%E5%9F%BA%20%23kanji)[本](https://jisho.org/search/%E6%9C%AC%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=基本) | `きほん` | База, стандарт |
+| [基](https://jisho.org/search/%E5%9F%BA%20%23kanji)[本](https://jisho.org/search/%E6%9C%AC%20%23kanji)[料](https://jisho.org/search/%E6%96%99%20%23kanji)[金](https://jisho.org/search/%E9%87%91%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=基本料金) | `きほんりょうきん` | Базовая плата |
+| [解](https://jisho.org/search/%E8%A7%A3%20%23kanji)[約](https://jisho.org/search/%E7%B4%84%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=解約) | `かいやく` | Отменить контракт |
+| [契](https://jisho.org/search/%E5%A5%91%20%23kanji)[約](https://jisho.org/search/%E7%B4%84%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=契約) | `けいやく` | Подписать контракт |
 #### Food (31)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
