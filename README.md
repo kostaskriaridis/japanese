@@ -1,5 +1,5 @@
-# Table of japanese words to learn: 893
-#### Verbs (161)
+# Table of japanese words to learn: 897
+#### Verbs (163)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [使](https://jisho.org/search/%E4%BD%BF%20%23kanji)います [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=使います) | `つかいます` | Использовать |
@@ -163,6 +163,8 @@
 | [任](https://jisho.org/search/%E4%BB%BB%20%23kanji)せます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=任せます) | `まかせます` | Поручить, оставить кому-то (задание) |
 | [口](https://jisho.org/search/%E5%8F%A3%20%23kanji)[説](https://jisho.org/search/%E8%AA%AC%20%23kanji)きます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=口説きます) | `くどきます` | Запасть (на кого-то) |
 | [謝](https://jisho.org/search/%E8%AC%9D%20%23kanji)ります [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=謝ります) | `あやまります` | Извиняться |
+| [現](https://jisho.org/search/%E7%8F%BE%20%23kanji)れます [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=現れます) | `あらわれます` | Появиться |
+| [変](https://jisho.org/search/%E5%A4%89%20%23kanji)わっています [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=変わっています) | `かわっています` | Быть странным |
 #### Verbs 出す (8)
 ##### Окончание 出す означает начать делать что-то
 | Kanji | Kana | Translation |
@@ -489,7 +491,7 @@
 | [照](https://jisho.org/search/%E7%85%A7%20%23kanji)れ[臭](https://jisho.org/search/%E8%87%AD%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=照れ臭い) | `てれくさい` | Неловкий |
 | [面](https://jisho.org/search/%E9%9D%A2%20%23kanji)[倒](https://jisho.org/search/%E5%80%92%20%23kanji)くさい [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=面倒くさい) | `めんどうくさい` | Надоедливый, утомительный |
 | [堅](https://jisho.org/search/%E5%A0%85%20%23kanji)い [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=堅い) | `かたい` | Жёсткий, твёрдый |
-#### Adjectives (な) (39)
+#### Adjectives (な) (40)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | [綺](https://jisho.org/search/%E7%B6%BA%20%23kanji)[麗](https://jisho.org/search/%E9%BA%97%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=綺麗 (な)) | `きれい (な)` | Красивый |
@@ -531,6 +533,7 @@
 | [迷](https://jisho.org/search/%E8%BF%B7%20%23kanji)[惑](https://jisho.org/search/%E6%83%91%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=迷惑 (な)) | `めいわく (な)` | Проблемный, досадный |
 | [悲](https://jisho.org/search/%E6%82%B2%20%23kanji)[惨](https://jisho.org/search/%E6%83%A8%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=悲惨 (な)) | `ひさん (な)` | Несчастный, катастрофический |
 | [違](https://jisho.org/search/%E9%81%95%20%23kanji)[法](https://jisho.org/search/%E6%B3%95%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=違法 (な)) | `いほう (な)` | Нелегальный |
+| [乱](https://jisho.org/search/%E4%B9%B1%20%23kanji)[暴](https://jisho.org/search/%E6%9A%B4%20%23kanji) (な) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=乱暴 (な)) | `らんぼう (な)` | Грубый |
 #### Adverbs (76)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
@@ -840,7 +843,7 @@
 | — | `それから` | И, и также |
 | — | `そして` | И, и потом |
 | — | `さらに` | Ещё раз, более того |
-#### Phrases (33)
+#### Phrases (34)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |
 | — | `おじゃまします` | Жаль беспокоить вас (когда входишь или покидаешь чужой дом) |
@@ -876,6 +879,7 @@
 | [方](https://jisho.org/search/%E6%96%B9%20%23kanji)[向](https://jisho.org/search/%E5%90%91%20%23kanji)[音](https://jisho.org/search/%E9%9F%B3%20%23kanji)[痴](https://jisho.org/search/%E7%97%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=方向音痴) | `ほうこうおんち` | Плох в распознавании направления |
 | [機](https://jisho.org/search/%E6%A9%9F%20%23kanji)[械](https://jisho.org/search/%E6%A2%B0%20%23kanji)[音](https://jisho.org/search/%E9%9F%B3%20%23kanji)[痴](https://jisho.org/search/%E7%97%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=機械音痴) | `きかいおんち` | Плох с механизмами |
 | [音](https://jisho.org/search/%E9%9F%B3%20%23kanji)[痴](https://jisho.org/search/%E7%97%B4%20%23kanji) [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=音痴) | `おんち` | Глух, без слуха |
+| [喜](https://jisho.org/search/%E5%96%9C%20%23kanji)んで [→](https://jlearn.net/Dictionary/Search?by=jpn&type=s&term=喜んで) | `よろこんで` | С удовольствием |
 #### Activities (12)
 | Kanji | Kana | Translation |
 | ------ | ------ | ------ |

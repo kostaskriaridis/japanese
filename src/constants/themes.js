@@ -163,6 +163,8 @@ module.exports = [
             { kana: 'まかせます', translation: 'Поручить, оставить кому-то (задание)', kanji: '任せます' },
             { kana: 'くどきます', translation: 'Запасть (на кого-то)', kanji: '口説きます' },
             { kana: 'あやまります', translation: 'Извиняться', kanji: '謝ります' },
+            { kana: 'あらわれます', translation: 'Появиться', kanji: '現れます' },
+            { kana: 'かわっています', translation: 'Быть странным', kanji: '変わっています' }
         ]
     },
     {
@@ -543,6 +545,7 @@ module.exports = [
             { kana: 'めいわく (な)', translation: 'Проблемный, досадный', kanji: '迷惑 (な)' },
             { kana: 'ひさん (な)', translation: 'Несчастный, катастрофический', kanji: '悲惨 (な)' },
             { kana: 'いほう (な)', translation: 'Нелегальный', kanji: '違法 (な)' },
+            { kana: 'らんぼう (な)', translation: 'Грубый', kanji: '乱暴 (な)' },
         ]
     },
     {
@@ -922,6 +925,7 @@ module.exports = [
             { kana: 'ほうこうおんち', translation: 'Плох в распознавании направления', kanji: '方向音痴' },
             { kana: 'きかいおんち', translation: 'Плох с механизмами', kanji: '機械音痴' },
             { kana: 'おんち', translation: 'Глух, без слуха', kanji: '音痴' },
+            { kana: 'よろこんで', translation: 'С удовольствием', kanji: '喜んで' }
         ]
     },
     {
